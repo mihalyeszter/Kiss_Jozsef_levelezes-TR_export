@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-09-21T14:08:12.022+02:00</Created>
+        <LastChange>2020-12-02T11:46:43.763+01:00</LastChange>
+        <TranskribusMetadata docId="484891" pageId="19998639" pageNr="1" tsid="49829846" status="IN_PROGRESS" userId="58915" imgUrl="https://files.transkribus.eu/Get?id=ECRNERJAJEMUNORRRPMHSCVP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TPFIPTVBWLLQNOTKYRTTYCDB" imageId="15414090"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5936#2_a.tif" imageWidth="4240" imageHeight="5326">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424583422" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1603884474243_882"/>
+                <RegionRefIndexed index="1" regionRef="region_1603884482434_885"/>
+                <RegionRefIndexed index="2" regionRef="region_1603884707903_890"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="region_1603884474243_882" custom="readingOrder {index:0;}">
+            <Coords points="1211,1160 2696,1160 2696,1447 1211,1447"/>
+            <TextLine id="region_1603884474243_882l1" custom="readingOrder {index:0;}">
+                <Coords points="1304,1418 2622,1404 2652,1178 1334,1192"/>
+                <Baseline points="1304,1368 1369,1368 1435,1366 1501,1366 1567,1366 1633,1366 1699,1368 1765,1368 1831,1370 1897,1370 1963,1370 2028,1370 2094,1372 2160,1372 2226,1370 2292,1370 2358,1368 2424,1365 2490,1362 2556,1358 2622,1354"/>
+                <TextEquiv>
+                    <Unicode>Igen tisztelt Őrnagy úr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Igen tisztelt Őrnagy úr</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1603884482434_885" custom="readingOrder {index:1;}">
+            <Coords points="593,1519 4030,1519 4030,2303 593,2303"/>
+            <TextLine id="region_1603884482434_885l1" custom="readingOrder {index:0;}">
+                <Coords points="832,1721 3948,1781 3938,1581 822,1555"/>
+                <Baseline points="832,1686 987,1690 1143,1692 1299,1694 1455,1696 1611,1698 1766,1700 1922,1700 2078,1702 2234,1704 2390,1706 2545,1707 2701,1710 2857,1712 3013,1715 3169,1718 3324,1722 3480,1728 3636,1732 3792,1738 3948,1746"/>
+                <TextEquiv>
+                    <Unicode>Megtisztelő bizalmas soraira sietek hasonló nyíltsággal</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1603884482434_885l2" custom="readingOrder {index:1;} textStyle {offset:42; length:1;strikethrough:true; fontSize:0.0; kerning:0;} add {offset:43; length:1;}">
+                <Coords points="678,1887 3840,1929 3850,1781 688,1739"/>
+                <Baseline points="678,1852 836,1850 994,1850 1152,1848 1310,1848 1468,1846 1626,1846 1784,1848 1942,1848 2100,1850 2259,1851 2417,1854 2575,1856 2733,1858 2891,1862 3049,1866 3207,1870 3365,1876 3523,1882 3681,1888 3840,1894"/>
+                <TextEquiv>
+                    <Unicode>válaszolni. Előre bocsátom, hogy az irántuknk kifejezett</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1603884482434_885l3" custom="readingOrder {index:2;}">
+                <Coords points="686,2033 3890,2071 3893,1932 689,1894"/>
+                <Baseline points="686,1998 846,1998 1006,1998 1166,1998 1326,2000 1487,2000 1647,2000 1807,2002 1967,2002 2127,2004 2288,2006 2448,2008 2608,2010 2768,2012 2928,2014 3089,2018 3249,2020 3409,2024 3569,2028 3729,2032 3890,2036"/>
+                <TextEquiv>
+                    <Unicode>rokonszenvét mi is teljes mértékben viszonozzuk és én</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1603884482434_885l4" custom="readingOrder {index:3;} textStyle {offset:46; length:1;strikethrough:true; fontSize:0.0; kerning:0;} add {offset:47; length:1;}">
+                <Coords points="676,2185 3998,2209 4007,2063 685,2039"/>
+                <Baseline points="676,2152 842,2150 1008,2146 1174,2146 1340,2144 1506,2144 1672,2144 1838,2144 2004,2144 2170,2146 2337,2148 2503,2150 2669,2152 2835,2154 3001,2158 3167,2160 3333,2164 3499,2166 3665,2170 3831,2174 3998,2176"/>
+                <TextEquiv>
+                    <Unicode>őszintén óhajtanám, hogy a szépen indult ismertetségünk¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1603884482434_885l5" custom="readingOrder {index:4;}">
+                <Coords points="692,2323 2590,2317 2593,2187 695,2193"/>
+                <Baseline points="692,2290 786,2288 881,2284 976,2282 1071,2282 1166,2280 1261,2280 1356,2278 1451,2278 1546,2278 1641,2278 1735,2280 1830,2280 1925,2280 2020,2282 2115,2282 2210,2282 2305,2284 2400,2284 2495,2284 2590,2284"/>
+                <TextEquiv>
+                    <Unicode>nek tartósabb fejleménye legyen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Megtisztelő bizalmas soraira sietek hasonló nyíltsággal&#xD;
+válaszolni. Előre bocsátom, hogy az irántuknk kifejezett&#xD;
+rokonszenvét mi is teljes mértékben viszonozzuk és én&#xD;
+őszintén óhajtanám, hogy a szépen indult ismertetségünk¬&#xD;
+nek tartósabb fejleménye legyen.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1603884707903_890" custom="readingOrder {index:2;}">
+            <Coords points="633,2307 4051,2307 4051,4964 633,4964"/>
+            <TextLine id="region_1603884707903_890l1" custom="readingOrder {index:0;}">
+                <Coords points="820,2451 3914,2461 3917,2329 823,2319"/>
+                <Baseline points="820,2418 974,2418 1129,2418 1284,2418 1438,2418 1593,2418 1748,2418 1902,2418 2057,2418 2212,2418 2367,2418 2521,2418 2676,2419 2831,2420 2985,2420 3140,2420 3295,2422 3449,2422 3604,2424 3759,2426 3914,2428"/>
+                <TextEquiv>
+                    <Unicode>A mi a 30,000 korona kaucziót illeti, az nehézségeket</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1603884707903_890l2" custom="readingOrder {index:1;}">
+                <Coords points="722,2595 3834,2579 3837,2441 725,2457"/>
+                <Baseline points="722,2562 877,2557 1033,2554 1188,2552 1344,2549 1500,2548 1655,2546 1811,2546 1966,2546 2122,2546 2278,2546 2433,2546 2589,2546 2744,2547 2900,2548 3056,2548 3211,2548 3367,2548 3522,2548 3678,2548 3834,2546"/>
+                <TextEquiv>
+                    <Unicode>nem okozna, mert az letétbe van helyezve és bármikor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1603884707903_890l3" custom="readingOrder {index:2;}">
+                <Coords points="734,2735 3794,2705 3794,2587 734,2617"/>
+                <Baseline points="734,2702 887,2698 1040,2696 1193,2692 1346,2690 1499,2688 1652,2686 1805,2684 1958,2682 2111,2682 2264,2680 2417,2680 2570,2680 2723,2678 2876,2678 3029,2678 3182,2676 3335,2676 3488,2676 3641,2674 3794,2672"/>
+                <TextEquiv>
+                    <Unicode>folyósítható. Azonban ennek a kamatja és az Ön</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1603884707903_890l4" custom="readingOrder {index:3;}">
+                <Coords points="724,2873 3962,2829 3965,2691 727,2735"/>
+                <Baseline points="724,2844 885,2840 1047,2838 1209,2836 1371,2834 1533,2832 1695,2830 1857,2828 2019,2826 2181,2825 2343,2824 2504,2822 2666,2820 2828,2818 2990,2816 3152,2814 3314,2812 3476,2810 3638,2807 3800,2804 3962,2800"/>
+                <TextEquiv>
+                    <Unicode>ez idő szerinti szabad járandósága család alapításra nem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1603884707903_890l5" custom="readingOrder {index:4;} textStyle {offset:10; length:42;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="720,3003 3802,2951 3790,2828 708,2880"/>
+                <Baseline points="720,2974 874,2972 1028,2970 1182,2970 1336,2968 1490,2968 1644,2966 1798,2966 1952,2965 2106,2964 2261,2962 2415,2962 2569,2960 2723,2957 2877,2954 3031,2950 3185,2946 3339,2942 3493,2936 3647,2929 3802,2922"/>
+                <TextEquiv>
+                    <Unicode>elegendő. Apanagera pedig nézetem szerint – tekintve</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1603884707903_890l6" custom="readingOrder {index:5;} textStyle {offset:0; length:50;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="720,3156 3868,3110 3880,2961 732,3007"/>
+                <Baseline points="720,3124 877,3119 1034,3114 1192,3110 1349,3107 1507,3104 1664,3100 1821,3098 1979,3096 2136,3094 2294,3092 2451,3090 2608,3088 2766,3086 2923,3085 3081,3084 3238,3082 3395,3082 3553,3080 3710,3078 3868,3078"/>
+                <TextEquiv>
+                    <Unicode>a soha előre nem látható esélyeket – házasodni nem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1603884707903_890l7" custom="readingOrder {index:6;} textStyle {offset:0; length:48;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="718,3288 3772,3230 3775,3100 721,3158"/>
+                <Baseline points="718,3256 870,3254 1023,3253 1176,3250 1328,3248 1481,3246 1634,3243 1786,3240 1939,3237 2092,3234 2245,3230 2397,3228 2550,3224 2703,3220 2855,3216 3008,3214 3161,3210 3313,3206 3466,3204 3619,3202 3772,3198"/>
+                <TextEquiv>
+                    <Unicode>lehet, nem is moralis. A férfi tudja eltartani a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1603884707903_890l8" custom="readingOrder {index:7;} textStyle {offset:0; length:33;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="748,3435 3822,3373 3822,3230 748,3292"/>
+                <Baseline points="748,3402 901,3392 1055,3386 1209,3379 1362,3374 1516,3370 1670,3366 1823,3363 1977,3360 2131,3358 2285,3358 2438,3356 2592,3354 2746,3354 2899,3352 3053,3352 3207,3350 3360,3348 3514,3346 3668,3344 3822,3340"/>
+                <TextEquiv>
+                    <Unicode>feleségét minden támogatás nélkül. Ha Ön bizalmát</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1603884707903_890l9" custom="readingOrder {index:8;}">
+                <Coords points="768,3565 3746,3511 3746,3375 768,3429"/>
+                <Baseline points="768,3532 916,3528 1065,3524 1214,3520 1363,3516 1512,3513 1661,3510 1810,3506 1959,3504 2108,3502 2257,3498 2405,3496 2554,3494 2703,3492 2852,3490 3001,3488 3150,3486 3299,3484 3448,3482 3597,3480 3746,3478"/>
+                <TextEquiv>
+                    <Unicode>teljes nyíltsággal tudná tetézni, úgy hogy nekem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1603884707903_890l10" custom="readingOrder {index:9;}">
+                <Coords points="748,3701 3894,3643 3900,3500 754,3558"/>
+                <Baseline points="748,3668 905,3664 1062,3660 1219,3658 1377,3654 1534,3650 1691,3648 1849,3644 2006,3642 2163,3639 2321,3636 2478,3634 2635,3630 2792,3628 2950,3626 3107,3623 3264,3620 3422,3618 3579,3616 3736,3614 3894,3610"/>
+                <TextEquiv>
+                    <Unicode>világos betekintést tudna nyújtani anyagi viszonya¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1603884707903_890l11" custom="readingOrder {index:10;}">
+                <Coords points="742,3844 3756,3770 3756,3631 742,3705"/>
+                <Baseline points="742,3812 892,3806 1043,3800 1194,3794 1344,3790 1495,3786 1646,3782 1796,3779 1947,3776 2098,3773 2249,3770 2399,3768 2550,3765 2701,3762 2851,3760 3002,3756 3153,3754 3303,3750 3454,3746 3605,3742 3756,3738"/>
+                <TextEquiv>
+                    <Unicode>iba, hogy adósságai természetét ismerném, talán</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1603884707903_890l12" custom="readingOrder {index:11;}">
+                <Coords points="754,3972 3930,3912 3930,3775 754,3835"/>
+                <Baseline points="754,3940 912,3936 1071,3931 1230,3927 1389,3924 1548,3920 1706,3917 1865,3914 2024,3911 2183,3908 2342,3906 2500,3904 2659,3902 2818,3900 2977,3898 3136,3894 3294,3892 3453,3890 3612,3886 3771,3884 3930,3880"/>
+                <TextEquiv>
+                    <Unicode>módot lehetne teremteni arra, hogy őrnagyi fizetését</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1603884707903_890l13" custom="readingOrder {index:12;}">
+                <Coords points="774,4115 3818,4057 3815,3919 771,3977"/>
+                <Baseline points="774,4082 926,4078 1078,4074 1230,4070 1382,4066 1535,4064 1687,4062 1839,4060 1991,4058 2143,4056 2296,4054 2448,4052 2600,4050 2752,4048 2904,4046 3057,4044 3209,4040 3361,4038 3513,4034 3665,4028 3818,4024"/>
+                <TextEquiv>
+                    <Unicode>csonkítatlanúl kezeihez kapná. Ez adósságok termé¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1603884707903_890l14" custom="readingOrder {index:13;}">
+                <Coords points="774,4259 3848,4213 3845,4081 771,4127"/>
+                <Baseline points="774,4226 927,4224 1081,4222 1235,4218 1388,4216 1542,4213 1696,4210 1849,4208 2003,4204 2157,4202 2311,4200 2464,4197 2618,4194 2772,4192 2925,4190 3079,4188 3233,4186 3386,4184 3540,4182 3694,4182 3848,4180"/>
+                <TextEquiv>
+                    <Unicode>szetétől függ, hogy lehet-e azokat convertálni vagy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1603884707903_890l15" custom="readingOrder {index:14;}">
+                <Coords points="774,4413 3880,4359 3883,4226 777,4280"/>
+                <Baseline points="774,4380 929,4376 1084,4372 1239,4368 1395,4364 1550,4360 1705,4356 1861,4352 2016,4348 2171,4344 2327,4340 2482,4337 2637,4334 2792,4332 2948,4329 3103,4328 3258,4326 3414,4326 3569,4326 3724,4326 3880,4326"/>
+                <TextEquiv>
+                    <Unicode>sem és ezek összegétől, hogy a conversio egyáltalában</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1603884707903_890l16" custom="readingOrder {index:15;} sic {offset:6; length:7;}">
+                <Coords points="798,4553 3854,4503 3860,4353 804,4403"/>
+                <Baseline points="798,4520 950,4516 1103,4512 1256,4508 1409,4504 1562,4502 1714,4498 1867,4496 2020,4492 2173,4489 2326,4486 2478,4484 2631,4482 2784,4479 2937,4478 3090,4476 3242,4474 3395,4472 3548,4472 3701,4472 3854,4470"/>
+                <TextEquiv>
+                    <Unicode>szóba hózható-e? Szeretem a tiszta helyzetet. Szeret¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1603884707903_890l17" custom="readingOrder {index:16;}">
+                <Coords points="802,4685 3810,4643 3810,4514 802,4556"/>
+                <Baseline points="802,4652 952,4650 1102,4650 1253,4648 1403,4646 1554,4646 1704,4644 1854,4642 2005,4640 2155,4638 2306,4636 2456,4632 2606,4630 2757,4628 2907,4626 3058,4624 3208,4621 3358,4618 3509,4616 3659,4614 3810,4610"/>
+                <TextEquiv>
+                    <Unicode>ném tudni, hogy azon esetben, ha gageija teljesen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1603884707903_890l18" custom="readingOrder {index:17;}">
+                <Coords points="790,4833 3799,4775 3796,4649 787,4707"/>
+                <Baseline points="790,4800 938,4798 1086,4794 1234,4792 1382,4790 1531,4788 1679,4786 1827,4784 1975,4782 2123,4780 2272,4778 2420,4776 2568,4774 2716,4772 2864,4768 3013,4765 3161,4761 3309,4757 3457,4752 3605,4748 3773,4743"/>
+                <TextEquiv>
+                    <Unicode>felszabadúl, a kauczió kamataival együtt elegendő</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>A mi a 30,000 korona kaucziót illeti, az nehézségeket&#xD;
+nem okozna, mert az letétbe van helyezve és bármikor&#xD;
+folyósítható. Azonban ennek a kamatja és az Ön&#xD;
+ez idő szerinti szabad járandósága család alapításra nem&#xD;
+elegendő. Apanagera pedig nézetem szerint – tekintve&#xD;
+a soha előre nem látható esélyeket – házasodni nem&#xD;
+lehet, nem is moralis. A férfi tudja eltartani a&#xD;
+feleségét minden támogatás nélkül. Ha Ön bizalmát&#xD;
+teljes nyíltsággal tudná tetézni, úgy hogy nekem&#xD;
+világos betekintést tudna nyújtani anyagi viszonya¬&#xD;
+iba, hogy adósságai természetét ismerném, talán&#xD;
+módot lehetne teremteni arra, hogy őrnagyi fizetését&#xD;
+csonkítatlanúl kezeihez kapná. Ez adósságok termé¬&#xD;
+szetétől függ, hogy lehet-e azokat convertálni vagy&#xD;
+sem és ezek összegétől, hogy a conversio egyáltalában&#xD;
+szóba hózható-e? Szeretem a tiszta helyzetet. Szeret¬&#xD;
+ném tudni, hogy azon esetben, ha gageija teljesen&#xD;
+felszabadúl, a kauczió kamataival együtt elegendő</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

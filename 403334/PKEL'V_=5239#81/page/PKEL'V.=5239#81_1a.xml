@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-06-05T11:05:09.705+02:00</Created>
+        <LastChange>2020-08-01T14:53:32.041+02:00</LastChange>
+        <TranskribusMetadata docId="403334" pageId="15583883" pageNr="1" tsid="35880947" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=KWCKQJMVWGZSNKXVXVUCXZXB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XYQFGHSNHJFUDVATADTJIGVG" imageId="11408525"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#81_1a.tif" imageWidth="3446" imageHeight="1817">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424335663" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1595173347003_3"/>
+                <RegionRefIndexed index="1" regionRef="region_1595173358668_6"/>
+                <RegionRefIndexed index="2" regionRef="region_1595173365388_9"/>
+                <RegionRefIndexed index="3" regionRef="region_1595173369792_12"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1595173347003_3" custom="readingOrder {index:0;}">
+            <Coords points="980,419 197,419 197,216 980,216"/>
+            <TextLine id="line_1595173381184_15" custom="readingOrder {index:0;}">
+                <Coords points="221,252 927,238 925,383 219,397"/>
+                <Baseline points="219,383 925,369"/>
+                <TextEquiv>
+                    <Unicode>Monsieur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Monsieur</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1595173358668_6" custom="readingOrder {index:1;}">
+            <Coords points="794,703 2424,703 2424,1134 794,1134"/>
+            <TextLine id="line_1595173387031_20" custom="readingOrder {index:0;}">
+                <Coords points="824,777 1753,719 1750,907 821,965"/>
+                <Baseline points="821,945 1750,887"/>
+                <TextEquiv>
+                    <Unicode>Joseph Kiss</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1595173393635_25" custom="readingOrder {index:1;}">
+                <Coords points="1723,905 2427,916 2413,1145 1709,1134"/>
+                <Baseline points="1706,1013 2410,1024"/>
+                <TextEquiv>
+                    <Unicode>de Budapest</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Joseph Kiss&#xD;
+de Budapest</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1595173365388_9" custom="readingOrder {index:2;}">
+            <Coords points="2169,1205 3202,1205 3202,1509 2169,1509"/>
+            <TextLine id="line_1595173399980_30" custom="readingOrder {index:0;} textStyle {offset:0; length:8;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="2220,1244 3192,1235 3196,1498 2216,1503"/>
+                <Baseline points="2221,1479 3193,1470"/>
+                <TextEquiv>
+                    <Unicode>San-Remo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>San-Remo</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1595173369792_12" custom="readingOrder {index:3;}">
+            <Coords points="3202,1509 2111,1509 2111,1687 3202,1687"/>
+            <TextLine id="line_1595173406814_35" custom="readingOrder {index:0;}">
+                <Coords points="2125,1509 3100,1517 3103,1654 2114,1649"/>
+                <Baseline points="2117,1613 3103,1649"/>
+                <TextEquiv>
+                    <Unicode>Hotel Eden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Hotel Eden</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

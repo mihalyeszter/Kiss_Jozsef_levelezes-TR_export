@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>PKEL'V.=4556#6</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: eszter.mihaly@gmail.com</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile xml:id='facs_1'>
+		<surface ulx='0' uly='0' lrx='3292' lry='2239'>
+			<graphic url='PKEL'V.=4556#6_a.tif' width='3292px' height='2239px'/>
+			<zone ulx='141' uly='130' lrx='657' lry='322' rendition='TextRegion' xml:id='facs_1_region_1603712876315_49'>
+				<zone ulx='182' uly='169' lrx='623' lry='326' rendition='Line' xml:id='facs_1_region_1603712876315_49l1'/>
+			</zone>
+			<zone ulx='141' uly='284' lrx='996' lry='417' rendition='TextRegion' xml:id='facs_1_region_1603712879225_52'>
+				<zone ulx='182' uly='268' lrx='962' lry='419' rendition='Line' xml:id='facs_1_region_1603712879225_52l1'/>
+			</zone>
+			<zone ulx='141' uly='432' lrx='3081' lry='1129' rendition='TextRegion' xml:id='facs_1_region_1603712884066_55'>
+				<zone ulx='344' uly='446' lrx='3041' lry='705' rendition='Line' xml:id='facs_1_region_1603712884066_55l1'/>
+				<zone ulx='216' uly='564' lrx='2992' lry='810' rendition='Line' xml:id='facs_1_region_1603712884066_55l2'/>
+				<zone ulx='204' uly='665' lrx='3078' lry='926' rendition='Line' xml:id='facs_1_region_1603712884066_55l3'/>
+				<zone ulx='176' uly='773' lrx='3019' lry='1026' rendition='Line' xml:id='facs_1_region_1603712884066_55l4'/>
+				<zone ulx='183' uly='882' lrx='2653' lry='1113' rendition='Line' xml:id='facs_1_region_1603712884066_55l5'/>
+			</zone>
+			<zone ulx='1950' uly='1107' lrx='2629' lry='1276' rendition='TextRegion' xml:id='facs_1_region_1603712886171_58'>
+				<zone ulx='2024' uly='1106' lrx='2595' lry='1294' rendition='Line' xml:id='facs_1_region_1603712886171_58l1'/>
+			</zone>
+			<zone ulx='2033' uly='1283' lrx='2988' lry='1674' rendition='TextRegion' xml:id='facs_1_region_1603712889022_61'>
+				<zone ulx='2099' uly='1305' lrx='2970' lry='1542' rendition='Line' xml:id='facs_1_region_1603712889022_61l1'/>
+			</zone>
+			<zone ulx='385' uly='1175' lrx='827' lry='1409' rendition='TextRegion' xml:id='facs_1_region_1603712891567_64'>
+				<zone ulx='426' uly='1190' lrx='794' lry='1399' rendition='Line' xml:id='facs_1_region_1603712891567_64l1'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<pb facs='#facs_1' n='1'/>
+			<p facs='#facs_1_region_1603712876315_49'>
+				<lb facs='#facs_1_region_1603712876315_49l1' n='N001'/>A Hét
+			</p>
+			<p facs='#facs_1_region_1603712879225_52'>
+				<lb facs='#facs_1_region_1603712879225_52l1' n='N001'/>VIII. Rökk-Szilárd-utcza 18.
+			</p>
+			<p facs='#facs_1_region_1603712884066_55'>
+				<lb facs='#facs_1_region_1603712884066_55l1' n='N001'/>Kedves barátom, tudom, hogy Ön mennyire csüggött édes anyján
+				<lb facs='#facs_1_region_1603712884066_55l2' n='N002'/>és hogy milyen nagy tiszteletben tartja az édes apját. Az igazán
+				<lb facs='#facs_1_region_1603712884066_55l3' n='N003'/>és őszintén gyászóló fiút illeti igaz és becsületes kézszorításom. 
+				<lb facs='#facs_1_region_1603712884066_55l4' n='N004'/>Legyen tolmácsa édes atyjánál, öcscsénél és egész nekem annyira
+				<lb facs='#facs_1_region_1603712884066_55l5' n='N005'/>rokonszenves családjuknál az én meleg részvétemnek.
+			</p>
+			<p facs='#facs_1_region_1603712886171_58'>
+				<lb facs='#facs_1_region_1603712886171_58l1' n='N001'/>Tisztelő híve
+			</p>
+			<p facs='#facs_1_region_1603712889022_61'>
+				<lb facs='#facs_1_region_1603712889022_61l1' n='N001'/>Kiss József
+			</p>
+			<p facs='#facs_1_region_1603712891567_64'>
+				<lb facs='#facs_1_region_1603712891567_64l1' n='N001'/>febr 3.
+			</p>
+		</body>
+	</text>
+</TEI>

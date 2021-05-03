@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>PKEL'M.=100#5396#3</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: eszter.mihaly@gmail.com</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile xml:id='facs_1'>
+		<surface ulx='0' uly='0' lrx='5140' lry='7271'>
+			<graphic url='PKEL'M.=100#5396#3_a.tif' width='5140px' height='7271px'/>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<pb facs='#facs_1' n='1'/>
+		</body>
+	</text>
+</TEI>

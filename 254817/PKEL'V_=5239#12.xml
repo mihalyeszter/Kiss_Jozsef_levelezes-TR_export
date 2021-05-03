@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>PKEL'V.=5239#12</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: eszter.mihaly@gmail.com</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile xml:id='facs_1'>
+		<surface ulx='0' uly='0' lrx='2817' lry='1786'>
+			<graphic url='PKEL'V.=5239#12_a.tif' width='2817px' height='1786px'/>
+			<zone ulx='171' uly='168' lrx='2347' lry='475' rendition='TextRegion' xml:id='facs_1_region_1574163123345_39'>
+				<zone ulx='223' uly='145' lrx='2245' lry='485' rendition='Line' xml:id='facs_1_line_1574163168440_51'/>
+			</zone>
+			<zone ulx='144' uly='475' lrx='2710' lry='1166' rendition='TextRegion' xml:id='facs_1_region_1574163137426_42'>
+				<zone ulx='147' uly='445' lrx='2738' lry='812' rendition='Line' xml:id='facs_1_line_1574163173517_56'/>
+				<zone ulx='170' uly='692' lrx='2605' lry='966' rendition='Line' xml:id='facs_1_line_1574163178957_61'/>
+				<zone ulx='177' uly='880' lrx='2694' lry='1213' rendition='Line' xml:id='facs_1_line_1574163184285_66'/>
+			</zone>
+			<zone ulx='1139' uly='1122' lrx='2066' lry='1396' rendition='TextRegion' xml:id='facs_1_region_1574163147722_45'>
+				<zone ulx='1130' uly='1098' lrx='2089' lry='1407' rendition='Line' xml:id='facs_1_line_1574163188181_71'/>
+			</zone>
+			<zone ulx='1493' uly='1386' lrx='2117' lry='1703' rendition='TextRegion' xml:id='facs_1_region_1574163152890_48'>
+				<zone ulx='1475' uly='1361' lrx='2024' lry='1687' rendition='Line' xml:id='facs_1_line_1574163191677_76'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id='facs_2'>
+		<surface ulx='0' uly='0' lrx='2817' lry='1786'>
+			<graphic url='PKEL'V.=5239#12_b.tif' width='2817px' height='1786px'/>
+			<zone ulx='815' uly='510' lrx='2029' lry='831' rendition='TextRegion' xml:id='facs_2_region_1574168920714_121'>
+				<zone ulx='832' uly='508' lrx='1991' lry='838' rendition='Line' xml:id='facs_2_line_1574169002389_148'/>
+			</zone>
+			<zone ulx='606' uly='807' lrx='2271' lry='986' rendition='TextRegion' xml:id='facs_2_region_1574168946626_127'>
+				<zone ulx='669' uly='795' lrx='2213' lry='1010' rendition='Line' xml:id='facs_2_line_1574169006493_153'/>
+			</zone>
+			<zone ulx='877' uly='963' lrx='1916' lry='1158' rendition='TextRegion' xml:id='facs_2_region_1574168953914_130'>
+				<zone ulx='910' uly='947' lrx='1883' lry='1140' rendition='Line' xml:id='facs_2_line_1574169010118_158'/>
+			</zone>
+			<zone ulx='174' uly='1412' lrx='1103' lry='1661' rendition='TextRegion' xml:id='facs_2_region_1574168972794_138'>
+				<zone ulx='174' uly='1413' lrx='1049' lry='1638' rendition='Line' xml:id='facs_2_line_1574169014958_163'/>
+			</zone>
+			<zone ulx='1757' uly='1432' lrx='2699' lry='1650' rendition='TextRegion' xml:id='facs_2_region_1574168976930_141'>
+				<zone ulx='1774' uly='1426' lrx='2681' lry='1637' rendition='Line' xml:id='facs_2_line_1574169020758_168'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<pb facs='#facs_1' n='1'/>
+			<p facs='#facs_1_region_1574163123345_39'>
+				<lb facs='#facs_1_line_1574163168440_51' n='N001'/>Kedves Korányi szomszéd!
+			</p>
+			<p facs='#facs_1_region_1574163137426_42'>
+				<lb facs='#facs_1_line_1574163173517_56' n='N001'/>Küldjön nekem egy adag 3 perczentes
+				<lb facs='#facs_1_line_1574163178957_61' n='N002'/>borviz<note>Szénsavat tartalmazó, gyógy- vagy ásványvíz erdélyi neve.</note>et. Délután, ha a dokto¬
+				<lb facs='#facs_1_line_1574163184285_66' n='N003'/>rom eljön, megírja a reczeptet.
+			</p>
+			<p facs='#facs_1_region_1574163147722_45'>
+				<lb facs='#facs_1_line_1574163188181_71' n='N001'/>Üdvözlettel
+			</p>
+			<p facs='#facs_1_region_1574163152890_48'>
+				<lb facs='#facs_1_line_1574163191677_76' n='N001'/>Kiss
+			</p>
+			<pb facs='#facs_2' n='2'/>
+			<p facs='#facs_2_region_1574168920714_121'>
+				<lb facs='#facs_2_line_1574169002389_148' n='N001'/>Kiss József
+			</p>
+			<p facs='#facs_2_region_1574168946626_127'>
+				<lb facs='#facs_2_line_1574169006493_153' n='N001'/>a Ferencz József rend középkeresztese
+			</p>
+			<p facs='#facs_2_region_1574168953914_130'>
+				<lb facs='#facs_2_line_1574169010118_158' n='N001'/>A Hét szerkesztője
+			</p>
+			<p facs='#facs_2_region_1574168972794_138'>
+				<lb facs='#facs_2_line_1574169014958_163' n='N001'/>Telefon: József 5-27.
+			</p>
+			<p facs='#facs_2_region_1574168976930_141'>
+				<lb facs='#facs_2_line_1574169020758_168' n='N001'/>VIII. Népszinház-u. 22. III 8.
+			</p>
+		</body>
+	</text>
+</TEI>

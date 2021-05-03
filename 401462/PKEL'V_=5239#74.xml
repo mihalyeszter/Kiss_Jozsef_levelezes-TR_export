@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>PKEL'V.=5239#74</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: eszter.mihaly@gmail.com</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile xml:id='facs_1'>
+		<surface ulx='0' uly='0' lrx='2820' lry='2212'>
+			<graphic url='PKEL'V.=5239#74_a.tif' width='2820px' height='2212px'/>
+			<zone ulx='179' uly='149' lrx='2221' lry='339' rendition='TextRegion' xml:id='facs_1_region_1593369646563_3'>
+				<zone ulx='202' uly='161' lrx='2204' lry='329' rendition='Line' xml:id='facs_1_line_1593369715248_18'/>
+			</zone>
+			<zone ulx='493' uly='393' lrx='2348' lry='603' rendition='TextRegion' xml:id='facs_1_region_1593369658239_6'>
+				<zone ulx='493' uly='399' lrx='2325' lry='592' rendition='Line' xml:id='facs_1_line_1593369722103_23'/>
+			</zone>
+			<zone ulx='176' uly='600' lrx='2742' lry='1761' rendition='TextRegion' xml:id='facs_1_region_1593369679856_9'>
+				<zone ulx='298' uly='609' lrx='2663' lry='821' rendition='Line' xml:id='facs_1_line_1593369737629_28'/>
+				<zone ulx='208' uly='791' lrx='2664' lry='1003' rendition='Line' xml:id='facs_1_line_1593369744309_33'/>
+				<zone ulx='208' uly='956' lrx='2704' lry='1162' rendition='Line' xml:id='facs_1_line_1593369751599_38'/>
+				<zone ulx='202' uly='1113' lrx='2732' lry='1305' rendition='Line' xml:id='facs_1_line_1593369759237_43'/>
+				<zone ulx='176' uly='1298' lrx='2706' lry='1485' rendition='Line' xml:id='facs_1_line_1593369770019_48'/>
+				<zone ulx='193' uly='1454' lrx='2653' lry='1625' rendition='Line' xml:id='facs_1_line_1593369779540_53'/>
+				<zone ulx='180' uly='1613' lrx='2647' lry='1771' rendition='Line' xml:id='facs_1_line_1593369788280_58'/>
+			</zone>
+			<zone ulx='846' uly='1721' lrx='1927' lry='1858' rendition='TextRegion' xml:id='facs_1_region_1593369690769_12'>
+				<zone ulx='852' uly='1734' lrx='1920' lry='1853' rendition='Line' xml:id='facs_1_line_1593369796483_63'/>
+			</zone>
+			<zone ulx='1467' uly='1878' lrx='2505' lry='2095' rendition='TextRegion' xml:id='facs_1_region_1593369697284_15'>
+				<zone ulx='1483' uly='1894' lrx='2497' lry='2085' rendition='Line' xml:id='facs_1_line_1593369801610_68'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<pb facs='#facs_1' n='1'/>
+			<p facs='#facs_1_region_1593369646563_3'>
+				<lb facs='#facs_1_line_1593369715248_18' n='N001'/>Berzeviczy Albert <choice><expan></expan><abbr>Bpest</abbr></choice> 899. <choice><expan></expan><abbr>decemb</abbr></choice>. <hi rend='strikethrough:true; fontSize:0.0; kerning:0;'>9</hi> 10 én.
+			</p>
+			<p facs='#facs_1_region_1593369658239_6'>
+				<lb facs='#facs_1_line_1593369722103_23' n='N001'/>Nagyon tisztelt Szerkesztő Úr!
+			</p>
+			<p facs='#facs_1_region_1593369679856_9'>
+				<lb facs='#facs_1_line_1593369737629_28' n='N001'/>Miután még eddig a beküldött tárczacikk
+				<lb facs='#facs_1_line_1593369744309_33' n='N002'/>nyomdai revísióját meg nem kaptam, sejtem,
+				<lb facs='#facs_1_line_1593369751599_38' n='N003'/>hogy talán nehézségek merültek föl a hossza
+				<lb facs='#facs_1_line_1593369759237_43' n='N004'/>miatt. <hi rend='underlined:true; fontSize:0.0; kerning:0;'>Ebben az esetben</hi> kérném, (mint már e¬
+				<lb facs='#facs_1_line_1593369770019_48' n='N005'/>lőbbi levelemben is kifejeztem kérésemet) szíves¬
+				<lb facs='#facs_1_line_1593369779540_53' n='N006'/>kednék ezt <hi rend='underlined:true; fontSize:0.0; kerning:0;'>a kéziratot visszaküldeni</hi> s majd
+				<lb facs='#facs_1_line_1593369788280_58' n='N007'/>inkább valami rövid kis dolgot küldök helyette.
+			</p>
+			<p facs='#facs_1_region_1593369690769_12'>
+				<lb facs='#facs_1_line_1593369796483_63' n='N001'/>Őszinte tisztelettel
+			</p>
+			<p facs='#facs_1_region_1593369697284_15'>
+				<lb facs='#facs_1_line_1593369801610_68' n='N001'/>Berzeviczy Albert
+			</p>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-09-21T14:11:16.114+02:00</Created>
+        <LastChange>2021-01-05T09:18:27.645+01:00</LastChange>
+        <TranskribusMetadata docId="500651" pageId="20789950" pageNr="6" tsid="50687222" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=DUQICNQVGWCMZVBEITSQOMFJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NWRHXQGRKVJIOLLQNOTDAFRO" imageId="15935123"/>
+    </Metadata>
+    <Page imageFilename="PKEL'2016.25.1._3b.tif" imageWidth="2699" imageHeight="4173">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424704958" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1602236541200_810"/>
+                <RegionRefIndexed index="1" regionRef="region_1602236543072_813"/>
+                <RegionRefIndexed index="2" regionRef="region_1602236544658_816"/>
+                <RegionRefIndexed index="3" regionRef="region_1602236548678_819"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1602236541200_810" custom="readingOrder {index:0;}">
+            <Coords points="476,429 2596,429 2596,1098 476,1098"/>
+            <TextLine id="line_1602236556167_823" custom="readingOrder {index:0;}">
+                <Coords points="513,465 2611,534 2589,741 491,672"/>
+                <Baseline points="491,667 2589,736"/>
+                <TextEquiv>
+                    <Unicode>Csókollak kedves Mama, vigyázz magadra</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1602236561554_828" custom="readingOrder {index:1;}">
+                <Coords points="506,693 2592,768 2570,902 484,827"/>
+                <Baseline points="484,822 2570,897"/>
+                <TextEquiv>
+                    <Unicode>és ne törődjél semmivel. Mi a dolga¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1602236565798_833" custom="readingOrder {index:2;}">
+                <Coords points="496,834 2576,911 2566,1069 486,992"/>
+                <Baseline points="486,987 2566,1064"/>
+                <TextEquiv>
+                    <Unicode>inkon már úgy se változtathatunk.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Csókollak kedves Mama, vigyázz magadra&#xD;
+és ne törődjél semmivel. Mi a dolga¬&#xD;
+inkon már úgy se változtathatunk.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1602236543072_813" custom="readingOrder {index:1;}">
+            <Coords points="1322,1034 2124,1034 2124,1250 1322,1250"/>
+            <TextLine id="line_1602236570942_839" custom="readingOrder {index:0;}">
+                <Coords points="1369,1057 1724,1052 2060,1065 2088,1219 1693,1225 1351,1187"/>
+                <Baseline points="1352,1182 1693,1220 2088,1214"/>
+                <TextEquiv>
+                    <Unicode>Szerető híved</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Szerető híved</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1602236544658_816" custom="readingOrder {index:2;}">
+            <Coords points="1571,1229 2026,1229 2026,1490 1571,1490"/>
+            <TextLine id="line_1602236575112_845" custom="readingOrder {index:0;}">
+                <Coords points="1607,1246 1999,1241 2000,1435 1608,1440"/>
+                <Baseline points="1608,1435 2000,1430"/>
+                <TextEquiv>
+                    <Unicode>Józsi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Józsi</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1602236548678_819" custom="readingOrder {index:3;}">
+            <Coords points="437,1374 1637,1374 1635,1643 435,1643"/>
+            <TextLine id="line_1602236579620_851" custom="readingOrder {index:0;}">
+                <Coords points="488,1392 1617,1411 1618,1613 489,1594"/>
+                <Baseline points="489,1589 1618,1608"/>
+                <TextEquiv>
+                    <Unicode>A gyerekeket csókolom.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>A gyerekeket csókolom.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

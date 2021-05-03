@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2021-01-28T15:52:38.405+01:00</Created>
+        <LastChange>2021-01-29T18:32:24.442+01:00</LastChange>
+        <TranskribusMetadata docId="596051" pageId="23782416" pageNr="5" tsid="51816504" status="IN_PROGRESS" userId="56520" imgUrl="https://files.transkribus.eu/Get?id=OMCPADQDHUHEBLNRPCCDKAPF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=INOGSIEKNSZZSHGKWYRHVSHA" imageId="18259849"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#110_1e.tif" imageWidth="3254" imageHeight="4288">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424779968" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1611920919854_2416"/>
+                <RegionRefIndexed index="1" regionRef="region_1611920927792_2419"/>
+                <RegionRefIndexed index="2" regionRef="region_1611920932000_2422"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1611920919854_2416" custom="readingOrder {index:0;}">
+            <Coords points="303,182 3175,182 3175,684 303,684"/>
+            <TextLine id="line_1611920941734_2425" custom="readingOrder {index:0;}">
+                <Coords points="323,203 2931,201 2934,403 326,405"/>
+                <Baseline points="329,360 2937,358"/>
+                <TextEquiv>
+                    <Unicode>egészen szolgálatára</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1611920947377_2430" custom="readingOrder {index:1;}">
+                <Coords points="352,423 3154,404 3167,587 352,554"/>
+                <Baseline points="352,549 3154,530"/>
+                <TextEquiv>
+                    <Unicode>lehessen régi és örök</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1611920953179_2435" custom="readingOrder {index:2;}">
+                <Coords points="729,549 1471,566 1479,679 726,679"/>
+                <Baseline points="726,674 1479,674"/>
+                <TextEquiv>
+                    <Unicode>híve</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>egészen szolgálatára&#xD;
+lehessen régi és örök&#xD;
+híve</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1611920927792_2419" custom="readingOrder {index:1;}">
+            <Coords points="3021,695 1364,695 1364,980 3021,980"/>
+            <TextLine id="line_1611920958775_2440" custom="readingOrder {index:0;}">
+                <Coords points="1398,705 3003,710 3000,961 1395,956"/>
+                <Baseline points="1395,894 3000,899"/>
+                <TextEquiv>
+                    <Unicode>Erdős Renée</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Erdős Renée</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1611920932000_2422" custom="readingOrder {index:2;}">
+            <Coords points="551,1178 3118,1178 3118,1500 551,1500"/>
+            <TextLine id="line_1611920965175_2445" custom="readingOrder {index:0;}">
+                <Coords points="577,1231 3096,1207 3099,1447 580,1471"/>
+                <Baseline points="580,1401 3099,1377"/>
+                <TextEquiv>
+                    <Unicode>Roma. Via dell'Olmata 9.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Roma. Via dell'Olmata 9.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2021-03-17T09:46:31.906+01:00</Created>
+        <LastChange>2021-04-09T17:22:31.692+02:00</LastChange>
+        <TranskribusMetadata docId="632452" pageId="24786746" pageNr="3" tsid="55995835" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=OABSRYDKFOQELPLBTUVNBOCS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AXKYODJRABQHTESOPDVPZIPB" imageId="19115571"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#158_3c.tif" imageWidth="3597" imageHeight="5456">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425043249" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1617111069910_83"/>
+                <RegionRefIndexed index="1" regionRef="region_1617111072956_86"/>
+                <RegionRefIndexed index="2" regionRef="region_1617111093581_93"/>
+                <RegionRefIndexed index="3" regionRef="region_1617113866843_501"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1617111069910_83" custom="readingOrder {index:0;}">
+            <Coords points="701,694 3473,694 3454,3256 2617,3248 2549,3294 1167,3257 1158,3215 697,3199"/>
+            <TextLine id="line_1617179076311_16" custom="readingOrder {index:0;}">
+                <Coords points="830,704 3441,714 3420,954 809,944"/>
+                <Baseline points="813,903 2509,923 3425,891"/>
+                <TextEquiv>
+                    <Unicode>oly ravatalát, a melyen három vé¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617179079726_21" custom="readingOrder {index:1;}">
+                <Coords points="837,957 3240,957 3232,1148 829,1148"/>
+                <Baseline points="851,1097 2025,1122 2695,1102 3231,1100"/>
+                <TextEquiv>
+                    <Unicode>kony babérkoszorú szerénykedett – és</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617179083145_26" custom="readingOrder {index:2;}">
+                <Coords points="766,1169 3266,1156 3266,1342 766,1355"/>
+                <Baseline points="784,1311 1803,1323 2430,1328 3240,1283"/>
+                <TextEquiv>
+                    <Unicode>rövidre reá a Berkes ravatalára</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617179086541_31" custom="readingOrder {index:3;}">
+                <Coords points="811,1363 3320,1360 3327,1540 809,1529"/>
+                <Baseline points="823,1501 3327,1529"/>
+                <TextEquiv>
+                    <Unicode>csak a Nemzeti Casinó tizenket¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617179089469_36" custom="readingOrder {index:4;} sic {offset:10; length:6;}">
+                <Coords points="834,1561 3362,1580 3331,1773 803,1754"/>
+                <Baseline points="818,1714 1769,1712 2479,1732 3331,1718"/>
+                <TextEquiv>
+                    <Unicode>tőt tett. Banket, tósztok áradata,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617179092347_41" custom="readingOrder {index:5;}">
+                <Coords points="851,1774 3412,1847 3396,2022 834,1966"/>
+                <Baseline points="862,1910 1888,1946 2551,1946 3404,1971"/>
+                <TextEquiv>
+                    <Unicode>vigadóbeli „ünnepély”, hogy száz egy¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617179095142_46" custom="readingOrder {index:6;}">
+                <Coords points="840,1983 3315,2055 3343,2236 821,2162"/>
+                <Baseline points="833,2109 3308,2181"/>
+                <TextEquiv>
+                    <Unicode>let szónokát meghallgassa. – –</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617179097798_51" custom="readingOrder {index:7;}">
+                <Coords points="789,2180 3328,2239 3325,2453 790,2387"/>
+                <Baseline points="796,2309 3315,2394"/>
+                <TextEquiv>
+                    <Unicode>(óvja meg a magyarok istene</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617179101205_56" custom="readingOrder {index:8;}">
+                <Coords points="839,2401 3350,2466 3322,2649 811,2584"/>
+                <Baseline points="831,2534 1965,2586 2681,2607 3330,2614"/>
+                <TextEquiv>
+                    <Unicode>a süketségtől, mert csak ezen át</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617179104715_61" custom="readingOrder {index:9;}">
+                <Coords points="807,2588 3341,2663 3331,2863 797,2788"/>
+                <Baseline points="823,2757 2617,2813 3312,2795"/>
+                <TextEquiv>
+                    <Unicode>láthatja a visszavonúló szónok</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617179108480_66" custom="readingOrder {index:10;}">
+                <Coords points="810,2813 3308,2897 3311,3091 813,3007"/>
+                <Baseline points="813,2966 3311,3050"/>
+                <TextEquiv>
+                    <Unicode>igazi lelkületének a megvillaná¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617179117274_76" custom="readingOrder {index:11;}">
+                <Coords points="812,3021 3252,3092 3234,3252 2598,3238 2546,3279 2467,3292 2399,3236 822,3198"/>
+                <Baseline points="835,3191 3230,3244"/>
+                <TextEquiv>
+                    <Unicode>sát –) Ez kellene? Dehogy kellene!!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>oly ravatalát, a melyen három vé¬&#xD;
+kony babérkoszorú szerénykedett – és&#xD;
+rövidre reá a Berkes ravatalára&#xD;
+csak a Nemzeti Casinó tizenket¬&#xD;
+tőt tett. Banket, tósztok áradata,&#xD;
+vigadóbeli „ünnepély”, hogy száz egy¬&#xD;
+let szónokát meghallgassa. – –&#xD;
+(óvja meg a magyarok istene&#xD;
+a süketségtől, mert csak ezen át&#xD;
+láthatja a visszavonúló szónok&#xD;
+igazi lelkületének a megvillaná¬&#xD;
+sát –) Ez kellene? Dehogy kellene!!</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1617111072956_86" custom="readingOrder {index:1;}">
+            <Coords points="756,3307 1091,3305 1185,3261 1717,3310 3480,3307 3478,4399 754,4399"/>
+            <TextLine id="line_1617182758594_151" custom="readingOrder {index:0;}">
+                <Coords points="1068,3313 1197,3267 1668,3323 1879,3317 3419,3315 3417,3525 1053,3480"/>
+                <Baseline points="1063,3390 1889,3451 2521,3457 3380,3440"/>
+                <TextEquiv>
+                    <Unicode>Lássa, ezelőtt jó sor esztendővel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617182762218_156" custom="readingOrder {index:1;}">
+                <Coords points="826,3485 3377,3551 3343,3750 792,3684"/>
+                <Baseline points="813,3603 1829,3658 2742,3682 3323,3668"/>
+                <TextEquiv>
+                    <Unicode>egy, az ünnepély-láz gyanujában</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617182765780_161" custom="readingOrder {index:2;}">
+                <Coords points="806,3711 3365,3753 3349,3983 801,3921"/>
+                <Baseline points="826,3838 1763,3879 3337,3904"/>
+                <TextEquiv>
+                    <Unicode>fetrengő „oszlopos” azt kérdezte tő¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617182769173_166" custom="readingOrder {index:3;}">
+                <Coords points="811,3946 3386,3988 3383,4213 808,4171"/>
+                <Baseline points="821,4117 3372,4159"/>
+                <TextEquiv>
+                    <Unicode>lem: „hány éve, hogy első dolgoza¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617182772138_171" custom="readingOrder {index:4;}">
+                <Coords points="802,4177 1901,4207 1859,4385 800,4357"/>
+                <Baseline points="808,4326 1855,4347"/>
+                <TextEquiv>
+                    <Unicode>ta megjelent?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Lássa, ezelőtt jó sor esztendővel&#xD;
+egy, az ünnepély-láz gyanujában&#xD;
+fetrengő „oszlopos” azt kérdezte tő¬&#xD;
+lem: „hány éve, hogy első dolgoza¬&#xD;
+ta megjelent?</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1617111093581_93" custom="readingOrder {index:2;}">
+            <Coords points="742,4413 3477,4413 3472,4685 2032,4695 2022,4816 738,4825"/>
+            <TextLine id="line_1617182777921_176" custom="readingOrder {index:0;}">
+                <Coords points="1046,4426 3341,4423 3358,4609 1044,4613"/>
+                <Baseline points="1039,4560 1929,4576 2732,4564 3331,4544"/>
+                <TextEquiv>
+                    <Unicode>Tyűh! hiszen ez jubiláláson</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617182781046_181" custom="readingOrder {index:1;}">
+                <Coords points="812,4628 1951,4612 1948,4805 812,4796"/>
+                <Baseline points="808,4752 1911,4765"/>
+                <TextEquiv>
+                    <Unicode>töri a fejét!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Tyűh! hiszen ez jubiláláson&#xD;
+töri a fejét!</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1617113866843_501" custom="readingOrder {index:3;}">
+            <Coords points="1672,5156 1841,5156 1841,5291 1672,5291"/>
+            <TextLine id="line_1617113873004_504" custom="readingOrder {index:0;}">
+                <Coords points="1681,5163 1834,5164 1834,5259 1681,5258"/>
+                <Baseline points="1681,5253 1834,5254"/>
+                <TextEquiv>
+                    <Unicode>2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>2</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

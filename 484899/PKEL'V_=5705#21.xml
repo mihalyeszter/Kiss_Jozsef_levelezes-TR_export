@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>PKEL'V.=5705#21</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: eszter.mihaly@gmail.com</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile xml:id='facs_1'>
+		<surface ulx='0' uly='0' lrx='2279' lry='3468'>
+			<graphic url='PKEL'V.=5705#21_a.tif' width='2279px' height='3468px'/>
+			<zone ulx='160' uly='2698' lrx='2182' lry='3265' rendition='TextRegion' xml:id='facs_1_TextRegion_1603883035128_276'>
+				<zone ulx='832' uly='2715' lrx='2097' lry='2855' rendition='Line' xml:id='facs_1_line_1603883005644_260'/>
+				<zone ulx='214' uly='2863' lrx='2070' lry='2994' rendition='Line' xml:id='facs_1_TextRegion_1603801668438_477l1'/>
+				<zone ulx='231' uly='2990' lrx='2174' lry='3156' rendition='Line' xml:id='facs_1_TextRegion_1603801668438_477l2'/>
+				<zone ulx='248' uly='3111' lrx='2127' lry='3293' rendition='Line' xml:id='facs_1_TextRegion_1603801668438_477l3'/>
+			</zone>
+			<zone ulx='277' uly='3254' lrx='964' lry='3382' rendition='TextRegion' xml:id='facs_1_region_1603801644245_462'>
+				<zone ulx='299' uly='3268' lrx='946' lry='3372' rendition='Line' xml:id='facs_1_line_1603801782472_524'/>
+			</zone>
+			<zone ulx='1462' uly='3231' lrx='1779' lry='3359' rendition='TextRegion' xml:id='facs_1_region_1603801646024_465'>
+				<zone ulx='1487' uly='3244' lrx='1752' lry='3353' rendition='Line' xml:id='facs_1_line_1603801790349_531'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id='facs_2'>
+		<surface ulx='0' uly='0' lrx='3452' lry='2292'>
+			<graphic url='PKEL'V.=5705#21_b.tif' width='3452px' height='2292px'/>
+			<zone ulx='185' uly='1284' lrx='1014' lry='2014' rendition='TextRegion' xml:id='facs_2_region_1603801833482_557'>
+				<zone ulx='269' uly='1334' lrx='942' lry='1963' rendition='Line' xml:id='facs_2_line_1603801994523_595'/>
+			</zone>
+			<zone ulx='687' uly='865' lrx='3240' lry='1245' rendition='TextRegion' xml:id='facs_2_region_1603801826742_548'>
+				<zone ulx='693' uly='881' lrx='3203' lry='1173' rendition='Line' xml:id='facs_2_line_1603801879618_573'/>
+			</zone>
+			<zone ulx='1605' uly='1404' lrx='3101' lry='1834' rendition='TextRegion' xml:id='facs_2_region_1603801828332_551'>
+				<zone ulx='1619' uly='1430' lrx='3055' lry='1811' rendition='Line' xml:id='facs_2_region_1603801828332_551l1'/>
+			</zone>
+			<zone ulx='1546' uly='1717' lrx='3176' lry='2087' rendition='TextRegion' xml:id='facs_2_region_1603801830252_554'>
+				<zone ulx='1598' uly='1803' lrx='3160' lry='2059' rendition='Line' xml:id='facs_2_line_1603801948654_586'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<pb facs='#facs_1' n='1'/>
+			<p facs='#facs_1_TextRegion_1603883035128_276'>
+				<lb facs='#facs_1_line_1603883005644_260' n='N001'/>Kedves Mamuska. Jobb
+				<lb facs='#facs_1_TextRegion_1603801668438_477l1' n='N002'/>lett volna a <hi rend='strikethrough:true; fontSize:0.0; kerning:0;'>s</hi><add>k</add>alapskatulyát
+				<lb facs='#facs_1_TextRegion_1603801668438_477l2' n='N003'/>magaddal vinni. Sok alkalmat<supplied reason=''>¬</supplied>
+				<lb facs='#facs_1_TextRegion_1603801668438_477l3' n='N004'/>lanság a postán. Jól vagyok
+			</p>
+			<p facs='#facs_1_region_1603801644245_462'>
+				<lb facs='#facs_1_line_1603801782472_524' n='N001'/>Csókollak.
+			</p>
+			<p facs='#facs_1_region_1603801646024_465'>
+				<lb facs='#facs_1_line_1603801790349_531' n='N001'/>K. J.
+			</p>
+			<pb facs='#facs_2' n='2'/>
+			<p facs='#facs_2_region_1603801833482_557'>
+				<lb facs='#facs_2_line_1603801994523_595' n='N001'/>Ungarn
+			</p>
+			<p facs='#facs_2_region_1603801826742_548'>
+				<lb facs='#facs_2_line_1603801879618_573' n='N001'/>Kiss Józsefné Ő <choice><expan></expan><abbr>Nsgának</abbr></choice>
+			</p>
+			<p facs='#facs_2_region_1603801828332_551'>
+				<lb facs='#facs_2_region_1603801828332_551l1' n='N001'/><hi rend='underlined:true; fontSize:0.0; kerning:0;'>Budapest</hi>
+			</p>
+			<p facs='#facs_2_region_1603801830252_554'>
+				<lb facs='#facs_2_line_1603801948654_586' n='N001'/>A Hét <choice><expan></expan><abbr>szerk</abbr></choice>.
+			</p>
+		</body>
+	</text>
+</TEI>

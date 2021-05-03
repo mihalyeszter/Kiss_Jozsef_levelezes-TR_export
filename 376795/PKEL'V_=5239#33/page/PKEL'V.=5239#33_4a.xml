@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-28T13:02:32.089+02:00</Created>
+        <LastChange>2020-11-19T15:12:30.693+01:00</LastChange>
+        <TranskribusMetadata docId="376795" pageId="14734183" pageNr="7" tsid="49193971" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=WXKZOTEHSNNMNQAOFAQZQRIB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KAPMVPOROWSPHDKQXIKNMNDP" imageId="10675205"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#33_4a.tif" imageWidth="3557" imageHeight="2291">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424125706" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1597134243395_916"/>
+                <RegionRefIndexed index="1" regionRef="region_1597134237430_913"/>
+                <RegionRefIndexed index="2" regionRef="region_1597134231831_910"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1597134243395_916" custom="readingOrder {index:0;}">
+            <Coords points="552,1678 3312,1678 3312,1882 552,1882"/>
+            <TextLine id="line_1597134266181_929" custom="readingOrder {index:0;}">
+                <Coords points="581,1677 3304,1690 3296,1857 573,1844"/>
+                <Baseline points="573,1839 3264,1864"/>
+                <TextEquiv>
+                    <Unicode>Találkoztam Tátra-Lomniczon Grill Klárikával.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Találkoztam Tátra-Lomniczon Grill Klárikával.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1597134237430_913" custom="readingOrder {index:1;}">
+            <Coords points="1111,1967 581,1967 581,1831 1111,1831"/>
+            <TextLine id="line_1597134252599_919" custom="readingOrder {index:0;}">
+                <Coords points="606,1828 1109,1829 1125,1918 1105,1964 1099,1961 606,1961"/>
+                <Baseline points="606,1956 1100,1956 1107,1959"/>
+                <TextEquiv>
+                    <Unicode>Üdvözöl.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Üdvözöl.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1597134231831_910" custom="readingOrder {index:2;}">
+            <Coords points="1381,1978 1151,1978 1151,1817 1381,1817"/>
+            <TextLine id="line_1597134257442_924" custom="readingOrder {index:0;}">
+                <Coords points="1158,1811 1356,1811 1356,1957 1158,1957"/>
+                <Baseline points="1158,1952 1356,1952"/>
+                <TextEquiv>
+                    <Unicode>Pá.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Pá.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

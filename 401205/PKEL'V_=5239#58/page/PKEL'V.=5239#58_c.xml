@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-06-03T13:27:19.138+02:00</Created>
+        <LastChange>2020-06-24T12:27:31.299+02:00</LastChange>
+        <TranskribusMetadata docId="401205" pageId="15522793" pageNr="3" tsid="32557190" status="IN_PROGRESS" userId="56520" imgUrl="https://files.transkribus.eu/Get?id=QMNMOOSTEADLDUACGDTTFOJW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TMIUHBSPKCJLTUISECQSXQTQ" imageId="11350706"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#58_c.tif" imageWidth="3035" imageHeight="2370">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424504977" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1592934440312_196"/>
+                <RegionRefIndexed index="1" regionRef="region_1592934459387_201"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1592934440312_196" custom="readingOrder {index:0;}">
+            <Coords points="300,127 2686,127 2686,595 300,595"/>
+            <TextLine id="line_1592934467769_204" custom="readingOrder {index:0;} sic {offset:0; length:9;}">
+                <Coords points="314,167 2665,149 2661,443 310,461"/>
+                <Baseline points="314,388 2665,370"/>
+                <TextEquiv>
+                    <Unicode>tobbletre feladó figyelmez¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1592934472637_209" custom="readingOrder {index:1;}">
+                <Coords points="379,387 1258,398 1253,580 374,569"/>
+                <Baseline points="374,564 1253,575"/>
+                <TextEquiv>
+                    <Unicode>tetve lesz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>tobbletre feladó figyelmez¬&#xD;
+tetve lesz</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1592934459387_201" custom="readingOrder {index:1;}">
+            <Coords points="995,614 1641,614 1641,988 995,988"/>
+            <TextLine id="line_1592934477915_214" custom="readingOrder {index:0;} textStyle {offset:0; length:4;underlined:true; fontSize:0.0; kerning:0;} unclear {offset:0; length:4;}">
+                <Coords points="1017,622 1620,628 1609,974 1009,960"/>
+                <Baseline points="1006,871 1606,914"/>
+                <TextEquiv>
+                    <Unicode>Gaál</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Gaál</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

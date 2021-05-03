@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-29T11:45:35.812+02:00</Created>
+        <LastChange>2020-08-03T15:34:01.183+02:00</LastChange>
+        <TranskribusMetadata docId="377247" pageId="14771224" pageNr="3" tsid="35983395" status="IN_PROGRESS" userId="56520" imgUrl="https://files.transkribus.eu/Get?id=JXAHIIPSZSMDMPYWTGCPJYUA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KVNFTWATRDJGUAABAHYOTXAE" imageId="10711059"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#35_2c.tif" imageWidth="3396" imageHeight="2555">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424014713" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1593973078274_453"/>
+                <RegionRefIndexed index="1" regionRef="region_1593973088058_456"/>
+                <RegionRefIndexed index="2" regionRef="region_1593973091801_459"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1593973078274_453" custom="readingOrder {index:0;}">
+            <Coords points="2444,528 872,528 877,795 2429,846"/>
+            <TextLine id="line_1593973135333_474" custom="readingOrder {index:0;}">
+                <Coords points="937,572 2415,562 2406,832 933,786"/>
+                <Baseline points="933,781 2411,771"/>
+                <TextEquiv>
+                    <Unicode>Dr Braun Sándorné urhölgy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Dr Braun Sándorné urhölgy</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1593973088058_456" custom="readingOrder {index:1;}">
+            <Coords points="1396,818 2401,855 2425,1136 1396,1136"/>
+            <TextLine id="line_1593973119332_464" custom="readingOrder {index:0;} sic {offset:0; length:13;}">
+                <Coords points="1425,828 2412,828 2402,1126 1415,1126"/>
+                <Baseline points="1405,996 2392,996"/>
+                <TextEquiv>
+                    <Unicode>Ő Nagyságanak</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ő Nagyságanak</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1593973091801_459" custom="readingOrder {index:2;}">
+            <Coords points="1915,1707 3215,1707 3215,2044 1915,2044"/>
+            <TextLine id="line_1593973126234_469" custom="readingOrder {index:0;}">
+                <Coords points="1972,1722 3207,1745 3177,2030 1942,2007"/>
+                <Baseline points="1952,1922 3187,1945"/>
+                <TextEquiv>
+                    <Unicode>Rákóczy-ut 78 I em.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Rákóczy-ut 78 I em.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

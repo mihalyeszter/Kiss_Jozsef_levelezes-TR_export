@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-28T12:11:34.652+02:00</Created>
+        <LastChange>2020-12-01T17:23:24.476+01:00</LastChange>
+        <TranskribusMetadata docId="376744" pageId="14729659" pageNr="47" tsid="49757698" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=RQGWEKAGJNUOAALTENZJCGJL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DOOBOYITOLDHSJTJVZCOIZAT" imageId="10670694"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#32_16a.tif" imageWidth="3291" imageHeight="2210">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619423985012" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1591897445137_369"/>
+                <RegionRefIndexed index="1" regionRef="region_1591897454174_372"/>
+                <RegionRefIndexed index="2" regionRef="region_1591897461959_375"/>
+                <RegionRefIndexed index="3" regionRef="region_1591897498348_383"/>
+                <RegionRefIndexed index="4" regionRef="region_1591897514853_386"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1591897445137_369" custom="readingOrder {index:0;}">
+            <Coords points="843,197 431,197 431,321 843,321"/>
+            <TextLine id="line_1591897526438_389" custom="readingOrder {index:0;}">
+                <Coords points="444,211 834,211 834,312 444,312"/>
+                <Baseline points="444,307 834,307"/>
+                <TextEquiv>
+                    <Unicode>A Hét </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>A Hét </Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1591897454174_372" custom="readingOrder {index:1;}">
+            <Coords points="244,335 1021,335 1021,403 244,403"/>
+            <TextLine id="line_1591897532456_394" custom="readingOrder {index:0;}">
+                <Coords points="252,338 1013,341 1013,400 252,397"/>
+                <Baseline points="252,392 1013,395"/>
+                <TextEquiv>
+                    <Unicode>VIII., Népszínház-utca 22.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>VIII., Népszínház-utca 22.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1591897461959_375" custom="readingOrder {index:2;}">
+            <Coords points="409,420 859,420 859,469 409,469"/>
+            <TextLine id="line_1591897540122_399" custom="readingOrder {index:0;}">
+                <Coords points="420,416 854,419 854,469 420,466"/>
+                <Baseline points="420,461 854,464"/>
+                <TextEquiv>
+                    <Unicode>Telefon 61—38.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Telefon 61—38.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1591897498348_383" custom="readingOrder {index:3;}">
+            <Coords points="1675,194 2653,194 2653,466 1675,466"/>
+            <TextLine id="line_1591897559625_404" custom="readingOrder {index:0;} textStyle {offset:0; length:8;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="1709,335 2041,338 2029,419 1697,416"/>
+                <Baseline points="1697,411 2029,414"/>
+                <TextEquiv>
+                    <Unicode>Budapest, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1591897568482_409" custom="readingOrder {index:1;} add {offset:0; length:9;}">
+                <Coords points="1692,201 2104,226 2095,337 1683,312"/>
+                <Baseline points="1683,307 2095,332"/>
+                <TextEquiv>
+                    <Unicode>Marienbad</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1591897577890_414" custom="readingOrder {index:2;}">
+                <Coords points="2038,334 2639,334 2642,453 2041,453"/>
+                <Baseline points="2035,414 2636,414"/>
+                <TextEquiv>
+                    <Unicode>1909 jul 14</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Budapest, &#xD;
+Marienbad&#xD;
+1909 jul 14</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1591897514853_386" custom="readingOrder {index:4;}">
+            <Coords points="184,571 3174,571 3174,2048 184,2048"/>
+            <TextLine id="line_1591897606523_421" custom="readingOrder {index:0;} sic {offset:37; length:7;}">
+                <Coords points="384,581 3122,587 3125,766 387,760"/>
+                <Baseline points="384,719 3122,725"/>
+                <TextEquiv>
+                    <Unicode>Kedves Mama! Még mindig esik az eső. Rádásúl még hideg is</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1591897613294_426" custom="readingOrder {index:1;}">
+                <Coords points="206,735 3065,747 3056,879 205,843"/>
+                <Baseline points="205,823 3056,859"/>
+                <TextEquiv>
+                    <Unicode>van. Az emberek kétségbe esnek, de azért mászkálnak esőben és</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1591897626956_431" custom="readingOrder {index:2;} sic {offset:42; length:6;}">
+                <Coords points="222,835 2999,857 2999,981 222,959"/>
+                <Baseline points="222,933 2999,955"/>
+                <TextEquiv>
+                    <Unicode>hidegben. Én tegnap ágyban maradtam. Este roszúl voltam.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1591897637932_436" custom="readingOrder {index:3;}">
+                <Coords points="216,937 3163,967 3160,1091 213,1061"/>
+                <Baseline points="216,1032 3163,1062"/>
+                <TextEquiv>
+                    <Unicode>Tuszkai doktor, aki a házban lakik, nálam volt. Digitalist</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1591897647626_441" custom="readingOrder {index:4;}">
+                <Coords points="233,1052 3136,1076 3136,1207 233,1183"/>
+                <Baseline points="233,1145 3136,1169"/>
+                <TextEquiv>
+                    <Unicode>adott. Ma jobban vagyok, de keveset eszem. Az orvos semmi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1591897675576_446" custom="readingOrder {index:5;} sic {offset:28; length:14;}">
+                <Coords points="200,1148 3141,1170 3138,1329 197,1307"/>
+                <Baseline points="200,1260 3141,1282"/>
+                <TextEquiv>
+                    <Unicode>jelentőséget nem tulajdonit roszullétemnek. Ha acclimati¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1591897683336_451" custom="readingOrder {index:6;}">
+                <Coords points="225,1275 3078,1286 3078,1433 225,1422"/>
+                <Baseline points="225,1375 3078,1386"/>
+                <TextEquiv>
+                    <Unicode>zalni fogom magamat, a tünetek elmulnak és jól fogom</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1591897691922_456" custom="readingOrder {index:7;}">
+                <Coords points="231,1381 3051,1411 3045,1571 225,1541"/>
+                <Baseline points="225,1494 3045,1524"/>
+                <TextEquiv>
+                    <Unicode>érezni magamat. Még nem fürödtem. Az itteni vizekből</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1591897699180_461" custom="readingOrder {index:8;}">
+                <Coords points="247,1511 2952,1538 2949,1676 244,1649"/>
+                <Baseline points="247,1612 2952,1639"/>
+                <TextEquiv>
+                    <Unicode>nem iszom, de vissszatértem a mi jó parasztos Hunyady</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1591897709154_466" custom="readingOrder {index:9;}">
+                <Coords points="208,1637 3125,1640 3133,1809 205,1784"/>
+                <Baseline points="208,1746 3125,1749"/>
+                <TextEquiv>
+                    <Unicode>Janoszunkhoz. Minden reggel jön a masseur és megdögö¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1591897718292_471" custom="readingOrder {index:10;}">
+                <Coords points="221,1754 2960,1756 2966,1901 227,1899"/>
+                <Baseline points="227,1862 2966,1864"/>
+                <TextEquiv>
+                    <Unicode>nyöz. Eddigelé nem sokat használ. – Mennyire sajnálom</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1591897727252_476" custom="readingOrder {index:11;}">
+                <Coords points="239,1875 3103,1869 3100,2017 236,2023"/>
+                <Baseline points="236,1980 3100,1974"/>
+                <TextEquiv>
+                    <Unicode>hogy ide nem hoztalak benneteket. Jóval kevesebbe került</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kedves Mama! Még mindig esik az eső. Rádásúl még hideg is&#xD;
+van. Az emberek kétségbe esnek, de azért mászkálnak esőben és&#xD;
+hidegben. Én tegnap ágyban maradtam. Este roszúl voltam.&#xD;
+Tuszkai doktor, aki a házban lakik, nálam volt. Digitalist&#xD;
+adott. Ma jobban vagyok, de keveset eszem. Az orvos semmi&#xD;
+jelentőséget nem tulajdonit roszullétemnek. Ha acclimati¬&#xD;
+zalni fogom magamat, a tünetek elmulnak és jól fogom&#xD;
+érezni magamat. Még nem fürödtem. Az itteni vizekből&#xD;
+nem iszom, de vissszatértem a mi jó parasztos Hunyady&#xD;
+Janoszunkhoz. Minden reggel jön a masseur és megdögö¬&#xD;
+nyöz. Eddigelé nem sokat használ. – Mennyire sajnálom&#xD;
+hogy ide nem hoztalak benneteket. Jóval kevesebbe került</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

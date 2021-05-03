@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA76_249_0mod90.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-09-21T14:09:57.364+02:00</Created>
+        <LastChange>2020-12-08T11:47:56.103+01:00</LastChange>
+        <TranskribusMetadata docId="484914" pageId="19998864" pageNr="7" tsid="50179348" status="IN_PROGRESS" userId="63384" imgUrl="https://files.transkribus.eu/Get?id=ZQDGUITZHHBGAZMSTWUHJUJZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EZKKBWKIMCNAMLRLNHDHTRZI" imageId="15414315"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=3823#383_4b.tif" imageWidth="2625" imageHeight="1217">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424563572" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1603271006755_1273"/>
+                <RegionRefIndexed index="1" regionRef="region_1603271010684_1276"/>
+                <RegionRefIndexed index="2" regionRef="region_1603271012372_1279"/>
+                <RegionRefIndexed index="3" regionRef="region_1603271015028_1282"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1603271006755_1273" custom="readingOrder {index:0;}">
+            <Coords points="190,93 1265,93 1265,318 190,318"/>
+            <TextLine id="line_1603271253336_1344" custom="readingOrder {index:0;}">
+                <Coords points="212,176 713,165 729,119 824,118 819,172 1143,162 1145,115 1146,115 1199,99 1227,100 1235,264 212,305"/>
+                <Baseline points="212,300 1235,259"/>
+                <TextEquiv>
+                    <Unicode>Kedves barátom!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kedves barátom!</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1603271010684_1276" custom="readingOrder {index:1;}">
+            <Coords points="153,337 1948,358 1960,310 2035,310 2157,193 2247,193 2337,334 2532,337 2532,819 391,822 332,902 243,902 175,822 153,819"/>
+            <TextLine id="region_1603271010684_1276l2" custom="readingOrder {index:0;}">
+                <Coords points="215,522 326,522 437,522 548,522 659,521 770,519 881,518 992,516 1103,515 1214,513 1325,510 1436,509 1547,507 1658,506 1769,503 1880,501 1991,500 2102,500 2213,498 2324,498 2526,486 2526,386 2324,398 2211,204 2044,331 1969,316 1942,398 1769,403 1658,406 1547,407 1436,409 1331,374 1220,377 1103,415 1019,341 908,343 770,419 653,382 542,383 419,335 308,335 215,422"/>
+                <Baseline points="215,489 326,489 437,489 548,489 659,488 770,486 881,485 992,483 1103,482 1214,480 1325,477 1436,476 1547,474 1658,473 1769,470 1880,468 1991,467 2102,467 2213,465 2324,465 2519,463"/>
+                <TextEquiv>
+                    <Unicode>Légy szíves megüzenni, vajjon szándékszol</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1603271142037_1305" custom="readingOrder {index:1;}">
+                <Coords points="236,518 1024,501 1024,537 1218,525 1512,546 1645,543 1883,537 2167,509 2386,504 2384,648 233,693"/>
+                <Baseline points="233,660 340,654 448,647 555,642 663,637 770,632 878,627 985,624 1093,621 1200,618 1308,615 1416,614 1523,612 1631,612 1738,611 1846,611 1953,611 2061,611 2168,612 2276,614 2384,615"/>
+                <TextEquiv>
+                    <Unicode>e írni A Hétnek. Ha nem, akkor is</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1603271010684_1276l4" custom="readingOrder {index:2;}">
+                <Coords points="270,851 363,843 457,836 551,830 645,824 739,820 833,818 926,815 1020,813 1114,812 1208,812 1302,812 1396,812 1490,812 1583,812 1677,813 1771,813 1865,813 1959,813 2053,813 2147,812 2147,712 2053,713 1971,662 1877,662 1771,713 1677,713 1598,676 1505,676 1396,712 1296,649 1202,649 1114,712 1020,713 926,715 833,718 739,720 624,652 501,741 425,747 388,676 330,680 270,751"/>
+                <Baseline points="270,818 363,810 457,803 551,797 645,791 739,787 833,785 926,782 1020,780 1114,779 1208,779 1302,779 1396,779 1490,779 1583,779 1677,780 1771,780 1865,780 1959,780 2053,780 2147,779"/>
+                <TextEquiv>
+                    <Unicode>jó. Én nem erőltetek senkit.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Légy szíves megüzenni, vajjon szándékszol&#xD;
+e írni A Hétnek. Ha nem, akkor is&#xD;
+jó. Én nem erőltetek senkit.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1603271012372_1279" custom="readingOrder {index:2;}">
+            <Coords points="1750,813 2214,813 2214,1001 1750,1001"/>
+            <TextLine id="line_1603271200176_1323" custom="readingOrder {index:0;}">
+                <Coords points="1792,840 2195,827 2195,963 1794,997"/>
+                <Baseline points="1794,992 2195,958"/>
+                <TextEquiv>
+                    <Unicode>Híved</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Híved</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1603271015028_1282" custom="readingOrder {index:3;}">
+            <Coords points="2217,822 2551,822 2551,1125 2217,1125"/>
+            <TextLine id="line_1603271205110_1329" custom="readingOrder {index:0;}">
+                <Coords points="2235,839 2534,837 2526,1086 2227,1088"/>
+                <Baseline points="2227,1083 2526,1081"/>
+                <TextEquiv>
+                    <Unicode>Kiss</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kiss</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

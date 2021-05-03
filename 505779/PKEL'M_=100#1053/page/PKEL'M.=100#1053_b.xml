@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-10-06T10:46:56.095+02:00</Created>
+        <LastChange>2020-11-19T15:17:17.839+01:00</LastChange>
+        <TranskribusMetadata docId="505779" pageId="20976450" pageNr="2" tsid="49195406" status="IN_PROGRESS" userId="58915" imgUrl="https://files.transkribus.eu/Get?id=XQDCYMMMHTCWTMKPTPJSDDLX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KUCNWYPBUHVCSODWZOORZPPF" imageId="16117050"/>
+    </Metadata>
+    <Page imageFilename="PKEL'M.=100#1053_b.tif" imageWidth="3459" imageHeight="2344">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424717818" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1602157654277_221"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1602157654277_221" custom="readingOrder {index:0;}">
+            <Coords points="1330,1106 2135,1106 2135,1292 1330,1292"/>
+            <TextLine id="line_1602157658297_225" custom="readingOrder {index:0;}">
+                <Coords points="1351,1132 2110,1149 2106,1250 1347,1233"/>
+                <Baseline points="1347,1228 2106,1245"/>
+                <TextEquiv>
+                    <Unicode>VIII., Népszínház-utca 22.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>VIII., Népszínház-utca 22.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

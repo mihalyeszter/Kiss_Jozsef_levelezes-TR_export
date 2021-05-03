@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-28T11:43:41.169+02:00</Created>
+        <LastChange>2020-11-23T16:31:11.671+01:00</LastChange>
+        <TranskribusMetadata docId="376721" pageId="14728736" pageNr="13" tsid="49498751" status="IN_PROGRESS" userId="56520" imgUrl="https://files.transkribus.eu/Get?id=GSXIJVLLQCDEMKARZCOXBVJP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XXABAGBPWLDUCSQKLEYLWNTK" imageId="10669783"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#30_9b.tif" imageWidth="3226" imageHeight="5036">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424074701" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1590502548235_2255"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1590502548235_2255" custom="readingOrder {index:0;}">
+            <Coords points="2258,3617 1451,3617 1451,3973 2258,3973"/>
+            <TextLine id="line_1590502556542_2258" custom="readingOrder {index:0;}">
+                <Coords points="1487,3647 2226,3641 2216,3919 1477,3925"/>
+                <Baseline points="1477,3920 2216,3914"/>
+                <TextEquiv>
+                    <Unicode>Gnädige frau!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Gnädige frau!</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

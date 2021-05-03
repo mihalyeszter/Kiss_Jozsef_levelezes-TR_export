@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2021-02-22T22:55:06.497+01:00</Created>
+        <LastChange>2021-03-10T12:37:10.242+01:00</LastChange>
+        <TranskribusMetadata docId="616385" pageId="24434586" pageNr="2" tsid="53512523" status="IN_PROGRESS" userId="63384" imgUrl="https://files.transkribus.eu/Get?id=RYOFDDGODVUBZJMLOPNECYZE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TGXRREFRGXJAFKJHJNKNMESV" imageId="18809575"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#65_8b.tif" imageWidth="3401" imageHeight="2243">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425051011" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1614265488801_1148"/>
+                <RegionRefIndexed index="1" regionRef="region_1614265494063_1156"/>
+                <RegionRefIndexed index="2" regionRef="region_1614265499910_1164"/>
+                <RegionRefIndexed index="3" regionRef="region_1614265504474_1172"/>
+                <RegionRefIndexed index="4" regionRef="region_1614265535684_1180"/>
+                <RegionRefIndexed index="5" regionRef="region_1614265598378_1185"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1614265488801_1148" custom="readingOrder {index:0;}">
+            <Coords points="344,195 341,423 2285,423 2288,195"/>
+            <TextLine id="line_1614265488832_1151" custom="readingOrder {index:0;}">
+                <Coords points="338,220 2281,193 2285,396 342,423"/>
+                <Baseline points="342,418 2285,391"/>
+                <TextEquiv>
+                    <Unicode>Jahre sind verronnen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Jahre sind verronnen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1614265494063_1156" custom="readingOrder {index:1;}">
+            <Coords points="2317,302 2178,404 336,426 336,581 2323,581 2323,404"/>
+            <TextLine id="line_1614265494094_1159" custom="readingOrder {index:0;}">
+                <Coords points="336,444 2183,409 2317,313 2322,406 2323,543 337,581"/>
+                <Baseline points="337,576 2323,538"/>
+                <TextEquiv>
+                    <Unicode>Sie kehren nie zurück</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Sie kehren nie zurück</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1614265499910_1164" custom="readingOrder {index:2;}">
+            <Coords points="363,587 363,779 2505,726 2510,587"/>
+            <TextLine id="line_1614265499948_1167" custom="readingOrder {index:0;}">
+                <Coords points="364,600 2509,590 2510,717 364,779"/>
+                <Baseline points="364,774 2510,712"/>
+                <TextEquiv>
+                    <Unicode>Verlebe die da Rommen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Verlebe die da Rommen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1614265504474_1172" custom="readingOrder {index:3;}">
+            <Coords points="2995,576 2516,586 2513,728 371,787 371,983 2934,913 2955,718"/>
+            <TextLine id="line_1614265504521_1175" custom="readingOrder {index:0;}">
+                <Coords points="371,801 2516,728 2524,592 2987,584 2922,720 2923,902 372,983"/>
+                <Baseline points="372,978 2923,897"/>
+                <TextEquiv>
+                    <Unicode>In Freuden und in Glück</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>In Freuden und in Glück</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1614265535684_1180" custom="readingOrder {index:4;}">
+            <Coords points="3279,1037 340,1037 340,1471 348,1653 1717,1613 1798,1495 3279,1471"/>
+            <TextLine id="line_1614265649756_1194" custom="readingOrder {index:0;}">
+                <Coords points="767,1146 3259,1042 3258,1264 766,1368"/>
+                <Baseline points="766,1363 3258,1259"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1614265655088_1199" custom="readingOrder {index:1;}">
+                <Coords points="405,1392 2892,1287 2888,1450 1757,1484 1696,1602 404,1645 401,1555"/>
+                <Baseline points="401,1535 2888,1430"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>&#xD;
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1614265598378_1185" custom="readingOrder {index:5;}">
+            <Coords points="1723,1856 1835,1505 2848,1489 2861,2173 1835,2173"/>
+            <TextLine id="line_1614265640711_1189" custom="readingOrder {index:0;}">
+                <Coords points="1733,1851 1848,1503 2848,1500 2837,2135 1856,2161"/>
+                <Baseline points="1964,1706 2636,1704"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

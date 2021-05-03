@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-29T10:54:38.475+02:00</Created>
+        <LastChange>2020-07-13T13:24:39.065+02:00</LastChange>
+        <TranskribusMetadata docId="377228" pageId="14767649" pageNr="12" tsid="34292954" status="IN_PROGRESS" userId="56520" imgUrl="https://files.transkribus.eu/Get?id=TUISSSFJRPBTRBSVSQTCCJIS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RZDTULWLMKYKYKFLWUAENRSG" imageId="10707488"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#34_4g.tif" imageWidth="2585" imageHeight="1655">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424048861" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1594317346832_1484"/>
+                <RegionRefIndexed index="1" regionRef="region_1594317353559_1492"/>
+                <RegionRefIndexed index="2" regionRef="region_1594317358471_1500"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1594317346832_1484" custom="readingOrder {index:0;}">
+            <Coords points="380,221 374,450 2449,450 2455,221"/>
+            <TextLine id="line_1594317346863_1487" custom="readingOrder {index:0;}">
+                <Coords points="374,370 2449,370 2449,420 374,420"/>
+                <Baseline points="374,415 2449,415"/>
+                <TextEquiv>
+                    <Unicode>Elébb tejet, aztán bort!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Elébb tejet, aztán bort!</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1594317353559_1492" custom="readingOrder {index:1;}">
+            <Coords points="395,447 393,711 2510,711 2514,423"/>
+            <TextLine id="line_1594317353606_1495" custom="readingOrder {index:0;}">
+                <Coords points="393,455 2512,432 2510,710 393,696"/>
+                <Baseline points="393,589 2510,603"/>
+                <TextEquiv>
+                    <Unicode>Kevés gondot, tisztes kort!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kevés gondot, tisztes kort!</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1594317358471_1500" custom="readingOrder {index:2;}">
+            <Coords points="1928,811 1920,1390 2479,1390 2487,811"/>
+            <TextLine id="line_1594317358518_1503" custom="readingOrder {index:0;}">
+                <Coords points="1928,824 2487,820 2493,1374 1934,1378"/>
+                <Baseline points="1924,1070 2483,1066"/>
+                <TextEquiv>
+                    <Unicode>Kiss</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kiss</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

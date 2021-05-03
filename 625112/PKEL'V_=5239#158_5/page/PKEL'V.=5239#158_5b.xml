@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2021-03-08T15:03:26.678+01:00</Created>
+        <LastChange>2021-03-11T15:33:54.819+01:00</LastChange>
+        <TranskribusMetadata docId="625112" pageId="24636775" pageNr="2" tsid="53586085" status="IN_PROGRESS" userId="56520" imgUrl="https://files.transkribus.eu/Get?id=AFSKLMJPZKSTPOGEHUUAMHQY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PLHYBSZRONPIYDCEYXSQIDKK" imageId="18980990"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#158_5b.tif" imageWidth="2280" imageHeight="3530">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424979053" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1615460284278_628"/>
+                <RegionRefIndexed index="1" regionRef="region_1615460293038_636"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1615460284278_628" custom="readingOrder {index:0;}">
+            <Coords points="1517,485 1517,598 2043,598 2043,485"/>
+            <TextLine id="line_1615460284308_631" custom="readingOrder {index:0;} unclear {offset:0; length:12;}">
+                <Coords points="1518,494 2043,500 2042,598 1517,592"/>
+                <Baseline points="1517,587 2042,593"/>
+                <TextEquiv>
+                    <Unicode>tisztelettel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>tisztelettel</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1615460293038_636" custom="readingOrder {index:1;}">
+            <Coords points="1421,538 1427,1187 2124,1190 2118,541"/>
+            <TextLine id="line_1615460293068_639" custom="readingOrder {index:0;} gap {offset:9; length:0;}">
+                <Coords points="1568,525 2012,563 2112,642 2128,1172 2078,1174 1721,1165 1455,1057 1434,676"/>
+                <Baseline points="1545,681 1954,744 2059,827 2079,1190"/>
+                <TextEquiv>
+                    <Unicode>Berey Ele</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Berey Ele</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

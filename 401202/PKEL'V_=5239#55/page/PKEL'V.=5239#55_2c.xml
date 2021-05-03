@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-06-03T13:27:12.373+02:00</Created>
+        <LastChange>2020-11-24T13:10:31.008+01:00</LastChange>
+        <TranskribusMetadata docId="401202" pageId="15522827" pageNr="5" tsid="49522569" status="IN_PROGRESS" userId="56520" imgUrl="https://files.transkribus.eu/Get?id=KNGBZIJDTVNTXABEMNVDBMTM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QDABEIOEFAZAAULVDEPVCJHI" imageId="11350740"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#55_2c.tif" imageWidth="4168" imageHeight="5475">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424302859" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1592940577200_1022"/>
+                <RegionRefIndexed index="1" regionRef="region_1592940599713_1025"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1592940577200_1022" custom="readingOrder {index:0;}">
+            <Coords points="235,379 4102,379 4102,1616 235,1616"/>
+            <TextLine id="line_1592940673472_1028" custom="readingOrder {index:0;}">
+                <Coords points="345,410 4050,421 4056,835 351,824"/>
+                <Baseline points="351,742 4056,753"/>
+                <TextEquiv>
+                    <Unicode>dolnám, hogy első számjában</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1592940680352_1033" custom="readingOrder {index:1;}">
+                <Coords points="257,819 4095,842 4082,1164 244,1141"/>
+                <Baseline points="247,1104 4085,1127"/>
+                <TextEquiv>
+                    <Unicode>prózát adna, második számjában</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1592940686630_1038" custom="readingOrder {index:2;}">
+                <Coords points="250,1170 2840,1257 2828,1604 241,1596"/>
+                <Baseline points="241,1455 2831,1542"/>
+                <TextEquiv>
+                    <Unicode>pedig költeményeket.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>dolnám, hogy első számjában&#xD;
+prózát adna, második számjában&#xD;
+pedig költeményeket.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1592940599713_1025" custom="readingOrder {index:1;}">
+            <Coords points="4125,1622 235,1622 235,5121 4125,5121"/>
+            <TextLine id="line_1592940693667_1043" custom="readingOrder {index:0;}">
+                <Coords points="835,1628 4091,1646 4091,2041 834,1990"/>
+                <Baseline points="834,1870 4091,1921"/>
+                <TextEquiv>
+                    <Unicode>Hogy kinek keresse kedvét?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1592940699277_1048" custom="readingOrder {index:1;} textStyle {offset:0; length:12;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="273,1908 4105,2017 4082,2471 250,2362"/>
+                <Baseline points="247,2267 4079,2376"/>
+                <TextEquiv>
+                    <Unicode>Mindnyájunknak. Majd megpró¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1592940705474_1053" custom="readingOrder {index:2;} sic {offset:20; length:4;}">
+                <Coords points="272,2367 4104,2517 4076,2894 244,2744"/>
+                <Baseline points="247,2675 4079,2825"/>
+                <TextEquiv>
+                    <Unicode>bálom, hogy másnap, 17én, eset¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1592940712049_1058" custom="readingOrder {index:3;}">
+                <Coords points="245,2800 3957,2909 3960,3344 241,3287"/>
+                <Baseline points="241,3113 3953,3222"/>
+                <TextEquiv>
+                    <Unicode>leg kimegyünk Mezőcsáthra</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1592940719639_1063" custom="readingOrder {index:4;}">
+                <Coords points="267,3240 3937,3295 3930,3752 233,3685"/>
+                <Baseline points="247,3550 3924,3711"/>
+                <TextEquiv>
+                    <Unicode>s ott megismételjük a czéczót,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1592940725354_1068" custom="readingOrder {index:5;}">
+                <Coords points="275,3700 3917,3838 3897,4285 266,4179"/>
+                <Baseline points="270,4016 3912,4154"/>
+                <TextEquiv>
+                    <Unicode>megalakítván egyuttal ott</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1592940732075_1073" custom="readingOrder {index:6;}">
+                <Coords points="269,4151 4050,4301 4039,4654 259,4540"/>
+                <Baseline points="258,4499 4039,4649"/>
+                <TextEquiv>
+                    <Unicode>fiókunkat. Ön nevezetesen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1592940738591_1078" custom="readingOrder {index:7;}">
+                <Coords points="302,4604 4106,4713 4082,5103 270,5089"/>
+                <Baseline points="281,4971 4085,5080"/>
+                <TextEquiv>
+                    <Unicode>erre is ígéretet tett. Ebben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Hogy kinek keresse kedvét?&#xD;
+Mindnyájunknak. Majd megpró¬&#xD;
+bálom, hogy másnap, 17én, eset¬&#xD;
+leg kimegyünk Mezőcsáthra&#xD;
+s ott megismételjük a czéczót,&#xD;
+megalakítván egyuttal ott&#xD;
+fiókunkat. Ön nevezetesen&#xD;
+erre is ígéretet tett. Ebben</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>PKEL'V.=5713#3</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: eszter.mihaly@gmail.com</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile xml:id='facs_1'>
+		<surface ulx='0' uly='0' lrx='2643' lry='1578'>
+			<graphic url='PKEL'V.=5713#3_a.tif' width='2643px' height='1578px'/>
+			<zone ulx='158' uly='138' lrx='2525' lry='1012' rendition='TextRegion' xml:id='facs_1_region_1603803089936_919'>
+				<zone ulx='321' uly='143' lrx='2456' lry='386' rendition='Line' xml:id='facs_1_region_1603803089936_919l1'/>
+				<zone ulx='194' uly='321' lrx='2390' lry='489' rendition='Line' xml:id='facs_1_region_1603803089936_919l2'/>
+				<zone ulx='195' uly='443' lrx='2518' lry='605' rendition='Line' xml:id='facs_1_region_1603803089936_919l3'/>
+				<zone ulx='206' uly='603' lrx='2432' lry='735' rendition='Line' xml:id='facs_1_region_1603803089936_919l4'/>
+				<zone ulx='210' uly='707' lrx='2514' lry='872' rendition='Line' xml:id='facs_1_region_1603803089936_919l5'/>
+				<zone ulx='200' uly='845' lrx='1355' lry='992' rendition='Line' xml:id='facs_1_region_1603803089936_919l6'/>
+			</zone>
+			<zone ulx='1429' uly='853' lrx='1914' lry='1081' rendition='TextRegion' xml:id='facs_1_region_1603803093345_922'>
+				<zone ulx='1458' uly='863' lrx='1846' lry='1074' rendition='Line' xml:id='facs_1_line_1603803257675_941'/>
+			</zone>
+			<zone ulx='1603' uly='856' lrx='2560' lry='1355' rendition='TextRegion' xml:id='facs_1_region_1603803098186_925'>
+				<zone ulx='1633' uly='881' lrx='2545' lry='1310' rendition='Line' xml:id='facs_1_line_1603803280549_952'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id='facs_2'>
+		<surface ulx='0' uly='0' lrx='2636' lry='1555'>
+			<graphic url='PKEL'V.=5713#3_b.tif' width='2636px' height='1555px'/>
+			<zone ulx='916' uly='648' lrx='1700' lry='836' rendition='TextRegion' xml:id='facs_2_region_1603803062978_903'>
+				<zone ulx='980' uly='673' lrx='1662' lry='803' rendition='Line' xml:id='facs_2_line_1603803067643_907'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<pb facs='#facs_1' n='1'/>
+			<p facs='#facs_1_region_1603803089936_919'>
+				<lb facs='#facs_1_region_1603803089936_919l1' n='N001'/>Kedves barátom! Az idecsatolt <hi rend='strikethrough:true; fontSize:0.0; kerning:0;'>j</hi><add>k</add>is
+				<lb facs='#facs_1_region_1603803089936_919l2' n='N002'/>ujdonságot <add><gap />b</add>ecses pártfogásába
+				<lb facs='#facs_1_region_1603803089936_919l3' n='N003'/>ajánlom. Beállottam kőnyoma¬
+				<lb facs='#facs_1_region_1603803089936_919l4' n='N004'/>tosnak – ingyen. Nagy erény
+				<lb facs='#facs_1_region_1603803089936_919l5' n='N005'/>corrumpált világunkban. Közlése
+				<lb facs='#facs_1_region_1603803089936_919l6' n='N006'/>által lekötelezi
+			</p>
+			<p facs='#facs_1_region_1603803093345_922'>
+				<lb facs='#facs_1_line_1603803257675_941' n='N001'/>hívét
+			</p>
+			<p facs='#facs_1_region_1603803098186_925'>
+				<lb facs='#facs_1_line_1603803280549_952' n='N001'/>Kiss Józsefet
+			</p>
+			<pb facs='#facs_2' n='2'/>
+			<p facs='#facs_2_region_1603803062978_903'>
+				<lb facs='#facs_2_line_1603803067643_907' n='N001'/>Kiss József
+			</p>
+		</body>
+	</text>
+</TEI>

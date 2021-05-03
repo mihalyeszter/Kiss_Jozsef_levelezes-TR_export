@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2021-03-08T11:33:55.907+01:00</Created>
+        <LastChange>2021-03-16T13:58:25.081+01:00</LastChange>
+        <TranskribusMetadata docId="624836" pageId="24630929" pageNr="2" tsid="53769396" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=HTUSBQNQSHBBSCODAZLQKIRR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FRICVMBRHULOJNFGFQILAEBI" imageId="18975281"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#158_1b.tif" imageWidth="3461" imageHeight="2285">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425040759" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1615393274911_4249"/>
+                <RegionRefIndexed index="1" regionRef="region_1615393284013_4257"/>
+                <RegionRefIndexed index="2" regionRef="region_1615393288056_4265"/>
+                <RegionRefIndexed index="3" regionRef="region_1615393293830_4273"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1615393274911_4249" custom="readingOrder {index:0;}">
+            <Coords points="771,1759 774,1862 1483,1862 1475,1740"/>
+            <TextLine id="line_1615393274951_4252" custom="readingOrder {index:0;}">
+                <Coords points="774,1770 1483,1740 1480,1853 775,1859"/>
+                <Baseline points="775,1839 1483,1822"/>
+                <TextEquiv>
+                    <Unicode>1902 aug. 26.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1902 aug. 26.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1615393284013_4257" custom="readingOrder {index:1;}">
+            <Coords points="358,1873 361,1979 1382,1979 1379,1873"/>
+            <TextLine id="line_1615393284050_4260" custom="readingOrder {index:0;}">
+                <Coords points="356,1881 1381,1879 1382,1962 362,1979"/>
+                <Baseline points="362,1974 1382,1957"/>
+                <TextEquiv>
+                    <Unicode>A czikk indúl.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>A czikk indúl.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1615393288056_4265" custom="readingOrder {index:2;}">
+            <Coords points="1491,1837 1491,1979 1924,1979 1924,1837"/>
+            <TextLine id="line_1615393288090_4268" custom="readingOrder {index:0;}">
+                <Coords points="1485,1847 1922,1844 1924,1970 1492,1979"/>
+                <Baseline points="1492,1974 1924,1965"/>
+                <TextEquiv>
+                    <Unicode>Üdvözli</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Üdvözli</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1615393293830_4273" custom="readingOrder {index:3;}">
+            <Coords points="1974,1889 1838,2131 2816,2131 2952,1889"/>
+            <TextLine id="line_1615393293871_4276" custom="readingOrder {index:0;}">
+                <Coords points="1966,1896 2944,1896 2825,2125 1847,2125"/>
+                <Baseline points="1865,2078 2843,2078"/>
+                <TextEquiv>
+                    <Unicode>Herman Ottó</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Herman Ottó</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

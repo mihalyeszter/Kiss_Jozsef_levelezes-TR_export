@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-12-11T12:56:41.932+01:00</Created>
+        <LastChange>2020-12-11T18:10:16.104+01:00</LastChange>
+        <TranskribusMetadata docId="554530" pageId="22967302" pageNr="2" tsid="50275022" status="IN_PROGRESS" userId="56520" imgUrl="https://files.transkribus.eu/Get?id=NFFACEUPMRXUNOPGCFFFVGAK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RHZBTMQEIJSOMNLMFYLXQEYR" imageId="17920553"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#136_b.tif" imageWidth="2576" imageHeight="1688">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424823630" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1607693572955_607"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1607693674631_617"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1607693572955_607" custom="readingOrder {index:0;}">
+            <Coords points="514,637 2116,637 2116,893 1898,891 1775,1002 1713,1005 1808,893 514,893"/>
+            <TextLine id="line_1607693714115_629" custom="readingOrder {index:0;}">
+                <Coords points="526,649 2112,649 2100,889 1886,891 1780,997 1725,1002 1825,881 514,889"/>
+                <Baseline points="514,884 2100,884"/>
+                <TextEquiv>
+                    <Unicode>Glasner Ernő és neje</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Glasner Ernő és neje</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="TextRegion_1607693674631_617" custom="readingOrder {index:1;}">
+            <Coords points="116,889 1805,889 1803,893 1718,1009 1792,1005 1912,891 1914,889 2458,889 2458,1438 116,1438"/>
+            <TextLine id="line_1607693932262_672" custom="readingOrder {index:0;}">
+                <Coords points="171,904 1788,900 1732,1000 1796,1000 1887,899 2298,899 2292,999 165,1004"/>
+                <Baseline points="165,993 2292,988"/>
+                <TextEquiv>
+                    <Unicode>szívből üdvözlik a mai</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1607693727479_639" custom="readingOrder {index:1;}">
+                <Coords points="128,1007 2389,993 2391,1121 128,1161"/>
+                <Baseline points="132,1131 2382,1099"/>
+                <TextEquiv>
+                    <Unicode>jubileum alkalmából. Az</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1607693734562_644" custom="readingOrder {index:2;}">
+                <Coords points="230,1168 2283,1123 2282,1236 229,1281"/>
+                <Baseline points="229,1256 2282,1211"/>
+                <TextEquiv>
+                    <Unicode>egész országgal együtt ők</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1607693741433_649" custom="readingOrder {index:3;}">
+                <Coords points="164,1287 2446,1234 2455,1410 167,1443"/>
+                <Baseline points="163,1384 2451,1351"/>
+                <TextEquiv>
+                    <Unicode>is ünnepelik a nagy költőt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>szívből üdvözlik a mai&#xD;
+jubileum alkalmából. Az&#xD;
+egész országgal együtt ők&#xD;
+is ünnepelik a nagy költőt</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

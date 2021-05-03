@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-09-21T14:09:27.776+02:00</Created>
+        <LastChange>2020-11-24T09:21:31.367+01:00</LastChange>
+        <TranskribusMetadata docId="533178" pageId="22539252" pageNr="7" tsid="49514131" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=ITYZXQRKIRXHKWOXYOBZEERU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BZVHWYDILZDCSQOSEHORTKCB" imageId="17543191"/>
+    </Metadata>
+    <Page imageFilename="PKEL'2016.25.2._3b.tif" imageWidth="2501" imageHeight="1590">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424633443" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1604586138121_705"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1604586204335_722"/>
+                <RegionRefIndexed index="2" regionRef="region_1604586147716_711"/>
+                <RegionRefIndexed index="3" regionRef="region_1604586150772_714"/>
+                <RegionRefIndexed index="4" regionRef="region_1604586153582_717"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="region_1604586138121_705" custom="readingOrder {index:0;}">
+            <Coords points="272,120 1036,120 1036,334 272,334"/>
+            <TextLine id="region_1604586138121_705l1" custom="readingOrder {index:0;}">
+                <Coords points="306,340 1007,358 1013,142 312,124"/>
+                <Baseline points="306,290 339,293 372,296 405,298 439,299 472,299 505,299 538,297 572,296 605,294 638,292 671,291 705,290 738,288 771,288 804,290 838,290 871,293 904,296 937,302 971,308"/>
+                <TextEquiv>
+                    <Unicode>Kedves Oszkár!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kedves Oszkár!</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1604586204335_722" custom="readingOrder {index:1;}">
+            <Coords points="104,347 2317,347 2317,702 847,691 850,867 104,867"/>
+            <TextLine id="TextRegion_1604586204335_722l2" custom="readingOrder {index:0;}">
+                <Coords points="245,514 2036,536 2036,356 245,334"/>
+                <Baseline points="245,485 331,486 417,488 503,489 589,491 675,491 761,491 847,491 933,491 1019,491 1106,492 1192,492 1278,492 1364,494 1450,494 1536,495 1622,498 1708,500 1794,504 1880,508 1967,513"/>
+                <TextEquiv>
+                    <Unicode>Nem tudok egy betűt se kihozni.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1604586204335_722l3" custom="readingOrder {index:1;} sic {offset:26; length:4;}">
+                <Coords points="150,657 2242,691 2257,547 165,513"/>
+                <Baseline points="150,623 250,630 351,635 452,639 553,642 653,647 754,648 855,651 956,653 1056,654 1157,654 1258,656 1359,656 1459,657 1560,657 1661,659 1762,659 1862,660 1963,660 2064,662 2165,663 2192,673 2227,668"/>
+                <TextEquiv>
+                    <Unicode>írd le magadnak. Ma ismét rosz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1604586204335_722l4" custom="readingOrder {index:2;}">
+                <Coords points="186,832 825,868 825,706 186,670"/>
+                <Baseline points="186,777 216,779 246,781 276,783 306,785 336,788 366,789 396,793 426,795 456,797 486,800 516,803 546,805 576,807 606,808 636,810 666,812 696,813 726,813 756,813 786,813"/>
+                <TextEquiv>
+                    <Unicode>napom volt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Nem tudok egy betűt se kihozni.&#xD;
+írd le magadnak. Ma ismét rosz&#xD;
+napom volt.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1604586147716_711" custom="readingOrder {index:2;}">
+            <Coords points="1302,699 2081,699 2081,926 1302,926"/>
+            <TextLine id="region_1604586147716_711l1" custom="readingOrder {index:0;}">
+                <Coords points="1341,893 2075,919 2084,724 1350,698"/>
+                <Baseline points="1341,843 1372,848 1404,852 1435,855 1467,858 1499,860 1530,861 1562,863 1593,863 1625,864 1657,864 1688,864 1720,864 1751,864 1783,866 1815,866 1846,867 1878,869 1909,870 1941,872 1973,875 2009,883 2060,880"/>
+                <TextEquiv>
+                    <Unicode>Ölel híved</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ölel híved</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1604586150772_714" custom="readingOrder {index:3;}">
+            <Coords points="1519,934 2182,934 2182,1421 1519,1421"/>
+            <TextLine id="region_1604586150772_714l1" custom="readingOrder {index:0;}">
+                <Coords points="1538,1264 2157,1265 2178,948 1559,947"/>
+                <Baseline points="1650,1208 1675,1206 1700,1205 1726,1207 1751,1210 1776,1213 1802,1214 1827,1213 1853,1209"/>
+                <TextEquiv>
+                    <Unicode>Kiss</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kiss</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1604586153582_717" custom="readingOrder {index:4;}">
+            <Coords points="133,989 1229,989 1229,1367 133,1367"/>
+            <TextLine id="region_1604586153582_717l2" custom="readingOrder {index:0;}">
+                <Coords points="251,1287 1107,1359 1143,1062 287,990"/>
+                <Baseline points="251,1259 293,1264 336,1270 379,1274 422,1279 465,1282 507,1285 550,1287 593,1290 636,1292 679,1295 721,1296 764,1298 807,1301 850,1304 893,1307 935,1310 978,1315 1021,1320 1064,1325 1107,1331"/>
+                <TextEquiv>
+                    <Unicode>Kézirat vissza!!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kézirat vissza!!</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

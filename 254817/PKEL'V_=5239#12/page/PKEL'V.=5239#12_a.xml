@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2019-11-19T11:37:22.345+01:00</Created>
+        <LastChange>2020-11-23T10:48:14.479+01:00</LastChange>
+        <TranskribusMetadata docId="254817" pageId="11132972" pageNr="1" tsid="49476941" status="IN_PROGRESS" userId="56520" imgUrl="https://files.transkribus.eu/Get?id=MVWHQABSUUPVAWTWWGZPPSKF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ISLLRQHOGMDWMMRVIGVPDBDJ" imageId="7597756"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#12_a.tif" imageWidth="2817" imageHeight="1786">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619423893292" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1574163123345_39"/>
+                <RegionRefIndexed index="1" regionRef="region_1574163137426_42"/>
+                <RegionRefIndexed index="2" regionRef="region_1574163147722_45"/>
+                <RegionRefIndexed index="3" regionRef="region_1574163152890_48"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1574163123345_39" custom="readingOrder {index:0;}">
+            <Coords points="171,168 2347,168 2347,475 171,475"/>
+            <TextLine id="line_1574163168440_51" custom="readingOrder {index:0;}">
+                <Coords points="229,145 2245,152 2239,485 223,478"/>
+                <Baseline points="231,425 2247,432"/>
+                <TextEquiv>
+                    <Unicode>Kedves Korányi szomszéd!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kedves Korányi szomszéd!</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1574163137426_42" custom="readingOrder {index:1;}">
+            <Coords points="144,475 2710,475 2710,1166 144,1166"/>
+            <TextLine id="line_1574163173517_56" custom="readingOrder {index:0;}">
+                <Coords points="158,445 2738,495 2727,812 147,762"/>
+                <Baseline points="154,685 2734,735"/>
+                <TextEquiv>
+                    <Unicode>Küldjön nekem egy adag 3 perczentes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1574163178957_61" custom="readingOrder {index:1;} comment {offset:0; length:6;comment:Szénsavat\u0020tartalmazó,\u0020gyógy-\u0020vagy\u0020ásványvíz\u0020erdélyi\u0020neve.;}">
+                <Coords points="180,692 2605,716 2595,966 170,942"/>
+                <Baseline points="205,882 2597,906"/>
+                <TextEquiv>
+                    <Unicode>borvizet. Délután, ha a dokto¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1574163184285_66" custom="readingOrder {index:2;}">
+                <Coords points="192,880 2694,954 2679,1213 177,1139"/>
+                <Baseline points="185,1089 2687,1163"/>
+                <TextEquiv>
+                    <Unicode>rom eljön, megírja a reczeptet.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Küldjön nekem egy adag 3 perczentes&#xD;
+borvizet. Délután, ha a dokto¬&#xD;
+rom eljön, megírja a reczeptet.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1574163147722_45" custom="readingOrder {index:2;}">
+            <Coords points="1139,1122 2066,1122 2066,1396 1139,1396"/>
+            <TextLine id="line_1574163188181_71" custom="readingOrder {index:0;}">
+                <Coords points="1162,1098 2089,1138 2057,1407 1130,1367"/>
+                <Baseline points="1146,1293 2073,1333"/>
+                <TextEquiv>
+                    <Unicode>Üdvözlettel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Üdvözlettel</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1574163152890_48" custom="readingOrder {index:3;}">
+            <Coords points="1493,1386 2117,1386 2117,1703 1493,1703"/>
+            <TextLine id="line_1574163191677_76" custom="readingOrder {index:0;}">
+                <Coords points="1475,1391 2002,1361 2024,1657 1497,1687"/>
+                <Baseline points="1493,1636 2020,1606"/>
+                <TextEquiv>
+                    <Unicode>Kiss</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kiss</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-28T13:02:37.776+02:00</Created>
+        <LastChange>2020-11-13T12:43:32.346+01:00</LastChange>
+        <TranskribusMetadata docId="376795" pageId="14734676" pageNr="60" tsid="48644224" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=MKVOLPCZJXORJMIAZHWVTQKM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VARZQJJOBFIFAYLADFXTBPCX" imageId="10675698"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#33_26a.tif" imageWidth="3468" imageHeight="2396">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424139808" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1597313515362_899"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1597313515362_898"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="TextRegion_1597313515362_899" custom="readingOrder {index:0;}">
+            <Coords points="292,1947 3363,1947 3361,2021 3356,2022 3209,2027 3171,2149 3037,2286 3023,2300 283,2300"/>
+            <TextLine id="line_1597313488401_881" custom="readingOrder {index:0;}">
+                <Coords points="379,2032 2933,1970 3165,2057 3173,2107 2725,2132 168,2194"/>
+                <Baseline points="335,2196 2892,2134 3186,2091"/>
+                <TextEquiv>
+                    <Unicode>Ma szép idö van. Tegnap esett. Télen mindig hideg</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597313492617_886" custom="readingOrder {index:1;}">
+                <Coords points="348,2180 2603,2151 2598,2263 343,2292"/>
+                <Baseline points="363,2291 2598,2258"/>
+                <TextEquiv>
+                    <Unicode>van, nyáron mindig meleg van és a többi.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ma szép idö van. Tegnap esett. Télen mindig hideg&#xD;
+van, nyáron mindig meleg van és a többi.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="TextRegion_1597313515362_898" custom="readingOrder {index:1;}">
+            <Coords points="3209,2027 3356,2022 3361,2021 3354,2300 3023,2300 3037,2286 3171,2149"/>
+            <TextLine id="line_1597313495847_891" custom="readingOrder {index:0;}">
+                <Coords points="3219,2039 3364,2046 3309,2276 3109,2276"/>
+                <Baseline points="3109,2271 3309,2271"/>
+                <TextEquiv>
+                    <Unicode>K.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>K.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

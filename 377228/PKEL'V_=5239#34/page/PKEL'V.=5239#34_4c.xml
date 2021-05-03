@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-29T10:54:38.238+02:00</Created>
+        <LastChange>2020-08-03T15:21:23.455+02:00</LastChange>
+        <TranskribusMetadata docId="377228" pageId="14767623" pageNr="9" tsid="35982014" status="IN_PROGRESS" userId="56520" imgUrl="https://files.transkribus.eu/Get?id=PDIVHMMGHMXBCBFUBKGZDBMT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TDJEMJAOTOKFAOGZFIHVUZPG" imageId="10707462"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#34_4c.tif" imageWidth="3997" imageHeight="3181">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424048012" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1594316835370_1270"/>
+                <RegionRefIndexed index="1" regionRef="region_1594316841375_1278"/>
+                <RegionRefIndexed index="2" regionRef="region_1594316849026_1286"/>
+                <RegionRefIndexed index="3" regionRef="region_1594316854184_1294"/>
+                <RegionRefIndexed index="4" regionRef="region_1594316860538_1302"/>
+                <RegionRefIndexed index="5" regionRef="region_1594316867334_1310"/>
+                <RegionRefIndexed index="6" regionRef="region_1594316886589_1334"/>
+                <RegionRefIndexed index="7" regionRef="region_1594316875359_1318"/>
+                <RegionRefIndexed index="8" regionRef="region_1594316880821_1326"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1594316835370_1270" custom="readingOrder {index:0;}">
+            <Coords points="331,605 331,681 885,681 885,605"/>
+            <TextLine id="line_1594316835385_1273" custom="readingOrder {index:0;}">
+                <Coords points="332,608 885,619 884,681 331,670"/>
+                <Baseline points="331,665 884,676"/>
+                <TextEquiv>
+                    <Unicode>Grand-Hotel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Grand-Hotel</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1594316841375_1278" custom="readingOrder {index:1;}">
+            <Coords points="572,684 572,740 641,740 641,684"/>
+            <TextLine id="line_1594316841390_1281" custom="readingOrder {index:0;}">
+                <Coords points="576,684 641,690 637,740 572,734"/>
+                <Baseline points="572,729 637,735"/>
+                <TextEquiv>
+                    <Unicode>&amp;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>&amp;</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1594316849026_1286" custom="readingOrder {index:2;}">
+            <Coords points="322,746 325,805 872,805 869,746"/>
+            <TextLine id="line_1594316849057_1289" custom="readingOrder {index:0;}">
+                <Coords points="325,749 872,749 872,805 325,805"/>
+                <Baseline points="325,800 872,800"/>
+                <TextEquiv>
+                    <Unicode>Meraner-Hof</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Meraner-Hof</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1594316854184_1294" custom="readingOrder {index:3;}">
+            <Coords points="490,855 490,905 707,905 707,855"/>
+            <TextLine id="line_1594316854206_1297" custom="readingOrder {index:0;}">
+                <Coords points="490,855 707,855 707,905 490,905"/>
+                <Baseline points="490,900 707,900"/>
+                <TextEquiv>
+                    <Unicode>Meran</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Meran</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1594316860538_1302" custom="readingOrder {index:4;}">
+            <Coords points="996,771 990,1165 1777,1165 1783,771"/>
+            <TextLine id="line_1594316860569_1305" custom="readingOrder {index:0;}">
+                <Coords points="994,769 1777,833 1773,1153 990,1130"/>
+                <Baseline points="990,1030 1773,1094"/>
+                <TextEquiv>
+                    <Unicode>Nagyságos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Nagyságos</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1594316867334_1310" custom="readingOrder {index:5;}">
+            <Coords points="1049,1184 1047,1600 3396,1600 3398,1184"/>
+            <TextLine id="line_1594316867370_1313" custom="readingOrder {index:0;}">
+                <Coords points="1039,1210 3388,1204 3392,1576 1043,1582"/>
+                <Baseline points="1043,1536 3392,1530"/>
+                <TextEquiv>
+                    <Unicode>Dr Braun Sándor úrnak</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Dr Braun Sándor úrnak</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1594316886589_1334" custom="readingOrder {index:6;}">
+            <Coords points="581,1950 581,2558 1385,2558 1385,1950"/>
+            <TextLine id="line_1594316886651_1337" custom="readingOrder {index:0;}">
+                <Coords points="592,1965 1379,1962 1386,2558 592,2549"/>
+                <Baseline points="584,2060 1361,2554"/>
+                <TextEquiv>
+                    <Unicode>Ungarn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ungarn</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1594316875359_1318" custom="readingOrder {index:7;}">
+            <Coords points="2461,2244 2463,2588 3388,2588 3386,2244"/>
+            <TextLine id="line_1594316875390_1321" custom="readingOrder {index:0;} textStyle {offset:0; length:8;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="2465,2270 3389,2247 3388,2571 2464,2594"/>
+                <Baseline points="2462,2501 3386,2478"/>
+                <TextEquiv>
+                    <Unicode>Budapest</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Budapest</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1594316880821_1326" custom="readingOrder {index:8;}">
+            <Coords points="2294,2575 2294,2899 3374,2899 3374,2575"/>
+            <TextLine id="line_1594316880875_1329" custom="readingOrder {index:0;}">
+                <Coords points="2294,2603 3369,2574 3367,2882 2303,2882"/>
+                <Baseline points="2297,2802 3374,2731"/>
+                <TextEquiv>
+                    <Unicode>Rákóczy-ut 78</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Rákóczy-ut 78</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

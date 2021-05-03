@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=kj_keze_osszes_3(htr_id=27544)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2021-01-22T00:20:36.891+01:00</Created>
+        <LastChange>2021-03-04T13:47:13.937+01:00</LastChange>
+        <TranskribusMetadata docId="580865" pageId="24576502" pageNr="1" tsid="53304983" status="IN_PROGRESS" userId="73049" imgUrl="https://files.transkribus.eu/Get?id=GXJELEKLULBRGJMDNMSDUUUG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MGPGWTHABZKCOYILZXFLVSMG" imageId="18926354"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#417_2a.tif" imageWidth="3808" imageHeight="3130">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424898523" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1611271410093_9"/>
+                <RegionRefIndexed index="1" regionRef="region_1611271412952_12"/>
+                <RegionRefIndexed index="2" regionRef="region_1611271414973_15"/>
+                <RegionRefIndexed index="3" regionRef="region_1611271416924_18"/>
+                <RegionRefIndexed index="4" regionRef="region_1611271422734_21"/>
+                <RegionRefIndexed index="5" regionRef="region_1611271424706_24"/>
+                <RegionRefIndexed index="6" regionRef="region_1611271426812_27"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="region_1611271410093_9" custom="readingOrder {index:0;}">
+            <Coords points="1424,109 2421,109 2421,363 1424,363"/>
+            <TextLine id="line_1611271490908_34" custom="readingOrder {index:0;}">
+                <Coords points="1501,150 2393,134 2397,358 1505,374"/>
+                <Baseline points="1525,332 1553,338 1586,332 1728,317 1753,318 1778,320 1803,320 1828,321 1853,321 1878,321 1903,321 1928,321 1953,321 1978,320 2004,320 2092,323 2275,323 2327,329 2364,327"/>
+                <TextEquiv>
+                    <Unicode>„Siófok"</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>„Siófok"</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1611271412952_12" custom="readingOrder {index:1;}">
+            <Coords points="658,317 3205,317 3205,483 658,483"/>
+            <TextLine id="line_1611271530669_44" custom="readingOrder {index:0;}">
+                <Coords points="659,325 1337,347 3149,355 3149,505 1142,493 659,475"/>
+                <Baseline points="700,438 794,435 820,438 847,439 874,440 901,440 927,441 954,441 981,441 1008,441 1034,440 1061,440 1088,441 1115,441 1142,443 1337,447 1420,449 1503,450 1586,452 1670,453 1753,455 1836,456 1919,458 2003,459 2086,461 2169,462 2252,464 2336,466 2419,468 2502,470 2585,471 2669,474 2752,476 2835,479 2918,482 3002,485 3087,479 3143,481"/>
+                <TextEquiv>
+                    <Unicode>Balaton-fürdő Részvény-Társáság.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Balaton-fürdő Részvény-Társáság.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1611271414973_15" custom="readingOrder {index:2;}">
+            <Coords points="1558,469 2278,469 2278,644 1558,644"/>
+            <TextLine id="region_1611271414973_15l1" custom="readingOrder {index:0;}">
+                <Coords points="1636,646 2267,660 2267,510 1636,496"/>
+                <Baseline points="1655,604 1678,608 1734,600 1760,602 1786,602 1812,603 1838,603 1864,603 1891,603 1917,603 1943,603 1969,603 1995,603 2021,603 2048,603 2074,605 2100,606 2126,607 2152,609 2178,611 2205,614 2228,608"/>
+                <TextEquiv>
+                    <Unicode>Budapest,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Budapest,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1611271416924_18" custom="readingOrder {index:3;}">
+            <Coords points="1037,621 2853,622 2853,788 1037,787"/>
+            <TextLine id="region_1611271416924_18l1" custom="readingOrder {index:0;}">
+                <Coords points="1053,761 2807,799 2807,649 1053,611"/>
+                <Baseline points="1072,721 1151,717 1232,720 1313,722 1394,723 1475,726 1556,728 1637,729 1718,731 1799,732 1880,734 1961,735 2042,737 2123,738 2204,740 2285,741 2366,742 2447,743 2528,744 2609,746 2690,748 2772,749 2800,748"/>
+                <TextEquiv>
+                    <Unicode>Mária Valéria-utcza 13. szám.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Mária Valéria-utcza 13. szám.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1611271422734_21" custom="readingOrder {index:4;}">
+            <Coords points="686,1073 3367,1073 3367,1553 686,1553"/>
+            <TextLine id="line_1611271596021_61" custom="readingOrder {index:0;}">
+                <Coords points="776,1081 1487,1081 3274,1090 3256,1482 769,1507"/>
+                <Baseline points="819,1478 857,1470 883,1472 909,1471 935,1470 961,1467 987,1464 1013,1461 1039,1459 1065,1458 1091,1460 1118,1463 1557,1436 1599,1442 1704,1449 1775,1447 1847,1445 1918,1445 1990,1445 2062,1446 2133,1446 2205,1447 2277,1448 2348,1450 2420,1451 2492,1453 2563,1455 2635,1457 2707,1457 2778,1457 2850,1457 2922,1455 2993,1453 3065,1450 3137,1445 3213,1452 3239,1448"/>
+                <TextEquiv>
+                    <Unicode>Kiss Józsefné asszony</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kiss Józsefné asszony</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1611271424706_24" custom="readingOrder {index:5;}">
+            <Coords points="1300,1484 3085,1484 3085,1964 1300,1964"/>
+            <TextLine id="region_1611271424706_24l1" custom="readingOrder {index:0;}">
+                <Coords points="1351,1807 3067,1793 3059,1510 1343,1524"/>
+                <Baseline points="1392,1764 1517,1757 1817,1757 1874,1757 1932,1755 1990,1755 2048,1754 2106,1754 2164,1752 2221,1751 2279,1749 2337,1748 2395,1747 2453,1745 2511,1745 2568,1743 2626,1742 2684,1742 2742,1742 2800,1742 2858,1742 2916,1743 3035,1742"/>
+                <TextEquiv>
+                    <Unicode>Ő Nagyságának</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ő Nagyságának</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1611271426812_27" custom="readingOrder {index:6;}">
+            <Coords points="1461,1936 3417,1936 3417,2647 1461,2647"/>
+            <TextLine id="region_1611271426812_27l1" custom="readingOrder {index:0;}">
+                <Coords points="1861,2678 3341,2611 3282,2013 1802,2080"/>
+                <Baseline points="1890,2449 1962,2448 2017,2448 2072,2448 2128,2447 2183,2444 2239,2442 2294,2439 2350,2434 2405,2430 2461,2426 2516,2421 2571,2417 2627,2411 2682,2408 2738,2403 2793,2399 2849,2397 2904,2393 2960,2391 3015,2390 3071,2390 3239,2385"/>
+                <TextEquiv>
+                    <Unicode>Lubló-fürdő</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Lubló-fürdő</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

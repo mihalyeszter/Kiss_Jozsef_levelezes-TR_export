@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-06-09T15:43:47.190+02:00</Created>
+        <LastChange>2020-08-23T08:25:22.333+02:00</LastChange>
+        <TranskribusMetadata docId="406049" pageId="15906433" pageNr="1" tsid="37911934" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=DJVYISPGBPITJUQSKHULGEAH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=URYIPBZBLSAYLTWLJNJYPEDE" imageId="11721675"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#113_1a.tif" imageWidth="3401" imageHeight="2277">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424373140" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1597325827767_3667"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1597325827767_3667" custom="readingOrder {index:0;}">
+            <Coords points="98,1924 100,2149 2884,2143 2882,1918"/>
+            <TextLine id="line_1597325827783_3670" custom="readingOrder {index:0;}">
+                <Coords points="135,1940 2903,1932 2884,2143 116,2151"/>
+                <Baseline points="156,2138 2884,2138"/>
+                <TextEquiv>
+                    <Unicode>Itt boldog időt élünk, még téntánk sincs.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Itt boldog időt élünk, még téntánk sincs.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

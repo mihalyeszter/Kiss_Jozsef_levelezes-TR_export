@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2021-02-10T14:22:52.341+01:00</Created>
+        <LastChange>2021-02-19T10:14:58.818+01:00</LastChange>
+        <TranskribusMetadata docId="606327" pageId="24088920" pageNr="2" tsid="52841559" status="IN_PROGRESS" userId="58915" imgUrl="https://files.transkribus.eu/Get?id=KZZRCIYSTQUETDIUKSNPVWAU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OXRAPCIMIJKMKHSTWZRZZOWA" imageId="18508501"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#65_3b.tif" imageWidth="2926" imageHeight="2354">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424771436" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1613638051629_950"/>
+                <RegionRefIndexed index="1" regionRef="region_1613638060182_958"/>
+                <RegionRefIndexed index="2" regionRef="region_1613638065255_966"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1613638051629_950" custom="readingOrder {index:0;}">
+            <Coords points="583,107 589,470 591,666 1538,697 1538,493 2626,508 2628,107"/>
+            <TextLine id="line_1613638051667_953" custom="readingOrder {index:0;} abbrev {offset:13; length:5;} unclear {offset:13; length:5;} comment {offset:13; length:5;comment:Oberstleutnant\u0020=\u0020alezredes\u0020[?];}">
+                <Coords points="587,116 2626,122 2633,502 1528,489 1531,690 591,659 589,452"/>
+                <Baseline points="589,359 2633,409"/>
+                <TextEquiv>
+                    <Unicode>Julius Bauer obslt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Julius Bauer obslt</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1613638060182_958" custom="readingOrder {index:1;}">
+            <Coords points="1548,502 1554,685 2489,685 2483,502"/>
+            <TextLine id="line_1613638060213_961" custom="readingOrder {index:0;} abbrev {offset:4; length:8;} comment {offset:4; length:8;comment:Infanterieregiment\u0020=\u0020gyalogezred;}">
+                <Coords points="1550,511 2485,511 2485,680 1550,680"/>
+                <Baseline points="1550,606 2485,606"/>
+                <TextEquiv>
+                    <Unicode>68. Inftrgt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>68. Inftrgt.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1613638065255_966" custom="readingOrder {index:2;}">
+            <Coords points="1010,727 1016,1069 2134,1069 2128,727"/>
+            <TextLine id="line_1613638065293_969" custom="readingOrder {index:0;}">
+                <Coords points="1012,751 2129,732 2136,1044 1019,1063"/>
+                <Baseline points="1013,925 2130,906"/>
+                <TextEquiv>
+                    <Unicode>Zemun</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Zemun</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

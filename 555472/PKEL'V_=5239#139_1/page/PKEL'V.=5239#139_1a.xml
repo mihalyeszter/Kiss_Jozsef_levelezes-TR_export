@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-12-14T10:50:50.242+01:00</Created>
+        <LastChange>2020-12-16T16:30:44.402+01:00</LastChange>
+        <TranskribusMetadata docId="555472" pageId="22976820" pageNr="1" tsid="50367140" status="IN_PROGRESS" userId="56520" imgUrl="https://files.transkribus.eu/Get?id=MRLJAAQMZKZYFNMFXPYRBKSM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BRSILKCITPREIBKRRWDHVGZF" imageId="17928502"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#139_1a.tif" imageWidth="2879" imageHeight="2222">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619423900975" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1608034217897_1374"/>
+                <RegionRefIndexed index="1" regionRef="region_1608034223179_1382"/>
+                <RegionRefIndexed index="2" regionRef="region_1608034228057_1390"/>
+                <RegionRefIndexed index="3" regionRef="region_1608034232685_1398"/>
+                <RegionRefIndexed index="4" regionRef="region_1608034248218_1406"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1608034217897_1374" custom="readingOrder {index:0;}">
+            <Coords points="267,265 272,481 447,481 442,265"/>
+            <TextLine id="line_1608034217928_1377" custom="readingOrder {index:0;}">
+                <Coords points="267,279 440,272 442,472 269,479"/>
+                <Baseline points="269,474 442,467"/>
+                <TextEquiv>
+                    <Unicode>G</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>G</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1608034223179_1382" custom="readingOrder {index:1;}">
+            <Coords points="535,112 537,272 979,272 977,112"/>
+            <TextLine id="line_1608034223226_1385" custom="readingOrder {index:0;}">
+                <Coords points="541,126 983,124 979,270 537,272"/>
+                <Baseline points="537,267 979,265"/>
+                <TextEquiv>
+                    <Unicode>E.11.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>E.11.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1608034228057_1390" custom="readingOrder {index:2;}">
+            <Coords points="1308,166 1308,343 2738,343 2738,166"/>
+            <TextLine id="line_1608034228095_1393" custom="readingOrder {index:0;} textStyle {offset:0; length:3;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="1309,175 2738,201 2741,333 1308,332"/>
+                <Baseline points="1308,269 2737,295"/>
+                <TextEquiv>
+                    <Unicode>VII, Holló-utcza 4, 1907 decz. 15.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>VII, Holló-utcza 4, 1907 decz. 15.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1608034232685_1398" custom="readingOrder {index:3;}">
+            <Coords points="475,365 477,522 1916,522 1914,365"/>
+            <TextLine id="line_1608034232738_1401" custom="readingOrder {index:0;}">
+                <Coords points="480,369 1920,379 1911,523 458,521"/>
+                <Baseline points="477,467 1915,493"/>
+                <TextEquiv>
+                    <Unicode>Nagyon tisztelt Barátom!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Nagyon tisztelt Barátom!</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1608034248218_1406" custom="readingOrder {index:4;}">
+            <Coords points="214,530 2781,530 2781,2059 214,2059"/>
+            <TextLine id="line_1608034275710_1411" custom="readingOrder {index:0;}">
+                <Coords points="645,539 2717,594 2716,736 644,681"/>
+                <Baseline points="644,654 2716,709"/>
+                <TextEquiv>
+                    <Unicode>Engedje meg, hogy pár szóval a 20 khoz sora¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1608034283237_1416" custom="readingOrder {index:1;}">
+                <Coords points="278,665 2675,746 2671,883 274,802"/>
+                <Baseline points="274,761 2671,842"/>
+                <TextEquiv>
+                    <Unicode>kozzam, kik Önt ma, mint dicső költői pályája</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1608034289095_1421" custom="readingOrder {index:2;}">
+                <Coords points="284,819 2684,893 2677,1035 277,961"/>
+                <Baseline points="281,912 2681,986"/>
+                <TextEquiv>
+                    <Unicode>emléknapján, hódolva üdvözlik. Tán sejti is,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1608034297040_1426" custom="readingOrder {index:3;}">
+                <Coords points="257,980 2750,1066 2740,1218 247,1132"/>
+                <Baseline points="253,1077 2746,1163"/>
+                <TextEquiv>
+                    <Unicode>hogy jogczímet a tolakodásra abból a tényből merítek,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1608034302726_1431" custom="readingOrder {index:4;}">
+                <Coords points="226,1144 2770,1228 2769,1374 225,1290"/>
+                <Baseline points="225,1242 2769,1326"/>
+                <TextEquiv>
+                    <Unicode>hogy régi időben – vagy 33 éve – oda kapcsolt a „Kép¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1608034308010_1436" custom="readingOrder {index:5;}">
+                <Coords points="240,1300 2672,1379 2663,1519 231,1440"/>
+                <Baseline points="235,1391 2667,1470"/>
+                <TextEquiv>
+                    <Unicode>zelt utazás” hoz, melyet Ön maga legszebb költeményei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1608034313372_1441" custom="readingOrder {index:6;}">
+                <Coords points="253,1431 2730,1524 2714,1718 252,1599"/>
+                <Baseline points="258,1540 2720,1659"/>
+                <TextEquiv>
+                    <Unicode>egyikének ítélt. Az is. Én pedig szüntelen hálát</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1608034320262_1446" custom="readingOrder {index:7;}">
+                <Coords points="246,1612 2752,1733 2746,1903 240,1782"/>
+                <Baseline points="244,1719 2750,1840"/>
+                <TextEquiv>
+                    <Unicode>éreztem Ön iránt, a miért hajdanában, fiatal éveimben,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1608034326263_1451" custom="readingOrder {index:8;}">
+                <Coords points="278,1809 2734,1895 2716,2043 265,1983"/>
+                <Baseline points="276,1903 2732,1989"/>
+                <TextEquiv>
+                    <Unicode>e gyönyörű költői megszólításra érdemesnek tartott.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Engedje meg, hogy pár szóval a 20 khoz sora¬&#xD;
+kozzam, kik Önt ma, mint dicső költői pályája&#xD;
+emléknapján, hódolva üdvözlik. Tán sejti is,&#xD;
+hogy jogczímet a tolakodásra abból a tényből merítek,&#xD;
+hogy régi időben – vagy 33 éve – oda kapcsolt a „Kép¬&#xD;
+zelt utazás” hoz, melyet Ön maga legszebb költeményei&#xD;
+egyikének ítélt. Az is. Én pedig szüntelen hálát&#xD;
+éreztem Ön iránt, a miért hajdanában, fiatal éveimben,&#xD;
+e gyönyörű költői megszólításra érdemesnek tartott.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2021-01-11T16:27:14.162+01:00</Created>
+        <LastChange>2021-01-26T08:57:38.560+01:00</LastChange>
+        <TranskribusMetadata docId="569252" pageId="23180242" pageNr="1" tsid="51660434" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=KDOVRPURTCYDPGHHDVVHGJCA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WJNLVURVQXOVTQTGIKAZDRSY" imageId="18091237"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#144_4a.tif" imageWidth="2863" imageHeight="1754">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619423916089" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1610987561028_668"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="region_1610987561028_668" custom="readingOrder {index:0;}">
+            <Coords points="95,91 2757,91 2757,1627 95,1627"/>
+            <TextLine id="region_1610987561028_668l1" custom="readingOrder {index:0;} sic {offset:25; length:9;}">
+                <Coords points="201,314 2354,291 2639,276 2639,96 177,138"/>
+                <Baseline points="177,288 296,278 416,270 535,264 655,261 775,260 894,260 1014,261 1134,263 1253,264 1373,267 1493,270 1612,273 1732,275 1852,276 1971,275 2091,273 2211,270 2330,265 2450,256 2570,246"/>
+                <TextEquiv>
+                    <Unicode>Kedves Jó Bátyám Uram. A szepséges ünnepen én is ott voltam, –</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1610987561028_668l2" custom="readingOrder {index:1;}">
+                <Coords points="141,479 2352,454 2469,447 2472,307 144,339"/>
+                <Baseline points="141,449 257,440 373,434 490,428 606,425 723,423 839,422 955,422 1072,423 1188,425 1305,426 1421,429 1537,431 1654,432 1770,434 1887,434 2003,434 2119,432 2236,429 2352,424 2469,417"/>
+                <TextEquiv>
+                    <Unicode>az elején bizony kiszorúltam s odakünn Ágai Adolffal sétálgattam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1610987561028_668l3" custom="readingOrder {index:2;}">
+                <Coords points="126,623 2460,573 2460,450 126,500"/>
+                <Baseline points="126,596 241,593 357,589 472,586 588,583 703,581 819,578 934,575 1050,572 1165,569 1281,566 1396,564 1512,561 1627,559 1743,557 1858,555 1974,553 2089,551 2205,549 2320,548 2436,546"/>
+                <TextEquiv>
+                    <Unicode>egymást vigasztaltuk, aztán másokkal is, köztük Alexander</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1610987561028_668l4" custom="readingOrder {index:3;} sic {offset:10; length:11;}">
+                <Coords points="150,771 2418,678 2418,519 150,612"/>
+                <Baseline points="150,744 263,731 376,719 490,709 603,701 717,694 830,689 943,685 1057,681 1170,678 1284,677 1397,675 1510,674 1624,674 1737,672 1851,671 1964,668 2077,665 2191,662 2304,657 2418,651"/>
+                <TextEquiv>
+                    <Unicode>Bernáttal talalkoztam künn, – láttam mikor az öreg Herman</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1610987561028_668l5" custom="readingOrder {index:4;}">
+                <Coords points="156,921 2646,777 2646,620 2327,694 2065,681 156,764"/>
+                <Baseline points="156,891 280,874 405,860 529,848 654,837 778,828 903,821 1027,815 1152,809 1276,804 1401,800 1525,796 1650,792 1774,789 1899,785 2023,780 2148,776 2272,771 2397,764 2521,756 2646,747"/>
+                <TextEquiv>
+                    <Unicode>Ottó visszaballagott a bejárattól. Künn lévő kiszorúltságomban nehány</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1610987561028_668l6" custom="readingOrder {index:5;} sic {offset:41; length:6;}">
+                <Coords points="177,1068 2676,890 2669,757 2455,794 2164,818 2083,790 156,905"/>
+                <Baseline points="177,1038 301,1017 425,999 550,983 674,967 799,955 923,943 1048,934 1172,926 1297,918 1421,912 1545,906 1670,902 1794,897 1919,893 2043,889 2168,884 2292,879 2417,873 2541,867 2666,860"/>
+                <TextEquiv>
+                    <Unicode>fotografiát vettem föl a kiszorúltakról, koztük – bár rosszúl sikerült,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1610987561028_668l7" custom="readingOrder {index:6;}">
+                <Coords points="124,1095 135,1214 1461,1076 2694,1026 2694,878 2143,917 1898,920 342,1051 169,1090"/>
+                <Baseline points="135,1184 269,1167 404,1150 539,1134 673,1118 808,1104 943,1089 1077,1076 1212,1062 1347,1051 1481,1040 1616,1030 1751,1022 1885,1014 2020,1008 2155,1002 2289,999 2424,996 2559,996 2694,996"/>
+                <TextEquiv>
+                    <Unicode>van Ágai is egyik rokonával, – íme itt küldöm a képeket, lássa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1610987561028_668l8" custom="readingOrder {index:7;}">
+                <Coords points="129,1352 2697,1155 2697,1015 1421,1058 1271,1114 129,1212"/>
+                <Baseline points="129,1322 257,1307 385,1293 514,1279 642,1265 771,1251 899,1238 1027,1226 1156,1214 1284,1203 1413,1191 1541,1181 1669,1172 1798,1163 1926,1155 2055,1148 2183,1142 2311,1136 2440,1131 2568,1128 2697,1125"/>
+                <TextEquiv>
+                    <Unicode>vázlatban hogy milyen világ volt künn azalatt, míg benn ünnepelték.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1610987561028_668l9" custom="readingOrder {index:8;} textStyle {offset:48; length:12;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="132,1482 2582,1307 2613,1210 2218,1172 1178,1249 155,1345 132,1391"/>
+                <Baseline points="132,1452 254,1445 377,1436 499,1427 622,1415 744,1404 867,1392 989,1379 1112,1365 1234,1352 1357,1340 1479,1329 1602,1317 1724,1307 1847,1296 1969,1289 2092,1283 2214,1278 2337,1275 2459,1275 2582,1277"/>
+                <TextEquiv>
+                    <Unicode>Aztán egy Zrínyi Miklóshoz méltó kirohanásszerű berohanással betörtem a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1610987561028_668l10" custom="readingOrder {index:9;} sic {offset:44; length:5;}">
+                <Coords points="135,1620 2744,1440 2744,1349 2365,1319 1685,1350 804,1427 129,1488 135,1529"/>
+                <Baseline points="135,1590 265,1581 395,1571 526,1560 656,1549 787,1539 917,1527 1048,1517 1178,1505 1309,1494 1439,1484 1569,1472 1700,1463 1830,1453 1961,1445 2091,1437 2222,1430 2352,1423 2483,1418 2613,1413 2744,1410"/>
+                <TextEquiv>
+                    <Unicode>terembe, hallottam Jászait s végig mindent. Eltem fogytáig ha K. Bátyám¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kedves Jó Bátyám Uram. A szepséges ünnepen én is ott voltam, –&#xD;
+az elején bizony kiszorúltam s odakünn Ágai Adolffal sétálgattam&#xD;
+egymást vigasztaltuk, aztán másokkal is, köztük Alexander&#xD;
+Bernáttal talalkoztam künn, – láttam mikor az öreg Herman&#xD;
+Ottó visszaballagott a bejárattól. Künn lévő kiszorúltságomban nehány&#xD;
+fotografiát vettem föl a kiszorúltakról, koztük – bár rosszúl sikerült,&#xD;
+van Ágai is egyik rokonával, – íme itt küldöm a képeket, lássa&#xD;
+vázlatban hogy milyen világ volt künn azalatt, míg benn ünnepelték.&#xD;
+Aztán egy Zrínyi Miklóshoz méltó kirohanásszerű berohanással betörtem a&#xD;
+terembe, hallottam Jászait s végig mindent. Eltem fogytáig ha K. Bátyám¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

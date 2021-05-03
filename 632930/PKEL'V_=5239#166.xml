@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>PKEL'V.=5239#166</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: szucs.kata.agnes@gmail.com</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile xml:id='facs_1'>
+		<surface ulx='0' uly='0' lrx='3482' lry='5397'>
+			<graphic url='PKEL'V.=5239#166_a.tif' width='3482px' height='5397px'/>
+			<zone ulx='213' uly='127' lrx='913' lry='477' rendition='TextRegion' xml:id='facs_1_region_1616665789381_22'>
+				<zone ulx='352' uly='292' lrx='868' lry='459' rendition='Line' xml:id='facs_1_line_1616665821377_45'/>
+			</zone>
+			<zone ulx='1508' uly='275' lrx='3181' lry='544' rendition='TextRegion' xml:id='facs_1_region_1616665791437_25'>
+				<zone ulx='1556' uly='347' lrx='3170' lry='497' rendition='Line' xml:id='facs_1_line_1616665835449_57'/>
+			</zone>
+			<zone ulx='981' uly='877' lrx='2776' lry='1126' rendition='TextRegion' xml:id='facs_1_region_1616665793965_28'>
+				<zone ulx='1018' uly='931' lrx='2689' lry='1075' rendition='Line' xml:id='facs_1_line_1616665831218_51'/>
+			</zone>
+			<zone ulx='386' uly='1349' lrx='3350' lry='2230' rendition='TextRegion' xml:id='facs_1_region_1616665799188_31'>
+				<zone ulx='989' uly='1390' lrx='3314' lry='1580' rendition='Line' xml:id='facs_1_line_1616665840583_63'/>
+				<zone ulx='518' uly='1636' lrx='3329' lry='1781' rendition='Line' xml:id='facs_1_line_1616665846094_68'/>
+				<zone ulx='492' uly='1828' lrx='3312' lry='1973' rendition='Line' xml:id='facs_1_line_1616665850290_73'/>
+				<zone ulx='515' uly='2013' lrx='3353' lry='2189' rendition='Line' xml:id='facs_1_line_1616665855735_78'/>
+			</zone>
+			<zone ulx='1759' uly='2273' lrx='3342' lry='2441' rendition='TextRegion' xml:id='facs_1_region_1616665805229_34'>
+				<zone ulx='1783' uly='2287' lrx='3309' lry='2404' rendition='Line' xml:id='facs_1_line_1616665860915_84'/>
+			</zone>
+			<zone ulx='1902' uly='2416' lrx='2972' lry='2635' rendition='TextRegion' xml:id='facs_1_region_1616665807500_37'>
+				<zone ulx='1976' uly='2453' lrx='2929' lry='2588' rendition='Line' xml:id='facs_1_line_1616665864403_90'/>
+			</zone>
+			<zone ulx='1473' uly='2593' lrx='3342' lry='3351' rendition='TextRegion' xml:id='facs_1_region_1616665810006_40'>
+				<zone ulx='1772' uly='2563' lrx='3319' lry='3070' rendition='Line' xml:id='facs_1_line_1616665874725_96'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<pb facs='#facs_1' n='1'/>
+			<p facs='#facs_1_region_1616665789381_22'>
+				<lb facs='#facs_1_line_1616665821377_45' n='N001'/>K. 50
+			</p>
+			<p facs='#facs_1_region_1616665791437_25'>
+				<lb facs='#facs_1_line_1616665835449_57' n='N001'/>Budapest, 1918. november 23.
+			</p>
+			<p facs='#facs_1_region_1616665793965_28'>
+				<lb facs='#facs_1_line_1616665831218_51' n='N001'/><hi rend='fontSize:0.0; kerning:0; letterSpaced:true;'>K e d v e s  M e s t e r !</hi>
+			</p>
+			<p facs='#facs_1_region_1616665799188_31'>
+				<lb facs='#facs_1_line_1616665840583_63' n='N001'/>Engedje meg, hogy meleg ragaszkodással
+				<lb facs='#facs_1_line_1616665846094_68' n='N002'/>és igaz tisztelettel köszönthessem 75-ik szü¬
+				<lb facs='#facs_1_line_1616665850290_73' n='N003'/>letési évfordulóját. Kívánságom az: teljesed¬
+				<lb facs='#facs_1_line_1616665855735_78' n='N004'/>jék minden kedves Kiss Bácsi kívánsága szerint
+			</p>
+			<p facs='#facs_1_region_1616665805229_34'>
+				<lb facs='#facs_1_line_1616665860915_84' n='N001'/>Kiváló mély tisztelettel
+			</p>
+			<p facs='#facs_1_region_1616665807500_37'>
+				<lb facs='#facs_1_line_1616665864403_90' n='N001'/>régi igaz híve:
+			</p>
+			<p facs='#facs_1_region_1616665810006_40'>
+				<lb facs='#facs_1_line_1616665874725_96' n='N001'/>Hollán Sándor
+			</p>
+		</body>
+	</text>
+</TEI>

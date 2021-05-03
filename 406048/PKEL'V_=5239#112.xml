@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>PKEL'V.=5239#112</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: eszter.mihaly@gmail.com</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile xml:id='facs_1'>
+		<surface ulx='0' uly='0' lrx='3421' lry='4453'>
+			<graphic url='PKEL'V.=5239#112_a.tif' width='3421px' height='4453px'/>
+			<zone ulx='947' uly='917' lrx='3221' lry='1288' rendition='TextRegion' xml:id='facs_1_region_1595791025409_972'>
+				<zone ulx='947' uly='930' lrx='3224' lry='1285' rendition='Line' xml:id='facs_1_line_1595791025430_975'/>
+			</zone>
+			<zone ulx='752' uly='1811' lrx='3166' lry='2707' rendition='TextRegion' xml:id='facs_1_region_1595791035896_980'>
+				<zone ulx='1472' uly='1863' lrx='3144' lry='2119' rendition='Line' xml:id='facs_1_line_1595791126395_1006'/>
+				<zone ulx='819' uly='2081' lrx='3152' lry='2295' rendition='Line' xml:id='facs_1_line_1595791132788_1011'/>
+				<zone ulx='815' uly='2288' lrx='3081' lry='2472' rendition='Line' xml:id='facs_1_line_1595791138054_1016'/>
+				<zone ulx='881' uly='2474' lrx='2760' lry='2690' rendition='Line' xml:id='facs_1_line_1595791142483_1021'/>
+			</zone>
+			<zone ulx='1944' uly='2764' lrx='3149' lry='2938' rendition='TextRegion' xml:id='facs_1_region_1595791042596_983'>
+				<zone ulx='1943' uly='2783' lrx='3130' lry='2918' rendition='Line' xml:id='facs_1_line_1595791147643_1026'/>
+			</zone>
+			<zone ulx='2240' uly='2958' lrx='2807' lry='3171' rendition='TextRegion' xml:id='facs_1_region_1595791048325_986'>
+				<zone ulx='2248' uly='2970' lrx='2787' lry='3163' rendition='Line' xml:id='facs_1_line_1595791153069_1031'/>
+			</zone>
+			<zone ulx='788' uly='3133' lrx='2342' lry='3346' rendition='TextRegion' xml:id='facs_1_region_1595791055226_989'>
+				<zone ulx='796' uly='3147' lrx='2296' lry='3340' rendition='Line' xml:id='facs_1_line_1595791158922_1036'/>
+			</zone>
+			<zone ulx='2424' uly='3227' lrx='3199' lry='3423' rendition='TextRegion' xml:id='facs_1_region_1595791059636_992'>
+				<zone ulx='2433' uly='3240' lrx='3189' lry='3417' rendition='Line' xml:id='facs_1_line_1595791163912_1041'/>
+			</zone>
+			<zone ulx='1471' uly='4198' lrx='1606' lry='4336' rendition='TextRegion' xml:id='facs_1_region_1595791064210_995'>
+				<zone ulx='1484' uly='4209' lrx='1592' lry='4324' rendition='Line' xml:id='facs_1_line_1595791170142_1046'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<pb facs='#facs_1' n='1'/>
+			<p facs='#facs_1_region_1595791025409_972'>
+				<lb facs='#facs_1_line_1595791025430_975' n='N001'/>Mélyen tisztelt Szerkesztő Ur!
+			</p>
+			<p facs='#facs_1_region_1595791035896_980'>
+				<lb facs='#facs_1_line_1595791126395_1006' n='N001'/>A közelgő évforduló al¬
+				<lb facs='#facs_1_line_1595791132788_1011' n='N002'/>kalmából kívánom, hogy csak ilyen¬
+				<lb facs='#facs_1_line_1595791138054_1016' n='N003'/>fajta üdvözletek emlékeztessék a
+				<lb facs='#facs_1_line_1595791142483_1021' n='N004'/>hetvenötön felüli esztendőkre.
+			</p>
+			<p facs='#facs_1_region_1595791042596_983'>
+				<lb facs='#facs_1_line_1595791147643_1026' n='N001'/>Kiváló tisztelettel
+			</p>
+			<p facs='#facs_1_region_1595791048325_986'>
+				<lb facs='#facs_1_line_1595791153069_1031' n='N001'/>igaz híve
+			</p>
+			<p facs='#facs_1_region_1595791055226_989'>
+				<lb facs='#facs_1_line_1595791158922_1036' n='N001'/>Nagyrőce, 1918 november 2<hi rend='strikethrough:true; fontSize:0.0; kerning:0;'>6</hi><add>9</add>.
+			</p>
+			<p facs='#facs_1_region_1595791059636_992'>
+				<lb facs='#facs_1_line_1595791163912_1041' n='N001'/>Falu Tamás.
+			</p>
+			<p facs='#facs_1_region_1595791064210_995'>
+				<lb facs='#facs_1_line_1595791170142_1046' n='N001'/>1
+			</p>
+		</body>
+	</text>
+</TEI>

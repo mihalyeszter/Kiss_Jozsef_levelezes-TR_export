@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-28T13:02:32.453+02:00</Created>
+        <LastChange>2020-11-19T15:13:36.692+01:00</LastChange>
+        <TranskribusMetadata docId="376795" pageId="14734215" pageNr="11" tsid="49194330" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=WDRNDYIWDBTLJIEVPNGVBXOD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ARWYZWWMEWYDJYDAZDAYJIUV" imageId="10675237"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#33_6a.tif" imageWidth="3529" imageHeight="2309">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424126788" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1597134928691_1059"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1597134928691_1059" custom="readingOrder {index:0;}">
+            <Coords points="765,254 1347,254 1347,581 765,581"/>
+            <TextLine id="line_1597134933082_1062" custom="readingOrder {index:0;}">
+                <Coords points="802,288 1233,334 1248,448 802,450"/>
+                <Baseline points="803,419 1245,428"/>
+                <TextEquiv>
+                    <Unicode>Jó reggelt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597134934976_1067" custom="readingOrder {index:1;}">
+                <Coords points="894,444 1300,383 1298,533 879,541"/>
+                <Baseline points="918,538 1291,526"/>
+                <TextEquiv>
+                    <Unicode>boczika!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Jó reggelt&#xD;
+boczika!</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

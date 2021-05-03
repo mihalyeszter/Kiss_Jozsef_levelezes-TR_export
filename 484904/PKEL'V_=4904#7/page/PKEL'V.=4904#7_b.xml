@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-09-21T14:08:56.659+02:00</Created>
+        <LastChange>2020-10-28T09:51:17.273+01:00</LastChange>
+        <TranskribusMetadata docId="484904" pageId="19998713" pageNr="2" tsid="46942712" status="IN_PROGRESS" userId="56520" imgUrl="https://files.transkribus.eu/Get?id=DEEOVFSKIJZPCMWAWNPBFOKF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YBCMPZEVQRTECZGNGKDPKCYE" imageId="15414164"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=4904#7_b.tif" imageWidth="3324" imageHeight="2254">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424579048" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1603800635775_291"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1603800635775_291" custom="readingOrder {index:0;}">
+            <Coords points="403,422 1547,422 1547,804 403,804"/>
+            <TextLine id="line_1603800642122_295" custom="readingOrder {index:0;}">
+                <Coords points="480,520 859,519 1035,504 1462,489 1460,656 1035,671 847,696 462,736"/>
+                <Baseline points="461,731 846,691 1035,666 1460,651"/>
+                <TextEquiv>
+                    <Unicode>Kiss József</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kiss József</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

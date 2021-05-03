@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2019-11-12T13:29:03.702+01:00</Created>
+        <LastChange>2020-11-19T11:58:57.852+01:00</LastChange>
+        <TranskribusMetadata docId="251079" pageId="11012679" pageNr="5" tsid="49140890" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=OJXCQOJFXAPBAMLNRCBBKSKB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VNLJKVHEPYAQCDXFCNCTJMWA" imageId="7500419"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#10_3a.tif" imageWidth="3435" imageHeight="4542">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619423868402" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1573575527946_892"/>
+                <RegionRefIndexed index="1" regionRef="region_1573575541656_896"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1573575527946_892" custom="readingOrder {index:0;}">
+            <Coords points="332,707 3217,707 3217,1362 332,1362"/>
+            <TextLine id="line_1573575621125_900" custom="readingOrder {index:0;}">
+                <Coords points="644,734 3095,822 3077,1050 626,962"/>
+                <Baseline points="626,915 3077,1003"/>
+                <TextEquiv>
+                    <Unicode>Kedves Gyula vagy Julius, ahogy neked jobban</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1573575625517_905" custom="readingOrder {index:1;}">
+                <Coords points="362,880 3106,1036 3076,1266 332,1110"/>
+                <Baseline points="340,1049 3084,1205"/>
+                <TextEquiv>
+                    <Unicode>esik. Nem tudom, emlékezel-e még Kiss Józsefre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kedves Gyula vagy Julius, ahogy neked jobban&#xD;
+esik. Nem tudom, emlékezel-e még Kiss Józsefre</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1573575541656_896" custom="readingOrder {index:1;}">
+            <Coords points="1569,4218 1728,4218 1728,4377 1569,4377"/>
+            <TextLine id="line_1573575636104_911" custom="readingOrder {index:0;}">
+                <Coords points="1585,4229 1719,4222 1724,4374 1590,4381"/>
+                <Baseline points="1584,4349 1718,4342"/>
+                <TextEquiv>
+                    <Unicode>1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

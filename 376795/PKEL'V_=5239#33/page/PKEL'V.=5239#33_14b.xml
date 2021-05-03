@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-28T13:02:34.245+02:00</Created>
+        <LastChange>2020-11-19T15:39:32.082+01:00</LastChange>
+        <TranskribusMetadata docId="376795" pageId="14734378" pageNr="30" tsid="49203114" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=ZZKKBJTODGEWPOIBCVVEXIJM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KZCTNTFWHSKNOOKDVUPAPDBJ" imageId="10675400"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#33_14b.tif" imageWidth="3142" imageHeight="2425">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424131922" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1597227968251_256"/>
+                <RegionRefIndexed index="1" regionRef="region_1597227970919_259"/>
+                <RegionRefIndexed index="2" regionRef="region_1597227973037_262"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1597227968251_256" custom="readingOrder {index:0;}">
+            <Coords points="252,177 3048,177 3048,1205 252,1205"/>
+            <TextLine id="line_1597228025373_277" custom="readingOrder {index:0;}">
+                <Coords points="265,222 2945,178 2961,333 281,377"/>
+                <Baseline points="281,372 2961,328"/>
+                <TextEquiv>
+                    <Unicode>És méltán. Oda nem Staatsvizitet kellett volna</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597228028134_282" custom="readingOrder {index:1;}">
+                <Coords points="276,398 2980,379 2980,514 276,533"/>
+                <Baseline points="276,528 2980,509"/>
+                <TextEquiv>
+                    <Unicode>csinálni. Magad, az urad nélkül is elmehettél</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597228030443_287" custom="readingOrder {index:2;}">
+                <Coords points="286,544 2990,525 2985,665 281,684"/>
+                <Baseline points="281,679 2985,660"/>
+                <TextEquiv>
+                    <Unicode>volna, mert várta. Az egy igaz nő és annak</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597228040665_299" custom="readingOrder {index:3;}">
+                <Coords points="281,696 3014,710 3014,825 281,811"/>
+                <Baseline points="281,806 3014,820"/>
+                <TextEquiv>
+                    <Unicode>a barátságába meg lehet bízni. Egyébiránt az</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597228043591_304" custom="readingOrder {index:4;}">
+                <Coords points="306,841 3034,851 3024,996 296,986"/>
+                <Baseline points="296,981 3024,991"/>
+                <TextEquiv>
+                    <Unicode>legprivátabb ügyed, amibe nem kívánok bele¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597228047470_309" custom="readingOrder {index:5;}">
+                <Coords points="291,1012 2912,1021 2907,1176 286,1167"/>
+                <Baseline points="286,1162 2907,1171"/>
+                <TextEquiv>
+                    <Unicode>avatkozni. Tisztelem az uradat. Csókollak</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>És méltán. Oda nem Staatsvizitet kellett volna&#xD;
+csinálni. Magad, az urad nélkül is elmehettél&#xD;
+volna, mert várta. Az egy igaz nő és annak&#xD;
+a barátságába meg lehet bízni. Egyébiránt az&#xD;
+legprivátabb ügyed, amibe nem kívánok bele¬&#xD;
+avatkozni. Tisztelem az uradat. Csókollak</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1597227970919_259" custom="readingOrder {index:1;}">
+            <Coords points="2006,1235 2712,1235 2712,1571 2006,1571"/>
+            <TextLine id="line_1597228051863_314" custom="readingOrder {index:0;} textStyle {offset:0; length:10;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="2054,1269 2610,1265 2620,1510 2064,1514"/>
+                <Baseline points="2064,1429 2620,1425"/>
+                <TextEquiv>
+                    <Unicode>édes apád.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>édes apád.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1597227973037_262" custom="readingOrder {index:2;}">
+            <Coords points="374,1162 997,1162 997,1415 374,1415"/>
+            <TextLine id="line_1597228054335_319" custom="readingOrder {index:0;}">
+                <Coords points="424,1212 959,1226 948,1401 413,1387"/>
+                <Baseline points="418,1337 953,1351"/>
+                <TextEquiv>
+                    <Unicode>Csütörtök.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Csütörtök.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

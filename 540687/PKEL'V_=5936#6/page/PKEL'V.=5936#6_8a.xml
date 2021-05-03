@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-11-17T23:53:52.791+01:00</Created>
+        <LastChange>2020-11-19T18:15:54.206+01:00</LastChange>
+        <TranskribusMetadata docId="540687" pageId="22770103" pageNr="22" tsid="49265724" status="IN_PROGRESS" userId="56520" imgUrl="https://files.transkribus.eu/Get?id=LQHMYRZBSUDSZCHFWZLARTZB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TBCVXNQATQFYJOJWRNHRVLMC" imageId="17750450"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5936#6_8a.tif" imageWidth="3282" imageHeight="2474">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424849602" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1605779228266_532"/>
+                <RegionRefIndexed index="1" regionRef="region_1605779230836_535"/>
+                <RegionRefIndexed index="2" regionRef="region_1605779236356_538"/>
+                <RegionRefIndexed index="3" regionRef="region_1605779238836_541"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1605779228266_532" custom="readingOrder {index:0;}">
+            <Coords points="595,526 2265,526 2265,928 595,928"/>
+            <TextLine id="line_1605779248946_545" custom="readingOrder {index:0;}">
+                <Coords points="677,563 1011,554 1235,594 2247,598 2249,877 2189,908 2143,1006 2113,1007 2124,888 1965,889 1918,987 1893,991 1862,900 1513,886 1412,1009 1388,1015 1402,878 1240,873 1005,898 668,907"/>
+                <Baseline points="668,902 1005,893 1234,863 2243,867"/>
+                <TextEquiv>
+                    <Unicode>Kiss Józsefné asszony</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kiss Józsefné asszony</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1605779230836_535" custom="readingOrder {index:1;}">
+            <Coords points="1096,876 2593,876 2593,1243 1096,1243"/>
+            <TextLine id="line_1605779253166_551" custom="readingOrder {index:0;} sic {offset:2; length:11;}">
+                <Coords points="1182,894 1393,895 1396,1016 1420,1015 1499,895 1733,898 1862,903 1868,987 1924,984 1954,909 2103,914 2106,1015 2147,1012 2187,926 2512,911 2511,1215 1738,1195 1165,1225"/>
+                <Baseline points="1165,1143 1738,1113 2515,1126"/>
+                <TextEquiv>
+                    <Unicode>Ő Nagyságanak</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ő Nagyságanak</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1605779236356_538" custom="readingOrder {index:2;}">
+            <Coords points="1648,1501 2727,1501 2727,1942 1648,1942"/>
+            <TextLine id="line_1605779257056_557" custom="readingOrder {index:0;} textStyle {offset:0; length:9;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="1773,1536 2723,1521 2703,1918 2242,1932 2221,1967 2165,1974 2158,1927 1737,1935"/>
+                <Baseline points="1799,1907 2679,1873"/>
+                <TextEquiv>
+                    <Unicode>Visegrád.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Visegrád.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1605779238836_541" custom="readingOrder {index:3;}">
+            <Coords points="1454,1881 3167,1881 3167,2179 1454,2179"/>
+            <TextLine id="line_1605779262516_563" custom="readingOrder {index:0;}">
+                <Coords points="1540,1914 2023,1950 2137,1948 2190,1982 2737,1958 2752,1877 2937,1861 2967,1924 3128,1927 3128,2076 2015,2106 1540,2063"/>
+                <Baseline points="1540,2058 2015,2101 3128,2071"/>
+                <TextEquiv>
+                    <Unicode>Fröhlich ácsmester házában</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Fröhlich ácsmester házában</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

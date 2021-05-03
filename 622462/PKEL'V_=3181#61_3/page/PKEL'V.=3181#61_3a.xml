@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-11-09T16:24:21.951+01:00</Created>
+        <LastChange>2020-11-24T18:36:03.486+01:00</LastChange>
+        <TranskribusMetadata docId="622462" pageId="24575894" pageNr="1" tsid="53301688" status="NEW" userId="73049" imgUrl="https://files.transkribus.eu/Get?id=IVJPSXOFFEDMFEABXEBNRYIC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GFUNMEWQFKJQZAUINIDVBGRE" imageId="18926076"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=3181#61_3a.tif" imageWidth="3456" imageHeight="2292">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425053287" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1604999934627_501"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1604999997966_516"/>
+                <RegionRefIndexed index="2" regionRef="region_1604999942288_507"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1604999934627_501" custom="readingOrder {index:0;}">
+            <Coords points="472,374 1491,374 1491,1134 472,1134"/>
+            <TextLine id="line_1605000020566_524" custom="readingOrder {index:0;} abbrev {offset:0; length:6;}">
+                <Coords points="594,537 900,494 1028,687 1284,724 1434,712 1455,867 1464,916 1216,960 1123,1094 951,1147 853,947 547,990"/>
+                <Baseline points="546,985 852,942 1001,923 1205,942 1361,930 1463,911"/>
+                <TextEquiv>
+                    <Unicode>Nagys.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Nagys.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1604999997966_516" custom="readingOrder {index:1;}">
+            <Coords points="636,1128 1154,1103 1542,1134 1542,758 2827,758 2827,1432 636,1432"/>
+            <TextLine id="line_1605000027827_530" custom="readingOrder {index:0;} textStyle {offset:6; length:2;strikethrough:true; fontSize:0.0; kerning:0;} add {offset:8; length:1;}">
+                <Coords points="682,1240 914,1242 1021,1116 1600,1157 1637,1008 1907,955 2119,763 2486,1133 2779,1173 2779,1323 1591,1393 1493,1639 1445,1394 809,1393"/>
+                <Baseline points="805,1371 829,1390 888,1433 942,1433 1017,1368 1061,1344 1108,1335 1135,1349 1187,1351 1267,1358 1320,1361 1373,1361 1399,1356 1452,1355 1501,1337 1552,1369 1613,1337 1630,1385 1710,1363 1936,1350 2016,1385 2124,1364 2198,1337 2251,1330 2283,1323 2336,1320 2438,1299 2469,1299 2501,1299 2592,1310 2677,1312 2730,1305 2764,1295"/>
+                <TextEquiv>
+                    <Unicode>Fenyő SaMiksa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Fenyő SaMiksa</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1604999942288_507" custom="readingOrder {index:2;}">
+            <Coords points="1487,1405 2459,1405 2459,1757 1487,1757"/>
+            <TextLine id="region_1604999942288_507l1" custom="readingOrder {index:0;}">
+                <Coords points="1501,1670 1505,1698 1581,1668 2422,1650 2422,1500 2143,1474 1811,1446 1802,1373 1752,1364 1714,1457 1614,1462"/>
+                <Baseline points="1546,1618 1587,1612 1615,1610 1641,1614 1669,1614 1699,1622 1757,1646 1814,1647 1875,1622 1906,1619 1963,1620 1985,1611 2041,1611 2070,1613 2109,1635 2142,1658 2211,1635 2277,1633 2317,1623 2340,1621"/>
+                <TextEquiv>
+                    <Unicode>úrnak</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>úrnak</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

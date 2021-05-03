@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>PKEL'V.=5239#114_4</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: szucs.kata.agnes@gmail.com</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile xml:id='facs_1'>
+		<surface ulx='0' uly='0' lrx='3607' lry='4623'>
+			<graphic url='PKEL'V.=5239#114_4a.tif' width='3607px' height='4623px'/>
+			<zone ulx='260' uly='349' lrx='3461' lry='1516' rendition='TextRegion' xml:id='facs_1_region_1612539706396_1494'>
+				<zone ulx='299' uly='381' lrx='3456' lry='1501' rendition='Line' xml:id='facs_1_line_1612539857388_1521'/>
+			</zone>
+			<zone ulx='165' uly='1436' lrx='3476' lry='2977' rendition='TextRegion' xml:id='facs_1_region_1612539734796_1499'>
+				<zone ulx='341' uly='1449' lrx='3478' lry='1950' rendition='Line' xml:id='facs_1_line_1612539864587_1526'/>
+				<zone ulx='230' uly='1912' lrx='3472' lry='2308' rendition='Line' xml:id='facs_1_line_1612539872121_1531'/>
+				<zone ulx='210' uly='2273' lrx='3461' lry='2658' rendition='Line' xml:id='facs_1_line_1612539881857_1536'/>
+				<zone ulx='214' uly='2632' lrx='1885' lry='2972' rendition='Line' xml:id='facs_1_line_1612539888403_1541'/>
+			</zone>
+			<zone ulx='175' uly='2977' lrx='3436' lry='4099' rendition='TextRegion' xml:id='facs_1_region_1612539776532_1509'>
+				<zone ulx='384' uly='2968' lrx='3435' lry='3447' rendition='Line' xml:id='facs_1_line_1612539915952_1549'/>
+				<zone ulx='218' uly='3421' lrx='972' lry='4074' rendition='Line' xml:id='facs_1_line_1612539920985_1554'/>
+			</zone>
+			<zone ulx='1541' uly='3580' lrx='3267' lry='4463' rendition='TextRegion' xml:id='facs_1_region_1612539822115_1513'>
+				<zone ulx='1548' uly='3580' lrx='3260' lry='4453' rendition='Line' xml:id='facs_1_line_1612539927277_1559'/>
+			</zone>
+			<zone ulx='1377' uly='4328' lrx='1511' lry='4493' rendition='TextRegion' xml:id='facs_1_region_1612539845141_1517'>
+				<zone ulx='1390' uly='4344' lrx='1505' lry='4472' rendition='Line' xml:id='facs_1_line_1612540065860_1575'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<pb facs='#facs_1' n='1'/>
+			<p facs='#facs_1_region_1612539706396_1494'>
+				<lb facs='#facs_1_line_1612539857388_1521' n='N001'/>Kedves Józsi bátyám,
+			</p>
+			<p facs='#facs_1_region_1612539734796_1499'>
+				<lb facs='#facs_1_line_1612539864587_1526' n='N001'/>Hozatok Beregszász¬
+				<lb facs='#facs_1_line_1612539872121_1531' n='N002'/>ról gyerekkori képet
+				<lb facs='#facs_1_line_1612539881857_1536' n='N003'/>és akkor leszek bátor
+				<lb facs='#facs_1_line_1612539888403_1541' n='N004'/>elküldeni.
+			</p>
+			<p facs='#facs_1_region_1612539776532_1509'>
+				<lb facs='#facs_1_line_1612539915952_1549' n='N001'/>Öleli és szereti ma¬
+				<lb facs='#facs_1_line_1612539920985_1554' n='N002'/>gát,
+			</p>
+			<p facs='#facs_1_region_1612539822115_1513'>
+				<lb facs='#facs_1_line_1612539927277_1559' n='N001'/>Zsazsa
+			</p>
+			<p facs='#facs_1_region_1612539845141_1517'>
+				<lb facs='#facs_1_line_1612540065860_1575' n='N001'/>1
+			</p>
+		</body>
+	</text>
+</TEI>

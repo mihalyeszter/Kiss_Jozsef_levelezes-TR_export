@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-09-21T14:08:41.243+02:00</Created>
+        <LastChange>2020-12-01T18:01:40.537+01:00</LastChange>
+        <TranskribusMetadata docId="484900" pageId="19998687" pageNr="1" tsid="49759011" status="IN_PROGRESS" userId="58915" imgUrl="https://files.transkribus.eu/Get?id=VHPHFLNYSUISPHPKZABBLXIG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZDKRRLAMYTLUACZATZIELRAM" imageId="15414138"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5461#7_1a.tif" imageWidth="3327" imageHeight="2191">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424575418" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1603801301516_399"/>
+                <RegionRefIndexed index="1" regionRef="region_1603801303461_402"/>
+                <RegionRefIndexed index="2" regionRef="region_1603801305066_405"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="region_1603801301516_399" custom="readingOrder {index:0;}">
+            <Coords points="691,515 2353,515 2397,901 752,929"/>
+            <TextLine id="region_1603801301516_399l1" custom="readingOrder {index:0;}">
+                <Coords points="879,914 2279,862 2300,639 900,691"/>
+                <Baseline points="879,864 949,860 1019,855 1089,852 1159,849 1229,846 1299,845 1369,842 1439,840 1509,837 1579,836 1649,834 1719,833 1789,831 1859,828 1929,827 1999,824 2069,822 2139,819 2209,816 2279,812"/>
+                <TextEquiv>
+                    <Unicode>Grünwald Berta urhölgy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Grünwald Berta urhölgy</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1603801303461_402" custom="readingOrder {index:1;}">
+            <Coords points="1216,881 2398,881 2395,1100 1213,1100"/>
+            <TextLine id="region_1603801303461_402l1" custom="readingOrder {index:0;} sic {offset:2; length:11;}">
+                <Coords points="1284,1090 2304,1049 2297,895 1281,905"/>
+                <Baseline points="1284,1040 1335,1036 1386,1034 1437,1031 1488,1028 1539,1025 1590,1023 1641,1021 1692,1017 1743,1015 1794,1013 1845,1011 1896,1010 1947,1008 1998,1005 2049,1004 2100,1002 2151,1001 2202,1001 2253,999 2304,999"/>
+                <TextEquiv>
+                    <Unicode>Ő Nagyságanak</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ő Nagyságanak</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1603801305066_405" custom="readingOrder {index:2;}">
+            <Coords points="1817,1328 2940,1328 2940,1762 1817,1762"/>
+            <TextLine id="region_1603801305066_405l1" custom="readingOrder {index:0;}">
+                <Coords points="1975,1706 2881,1693 2893,1401 1987,1414"/>
+                <Baseline points="1962,1608 2007,1607 2052,1604 2097,1603 2143,1601 2188,1600 2233,1598 2279,1596 2324,1595 2369,1595 2415,1593 2460,1592 2505,1592 2550,1590 2596,1590 2641,1590 2686,1590 2732,1592 2777,1592 2822,1593 2868,1595"/>
+                <TextEquiv>
+                    <Unicode>Zala-Egerszegen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Zala-Egerszegen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

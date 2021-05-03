@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-28T11:43:40.788+02:00</Created>
+        <LastChange>2020-11-23T16:23:39.642+01:00</LastChange>
+        <TranskribusMetadata docId="376721" pageId="14728709" pageNr="6" tsid="49498134" status="IN_PROGRESS" userId="56520" imgUrl="https://files.transkribus.eu/Get?id=YEBQNCIKEMAOAMUXHQTLFUDA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GCUSVQGTIECHRFVKXAFUVNBU" imageId="10669756"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#30_4a.tif" imageWidth="2841" imageHeight="4381">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424072640" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1590496630993_1124"/>
+                <RegionRefIndexed index="1" regionRef="region_1590496641931_1127"/>
+                <RegionRefIndexed index="2" regionRef="region_1590496650381_1130"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1590496630993_1124" custom="readingOrder {index:0;}">
+            <Coords points="2527,447 490,447 490,754 2527,754"/>
+            <TextLine id="line_1590496682668_1133" custom="readingOrder {index:0;} sic {offset:0; length:12;}">
+                <Coords points="519,461 2513,459 2501,742 507,744"/>
+                <Baseline points="507,659 2501,657"/>
+                <TextEquiv>
+                    <Unicode>Vasszecsenyi Bérgazdaság</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Vasszecsenyi Bérgazdaság</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1590496641931_1127" custom="readingOrder {index:1;}">
+            <Coords points="2599,1002 1887,1002 1887,758 2599,758"/>
+            <TextLine id="line_1590496688129_1138" custom="readingOrder {index:0;}">
+                <Coords points="1897,766 2583,780 2582,988 1896,974"/>
+                <Baseline points="1896,919 2582,933"/>
+                <TextEquiv>
+                    <Unicode>Vas megye.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Vas megye.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1590496650381_1130" custom="readingOrder {index:2;}">
+            <Coords points="431,993 1192,993 1192,1336 431,1336"/>
+            <TextLine id="line_1590496694550_1143" custom="readingOrder {index:0;}">
+                <Coords points="463,1015 1156,1033 1161,1327 468,1309"/>
+                <Baseline points="464,1222 1157,1240"/>
+                <TextEquiv>
+                    <Unicode>Leányom</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Leányom</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

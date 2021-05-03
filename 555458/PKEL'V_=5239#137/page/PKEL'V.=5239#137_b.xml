@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-12-14T09:46:48.832+01:00</Created>
+        <LastChange>2021-01-05T09:03:07.667+01:00</LastChange>
+        <TranskribusMetadata docId="555458" pageId="22976770" pageNr="2" tsid="50687140" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=GVBKPPVJPHZXUNYNSYLECBBG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FXMLNNWESQWWYJKQTHWLNBVT" imageId="17928460"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#137_b.tif" imageWidth="2800" imageHeight="4265">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619423877761" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1608029437754_251"/>
+                <RegionRefIndexed index="1" regionRef="region_1608029456725_254"/>
+                <RegionRefIndexed index="2" regionRef="region_1608029463724_257"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1608029437754_251" custom="readingOrder {index:0;}">
+            <Coords points="2673,471 461,473 461,2466 2673,2464"/>
+            <TextLine id="line_1608029494264_263" custom="readingOrder {index:0;} sic {offset:21; length:9;}">
+                <Coords points="479,494 2502,487 2512,634 477,645"/>
+                <Baseline points="477,608 2503,581"/>
+                <TextEquiv>
+                    <Unicode>legalapvetőbb munkák nagyrésze hiányzik vagy ki</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1608029498757_268" custom="readingOrder {index:1;}">
+                <Coords points="501,660 2414,620 2415,731 502,771"/>
+                <Baseline points="502,746 2415,706"/>
+                <TextEquiv>
+                    <Unicode>van adva. Nekem is már szép könyvtáram van,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1608029503866_273" custom="readingOrder {index:2;}">
+                <Coords points="512,797 2491,745 2490,855 511,907"/>
+                <Baseline points="513,878 2492,826"/>
+                <TextEquiv>
+                    <Unicode>de mivel most januárban újra Németországba akarok</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1608029509997_278" custom="readingOrder {index:3;}">
+                <Coords points="553,911 2602,852 2603,964 554,1023"/>
+                <Baseline points="554,998 2603,939"/>
+                <TextEquiv>
+                    <Unicode>utazni, minden krajcárkát félre kell tennem, könyvekre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1608029516225_283" custom="readingOrder {index:4;}">
+                <Coords points="548,1037 2649,981 2652,1097 551,1153"/>
+                <Baseline points="545,1124 2646,1068"/>
+                <TextEquiv>
+                    <Unicode>így most sokat ki nem adhatok. De az itt is keresett könyvekre,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1608029542886_290" custom="readingOrder {index:5;} abbrev {offset:8; length:3;}">
+                <Coords points="537,1161 2667,1095 2668,1212 538,1278"/>
+                <Baseline points="538,1249 2668,1183"/>
+                <TextEquiv>
+                    <Unicode>lapokra stb. föltétlen szükségem van; nincs más mód:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1608029548747_295" custom="readingOrder {index:6;}">
+                <Coords points="551,1282 2425,1230 2426,1337 552,1389"/>
+                <Baseline points="552,1364 2426,1312"/>
+                <TextEquiv>
+                    <Unicode>Pestre kell mennem, hogy valamelyik nagy könyvtárban</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1608029555049_300" custom="readingOrder {index:7;}">
+                <Coords points="594,1400 2626,1339 2627,1448 595,1509"/>
+                <Baseline points="595,1484 2627,1423"/>
+                <TextEquiv>
+                    <Unicode>probáljak szerencsét. Gondolom Melich professor Úr se¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1608029561584_305" custom="readingOrder {index:8;}">
+                <Coords points="581,1516 2484,1485 2489,1600 586,1631"/>
+                <Baseline points="586,1604 2489,1573"/>
+                <TextEquiv>
+                    <Unicode>gítségével csak bejutok valahová. Az itteni könyvtárban</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1608029568139_310" custom="readingOrder {index:9;}">
+                <Coords points="582,1646 2579,1609 2580,1714 583,1751"/>
+                <Baseline points="583,1718 2580,1681"/>
+                <TextEquiv>
+                    <Unicode>nem kaptam meg Nagyságodnak két művét, a Zsidó da¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1608029575246_315" custom="readingOrder {index:10;}">
+                <Coords points="565,1774 2461,1738 2464,1841 568,1877"/>
+                <Baseline points="568,1842 2464,1806"/>
+                <TextEquiv>
+                    <Unicode>lokat, továbbá a regényt. Nem kaptam meg a „Pester</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1608029583213_320" custom="readingOrder {index:11;}">
+                <Coords points="589,1882 2629,1846 2630,1949 590,1985"/>
+                <Baseline points="590,1962 2630,1926"/>
+                <TextEquiv>
+                    <Unicode>Lloyd” régi számait, melyekben Silberstein Adolfnak</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1608029592609_325" custom="readingOrder {index:12;} unclear {offset:43; length:11;}">
+                <Coords points="603,1992 2574,1967 2575,2080 604,2105"/>
+                <Baseline points="604,2067 2575,2042"/>
+                <TextEquiv>
+                    <Unicode>a kritikái jöttek, nem az akkori napilapok jelentékeny</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1608029597809_330" custom="readingOrder {index:13;}">
+                <Coords points="617,2107 2582,2096 2582,2216 617,2227"/>
+                <Baseline points="617,2194 2582,2183"/>
+                <TextEquiv>
+                    <Unicode>részét, hát így mit csináljak itt, hisz minden legkisebb</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1608029603572_335" custom="readingOrder {index:14;} sic {offset:35; length:14;}">
+                <Coords points="629,2234 2596,2232 2596,2334 629,2336"/>
+                <Baseline points="629,2305 2596,2303"/>
+                <TextEquiv>
+                    <Unicode>anyagra szükségem van, mert az így össze gyűjtött anyagot</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1608029608918_340" custom="readingOrder {index:15;}">
+                <Coords points="565,2356 2116,2349 2116,2444 565,2451"/>
+                <Baseline points="565,2434 2116,2427"/>
+                <TextEquiv>
+                    <Unicode>i. történeti szempontból kell felhasználnom.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>legalapvetőbb munkák nagyrésze hiányzik vagy ki&#xD;
+van adva. Nekem is már szép könyvtáram van,&#xD;
+de mivel most januárban újra Németországba akarok&#xD;
+utazni, minden krajcárkát félre kell tennem, könyvekre&#xD;
+így most sokat ki nem adhatok. De az itt is keresett könyvekre,&#xD;
+lapokra stb. föltétlen szükségem van; nincs más mód:&#xD;
+Pestre kell mennem, hogy valamelyik nagy könyvtárban&#xD;
+probáljak szerencsét. Gondolom Melich professor Úr se¬&#xD;
+gítségével csak bejutok valahová. Az itteni könyvtárban&#xD;
+nem kaptam meg Nagyságodnak két művét, a Zsidó da¬&#xD;
+lokat, továbbá a regényt. Nem kaptam meg a „Pester&#xD;
+Lloyd” régi számait, melyekben Silberstein Adolfnak&#xD;
+a kritikái jöttek, nem az akkori napilapok jelentékeny&#xD;
+részét, hát így mit csináljak itt, hisz minden legkisebb&#xD;
+anyagra szükségem van, mert az így össze gyűjtött anyagot&#xD;
+i. történeti szempontból kell felhasználnom.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1608029456725_254" custom="readingOrder {index:1;}">
+            <Coords points="553,2470 2564,2470 2578,3574 553,3602"/>
+            <TextLine id="line_1608029615234_345" custom="readingOrder {index:0;}">
+                <Coords points="767,2485 2483,2473 2487,2589 771,2601"/>
+                <Baseline points="771,2570 2487,2558"/>
+                <TextEquiv>
+                    <Unicode>Most azért írok, hogy megtudjam Nagyságodtól:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1608029621919_350" custom="readingOrder {index:1;}">
+                <Coords points="562,2630 2479,2603 2480,2714 563,2741"/>
+                <Baseline points="563,2701 2480,2674"/>
+                <TextEquiv>
+                    <Unicode>meddig marad Budapesten? mikor jő Kolozsvárra?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1608029641001_355" custom="readingOrder {index:2;}">
+                <Coords points="581,2751 2546,2731 2546,2845 581,2865"/>
+                <Baseline points="581,2838 2546,2818"/>
+                <TextEquiv>
+                    <Unicode>meddig marad itt s innen hová szándékszik utazni?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1608029646555_360" custom="readingOrder {index:3;}">
+                <Coords points="565,2887 2401,2850 2406,2960 570,2997"/>
+                <Baseline points="570,2972 2406,2935"/>
+                <TextEquiv>
+                    <Unicode>Mert ha junius végén utazna Kolosvárra, s ha</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1608029653073_365" custom="readingOrder {index:4;} add {offset:11; length:1;} gap {offset:11; length:0;}">
+                <Coords points="573,3007 2468,2976 2467,3085 572,3116"/>
+                <Baseline points="572,3091 2467,3060"/>
+                <TextEquiv>
+                    <Unicode>junius elejétől akadna percnyi ideje, úgy szépen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1608029658905_370" custom="readingOrder {index:5;}">
+                <Coords points="583,3143 2188,3116 2191,3208 586,3235"/>
+                <Baseline points="586,3214 2191,3187"/>
+                <TextEquiv>
+                    <Unicode>kérem értesítsen erről s egyszersmind arról is:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1608029665741_375" custom="readingOrder {index:6;}">
+                <Coords points="594,3257 2450,3216 2451,3328 595,3369"/>
+                <Baseline points="595,3336 2451,3295"/>
+                <TextEquiv>
+                    <Unicode>nem leszek Nagyságodnak alkalmatlan? adhat-e</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1608029681892_380" custom="readingOrder {index:7;}">
+                <Coords points="582,3391 2425,3350 2426,3438 583,3479"/>
+                <Baseline points="583,3458 2426,3417"/>
+                <TextEquiv>
+                    <Unicode>nekem alkalmat egy pár találkozásra s lépésemet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1608029689214_385" custom="readingOrder {index:8;}">
+                <Coords points="573,3514 2382,3468 2383,3554 574,3600"/>
+                <Baseline points="574,3587 2383,3541"/>
+                <TextEquiv>
+                    <Unicode>nem veszi-e illetlenségnek és tolakodásnak?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Most azért írok, hogy megtudjam Nagyságodtól:&#xD;
+meddig marad Budapesten? mikor jő Kolozsvárra?&#xD;
+meddig marad itt s innen hová szándékszik utazni?&#xD;
+Mert ha junius végén utazna Kolosvárra, s ha&#xD;
+junius elejétől akadna percnyi ideje, úgy szépen&#xD;
+kérem értesítsen erről s egyszersmind arról is:&#xD;
+nem leszek Nagyságodnak alkalmatlan? adhat-e&#xD;
+nekem alkalmat egy pár találkozásra s lépésemet&#xD;
+nem veszi-e illetlenségnek és tolakodásnak?</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1608029463724_257" custom="readingOrder {index:2;}">
+            <Coords points="2683,3588 544,3602 544,3883 2683,3883"/>
+            <TextLine id="line_1608029694412_390" custom="readingOrder {index:0;}">
+                <Coords points="788,3631 2473,3595 2474,3701 789,3737"/>
+                <Baseline points="789,3702 2474,3666"/>
+                <TextEquiv>
+                    <Unicode>Ne gondolja Nagyságod, hogy ajtostúl rohanok</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1608029701110_395" custom="readingOrder {index:1;}">
+                <Coords points="562,3755 2679,3694 2680,3809 563,3870"/>
+                <Baseline points="563,3845 2680,3784"/>
+                <TextEquiv>
+                    <Unicode>a házba, hiszen ha nem olvastam volna Nagyságodnak</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ne gondolja Nagyságod, hogy ajtostúl rohanok&#xD;
+a házba, hiszen ha nem olvastam volna Nagyságodnak</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

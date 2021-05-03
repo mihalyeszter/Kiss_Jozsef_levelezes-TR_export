@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-28T13:02:33.698+02:00</Created>
+        <LastChange>2020-11-19T15:23:20.703+01:00</LastChange>
+        <TranskribusMetadata docId="376795" pageId="14734333" pageNr="24" tsid="49197022" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=VCVYRGAQTAIGAKUEBUOPHCGZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GEETFDOJLAQUBQAXOZXUBJOZ" imageId="10675355"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#33_11b.tif" imageWidth="3497" imageHeight="2313">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424130182" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1597140664237_1877"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1597318475146_92"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1597318475146_91"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1597140664237_1877" custom="readingOrder {index:0;}">
+            <Coords points="1950,778 3338,778 3338,1139 1950,1139"/>
+            <TextLine id="line_1597140679312_1883" custom="readingOrder {index:0;}">
+                <Coords points="1989,787 3289,787 3299,1007 1999,1007"/>
+                <Baseline points="1999,1002 3299,1002"/>
+                <TextEquiv>
+                    <Unicode>Kiss Edit kisasszony</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kiss Edit kisasszony</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="TextRegion_1597318475146_92" custom="readingOrder {index:1;}">
+            <Coords points="1852,1297 3261,1297 3261,1712 1852,1712"/>
+            <TextLine id="line_1597318475161_95" custom="readingOrder {index:0;} unclear {offset:0; length:3;}">
+                <Coords points="1841,1359 3229,1327 3255,1683 1997,1712 1866,1712"/>
+                <Baseline points="1862,1630 3250,1598"/>
+                <TextEquiv>
+                    <Unicode>Réz Villa Balaton-füred</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Réz Villa Balaton-füred</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="TextRegion_1597318475146_91" custom="readingOrder {index:2;}">
+            <Coords points="1852,1712 3261,1712 3261,2062 1852,2062"/>
+            <TextLine id="line_1597140685856_1893" custom="readingOrder {index:0;}">
+                <Coords points="2136,1720 2890,1720 2890,1970 2136,1970"/>
+                <Baseline points="2136,1898 2890,1898"/>
+                <TextEquiv>
+                    <Unicode>Ungarn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ungarn</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

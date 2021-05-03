@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>PKEL'V.=5239#22</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: eszter.mihaly@gmail.com</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile xml:id='facs_1'>
+		<surface ulx='0' uly='0' lrx='3173' lry='2407'>
+			<graphic url='PKEL'V.=5239#22_a.tif' width='3173px' height='2407px'/>
+			<zone ulx='716' uly='471' lrx='1995' lry='747' rendition='TextRegion' xml:id='facs_1_region_1589985182980_923'>
+				<zone ulx='726' uly='499' lrx='1980' lry='746' rendition='Line' xml:id='facs_1_line_1589985315063_952'/>
+			</zone>
+			<zone ulx='295' uly='736' lrx='2978' lry='1414' rendition='TextRegion' xml:id='facs_1_region_1589985202758_926'>
+				<zone ulx='315' uly='739' lrx='2958' lry='950' rendition='Line' xml:id='facs_1_line_1589985347167_957'/>
+				<zone ulx='320' uly='906' lrx='2920' lry='1119' rendition='Line' xml:id='facs_1_line_1589985359835_962'/>
+				<zone ulx='307' uly='1083' lrx='2840' lry='1313' rendition='Line' xml:id='facs_1_line_1589985371407_967'/>
+				<zone ulx='307' uly='1230' lrx='2154' lry='1407' rendition='Line' xml:id='facs_1_line_1589985385877_972'/>
+			</zone>
+			<zone ulx='620' uly='1402' lrx='2259' lry='1616' rendition='TextRegion' xml:id='facs_1_region_1589985219574_929'>
+				<zone ulx='640' uly='1412' lrx='2244' lry='1606' rendition='Line' xml:id='facs_1_line_1589985394757_977'/>
+			</zone>
+			<zone ulx='2035' uly='1609' lrx='2923' lry='1977' rendition='TextRegion' xml:id='facs_1_region_1589985238791_932'>
+				<zone ulx='2056' uly='1616' lrx='2903' lry='1960' rendition='Line' xml:id='facs_1_line_1589985401020_982'/>
+			</zone>
+			<zone ulx='668' uly='1629' lrx='1016' lry='1836' rendition='TextRegion' xml:id='facs_1_region_1589985261631_941'>
+				<zone ulx='678' uly='1639' lrx='986' lry='1823' rendition='Line' xml:id='facs_1_line_1589985426764_997'/>
+			</zone>
+			<zone ulx='2222' uly='2000' lrx='2895' lry='2055' rendition='TextRegion' xml:id='facs_1_region_1589985247541_935'>
+				<zone ulx='2242' uly='1998' lrx='2875' lry='2048' rendition='Line' xml:id='facs_1_line_1589985410892_987'/>
+			</zone>
+			<zone ulx='2222' uly='2085' lrx='2890' lry='2151' rendition='TextRegion' xml:id='facs_1_region_1589985254747_938'>
+				<zone ulx='2237' uly='2086' lrx='2870' lry='2136' rendition='Line' xml:id='facs_1_line_1589985420840_992'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<pb facs='#facs_1' n='1'/>
+			<p facs='#facs_1_region_1589985182980_923'>
+				<lb facs='#facs_1_line_1589985315063_952' n='N001'/>Kedves Schweiger úr!
+			</p>
+			<p facs='#facs_1_region_1589985202758_926'>
+				<lb facs='#facs_1_line_1589985347167_957' n='N001'/>Nagyon köszönjük szíves figyelmüket. Abból
+				<lb facs='#facs_1_line_1589985359835_962' n='N002'/>a körülményből, hogy ránk gondoltak, követ¬
+				<lb facs='#facs_1_line_1589985371407_967' n='N003'/>keztetem, hogy egészségesek, hogy jól vannak.
+				<lb facs='#facs_1_line_1589985385877_972' n='N004'/>Beteg ember nem gondol másra.
+			</p>
+			<p facs='#facs_1_region_1589985219574_929'>
+				<lb facs='#facs_1_line_1589985394757_977' n='N001'/>Melegen üdvözöljük Önöket.
+			</p>
+			<p facs='#facs_1_region_1589985238791_932'>
+				<lb facs='#facs_1_line_1589985401020_982' n='N001'/>Kiss József
+			</p>
+			<p facs='#facs_1_region_1589985261631_941'>
+				<lb facs='#facs_1_line_1589985426764_997' n='N001'/><choice><expan></expan><abbr>Okt</abbr></choice>. 7.
+			</p>
+			<p facs='#facs_1_region_1589985247541_935'>
+				<lb facs='#facs_1_line_1589985410892_987' n='N001'/>VIII., Népszinház-u. 22.
+			</p>
+			<p facs='#facs_1_region_1589985254747_938'>
+				<lb facs='#facs_1_line_1589985420840_992' n='N001'/>Telefon József 5-27.
+			</p>
+		</body>
+	</text>
+</TEI>

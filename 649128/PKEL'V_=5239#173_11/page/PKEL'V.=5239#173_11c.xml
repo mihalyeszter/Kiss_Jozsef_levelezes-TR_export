@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2021-04-08T10:44:45.568+02:00</Created>
+        <LastChange>2021-04-19T10:56:32.188+02:00</LastChange>
+        <TranskribusMetadata docId="649128" pageId="25213429" pageNr="3" tsid="56754125" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=BEOPFOJSFGJBIKWTNHRRTQHG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TNTDVKPEKZYDKSBEYKVVUKGE" imageId="19444350"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#173_11c.tif" imageWidth="3481" imageHeight="2674">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424967018" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1617970747160_277"/>
+                <RegionRefIndexed index="1" regionRef="region_1617970752591_280"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1617970747160_277" custom="readingOrder {index:0;}">
+            <Coords points="198,195 3345,195 3355,2323 2916,2323 2883,2565 205,2563"/>
+            <TextLine id="line_1617970790665_285" custom="readingOrder {index:0;} sic {offset:30; length:9;}">
+                <Coords points="328,339 3174,248 3169,480 323,571"/>
+                <Baseline points="320,547 3166,456"/>
+                <TextEquiv>
+                    <Unicode>kiírom magam, képtelen vagyok ugyanaról</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617970793764_290" custom="readingOrder {index:1;}">
+                <Coords points="359,648 3124,519 3123,737 358,866"/>
+                <Baseline points="358,861 3123,732"/>
+                <TextEquiv>
+                    <Unicode>harmadikat is írni. Lehetetlen, annál is</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617970796943_295" custom="readingOrder {index:2;}">
+                <Coords points="318,961 3193,794 3196,1006 321,1173"/>
+                <Baseline points="329,1128 3204,961"/>
+                <TextEquiv>
+                    <Unicode>inkább, mert e perczben még sejtelmem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617970800301_300" custom="readingOrder {index:3;} add {offset:13; length:1;} gap {offset:13; length:0;}">
+                <Coords points="362,1226 3256,1015 3275,1211 381,1444"/>
+                <Baseline points="372,1413 3266,1180"/>
+                <TextEquiv>
+                    <Unicode>sincs róla, mit írjak a M. Hírlapba róla.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617970803826_305" custom="readingOrder {index:4;} textStyle {offset:18; length:12;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="370,1472 3121,1248 3128,1423 377,1647"/>
+                <Baseline points="377,1642 3128,1418"/>
+                <TextEquiv>
+                    <Unicode>Ha nincs más mód: add a Bartók 8</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617970806550_310" custom="readingOrder {index:5;} textStyle {offset:0; length:38;underlined:true; fontSize:0.0; kerning:0;} unclear {offset:0; length:5;}">
+                <Coords points="416,1696 3129,1482 3133,1675 420,1889"/>
+                <Baseline points="420,1884 3133,1670"/>
+                <TextEquiv>
+                    <Unicode>sorát az én kritikám elé, melyet úgyis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617970809559_315" custom="readingOrder {index:6;} textStyle {offset:0; length:38;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="326,1950 3287,1716 3285,1870 324,2104"/>
+                <Baseline points="324,2099 3285,1865"/>
+                <TextEquiv>
+                    <Unicode>csak azért nem gondoltam első czikknek</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617970813102_320" custom="readingOrder {index:7;} textStyle {offset:0; length:44;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="394,2117 3226,1908 3252,2080 420,2289"/>
+                <Baseline points="420,2284 3252,2075"/>
+                <TextEquiv>
+                    <Unicode>valónak, mert azt hittem, egész Kossúth-szá¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617970817001_325" custom="readingOrder {index:8;} textStyle {offset:0; length:10;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="249,2289 3315,2132 3314,2284 248,2441"/>
+                <Baseline points="248,2436 3314,2279"/>
+                <TextEquiv>
+                    <Unicode>múnk lesz. Így, a Molnár Feri s a Berzsenyi czikkhez</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617970821198_330" custom="readingOrder {index:9;} sic {offset:0; length:8;}">
+                <Coords points="262,2441 2838,2364 2842,2456 305,2527"/>
+                <Baseline points="305,2522 2842,2451"/>
+                <TextEquiv>
+                    <Unicode>képpest elég kegyeletes. Bocsánatot kér s ölel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>kiírom magam, képtelen vagyok ugyanaról&#xD;
+harmadikat is írni. Lehetetlen, annál is&#xD;
+inkább, mert e perczben még sejtelmem&#xD;
+sincs róla, mit írjak a M. Hírlapba róla.&#xD;
+Ha nincs más mód: add a Bartók 8&#xD;
+sorát az én kritikám elé, melyet úgyis&#xD;
+csak azért nem gondoltam első czikknek&#xD;
+valónak, mert azt hittem, egész Kossúth-szá¬&#xD;
+múnk lesz. Így, a Molnár Feri s a Berzsenyi czikkhez&#xD;
+képpest elég kegyeletes. Bocsánatot kér s ölel</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1617970752591_280" custom="readingOrder {index:1;}">
+            <Coords points="3007,2334 3346,2334 3346,2512 3007,2512"/>
+            <TextLine id="line_1617970824437_335" custom="readingOrder {index:0;}">
+                <Coords points="3014,2342 3333,2338 3337,2437 3018,2441"/>
+                <Baseline points="3018,2436 3337,2432"/>
+                <TextEquiv>
+                    <Unicode>V. H.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>V. H.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

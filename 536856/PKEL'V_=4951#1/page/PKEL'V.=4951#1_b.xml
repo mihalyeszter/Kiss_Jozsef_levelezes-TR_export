@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-11-12T10:54:36.248+01:00</Created>
+        <LastChange>2020-11-25T17:20:09.210+01:00</LastChange>
+        <TranskribusMetadata docId="536856" pageId="22630981" pageNr="2" tsid="49627306" status="IN_PROGRESS" userId="58915" imgUrl="https://files.transkribus.eu/Get?id=BCTJKJBGAUPVVKDPJCXHUNXI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BTFTXSCUXPKTICISLWJETTTE" imageId="17618637"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=4951#1_b.tif" imageWidth="3454" imageHeight="2380">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424653961" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1605257850546_68"/>
+                <RegionRefIndexed index="1" regionRef="region_1605257852951_71"/>
+                <RegionRefIndexed index="2" regionRef="region_1605257854929_74"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="region_1605257850546_68" custom="readingOrder {index:0;}">
+            <Coords points="1220,860 1220,508 2810,508 2810,957 2539,938 2459,1050 2387,1042 2416,926 1999,883 1850,1032 1810,985 1883,845 1323,860 1252,858"/>
+            <TextLine id="region_1605257850546_68l1" custom="readingOrder {index:0;}">
+                <Coords points="1229,859 2788,853 2798,511 1239,517"/>
+                <Baseline points="1241,825 1281,819 1339,813 1398,808 1457,804 1516,801 1575,800 1633,800 1692,799 1751,800 1810,801 1869,803 1927,804 1986,806 2045,807 2104,809 2163,810 2221,812 2280,812 2339,812 2398,810 2457,809 2508,811 2578,811 2603,809 2629,811"/>
+                <TextEquiv>
+                    <Unicode>Kiss József</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kiss József</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1605257852951_71" custom="readingOrder {index:1;}">
+            <Coords points="908,819 2302,819 2302,1106 2070,1102 1787,1096 1483,1123 1182,1185 1016,1199 928,1246 908,1106"/>
+            <TextLine id="region_1605257852951_71l1" custom="readingOrder {index:0;} textStyle {offset:0; length:9;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="948,1235 1408,1120 2289,1091 2289,941 2003,883 1956,926 1940,948 1897,981 1876,1016 1841,1040 1809,1020 1800,987 1846,870 1569,864 1374,876 908,932"/>
+                <Baseline points="1094,1112 1146,1101 1198,1094 1251,1086 1303,1080 1355,1075 1408,1070 1460,1067 1512,1064 1565,1061 1617,1060 1669,1059 1722,1058 1774,1056 1826,1056 1879,1055 1931,1054 1983,1053 2036,1052 2088,1050 2141,1049"/>
+                <TextEquiv>
+                    <Unicode>kézírása.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>kézírása.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1605257854929_74" custom="readingOrder {index:2;}">
+            <Coords points="1503,1099 2295,1099 2295,1251 1503,1251"/>
+            <TextLine id="region_1605257854929_74l1" custom="readingOrder {index:0;}">
+                <Coords points="1500,1240 2285,1207 2281,1101 1496,1134"/>
+                <Baseline points="1500,1190 1539,1190 1578,1190 1617,1190 1657,1188 1696,1187 1735,1185 1774,1184 1814,1182 1853,1181 1892,1178 1931,1176 1971,1173 2010,1171 2049,1169 2088,1167 2128,1165 2167,1163 2206,1161 2245,1159 2285,1157"/>
+                <TextEquiv>
+                    <Unicode>VIII., Népszínház-utca 22.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>VIII., Népszínház-utca 22.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

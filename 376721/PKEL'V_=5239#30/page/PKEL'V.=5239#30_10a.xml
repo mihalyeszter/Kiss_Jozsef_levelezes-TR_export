@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-28T11:43:41.268+02:00</Created>
+        <LastChange>2020-11-23T16:32:32.295+01:00</LastChange>
+        <TranskribusMetadata docId="376721" pageId="14728740" pageNr="14" tsid="49498828" status="IN_PROGRESS" userId="56520" imgUrl="https://files.transkribus.eu/Get?id=ZDDEABIGOCPVYLKCTYQQMNQQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BZRTMWRSAIFXVPPLXDTKJDWB" imageId="10669787"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#30_10a.tif" imageWidth="5340" imageHeight="8259">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424075001" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1590502677375_2271"/>
+                <RegionRefIndexed index="1" regionRef="region_1590502685042_2274"/>
+                <RegionRefIndexed index="2" regionRef="region_1590502703160_2277"/>
+                <RegionRefIndexed index="3" regionRef="region_1590502716525_2280"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1590502677375_2271" custom="readingOrder {index:0;}">
+            <Coords points="1682,305 548,422 540,688 1664,603"/>
+            <TextLine id="line_1590502853767_2291" custom="readingOrder {index:0;}">
+                <Coords points="609,442 1661,347 1642,585 590,680"/>
+                <Baseline points="590,675 1642,580"/>
+                <TextEquiv>
+                    <Unicode>Kedves Simikém!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kedves Simikém!</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1590502685042_2274" custom="readingOrder {index:1;}">
+            <Coords points="4471,205 426,821 484,1384 4458,699"/>
+            <TextLine id="line_1590502873470_2296" custom="readingOrder {index:0;} textStyle {offset:0; length:58;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="503,833 1799,645 4414,229 4444,437 1833,870 517,999"/>
+                <Baseline points="516,994 1828,861 4442,394"/>
+                <TextEquiv>
+                    <Unicode>A mai még még teljesen meg nem szokott nagy tőkés világban</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1590502891744_2301" custom="readingOrder {index:1;} textStyle {offset:0; length:51;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="609,1008 2629,754 3489,632 4414,458 4432,627 3386,818 2504,924 623,1142"/>
+                <Baseline points="622,1137 2503,919 3385,813 4431,622"/>
+                <TextEquiv>
+                    <Unicode>nevetséges az olyan ember, aki bevallja, hogy pénze</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1590502898302_2306" custom="readingOrder {index:2;} textStyle {offset:0; length:5;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="645,1198 1070,1140 1085,1270 660,1328"/>
+                <Baseline points="659,1323 1084,1265"/>
+                <TextEquiv>
+                    <Unicode>nincs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>A mai még még teljesen meg nem szokott nagy tőkés világban&#xD;
+nevetséges az olyan ember, aki bevallja, hogy pénze&#xD;
+nincs</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1590502703160_2277" custom="readingOrder {index:2;}">
+            <Coords points="5048,3179 1589,3684 1191,1113 5106,635"/>
+            <TextLine id="line_1590502915854_2311" custom="readingOrder {index:0;}">
+                <Coords points="1218,1135 2784,950 4597,713 4618,870 2796,1164 1222,1307"/>
+                <Baseline points="1222,1302 2795,1159 4612,845"/>
+                <TextEquiv>
+                    <Unicode>Tizenhét éves korod óta ismerlek, de még nem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1590502931109_2316" custom="readingOrder {index:1;}">
+                <Coords points="1291,1367 3368,1101 4087,959 4924,806 4963,967 4129,1148 3375,1259 1298,1525"/>
+                <Baseline points="1297,1520 3374,1254 4128,1143 4962,962"/>
+                <TextEquiv>
+                    <Unicode>volt rá eset, hogy szavad be nem váltottad</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1590504877301_2461" custom="readingOrder {index:2;} textStyle {offset:7; length:41;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="1344,1536 1936,1492 2998,1390 3090,1366 4400,1111 5087,917 5070,1155 4294,1308 3110,1506 3001,1509 1950,1625 1355,1705"/>
+                <Baseline points="1354,1700 1943,1598 3005,1472 3086,1434 4281,1285 5064,1118"/>
+                <TextEquiv>
+                    <Unicode>volna. A modern nagy tőkés világban is beváltják</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1590502960638_2331" custom="readingOrder {index:3;} add {offset:0; length:25;} add {offset:25; length:1;} gap {offset:25; length:0;}">
+                <Coords points="1798,1449 3753,1200 3768,1286 1813,1535"/>
+                <Baseline points="1812,1530 3767,1281"/>
+                <TextEquiv>
+                    <Unicode>Most is beváltod, de a mai</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1590502969704_2336" custom="readingOrder {index:4;} textStyle {offset:8; length:2;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:11; length:8;strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:31; length:3;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="1365,1716 4898,1231 4936,1460 1388,1865"/>
+                <Baseline points="1387,1860 4914,1408"/>
+                <TextEquiv>
+                    <Unicode>az emberek csakhogy vagy nem érnek rá, vagy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1590502976553_2341" custom="readingOrder {index:5;} textStyle {offset:8; length:2;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="1428,1876 4498,1488 4517,1647 1455,2062"/>
+                <Baseline points="1446,2030 4516,1642"/>
+                <TextEquiv>
+                    <Unicode>elfelejtik és az ellen igazán nem lehet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1590502983230_2346" custom="readingOrder {index:6;}">
+                <Coords points="1473,2089 4597,1606 4613,1787 1489,2270"/>
+                <Baseline points="1488,2237 4612,1754"/>
+                <TextEquiv>
+                    <Unicode>szava senkinek. Temesváron élt egy bankár</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1590502989561_2351" custom="readingOrder {index:7;} unclear {offset:0; length:10;} textStyle {offset:19; length:18;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="1516,2263 4682,1764 4694,2007 1532,2462"/>
+                <Baseline points="1531,2433 4697,1934"/>
+                <TextEquiv>
+                    <Unicode>Schamannak hívták, az ezt úgy fejezte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1590503015281_2356" custom="readingOrder {index:8;} textStyle {offset:0; length:25;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="1542,2449 3864,2098 3867,2338 1558,2619"/>
+                <Baseline points="1557,2614 3879,2263"/>
+                <TextEquiv>
+                    <Unicode>ki hogy Kommen Sie Morgen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1590503024552_2361" custom="readingOrder {index:9;}">
+                <Coords points="1659,2619 4970,2096 5006,2311 1686,2773"/>
+                <Baseline points="1685,2768 5005,2306"/>
+                <TextEquiv>
+                    <Unicode>annak az volt a szavajárása, hogy Kommen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1590503054024_2373" custom="readingOrder {index:10;} textStyle {offset:12; length:11;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="1646,2818 3479,2607 3486,2709 1664,2964"/>
+                <Baseline points="1663,2959 3485,2704"/>
+                <TextEquiv>
+                    <Unicode>Sie Morgen. Az egy rosz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1590503062289_2378" custom="readingOrder {index:11;} add {offset:0; length:5;} gap {offset:0; length:0;}">
+                <Coords points="2572,2614 3325,2540 3332,2630 2562,2731"/>
+                <Baseline points="2561,2726 3331,2625"/>
+                <TextEquiv>
+                    <Unicode> rosz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1590503068133_2383" custom="readingOrder {index:12;}">
+                <Coords points="3491,2558 4007,2494 4036,2653 3527,2742"/>
+                <Baseline points="3517,2683 4033,2619"/>
+                <TextEquiv>
+                    <Unicode>kifejezés</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1590503081646_2388" custom="readingOrder {index:13;} add {offset:0; length:4;}">
+                <Coords points="3972,2472 4237,2419 4251,2492 3986,2545"/>
+                <Baseline points="3985,2540 4250,2487"/>
+                <TextEquiv>
+                    <Unicode>volt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1590503087960_2393" custom="readingOrder {index:14;}">
+                <Coords points="4077,2509 4762,2343 4817,2572 4092,2619"/>
+                <Baseline points="4091,2614 4792,2518"/>
+                <TextEquiv>
+                    <Unicode>Simikém,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1590503093589_2398" custom="readingOrder {index:15;}">
+                <Coords points="1745,2978 4481,2622 4496,2834 1760,3190"/>
+                <Baseline points="1759,3161 4495,2805"/>
+                <TextEquiv>
+                    <Unicode>úgy kell írni, hogy hol Sie der Teúfel.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1590503104284_2403" custom="readingOrder {index:16;}">
+                <Coords points="1790,3174 4786,2797 4805,2975 1809,3352"/>
+                <Baseline points="1812,3331 4808,2954"/>
+                <TextEquiv>
+                    <Unicode>Ezt nem rád értem, hanem magamra. Írd meg</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1590503109688_2408" custom="readingOrder {index:17;}">
+                <Coords points="1833,3374 4765,2986 4779,3183 1859,3625"/>
+                <Baseline points="1839,3533 4771,3145"/>
+                <TextEquiv>
+                    <Unicode>egyszer, hogy eredj Kókára zabot hegyezni.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Tizenhét éves korod óta ismerlek, de még nem&#xD;
+volt rá eset, hogy szavad be nem váltottad&#xD;
+volna. A modern nagy tőkés világban is beváltják&#xD;
+Most is beváltod, de a mai&#xD;
+az emberek csakhogy vagy nem érnek rá, vagy&#xD;
+elfelejtik és az ellen igazán nem lehet&#xD;
+szava senkinek. Temesváron élt egy bankár&#xD;
+Schamannak hívták, az ezt úgy fejezte&#xD;
+ki hogy Kommen Sie Morgen&#xD;
+annak az volt a szavajárása, hogy Kommen&#xD;
+Sie Morgen. Az egy rosz&#xD;
+ rosz&#xD;
+kifejezés&#xD;
+volt&#xD;
+Simikém,&#xD;
+úgy kell írni, hogy hol Sie der Teúfel.&#xD;
+Ezt nem rád értem, hanem magamra. Írd meg&#xD;
+egyszer, hogy eredj Kókára zabot hegyezni.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1590502716525_2280" custom="readingOrder {index:3;}">
+            <Coords points="2453,7897 2666,7897 2666,8083 2453,8083"/>
+            <TextLine id="line_1590503122099_2413" custom="readingOrder {index:0;}">
+                <Coords points="2472,7924 2629,7932 2639,8054 2482,8046"/>
+                <Baseline points="2482,8041 2639,8049"/>
+                <TextEquiv>
+                    <Unicode>1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

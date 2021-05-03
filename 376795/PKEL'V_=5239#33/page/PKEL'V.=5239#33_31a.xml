@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-28T13:02:38.668+02:00</Created>
+        <LastChange>2020-11-13T14:13:33.313+01:00</LastChange>
+        <TranskribusMetadata docId="376795" pageId="14734738" pageNr="70" tsid="48658208" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=HWIJQIZHESZYCPBCSAQOQARO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZTSKYLHRPNWZAJMXSGRBORUH" imageId="10675760"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#33_31a.tif" imageWidth="3492" imageHeight="2296">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424142640" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1597315608047_1552"/>
+                <RegionRefIndexed index="1" regionRef="region_1597315595520_1546"/>
+                <RegionRefIndexed index="2" regionRef="region_1597315598667_1549"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1597315608047_1552" custom="readingOrder {index:0;}">
+            <Coords points="152,1735 1551,1735 1551,2202 152,2202"/>
+            <TextLine id="line_1597315663875_1573" custom="readingOrder {index:0;}">
+                <Coords points="241,1766 1422,1744 1419,1936 238,1958"/>
+                <Baseline points="238,1953 1419,1931"/>
+                <TextEquiv>
+                    <Unicode>Majd a Kárpáti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597315666166_1578" custom="readingOrder {index:1;}">
+                <Coords points="231,1970 1403,1936 1403,2088 231,2122"/>
+                <Baseline points="231,2117 1403,2083"/>
+                <TextEquiv>
+                    <Unicode>falvakban ujra</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597315670032_1583" custom="readingOrder {index:2;}">
+                <Coords points="321,2126 1507,2069 1511,2154 325,2211"/>
+                <Baseline points="350,2202 1511,2149"/>
+                <TextEquiv>
+                    <Unicode>látjuk egymást</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Majd a Kárpáti&#xD;
+falvakban ujra&#xD;
+látjuk egymást</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1597315595520_1546" custom="readingOrder {index:1;}">
+            <Coords points="1326,133 3227,133 3227,400 1326,400"/>
+            <TextLine id="line_1597315625902_1555" custom="readingOrder {index:0;}">
+                <Coords points="1394,136 2688,173 3170,235 3160,411 2647,365 1355,328"/>
+                <Baseline points="1355,323 2647,360 3063,403"/>
+                <TextEquiv>
+                    <Unicode>mentumom örököse!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>mentumom örököse!</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1597315598667_1549" custom="readingOrder {index:2;}">
+            <Coords points="2069,338 3353,338 3353,602 2069,602"/>
+            <TextLine id="line_1597315649485_1565" custom="readingOrder {index:0;}">
+                <Coords points="2091,339 3330,416 3312,572 2073,495"/>
+                <Baseline points="2073,490 3312,567"/>
+                <TextEquiv>
+                    <Unicode>szerető apád.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>szerető apád.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

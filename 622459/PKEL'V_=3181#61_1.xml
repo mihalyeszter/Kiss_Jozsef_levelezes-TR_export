@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>PKEL'V.=3181#61_1</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: vetek.bence@dbk.pim.hu</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile xml:id='facs_1'>
+		<surface ulx='0' uly='0' lrx='5181' lry='3406'>
+			<graphic url='PKEL'V.=3181#61_1a.tif' width='5181px' height='3406px'/>
+			<zone ulx='650' uly='506' lrx='2298' lry='922' rendition='TextRegion' xml:id='facs_1_region_1604995502927_82'>
+				<zone ulx='748' uly='534' lrx='2258' lry='920' rendition='Line' xml:id='facs_1_region_1604995502927_82l1'/>
+			</zone>
+			<zone ulx='345' uly='770' lrx='4909' lry='1453' rendition='TextRegion' xml:id='facs_1_TextRegion_1605084694661_14'>
+				<zone ulx='404' uly='835' lrx='4888' lry='1237' rendition='Line' xml:id='facs_1_line_1604996553360_116'/>
+				<zone ulx='328' uly='1151' lrx='3205' lry='1446' rendition='Line' xml:id='facs_1_line_1605084694671_17'/>
+			</zone>
+			<zone ulx='345' uly='1299' lrx='4906' lry='1939' rendition='TextRegion' xml:id='facs_1_TextRegion_1605084694661_13'>
+				<zone ulx='527' uly='1342' lrx='4461' lry='1621' rendition='Line' xml:id='facs_1_line_1605084694671_19'/>
+				<zone ulx='360' uly='1515' lrx='1848' lry='1803' rendition='Line' xml:id='facs_1_line_1604997140261_139'/>
+			</zone>
+			<zone ulx='1922' uly='1565' lrx='3175' lry='1810' rendition='TextRegion' xml:id='facs_1_region_1604995569745_94'>
+				<zone ulx='1940' uly='1566' lrx='3137' lry='1790' rendition='Line' xml:id='facs_1_line_1604997139006_133'/>
+			</zone>
+			<zone ulx='3097' uly='1589' lrx='3913' lry='2731' rendition='TextRegion' xml:id='facs_1_region_1604995578207_97'>
+				<zone ulx='3159' uly='1585' lrx='3864' lry='2719' rendition='Line' xml:id='facs_1_region_1604995578207_97l1'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<pb facs='#facs_1' n='1'/>
+			<p facs='#facs_1_region_1604995502927_82'>
+				<lb facs='#facs_1_region_1604995502927_82l1' n='N001'/>Kedves barátom,
+			</p>
+			<p facs='#facs_1_TextRegion_1605084694661_14'>
+				<lb facs='#facs_1_line_1604996553360_116' n='N001'/>A mult héten vártuk, hogy a revíziót el fogja
+				<lb facs='#facs_1_line_1605084694671_17' n='N002'/>olvasni. Küldje vissza még ma.
+			</p>
+			<p facs='#facs_1_TextRegion_1605084694661_13'>
+				<lb facs='#facs_1_line_1605084694671_19' n='N001'/>Erős meghülés következtében már két napja
+				<lb facs='#facs_1_line_1604997140261_139' n='N002'/>ágyban vagyok.
+			</p>
+			<p facs='#facs_1_region_1604995569745_94'>
+				<lb facs='#facs_1_line_1604997139006_133' n='N001'/>Üdvözli híve
+			</p>
+			<p facs='#facs_1_region_1604995578207_97'>
+				<lb facs='#facs_1_region_1604995578207_97l1' n='N001'/>Kiss
+			</p>
+		</body>
+	</text>
+</TEI>

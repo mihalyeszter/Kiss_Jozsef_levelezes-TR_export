@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>PKEL'V.=5239#80</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: eszter.mihaly@gmail.com</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile xml:id='facs_1'>
+		<surface ulx='0' uly='0' lrx='2801' lry='1930'>
+			<graphic url='PKEL'V.=5239#80_a.tif' width='2801px' height='1930px'/>
+			<zone ulx='207' uly='89' lrx='1042' lry='385' rendition='TextRegion' xml:id='facs_1_region_1593627138972_75'>
+				<zone ulx='212' uly='96' lrx='1030' lry='383' rendition='Line' xml:id='facs_1_line_1593627201517_90'/>
+			</zone>
+			<zone ulx='111' uly='391' lrx='2629' lry='863' rendition='TextRegion' xml:id='facs_1_region_1593627160174_78'>
+				<zone ulx='131' uly='412' lrx='2616' lry='859' rendition='Line' xml:id='facs_1_line_1593627206662_95'/>
+			</zone>
+			<zone ulx='997' uly='817' lrx='1591' lry='1117' rendition='TextRegion' xml:id='facs_1_region_1593627166260_81'>
+				<zone ulx='998' uly='811' lrx='1580' lry='1107' rendition='Line' xml:id='facs_1_line_1593627210820_100'/>
+			</zone>
+			<zone ulx='694' uly='1102' lrx='2636' lry='1585' rendition='TextRegion' xml:id='facs_1_region_1593627180377_84'>
+				<zone ulx='712' uly='1113' lrx='2627' lry='1574' rendition='Line' xml:id='facs_1_line_1593627221263_105'/>
+			</zone>
+			<zone ulx='229' uly='1531' lrx='2723' lry='1841' rendition='TextRegion' xml:id='facs_1_region_1593627190504_87'>
+				<zone ulx='233' uly='1537' lrx='2719' lry='1823' rendition='Line' xml:id='facs_1_line_1593627229429_110'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id='facs_2'>
+		<surface ulx='0' uly='0' lrx='2481' lry='1622'>
+			<graphic url='PKEL'V.=5239#80_b.tif' width='2481px' height='1622px'/>
+			<zone ulx='749' uly='740' lrx='1713' lry='895' rendition='TextRegion' xml:id='facs_2_r2'>
+				<zone ulx='749' uly='740' lrx='1713' lry='892' rendition='Line' xml:id='facs_2_r2l1'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id='facs_3'>
+		<surface ulx='0' uly='0' lrx='2455' lry='1634'>
+			<graphic url='PKEL'V.=5239#80_c.tif' width='2455px' height='1634px'/>
+			<zone ulx='109' uly='79' lrx='2377' lry='552' rendition='TextRegion' xml:id='facs_3_r1'>
+				<zone ulx='115' uly='82' lrx='2371' lry='377' rendition='Line' xml:id='facs_3_r1l1'/>
+				<zone ulx='139' uly='278' lrx='2353' lry='510' rendition='Line' xml:id='facs_3_r1l2'/>
+			</zone>
+			<zone ulx='97' uly='458' lrx='924' lry='650' rendition='TextRegion' xml:id='facs_3_region_1593627456808_155'>
+				<zone ulx='95' uly='460' lrx='919' lry='643' rendition='Line' xml:id='facs_3_r1l3'/>
+			</zone>
+			<zone ulx='89' uly='652' lrx='2072' lry='890' rendition='TextRegion' xml:id='facs_3_region_1593627472235_158'>
+				<zone ulx='104' uly='644' lrx='2068' lry='888' rendition='Line' xml:id='facs_3_r1l4'/>
+			</zone>
+			<zone ulx='808' uly='859' lrx='2404' lry='1320' rendition='TextRegion' xml:id='facs_3_region_1593627487673_161'>
+				<zone ulx='821' uly='863' lrx='2404' lry='1306' rendition='Line' xml:id='facs_3_r1l5'/>
+			</zone>
+			<zone ulx='155' uly='1151' lrx='2400' lry='1565' rendition='TextRegion' xml:id='facs_3_region_1593627511307_166'>
+				<zone ulx='166' uly='1160' lrx='2379' lry='1549' rendition='Line' xml:id='facs_3_r1l6'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<pb facs='#facs_1' n='1'/>
+			<p facs='#facs_1_region_1593627138972_75'>
+				<lb facs='#facs_1_line_1593627201517_90' n='N001'/><choice><expan></expan><abbr>nagys.</abbr></choice>
+			</p>
+			<p facs='#facs_1_region_1593627160174_78'>
+				<lb facs='#facs_1_line_1593627206662_95' n='N001'/>Kiss József úr,
+			</p>
+			<p facs='#facs_1_region_1593627166260_81'>
+				<lb facs='#facs_1_line_1593627210820_100' n='N001'/>író,
+			</p>
+			<p facs='#facs_1_region_1593627180377_84'>
+				<lb facs='#facs_1_line_1593627221263_105' n='N001'/><hi rend='underlined:true; fontSize:0.0; kerning:0;'>Budapest</hi>
+			</p>
+			<p facs='#facs_1_region_1593627190504_87'>
+				<lb facs='#facs_1_line_1593627229429_110' n='N001'/><hi rend='underlined:true; fontSize:0.0; kerning:0;'>VIII</hi>. Népszínház-u. 23. „<hi rend='underlined:true; fontSize:0.0; kerning:0;'>A Hét</hi>”
+			</p>
+			<pb facs='#facs_2' n='2'/>
+			<p facs='#facs_2_r2'>
+				<lb facs='#facs_2_r2l1' n='N001'/>Brázay Brummer Emil
+			</p>
+			<pb facs='#facs_3' n='3'/>
+			<p facs='#facs_3_r1'>
+				<lb facs='#facs_3_r1l1' n='N001'/>Legmelegebb szeren<supplied reason=''>¬</supplied>
+				<lb facs='#facs_3_r1l2' n='N002'/>csekívánatait küldi
+			</p>
+			<p facs='#facs_3_region_1593627456808_155'>
+				<lb facs='#facs_3_r1l3' n='N001'/>Önnek
+			</p>
+			<p facs='#facs_3_region_1593627472235_158'>
+				<lb facs='#facs_3_r1l4' n='N001'/>hódolatteljes híve
+			</p>
+			<p facs='#facs_3_region_1593627487673_161'>
+				<lb facs='#facs_3_r1l5' n='N001'/>Brázay Emil
+			</p>
+			<p facs='#facs_3_region_1593627511307_166'>
+				<lb facs='#facs_3_r1l6' n='N001'/>Perjámos, 1918, nov. 26.
+			</p>
+		</body>
+	</text>
+</TEI>

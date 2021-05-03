@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>PKEL'V.=5239#9</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: eszter.mihaly@gmail.com</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile xml:id='facs_1'>
+		<surface ulx='0' uly='0' lrx='5132' lry='5139'>
+			<graphic url='PKEL'V.=5239#9_a.tif' width='5132px' height='5139px'/>
+			<zone ulx='1735' uly='715' lrx='3689' lry='1071' rendition='TextRegion' xml:id='facs_1_region_1573481498902_911'>
+				<zone ulx='1754' uly='705' lrx='3647' lry='1015' rendition='Line' xml:id='facs_1_line_1573481688250_935'/>
+			</zone>
+			<zone ulx='413' uly='2671' lrx='4924' lry='3973' rendition='TextRegion' xml:id='facs_1_region_1573481522190_916'>
+				<zone ulx='644' uly='2642' lrx='4469' lry='3047' rendition='Line' xml:id='facs_1_line_1573481697055_941'/>
+				<zone ulx='591' uly='3018' lrx='4755' lry='3395' rendition='Line' xml:id='facs_1_line_1573481701656_946'/>
+				<zone ulx='491' uly='3374' lrx='4081' lry='3727' rendition='Line' xml:id='facs_1_line_1573481706680_951'/>
+				<zone ulx='515' uly='3700' lrx='1735' lry='4051' rendition='Line' xml:id='facs_1_line_1573481710184_956'/>
+			</zone>
+			<zone ulx='2002' uly='3852' lrx='3598' lry='4234' rendition='TextRegion' xml:id='facs_1_region_1573481526134_919'>
+				<zone ulx='2037' uly='3823' lrx='3507' lry='4235' rendition='Line' xml:id='facs_1_line_1573481717153_962'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<pb facs='#facs_1' n='1'/>
+			<p facs='#facs_1_region_1573481498902_911'>
+				<lb facs='#facs_1_line_1573481688250_935' n='N001'/>Hellner Armand
+			</p>
+			<p facs='#facs_1_region_1573481522190_916'>
+				<lb facs='#facs_1_line_1573481697055_941' n='N001'/>Lehetséges hogy családom <sic>megis</sic>
+				<lb facs='#facs_1_line_1573481701656_946' n='N002'/>oda megy talán ma m<hi rend='strikethrough:true; fontSize:0.0; kerning:0;'>é</hi><add>e</add>g is érkezik
+				<lb facs='#facs_1_line_1573481706680_951' n='N003'/>ezesetben megtartom a lakást
+				<lb facs='#facs_1_line_1573481710184_956' n='N004'/>üdvözöl:
+			</p>
+			<p facs='#facs_1_region_1573481526134_919'>
+				<lb facs='#facs_1_line_1573481717153_962' n='N001'/>Kiss <sic>Jozsef</sic>
+			</p>
+		</body>
+	</text>
+</TEI>

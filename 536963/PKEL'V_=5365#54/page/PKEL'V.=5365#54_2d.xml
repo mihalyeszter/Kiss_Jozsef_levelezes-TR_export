@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-11-12T13:42:55.353+01:00</Created>
+        <LastChange>2020-12-01T17:46:24.987+01:00</LastChange>
+        <TranskribusMetadata docId="536963" pageId="22647929" pageNr="6" tsid="49758453" status="IN_PROGRESS" userId="58915" imgUrl="https://files.transkribus.eu/Get?id=EUOCVTMMGJWLVEWAKNTRMMMO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KEQNQNOPAOJEJRZBLURRPGWA" imageId="17635469"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5365#54_2d.tif" imageWidth="4808" imageHeight="6014">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424680291" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1605195750410_1810"/>
+                <RegionRefIndexed index="1" regionRef="region_1605195756092_1818"/>
+                <RegionRefIndexed index="2" regionRef="region_1605195761922_1826"/>
+                <RegionRefIndexed index="3" regionRef="region_1605195766533_1834"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1605195750410_1810" custom="readingOrder {index:0;}">
+            <Coords points="865,1881 869,2115 3604,2115 3600,1881"/>
+            <TextLine id="line_1605195750426_1813" custom="readingOrder {index:0;}">
+                <Coords points="877,1896 3599,1900 3599,2095 870,2115"/>
+                <Baseline points="870,2110 3604,2078"/>
+                <TextEquiv>
+                    <Unicode>Üdvözlöm a familiát. Jóskát különösen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Üdvözlöm a familiát. Jóskát különösen.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1605195756092_1818" custom="readingOrder {index:1;}">
+            <Coords points="1880,2136 1875,2351 3241,2327 3232,2095"/>
+            <TextLine id="line_1605195756107_1821" custom="readingOrder {index:0;}">
+                <Coords points="1880,2146 3240,2121 3241,2318 1881,2343"/>
+                <Baseline points="1881,2294 3241,2269"/>
+                <TextEquiv>
+                    <Unicode>Meleg kézszorítással</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Meleg kézszorítással</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1605195761922_1826" custom="readingOrder {index:2;}">
+            <Coords points="3082,2345 3082,2509 3446,2509 3446,2345"/>
+            <TextLine id="line_1605195761938_1829" custom="readingOrder {index:0;}">
+                <Coords points="3083,2353 3446,2359 3445,2509 3082,2503"/>
+                <Baseline points="3082,2498 3445,2504"/>
+                <TextEquiv>
+                    <Unicode>híve</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>híve</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1605195766533_1834" custom="readingOrder {index:3;}">
+            <Coords points="2984,2567 2980,3117 4004,3117 4019,2477"/>
+            <TextLine id="line_1605195766549_1837" custom="readingOrder {index:0;}">
+                <Coords points="2984,2581 4011,2496 4012,3055 2989,3074"/>
+                <Baseline points="2981,2809 4004,2790"/>
+                <TextEquiv>
+                    <Unicode>Kiss József</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kiss József</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-06-03T13:27:11.987+02:00</Created>
+        <LastChange>2020-11-25T15:41:51.454+01:00</LastChange>
+        <TranskribusMetadata docId="401202" pageId="15522809" pageNr="4" tsid="49617846" status="IN_PROGRESS" userId="56520" imgUrl="https://files.transkribus.eu/Get?id=TRTTCQNVMZYEPNOLXETDGFEU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OQZMBZREHKZTPVSZMLWZOLMO" imageId="11350722"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#55_2b.tif" imageWidth="4194" imageHeight="5455">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424302581" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1592939619365_886"/>
+                <RegionRefIndexed index="1" regionRef="region_1592940041222_889"/>
+                <RegionRefIndexed index="2" regionRef="region_1592940069116_894"/>
+                <RegionRefIndexed index="3" regionRef="region_1592940087520_897"/>
+                <RegionRefIndexed index="4" regionRef="region_1592940125221_900"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1592939619365_886" custom="readingOrder {index:0;}">
+            <Coords points="366,356 3567,356 3567,456 366,456"/>
+            <TextLine id="line_1592940160870_903" custom="readingOrder {index:0;}">
+                <Coords points="376,362 3557,369 3557,455 376,448"/>
+                <Baseline points="376,443 3557,450"/>
+                <TextEquiv>
+                    <Unicode>Borsod Miskolczi Közművelődési és Muzeum Egyesület</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Borsod Miskolczi Közművelődési és Muzeum Egyesület</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1592940041222_889" custom="readingOrder {index:1;}">
+            <Coords points="996,472 2940,472 2940,650 996,650"/>
+            <TextLine id="line_1592940166932_908" custom="readingOrder {index:0;}">
+                <Coords points="1009,490 2926,490 2923,638 1006,638"/>
+                <Baseline points="1006,633 2923,633"/>
+                <TextEquiv>
+                    <Unicode>Közművelődési Osztálya.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Közművelődési Osztálya.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1592940069116_894" custom="readingOrder {index:2;}">
+            <Coords points="576,796 2843,796 2843,1320 576,1320"/>
+            <TextLine id="line_1592940173404_913" custom="readingOrder {index:0;}">
+                <Coords points="610,846 2847,879 2828,1318 597,1312"/>
+                <Baseline points="600,1133 2837,1166"/>
+                <TextEquiv>
+                    <Unicode>Igen tisztelt Mester,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Igen tisztelt Mester,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1592940087520_897" custom="readingOrder {index:3;}">
+            <Coords points="160,1343 3927,1343 3927,1986 160,1986"/>
+            <TextLine id="line_1592940179592_918" custom="readingOrder {index:0;}">
+                <Coords points="180,1347 3907,1367 3901,1678 174,1658"/>
+                <Baseline points="183,1570 3910,1590"/>
+                <TextEquiv>
+                    <Unicode>nagybecsű soraira következőkben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1592940186192_923" custom="readingOrder {index:1;}">
+                <Coords points="183,1664 3047,1714 3027,1965 163,1915"/>
+                <Baseline points="163,1910 3027,1960"/>
+                <TextEquiv>
+                    <Unicode>van szerencsém válaszolni.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>nagybecsű soraira következőkben&#xD;
+van szerencsém válaszolni.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1592940125221_900" custom="readingOrder {index:4;}">
+            <Coords points="50,2051 4054,2051 4054,5229 50,5229"/>
+            <TextLine id="line_1592940194353_928" custom="readingOrder {index:0;} sic {offset:10; length:6;}">
+                <Coords points="701,2086 3784,2079 3794,2507 690,2395"/>
+                <Baseline points="690,2390 3773,2383"/>
+                <TextEquiv>
+                    <Unicode>Deczember 16 iki ünnepélyünk</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1592940202779_933" custom="readingOrder {index:1;} unclear {offset:21; length:12; continued:true;}">
+                <Coords points="137,2427 3877,2537 3855,2887 115,2777"/>
+                <Baseline points="130,2690 3870,2800"/>
+                <TextEquiv>
+                    <Unicode>zenekari hangverseny sok kottaké¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1592940217797_938" custom="readingOrder {index:2;} unclear {offset:0; length:3; continued:true;}">
+                <Coords points="68,2735 4032,2905 4036,3260 67,3167"/>
+                <Baseline points="72,3025 4036,3195"/>
+                <TextEquiv>
+                    <Unicode>pen. Elő fogják adni Schubert, Hän¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1592940234392_943" custom="readingOrder {index:3;} unclear {offset:16; length:16;}">
+                <Coords points="105,3157 3972,3291 3973,3652 106,3518"/>
+                <Baseline points="109,3462 3976,3596"/>
+                <TextEquiv>
+                    <Unicode>del - Martucci, Meyer Hellendaal, és Bizet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1592940239761_948" custom="readingOrder {index:4;}">
+                <Coords points="116,3551 3896,3661 3889,4105 109,3995"/>
+                <Baseline points="109,3846 3889,3956"/>
+                <TextEquiv>
+                    <Unicode>egy-egy alkotását. Egy énekesnőnk</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1592940247062_953" custom="readingOrder {index:5;}">
+                <Coords points="115,3952 3705,4036 3692,4453 102,4369"/>
+                <Baseline points="102,4252 3692,4336"/>
+                <TextEquiv>
+                    <Unicode>a Fidelióból fog énekelni. Önt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1592940260653_958" custom="readingOrder {index:6;} sic {offset:21; length:3;} sic {offset:28; length:3;}">
+                <Coords points="80,4370 3644,4497 3636,4832 72,4781"/>
+                <Baseline points="72,4637 3636,4764"/>
+                <TextEquiv>
+                    <Unicode>igen tisztelt Mester 3ik és 5ik</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1592940270299_963" custom="readingOrder {index:7;}">
+                <Coords points="148,4778 3915,4838 3909,5209 142,5149"/>
+                <Baseline points="136,5057 3903,5117"/>
+                <TextEquiv>
+                    <Unicode>számnak fogjuk kérni. Ugy gon¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Deczember 16 iki ünnepélyünk&#xD;
+zenekari hangverseny sok kottaké¬&#xD;
+pen. Elő fogják adni Schubert, Hän¬&#xD;
+del - Martucci, Meyer Hellendaal, és Bizet&#xD;
+egy-egy alkotását. Egy énekesnőnk&#xD;
+a Fidelióból fog énekelni. Önt,&#xD;
+igen tisztelt Mester 3ik és 5ik&#xD;
+számnak fogjuk kérni. Ugy gon¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

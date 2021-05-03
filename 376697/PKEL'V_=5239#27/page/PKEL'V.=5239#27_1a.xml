@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-28T11:34:38.581+02:00</Created>
+        <LastChange>2020-11-25T11:06:34.253+01:00</LastChange>
+        <TranskribusMetadata docId="376697" pageId="14727284" pageNr="1" tsid="49597709" status="IN_PROGRESS" userId="56520" imgUrl="https://files.transkribus.eu/Get?id=WDPEOHLDJVJCXSZGIQBSMIRM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EKPQMJIKJWDAYAMSHEBQTFKW" imageId="10668345"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#27_1a.tif" imageWidth="3304" imageHeight="2215">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424078393" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1590398610768_26"/>
+                <RegionRefIndexed index="1" regionRef="region_1590398615921_29"/>
+                <RegionRefIndexed index="2" regionRef="region_1590398628932_32"/>
+                <RegionRefIndexed index="3" regionRef="region_1590398640393_35"/>
+                <RegionRefIndexed index="4" regionRef="region_1590398651156_38"/>
+                <RegionRefIndexed index="5" regionRef="region_1590398674976_41"/>
+                <RegionRefIndexed index="6" regionRef="region_1590398686244_44"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1590398610768_26" custom="readingOrder {index:0;}">
+            <Coords points="2906,99 3156,99 3156,256 2906,256"/>
+            <TextLine id="line_1590398748874_50" custom="readingOrder {index:0;}">
+                <Coords points="2922,113 3132,111 3129,240 2919,242"/>
+                <Baseline points="2919,214 3129,212"/>
+                <TextEquiv>
+                    <Unicode>107.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>107.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1590398615921_29" custom="readingOrder {index:1;}">
+            <Coords points="251,241 792,241 792,380 251,380"/>
+            <TextLine id="line_1590398754193_55" custom="readingOrder {index:0;}">
+                <Coords points="264,249 760,247 760,364 264,366"/>
+                <Baseline points="264,361 760,359"/>
+                <TextEquiv>
+                    <Unicode>A Hét</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>A Hét</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1590398628932_32" custom="readingOrder {index:2;}">
+            <Coords points="1958,383 3080,383 3080,488 1958,488"/>
+            <TextLine id="line_1590398777305_60" custom="readingOrder {index:0;} textStyle {offset:21; length:1;strikethrough:true; fontSize:0.0; kerning:0;} add {offset:22; length:1;}">
+                <Coords points="1973,405 3061,401 3064,475 1976,479"/>
+                <Baseline points="1976,474 3067,470"/>
+                <TextEquiv>
+                    <Unicode>Budapest, 1907 marcz 120</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Budapest, 1907 marcz 120</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1590398640393_35" custom="readingOrder {index:3;}">
+            <Coords points="1779,548 2588,548 2588,490 1779,490"/>
+            <TextLine id="line_1590398800208_70" custom="readingOrder {index:0;}">
+                <Coords points="1787,492 2578,500 2578,550 1787,542"/>
+                <Baseline points="1787,537 2578,545"/>
+                <TextEquiv>
+                    <Unicode>VIII., Rökk Szilárd–u. 18.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>VIII., Rökk Szilárd–u. 18.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1590398651156_38" custom="readingOrder {index:4;}">
+            <Coords points="1336,514 408,514 408,700 1336,700"/>
+            <TextLine id="line_1590398810239_75" custom="readingOrder {index:0;}">
+                <Coords points="424,516 1323,521 1323,693 424,688"/>
+                <Baseline points="424,653 1296,658"/>
+                <TextEquiv>
+                    <Unicode>Kedves jó Szirmayné!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kedves jó Szirmayné!</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1590398674976_41" custom="readingOrder {index:5;}">
+            <Coords points="3190,653 204,653 204,1911 3182,1751"/>
+            <TextLine id="line_1590398820135_80" custom="readingOrder {index:0;}">
+                <Coords points="268,666 3157,658 3169,793 280,801"/>
+                <Baseline points="280,784 3169,776"/>
+                <TextEquiv>
+                    <Unicode>Meghatottan olvastam kedves sorait és sokáig gyönyör¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1590398825780_85" custom="readingOrder {index:1;}">
+                <Coords points="218,819 2972,779 2974,876 219,923"/>
+                <Baseline points="219,918 2974,871"/>
+                <TextEquiv>
+                    <Unicode>ködtem a viruló tőben, melylyel sorait megszerezte.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1590398833281_90" custom="readingOrder {index:2;}">
+                <Coords points="226,914 2948,868 2951,978 227,1031"/>
+                <Baseline points="227,1026 2951,973"/>
+                <TextEquiv>
+                    <Unicode>Egyik folytatása a másiknak, mintha a virág és a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1590398839534_95" custom="readingOrder {index:3;}">
+                <Coords points="213,1029 3170,963 3168,1098 211,1164"/>
+                <Baseline points="214,1147 3171,1081"/>
+                <TextEquiv>
+                    <Unicode>levél egy nagy meleg szívből fakadt volna. Ön, kedves Szir¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1590398846833_100" custom="readingOrder {index:4;}">
+                <Coords points="212,1144 3136,1097 3143,1230 219,1277"/>
+                <Baseline points="219,1257 3143,1210"/>
+                <TextEquiv>
+                    <Unicode>mayné elkényeztet engem. Utóbb még nagyzási máni¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1590398853980_105" custom="readingOrder {index:5;}">
+                <Coords points="218,1261 3128,1206 3135,1354 225,1391"/>
+                <Baseline points="225,1386 3114,1331"/>
+                <TextEquiv>
+                    <Unicode>ába esem és azt fogom hinni, hogy az a kitüntetés,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1590398860320_110" custom="readingOrder {index:6;}">
+                <Coords points="244,1393 2957,1343 2964,1482 251,1532"/>
+                <Baseline points="251,1509 2964,1459"/>
+                <TextEquiv>
+                    <Unicode>melyben Ön részesít, engem meg is illet. Nem illet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1590398867605_115" custom="readingOrder {index:7;}">
+                <Coords points="236,1535 3101,1475 3092,1624 234,1658"/>
+                <Baseline points="240,1638 3098,1604"/>
+                <TextEquiv>
+                    <Unicode>meg, de egy kedves ajándék, melynek érdemét az ajándé¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1590398876188_120" custom="readingOrder {index:8;}">
+                <Coords points="252,1652 3152,1610 3156,1743 235,1801"/>
+                <Baseline points="256,1774 3156,1732"/>
+                <TextEquiv>
+                    <Unicode>kozóra kell hárítanom. Fogadja hálámat és hodolato¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1590398883709_125" custom="readingOrder {index:9;}">
+                <Coords points="230,1797 558,1784 563,1877 235,1890"/>
+                <Baseline points="235,1885 563,1872"/>
+                <TextEquiv>
+                    <Unicode>mat.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Meghatottan olvastam kedves sorait és sokáig gyönyör¬&#xD;
+ködtem a viruló tőben, melylyel sorait megszerezte.&#xD;
+Egyik folytatása a másiknak, mintha a virág és a&#xD;
+levél egy nagy meleg szívből fakadt volna. Ön, kedves Szir¬&#xD;
+mayné elkényeztet engem. Utóbb még nagyzási máni¬&#xD;
+ába esem és azt fogom hinni, hogy az a kitüntetés,&#xD;
+melyben Ön részesít, engem meg is illet. Nem illet&#xD;
+meg, de egy kedves ajándék, melynek érdemét az ajándé¬&#xD;
+kozóra kell hárítanom. Fogadja hálámat és hodolato¬&#xD;
+mat.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1590398686244_44" custom="readingOrder {index:6;}">
+            <Coords points="3145,2111 2268,2111 2268,1746 3145,1746"/>
+            <TextLine id="line_1590398888769_130" custom="readingOrder {index:0;}">
+                <Coords points="2286,1752 3129,1759 3122,2103 2279,2096"/>
+                <Baseline points="2276,1943 3119,1950"/>
+                <TextEquiv>
+                    <Unicode>Kiss József</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kiss József</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

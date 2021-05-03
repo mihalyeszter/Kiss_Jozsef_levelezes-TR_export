@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-28T13:02:37.967+02:00</Created>
+        <LastChange>2020-11-19T16:28:57.081+01:00</LastChange>
+        <TranskribusMetadata docId="376795" pageId="14734686" pageNr="62" tsid="49221166" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=HVBGUTESVEGRUXWKPZAIPJGL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LOWLLYKTZSCWEIHKHUYFWDZI" imageId="10675708"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#33_27a.tif" imageWidth="3534" imageHeight="2355">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424140433" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1597313636632_945"/>
+                <RegionRefIndexed index="1" regionRef="region_1597313641116_948"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1597313636632_945" custom="readingOrder {index:0;}">
+            <Coords points="1612,107 3428,107 3416,628 1600,628"/>
+            <TextLine id="line_1597313648568_951" custom="readingOrder {index:0;}">
+                <Coords points="1646,109 3399,112 3393,219 1640,216"/>
+                <Baseline points="1640,211 3393,214"/>
+                <TextEquiv>
+                    <Unicode>Kedves Zsóka! Te bemégysz a classikus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597313653682_956" custom="readingOrder {index:1;} textStyle {offset:32; length:1;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="1602,243 3397,219 3398,293 1603,317"/>
+                <Baseline points="1603,312 3398,288"/>
+                <TextEquiv>
+                    <Unicode>conczertet hallgatni, addig én az</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597313660851_961" custom="readingOrder {index:2;}">
+                <Coords points="1614,325 3345,307 3345,413 1614,431"/>
+                <Baseline points="1614,405 3345,387"/>
+                <TextEquiv>
+                    <Unicode>guruló csengő aranyok muzsikáját</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597313669235_966" custom="readingOrder {index:3;}">
+                <Coords points="1629,432 3304,387 3302,490 1627,535"/>
+                <Baseline points="1627,530 3302,485"/>
+                <TextEquiv>
+                    <Unicode>hallgatom a Caszinóban. Minden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597313676032_971" custom="readingOrder {index:4;}">
+                <Coords points="1644,525 3314,490 3315,584 1645,619"/>
+                <Baseline points="1645,605 3315,570"/>
+                <TextEquiv>
+                    <Unicode>esetre tied lesz a nagyobb élvezet.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kedves Zsóka! Te bemégysz a classikus&#xD;
+conczertet hallgatni, addig én az&#xD;
+guruló csengő aranyok muzsikáját&#xD;
+hallgatom a Caszinóban. Minden&#xD;
+esetre tied lesz a nagyobb élvezet.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1597313641116_948" custom="readingOrder {index:1;}">
+            <Coords points="2547,559 3145,559 3145,743 2547,743"/>
+            <TextLine id="line_1597313679133_976" custom="readingOrder {index:0;}">
+                <Coords points="2570,603 3094,566 3100,684 2576,721"/>
+                <Baseline points="2576,716 3100,679"/>
+                <TextEquiv>
+                    <Unicode>Pá, Zsóka!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Pá, Zsóka!</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

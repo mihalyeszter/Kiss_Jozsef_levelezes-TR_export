@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-28T13:02:38.408+02:00</Created>
+        <LastChange>2020-11-19T16:33:09.532+01:00</LastChange>
+        <TranskribusMetadata docId="376795" pageId="14734716" pageNr="67" tsid="49222596" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=LCOYFCGBIHMLQCPTAWPNHFAW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JFNPJGVIEECXXEYASSRKTBVY" imageId="10675738"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#33_29b.tif" imageWidth="3432" imageHeight="2242">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424141807" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1597319524544_784"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1597319541151_802"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1597319546027_810"/>
+                <RegionRefIndexed index="3" regionRef="TextRegion_1597319572639_844"/>
+                <RegionRefIndexed index="4" regionRef="TextRegion_1597319567982_840"/>
+                <RegionRefIndexed index="5" regionRef="TextRegion_1597315062867_1241"/>
+                <RegionRefIndexed index="6" regionRef="region_1597314973202_1229"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="TextRegion_1597319524544_784" custom="readingOrder {index:0;}">
+            <Coords points="2409,794 3254,794 3254,964 2413,972"/>
+            <TextLine id="line_1597315142120_1310" custom="readingOrder {index:0;}">
+                <Coords points="2431,840 3208,835 3208,953 2431,958"/>
+                <Baseline points="2431,953 3208,948"/>
+                <TextEquiv>
+                    <Unicode>Hochwolgeboren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Hochwolgeboren</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="TextRegion_1597319541151_802" custom="readingOrder {index:1;}">
+            <Coords points="1664,885 2411,885 2413,972 2986,966 2986,1139 1664,1139"/>
+            <TextLine id="line_1597319524559_786" custom="readingOrder {index:0;}">
+                <Coords points="1679,908 2411,905 2413,972 2963,967 2955,1122 1667,1126"/>
+                <Baseline points="1667,1121 2955,1117"/>
+                <TextEquiv>
+                    <Unicode>frau Elisabeth Bauer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>frau Elisabeth Bauer</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="TextRegion_1597319546027_810" custom="readingOrder {index:2;}">
+            <Coords points="1926,1139 2673,1139 2673,1334 1926,1334"/>
+            <TextLine id="line_1597319513627_778" custom="readingOrder {index:0;} unclear {offset:0; length:12;}">
+                <Coords points="1962,1149 2535,1139 2650,1139 2651,1283 1963,1295"/>
+                <Baseline points="1963,1290 2651,1278"/>
+                <TextEquiv>
+                    <Unicode>Majorsgattin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Majorsgattin</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="TextRegion_1597319572639_844" custom="readingOrder {index:3;}">
+            <Coords points="2029,1401 3109,1401 3109,1698 2029,1698"/>
+            <TextLine id="line_1597315153006_1325" custom="readingOrder {index:0;}">
+                <Coords points="2045,1438 3058,1396 3060,1642 2047,1684"/>
+                <Baseline points="2047,1679 3060,1637"/>
+                <TextEquiv>
+                    <Unicode>Franczensbad</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Franczensbad</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="TextRegion_1597319567982_840" custom="readingOrder {index:4;}">
+            <Coords points="1907,1698 2975,1698 2975,1961 1907,1961"/>
+            <TextLine id="line_1597315154814_1330" custom="readingOrder {index:0;}">
+                <Coords points="1932,1725 2950,1699 2951,1903 1933,1929"/>
+                <Baseline points="1933,1924 2951,1898"/>
+                <TextEquiv>
+                    <Unicode>Stadt Leipczig</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Stadt Leipczig</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="TextRegion_1597315062867_1241" custom="readingOrder {index:5;}">
+            <Coords points="227,275 1510,275 1514,1949 1073,1949 231,1949"/>
+            <TextLine id="line_1597315106285_1245" custom="readingOrder {index:0;}">
+                <Coords points="272,320 1475,286 1468,472 265,506"/>
+                <Baseline points="265,501 1468,467"/>
+                <TextEquiv>
+                    <Unicode>Édes Erzsike! Mi ma va¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597315108694_1250" custom="readingOrder {index:1;}">
+                <Coords points="297,490 1492,456 1485,594 290,628"/>
+                <Baseline points="290,623 1485,589"/>
+                <TextEquiv>
+                    <Unicode>sárnap indulunk innen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597315110803_1255" custom="readingOrder {index:2;}">
+                <Coords points="288,646 1487,600 1485,734 286,780"/>
+                <Baseline points="286,775 1485,729"/>
+                <TextEquiv>
+                    <Unicode>Trencsén-Tepliczbe és</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597315112767_1260" custom="readingOrder {index:3;}">
+                <Coords points="267,796 1500,754 1502,856 269,898"/>
+                <Baseline points="269,893 1502,851"/>
+                <TextEquiv>
+                    <Unicode>ott maradunk négy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597315114623_1265" custom="readingOrder {index:4;}">
+                <Coords points="296,904 1500,857 1494,987 290,1034"/>
+                <Baseline points="290,1029 1494,982"/>
+                <TextEquiv>
+                    <Unicode>hétig. Én nagyon jól</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597315116764_1270" custom="readingOrder {index:5;}">
+                <Coords points="276,1026 1497,1000 1490,1126 269,1152"/>
+                <Baseline points="269,1147 1490,1121"/>
+                <TextEquiv>
+                    <Unicode>helyre hozakodtam. Az</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597315119134_1275" custom="readingOrder {index:6;}">
+                <Coords points="289,1177 1509,1156 1506,1270 286,1291"/>
+                <Baseline points="286,1286 1506,1265"/>
+                <TextEquiv>
+                    <Unicode>urad akár ma asszen¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597315121804_1280" custom="readingOrder {index:7;}">
+                <Coords points="277,1312 1510,1282 1511,1392 278,1422"/>
+                <Baseline points="278,1417 1511,1387"/>
+                <TextEquiv>
+                    <Unicode>tálhatna. Ezentúl már</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597315124410_1285" custom="readingOrder {index:8;}">
+                <Coords points="298,1443 1522,1417 1523,1519 299,1545"/>
+                <Baseline points="299,1540 1523,1514"/>
+                <TextEquiv>
+                    <Unicode>csak sarkantyus csizmá¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597315126850_1290" custom="readingOrder {index:9;}">
+                <Coords points="309,1566 1496,1516 1498,1642 311,1692"/>
+                <Baseline points="311,1687 1498,1637"/>
+                <TextEquiv>
+                    <Unicode>ban járok. Légy oly jó</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597315129635_1295" custom="readingOrder {index:10;}">
+                <Coords points="318,1701 1483,1650 1481,1768 316,1819"/>
+                <Baseline points="316,1814 1481,1763"/>
+                <TextEquiv>
+                    <Unicode>és írj mielőbb az új</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597315132281_1300" custom="readingOrder {index:11;}">
+                <Coords points="314,1820 1488,1777 1494,1903 320,1946"/>
+                <Baseline points="320,1941 1494,1898"/>
+                <TextEquiv>
+                    <Unicode>stacziónkra. Csókolunk</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Édes Erzsike! Mi ma va¬&#xD;
+sárnap indulunk innen&#xD;
+Trencsén-Tepliczbe és&#xD;
+ott maradunk négy&#xD;
+hétig. Én nagyon jól&#xD;
+helyre hozakodtam. Az&#xD;
+urad akár ma asszen¬&#xD;
+tálhatna. Ezentúl már&#xD;
+csak sarkantyus csizmá¬&#xD;
+ban járok. Légy oly jó&#xD;
+és írj mielőbb az új&#xD;
+stacziónkra. Csókolunk</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1597314973202_1229" custom="readingOrder {index:6;}">
+            <Coords points="723,1886 1452,1882 1452,2098 723,2102"/>
+            <TextLine id="line_1597315138164_1305" custom="readingOrder {index:0;}">
+                <Coords points="717,1925 1064,1929 1394,1891 1415,1996 1067,2047 716,2043"/>
+                <Baseline points="744,2038 1031,2042 1414,1991"/>
+                <TextEquiv>
+                    <Unicode>Nippi. Papa.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Nippi. Papa.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>PKEL'V.=5239#158_6</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: szucs.kata.agnes@gmail.com</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile xml:id='facs_1'>
+		<surface ulx='0' uly='0' lrx='3272' lry='4203'>
+			<graphic url='PKEL'V.=5239#158_6a.tif' width='3272px' height='4203px'/>
+			<zone ulx='358' uly='475' lrx='890' lry='749' rendition='TextRegion' xml:id='facs_1_region_1615469229418_57'>
+				<zone ulx='374' uly='506' lrx='867' lry='714' rendition='Line' xml:id='facs_1_line_1615469241907_62'/>
+			</zone>
+			<zone ulx='607' uly='163' lrx='2510' lry='596' rendition='TextRegion' xml:id='facs_1_region_1615464747204_13'>
+				<zone ulx='697' uly='171' lrx='2502' lry='609' rendition='Line' xml:id='facs_1_line_1615464814106_27'/>
+			</zone>
+			<zone ulx='665' uly='930' lrx='3187' lry='2400' rendition='TextRegion' xml:id='facs_1_region_1615464752813_16'>
+				<zone ulx='751' uly='1053' lrx='3030' lry='1300' rendition='Line' xml:id='facs_1_line_1615464818638_32'/>
+				<zone ulx='671' uly='1293' lrx='3079' lry='1501' rendition='Line' xml:id='facs_1_line_1615464824063_37'/>
+				<zone ulx='728' uly='1519' lrx='3114' lry='1746' rendition='Line' xml:id='facs_1_line_1615464851204_42'/>
+				<zone ulx='674' uly='1750' lrx='3115' lry='1956' rendition='Line' xml:id='facs_1_line_1615464858464_47'/>
+				<zone ulx='777' uly='1942' lrx='3085' lry='2152' rendition='Line' xml:id='facs_1_line_1615464862788_52'/>
+				<zone ulx='756' uly='2156' lrx='2278' lry='2356' rendition='Line' xml:id='facs_1_line_1615464865953_57'/>
+			</zone>
+			<zone ulx='1458' uly='2378' lrx='2675' lry='2663' rendition='TextRegion' xml:id='facs_1_region_1615464754706_19'>
+				<zone ulx='1554' uly='2427' lrx='2504' lry='2653' rendition='Line' xml:id='facs_1_line_1615464869417_62'/>
+			</zone>
+			<zone ulx='928' uly='2499' lrx='2983' lry='3225' rendition='TextRegion' xml:id='facs_1_region_1615464757794_22'>
+				<zone ulx='991' uly='2477' lrx='2764' lry='3239' rendition='Line' xml:id='facs_1_line_1615464872110_67'/>
+			</zone>
+			<zone ulx='1381' uly='3857' lrx='1728' lry='4056' rendition='TextRegion' xml:id='facs_1_region_1615469292617_113'>
+				<zone ulx='1439' uly='3896' lrx='1683' lry='4026' rendition='Line' xml:id='facs_1_line_1615469307482_119'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<pb facs='#facs_1' n='1'/>
+			<p facs='#facs_1_region_1615469229418_57'>
+				<lb facs='#facs_1_line_1615469241907_62' n='N001'/>E. 12
+			</p>
+			<p facs='#facs_1_region_1615464747204_13'>
+				<lb facs='#facs_1_line_1615464814106_27' n='N001'/>Lillafüred 1911 szeptb. 22.
+			</p>
+			<p facs='#facs_1_region_1615464752813_16'>
+				<lb facs='#facs_1_line_1615464818638_32' n='N001'/>Hát, édes aranyosom, elröpült?
+				<lb facs='#facs_1_line_1615464824063_37' n='N002'/>Fészket raknak – kedveset, meleget!
+				<lb facs='#facs_1_line_1615464851204_42' n='N003'/>Az ég áldása legyen rajta, – <sic>kívan¬</sic>
+				<lb facs='#facs_1_line_1615464858464_47' n='N004'/><sic>ja</sic> kis kertünk vad sziklája, min¬
+				<lb facs='#facs_1_line_1615464862788_52' n='N005'/>den virága – legjobban a kis nefe¬
+				<lb facs='#facs_1_line_1615464865953_57' n='N006'/>lejts és legeslegjobban
+			</p>
+			<p facs='#facs_1_region_1615464754706_19'>
+				<lb facs='#facs_1_line_1615464869417_62' n='N001'/>szívből örege
+			</p>
+			<p facs='#facs_1_region_1615464757794_22'>
+				<lb facs='#facs_1_line_1615464872110_67' n='N001'/>Herman Ottó
+			</p>
+			<p facs='#facs_1_region_1615469292617_113'>
+				<lb facs='#facs_1_line_1615469307482_119' n='N001'/>1
+			</p>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>PKEL'2018.28.49</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: eszter.mihaly@gmail.com</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile xml:id='facs_1'>
+		<surface ulx='0' uly='0' lrx='5276' lry='7342'>
+			<graphic url='PKEL'2018.28.49._1a.tif' width='5276px' height='7342px'/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id='facs_2'>
+		<surface ulx='0' uly='0' lrx='4062' lry='3039'>
+			<graphic url='PKEL'2018.28.49._1b.tif' width='4062px' height='3039px'/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id='facs_3'>
+		<surface ulx='0' uly='0' lrx='5250' lry='7387'>
+			<graphic url='PKEL'2018.28.49._2a.tif' width='5250px' height='7387px'/>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<pb facs='#facs_1' n='1'/>
+			<pb facs='#facs_2' n='2'/>
+			<pb facs='#facs_3' n='3'/>
+		</body>
+	</text>
+</TEI>

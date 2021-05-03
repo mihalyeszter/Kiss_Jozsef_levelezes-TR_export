@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2021-04-08T10:44:52.483+02:00</Created>
+        <LastChange>2021-04-19T08:44:25.434+02:00</LastChange>
+        <TranskribusMetadata docId="649132" pageId="25213430" pageNr="1" tsid="56735088" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=HBBSVHXPUWWRXWUAUORLTBNL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NRHGBGBGXEMCWNLKMXSWPZHJ" imageId="19444351"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#173_15a.tif" imageWidth="3583" imageHeight="4569">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424947301" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1617958258343_12"/>
+                <RegionRefIndexed index="1" regionRef="region_1617958267300_15"/>
+                <RegionRefIndexed index="2" regionRef="region_1617958279737_18"/>
+                <RegionRefIndexed index="3" regionRef="region_1617958982439_262"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1617958258343_12" custom="readingOrder {index:0;}">
+            <Coords points="2542,390 3196,390 3196,532 2542,532"/>
+            <TextLine id="line_1617958294747_21" custom="readingOrder {index:0;}">
+                <Coords points="2593,411 3104,411 3107,503 2596,503"/>
+                <Baseline points="2596,498 3107,498"/>
+                <TextEquiv>
+                    <Unicode>Báthory utcza 3.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Báthory utcza 3.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1617958267300_15" custom="readingOrder {index:1;}">
+            <Coords points="2563,559 3270,559 3270,743 2563,743"/>
+            <TextLine id="line_1617958299988_26" custom="readingOrder {index:0;}">
+                <Coords points="2599,567 3223,567 3220,722 2596,722"/>
+                <Baseline points="2599,684 3223,684"/>
+                <TextEquiv>
+                    <Unicode>Szerdán este</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Szerdán este</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1617958279737_18" custom="readingOrder {index:2;}">
+            <Coords points="274,907 3455,907 3455,4083 274,4083"/>
+            <TextLine id="line_1617958330067_34" custom="readingOrder {index:0;}">
+                <Coords points="393,977 3320,892 3436,958 3427,1155 3321,1164 403,1249"/>
+                <Baseline points="403,1199 3322,1114 3411,1144"/>
+                <TextEquiv>
+                    <Unicode>Kedves öregem, most este itt járt a szerkesztőségben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617958334516_39" custom="readingOrder {index:1;} textStyle {offset:37; length:6;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="358,1326 3222,1163 3252,1390 388,1553"/>
+                <Baseline points="376,1485 3240,1322"/>
+                <TextEquiv>
+                    <Unicode>Hertzka Elza, s megsúgta nekem, hogy Dániel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617958342092_44" custom="readingOrder {index:2;} add {offset:5; length:1;} gap {offset:5; length:0;}">
+                <Coords points="420,1607 3217,1456 3448,1435 3410,1647 3224,1680 431,1831"/>
+                <Baseline points="437,1769 3230,1618 3411,1642"/>
+                <TextEquiv>
+                    <Unicode>Ernőné roppant, borzasztó, hihetetlen jó néven</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617958347579_49" custom="readingOrder {index:3;}">
+                <Coords points="458,1866 3319,1672 3325,1929 464,2123"/>
+                <Baseline points="461,2058 3322,1864"/>
+                <TextEquiv>
+                    <Unicode>venné, ha a Lotz: kiállítás ötletéből az ő</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617958351082_54" custom="readingOrder {index:4;} textStyle {offset:34; length:2;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="408,2142 3355,1955 3370,2236 423,2423"/>
+                <Baseline points="420,2355 3367,2168"/>
+                <TextEquiv>
+                    <Unicode>Lotz: festette képét hoznád (vagy is hoznád,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617958355037_59" custom="readingOrder {index:5;}">
+                <Coords points="431,2458 3323,2253 3332,2483 440,2688"/>
+                <Baseline points="434,2662 3326,2457"/>
+                <TextEquiv>
+                    <Unicode>ahogy 'én gondolom, például' belül a szövegben.)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617958358479_64" custom="readingOrder {index:6;}">
+                <Coords points="453,2758 3242,2532 3270,2813 481,3039"/>
+                <Baseline points="475,2983 3264,2757"/>
+                <TextEquiv>
+                    <Unicode>Én megígértem H. E.nek, hogy ami befolyásom</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617958373247_69" custom="readingOrder {index:7;} sic {offset:0; length:8;}">
+                <Coords points="441,3114 3398,2853 3420,3058 463,3319"/>
+                <Baseline points="463,3314 3420,3053"/>
+                <TextEquiv>
+                    <Unicode>a Hétnél van, latba vetem ez ügyben. Ezt ezen¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617958377502_74" custom="readingOrder {index:8;}">
+                <Coords points="338,3409 3301,3198 3325,3442 362,3653"/>
+                <Baseline points="356,3611 3319,3400"/>
+                <TextEquiv>
+                    <Unicode>nel meg is cselekszem, úgy túdván, hogy magad</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617958382398_79" custom="readingOrder {index:9;}">
+                <Coords points="386,3742 2575,3547 2591,3805 402,4000"/>
+                <Baseline points="402,3950 2532,3762"/>
+                <TextEquiv>
+                    <Unicode>is szeretsz a báróné kedvében járni.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kedves öregem, most este itt járt a szerkesztőségben&#xD;
+Hertzka Elza, s megsúgta nekem, hogy Dániel&#xD;
+Ernőné roppant, borzasztó, hihetetlen jó néven&#xD;
+venné, ha a Lotz: kiállítás ötletéből az ő&#xD;
+Lotz: festette képét hoznád (vagy is hoznád,&#xD;
+ahogy 'én gondolom, például' belül a szövegben.)&#xD;
+Én megígértem H. E.nek, hogy ami befolyásom&#xD;
+a Hétnél van, latba vetem ez ügyben. Ezt ezen¬&#xD;
+nel meg is cselekszem, úgy túdván, hogy magad&#xD;
+is szeretsz a báróné kedvében járni.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1617958982439_262" custom="readingOrder {index:3;}">
+            <Coords points="1697,4238 1870,4238 1870,4377 1697,4377"/>
+            <TextLine id="line_1617959551531_504" custom="readingOrder {index:0;}">
+                <Coords points="1734,4251 1851,4251 1851,4349 1734,4349"/>
+                <Baseline points="1734,4344 1851,4344"/>
+                <TextEquiv>
+                    <Unicode>1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

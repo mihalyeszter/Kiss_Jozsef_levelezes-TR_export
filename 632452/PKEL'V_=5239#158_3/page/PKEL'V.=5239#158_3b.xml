@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2021-03-17T09:46:31.812+01:00</Created>
+        <LastChange>2021-04-09T17:19:44.682+02:00</LastChange>
+        <TranskribusMetadata docId="632452" pageId="24786726" pageNr="2" tsid="55995622" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=FHJBDPSXVRXFAREVCWUMCPGE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RJRPLWUOHDFNEOHYTEUVDSRZ" imageId="19115551"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#158_3b.tif" imageWidth="3593" imageHeight="5454">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425043007" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1617111043557_74"/>
+                <RegionRefIndexed index="1" regionRef="region_1617111048647_77"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1617111043557_74" custom="readingOrder {index:0;}">
+            <Coords points="753,723 3416,723 3401,1031 1949,1037 1914,1205 1531,1266 753,1271"/>
+            <TextLine id="line_1617112015849_301" custom="readingOrder {index:0;} add {offset:29; length:1;} gap {offset:29; length:0;}">
+                <Coords points="860,807 3350,771 3348,1004 858,1040"/>
+                <Baseline points="864,987 3354,951"/>
+                <TextEquiv>
+                    <Unicode>Azt írták a lapok, hogy mellőzve</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617112018217_306" custom="readingOrder {index:1;}">
+                <Coords points="850,1044 1879,1035 1835,1215 1481,1272 841,1267"/>
+                <Baseline points="841,1194 1804,1191"/>
+                <TextEquiv>
+                    <Unicode>érzi magát!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Azt írták a lapok, hogy mellőzve&#xD;
+érzi magát!</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1617111048647_77" custom="readingOrder {index:1;}">
+            <Coords points="854,1278 1562,1278 2128,1254 3471,1218 3469,4841 841,4840"/>
+            <TextLine id="line_1617113188687_338" custom="readingOrder {index:0;}">
+                <Coords points="1108,1289 3467,1252 3460,1428 1101,1465"/>
+                <Baseline points="1117,1420 3458,1383"/>
+                <TextEquiv>
+                    <Unicode>Hát, édes öcsémuram, ugyan mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617113194224_343" custom="readingOrder {index:1;}">
+                <Coords points="959,1474 3398,1464 3392,1673 953,1683"/>
+                <Baseline points="949,1626 3388,1616"/>
+                <TextEquiv>
+                    <Unicode>is adhatnának magának? Királyi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617113198440_348" custom="readingOrder {index:2;}">
+                <Coords points="971,1707 3468,1720 3450,1906 953,1893"/>
+                <Baseline points="959,1846 3416,1861"/>
+                <TextEquiv>
+                    <Unicode>tanácsosságot, hogy egy pár postames¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617113202207_353" custom="readingOrder {index:3;}">
+                <Coords points="934,1905 3400,1913 3397,2113 931,2105"/>
+                <Baseline points="937,2026 1361,2051 2222,2072 2794,2057 3383,2049"/>
+                <TextEquiv>
+                    <Unicode>ter kollegája lehessen? Magyar ki¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617113311703_358" custom="readingOrder {index:4;}">
+                <Coords points="940,2104 3433,2129 3433,2320 940,2295"/>
+                <Baseline points="946,2236 2168,2276 3407,2267"/>
+                <TextEquiv>
+                    <Unicode>rályi udvari tanácsosságot, hogy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617113314421_363" custom="readingOrder {index:5;}">
+                <Coords points="980,2327 3423,2341 3406,2555 963,2541"/>
+                <Baseline points="963,2467 1507,2470 2075,2492 3399,2494"/>
+                <TextEquiv>
+                    <Unicode>üresnek tartsák? Akadémiai tag¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617113325417_368" custom="readingOrder {index:6;}">
+                <Coords points="936,2547 3358,2576 3352,2773 930,2744"/>
+                <Baseline points="941,2683 2336,2736 3295,2711"/>
+                <TextEquiv>
+                    <Unicode>ságot, hogy akadémicze hányják</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617113328421_373" custom="readingOrder {index:7;} add {offset:12; length:1;} gap {offset:12; length:0;}">
+                <Coords points="948,2754 3361,2807 3359,3008 955,2960"/>
+                <Baseline points="955,2892 2298,2947 3345,2949"/>
+                <TextEquiv>
+                    <Unicode>magára mindazt, a mit feleba¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617113331924_378" custom="readingOrder {index:8;}">
+                <Coords points="973,2967 3339,3014 3315,3231 949,3184"/>
+                <Baseline points="963,3120 3287,3167"/>
+                <TextEquiv>
+                    <Unicode>ráti rosszhiszeműség olyan fu¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617113337262_383" custom="readingOrder {index:9;}">
+                <Coords points="955,3201 3336,3262 3327,3456 946,3395"/>
+                <Baseline points="946,3345 2110,3399 3254,3406"/>
+                <TextEquiv>
+                    <Unicode>lánkos emberre, mint a milyen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617113339847_388" custom="readingOrder {index:10;}">
+                <Coords points="962,3444 3228,3480 3203,3665 937,3629"/>
+                <Baseline points="949,3573 2102,3624 3215,3609"/>
+                <TextEquiv>
+                    <Unicode>maga, összehordhat? Kisfaludy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617113343682_393" custom="readingOrder {index:11;}">
+                <Coords points="963,3675 3366,3658 3358,3886 927,3881"/>
+                <Baseline points="955,3801 1937,3813 3337,3784"/>
+                <TextEquiv>
+                    <Unicode>társaságbeli tagságot, hogy minden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617113348028_398" custom="readingOrder {index:12;}">
+                <Coords points="940,3876 3270,3901 3261,4135 931,4110"/>
+                <Baseline points="938,4020 1349,4025 2035,4068 3268,4045"/>
+                <TextEquiv>
+                    <Unicode>pennás tacskó felhánytorgat¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617113352211_403" custom="readingOrder {index:13;}">
+                <Coords points="922,4101 3324,4182 3320,4351 918,4270"/>
+                <Baseline points="916,4243 3318,4324"/>
+                <TextEquiv>
+                    <Unicode>hassa érdem nélkül való vol¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617113355742_408" custom="readingOrder {index:14;}">
+                <Coords points="912,4320 3379,4381 3372,4567 905,4506"/>
+                <Baseline points="905,4473 1939,4519 3348,4526"/>
+                <TextEquiv>
+                    <Unicode>tát? Babérkoszorút? láttam én</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617113359782_413" custom="readingOrder {index:15;}">
+                <Coords points="913,4549 3364,4585 3375,4827 924,4791"/>
+                <Baseline points="941,4692 2231,4740 3340,4735"/>
+                <TextEquiv>
+                    <Unicode>már nagy magyar költőnek</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Hát, édes öcsémuram, ugyan mit&#xD;
+is adhatnának magának? Királyi&#xD;
+tanácsosságot, hogy egy pár postames¬&#xD;
+ter kollegája lehessen? Magyar ki¬&#xD;
+rályi udvari tanácsosságot, hogy&#xD;
+üresnek tartsák? Akadémiai tag¬&#xD;
+ságot, hogy akadémicze hányják&#xD;
+magára mindazt, a mit feleba¬&#xD;
+ráti rosszhiszeműség olyan fu¬&#xD;
+lánkos emberre, mint a milyen&#xD;
+maga, összehordhat? Kisfaludy&#xD;
+társaságbeli tagságot, hogy minden&#xD;
+pennás tacskó felhánytorgat¬&#xD;
+hassa érdem nélkül való vol¬&#xD;
+tát? Babérkoszorút? láttam én&#xD;
+már nagy magyar költőnek</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

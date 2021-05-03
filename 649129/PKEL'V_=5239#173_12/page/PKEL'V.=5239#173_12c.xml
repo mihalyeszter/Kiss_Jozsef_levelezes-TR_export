@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2021-04-08T10:44:45.067+02:00</Created>
+        <LastChange>2021-04-19T09:21:25.046+02:00</LastChange>
+        <TranskribusMetadata docId="649129" pageId="25213426" pageNr="3" tsid="56738553" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=DZCUYNIFBCSUYFKNVCEIJPOX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GQDMUICPCXIJBDLSKJZNYDLY" imageId="19444347"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#173_12c.tif" imageWidth="2861" imageHeight="2558">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424919438" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1617961265128_759"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1617961265128_759" custom="readingOrder {index:0;}">
+            <Coords points="197,739 2587,739 2587,2431 197,2431"/>
+            <TextLine id="line_1617961270013_762" custom="readingOrder {index:0;} gap {offset:3; length:0;} textStyle {offset:4; length:1;strikethrough:true; fontSize:0.0; kerning:0;} add {offset:5; length:1;}">
+                <Coords points="270,781 2533,809 2532,1018 269,990"/>
+                <Baseline points="269,943 2532,971"/>
+                <TextEquiv>
+                    <Unicode>en  lse, elsejéig pedig még egy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617961273103_767" custom="readingOrder {index:1;}">
+                <Coords points="277,1067 2457,1053 2463,1265 283,1279"/>
+                <Baseline points="286,1238 2466,1224"/>
+                <TextEquiv>
+                    <Unicode>hét. Nagyon kérek a jövő 15ki</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617961276011_772" custom="readingOrder {index:2;}">
+                <Coords points="251,1387 2480,1347 2475,1549 246,1589"/>
+                <Baseline points="249,1551 2478,1511"/>
+                <TextEquiv>
+                    <Unicode>salláriumból valami előleget,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617961279489_777" custom="readingOrder {index:3;} gap {offset:10; length:0;}">
+                <Coords points="242,1656 2463,1624 2458,1818 237,1850"/>
+                <Baseline points="252,1818 2458,1789"/>
+                <TextEquiv>
+                    <Unicode>még ma, a hez. Nem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617961282767_782" custom="readingOrder {index:4;} gap {offset:0; length:0;}">
+                <Coords points="228,1904 2474,1873 2487,2103 241,2134"/>
+                <Baseline points="232,2081 2478,2050"/>
+                <TextEquiv>
+                    <Unicode> volnék</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617961286298_787" custom="readingOrder {index:5;} gap {offset:1; length:0;}">
+                <Coords points="249,2277 763,2274 760,2390 246,2393"/>
+                <Baseline points="246,2388 760,2385"/>
+                <TextEquiv>
+                    <Unicode>m</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>en  lse, elsejéig pedig még egy&#xD;
+hét. Nagyon kérek a jövő 15ki&#xD;
+salláriumból valami előleget,&#xD;
+még ma, a hez. Nem&#xD;
+ volnék&#xD;
+m</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

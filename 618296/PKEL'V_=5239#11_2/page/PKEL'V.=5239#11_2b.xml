@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2019-11-13T13:19:00.489+01:00</Created>
+        <LastChange>2020-12-08T13:22:57.167+01:00</LastChange>
+        <TranskribusMetadata docId="618296" pageId="24482762" pageNr="2" tsid="53057213" status="NEW" userId="63384" imgUrl="https://files.transkribus.eu/Get?id=FTIBBUZRNDHMXKBGHPAXZJOI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CUWZVBCTNFZUOLYUNNKLPWKM" imageId="18852925"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#11_2b.tif" imageWidth="3461" imageHeight="2308">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424955319" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1574072789824_983"/>
+                <RegionRefIndexed index="1" regionRef="region_1574072825000_988"/>
+                <RegionRefIndexed index="2" regionRef="region_1574072968663_1010"/>
+                <RegionRefIndexed index="3" regionRef="region_1606301118696_428"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1574072789824_983" custom="readingOrder {index:0;}">
+            <Coords points="690,1977 2594,1969 2594,2126 690,2134"/>
+            <TextLine id="line_1574073817724_1182" custom="readingOrder {index:0;} comment {offset:9; length:12;comment:Postán\u0020maradó;}">
+                <Coords points="718,1997 2588,1964 2585,2104 715,2137"/>
+                <Baseline points="715,2132 2585,2099"/>
+                <TextEquiv>
+                    <Unicode>Nem kell post restant írni</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Nem kell post restant írni</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1574072825000_988" custom="readingOrder {index:1;}">
+            <Coords points="674,2083 2756,2079 2755,2218 673,2222"/>
+            <TextLine id="line_1574073117533_1049" custom="readingOrder {index:0;} comment {offset:29; length:6;comment:flangálás;}">
+                <Coords points="687,2088 2707,2074 2724,2217 704,2231"/>
+                <Baseline points="704,2226 2717,2182"/>
+                <TextEquiv>
+                    <Unicode>Remek hegyek, szállók, nincs flanír.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Remek hegyek, szállók, nincs flanír.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1574072968663_1010" custom="readingOrder {index:2;}">
+            <Coords points="2891,76 3415,76 3406,2169 2896,2119"/>
+            <TextLine id="line_1574073173502_1063" custom="readingOrder {index:0;}">
+                <Coords points="2945,2110 2934,91 3059,80 3070,2099"/>
+                <Baseline points="3026,2099 3015,80"/>
+                <TextEquiv>
+                    <Unicode>A fürdő szobában találsz két kis üveget, a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1574073188062_1068" custom="readingOrder {index:1;}">
+                <Coords points="3027,2100 3010,84 3117,75 3134,2091"/>
+                <Baseline points="3127,2091 3110,75"/>
+                <TextEquiv>
+                    <Unicode>kettő közül a nagyobbat küld el nekem, de úgy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1574073200357_1073" custom="readingOrder {index:2;} comment {offset:25; length:7;comment:skatulya;}">
+                <Coords points="3112,2108 3097,86 3190,77 3205,2099"/>
+                <Baseline points="3214,2108 3199,86"/>
+                <TextEquiv>
+                    <Unicode>csomagolva, hogy egy kis katulyába felálít¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1574073208807_1078" custom="readingOrder {index:3;}">
+                <Coords points="3190,2114 3181,215 3302,215 3311,2114"/>
+                <Baseline points="3286,2114 3277,215"/>
+                <TextEquiv>
+                    <Unicode>va, nehogy a tartalma kifolyon.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1574073219295_1083" custom="readingOrder {index:4;}">
+                <Coords points="3281,2150 3280,173 3377,176 3378,2153"/>
+                <Baseline points="3373,2153 3372,176"/>
+                <TextEquiv>
+                    <Unicode>Esik az eső, egy kis reumám van csókol</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>A fürdő szobában találsz két kis üveget, a&#xD;
+kettő közül a nagyobbat küld el nekem, de úgy&#xD;
+csomagolva, hogy egy kis katulyába felálít¬&#xD;
+va, nehogy a tartalma kifolyon.&#xD;
+Esik az eső, egy kis reumám van csókol</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1606301118696_428" custom="readingOrder {index:3;}">
+            <Coords points="2791,2097 3207,2100 3223,2256 2791,2256"/>
+            <TextLine id="line_1606301144062_435" custom="readingOrder {index:0;} gap {offset:1; length:0;}">
+                <Coords points="2797,2108 3203,2113 3207,2212 2802,2220"/>
+                <Baseline points="2802,2215 3207,2179"/>
+                <TextEquiv>
+                    <Unicode>Ppus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ppus</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

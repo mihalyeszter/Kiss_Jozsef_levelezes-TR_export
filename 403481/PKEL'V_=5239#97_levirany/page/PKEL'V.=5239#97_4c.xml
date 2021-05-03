@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-06-05T12:43:26.523+02:00</Created>
+        <LastChange>2020-11-25T13:14:14.103+01:00</LastChange>
+        <TranskribusMetadata docId="403481" pageId="15584684" pageNr="8" tsid="49606978" status="IN_PROGRESS" userId="56520" imgUrl="https://files.transkribus.eu/Get?id=AHCXBNYXEQZOZRLIVCYMBXCP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LAXQOYBDMVLOWWOLYAHAPDVS" imageId="11409308"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#97_4c.tif" imageWidth="2673" imageHeight="1740">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424323079" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1597324452699_3096"/>
+                <RegionRefIndexed index="1" regionRef="region_1597324454505_3099"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1597324452699_3096" custom="readingOrder {index:0;}">
+            <Coords points="161,129 2580,129 2580,1143 161,1143"/>
+            <TextLine id="line_1597324496935_3115" custom="readingOrder {index:0;}">
+                <Coords points="283,185 1371,139 2551,175 2521,284 1342,292 290,384"/>
+                <Baseline points="290,379 1342,287 2521,279"/>
+                <TextEquiv>
+                    <Unicode>Fogadd, kedves barátom, tisztelt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597324501229_3120" custom="readingOrder {index:1;}">
+                <Coords points="252,418 1024,364 1557,377 2438,331 2446,454 1563,500 1022,475 252,529"/>
+                <Baseline points="252,524 1022,470 1563,495 2446,449"/>
+                <TextEquiv>
+                    <Unicode>családoddal együtt, azon sulyos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597324504215_3125" custom="readingOrder {index:2;} sic {offset:0; length:9;}">
+                <Coords points="203,575 2453,467 2473,583 223,691"/>
+                <Baseline points="223,686 2473,578"/>
+                <TextEquiv>
+                    <Unicode>veszteseg fölött, melyet szeretett</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597324507081_3130" custom="readingOrder {index:3;} sic {offset:18; length:6;}">
+                <Coords points="212,712 2402,575 2405,739 215,876"/>
+                <Baseline points="215,871 2405,734"/>
+                <TextEquiv>
+                    <Unicode>nemeslelkű hitves tarsad által</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597324509262_3135" custom="readingOrder {index:4;}">
+                <Coords points="270,891 2366,735 2378,887 282,1043"/>
+                <Baseline points="282,1038 2378,882"/>
+                <TextEquiv>
+                    <Unicode>szenvedtél, meleg részvétem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597324512384_3140" custom="readingOrder {index:5;}">
+                <Coords points="322,1050 1703,961 1703,1086 322,1175"/>
+                <Baseline points="322,1170 1703,1081"/>
+                <TextEquiv>
+                    <Unicode>őszinte kifejezését</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Fogadd, kedves barátom, tisztelt&#xD;
+családoddal együtt, azon sulyos&#xD;
+veszteseg fölött, melyet szeretett&#xD;
+nemeslelkű hitves tarsad által&#xD;
+szenvedtél, meleg részvétem&#xD;
+őszinte kifejezését</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1597324454505_3099" custom="readingOrder {index:1;}">
+            <Coords points="1453,1095 1959,1095 1959,1585 1453,1585"/>
+            <TextLine id="line_1597410515957_1817" custom="readingOrder {index:0;}">
+                <Coords points="1509,1124 1949,1124 1934,1544 1494,1544"/>
+                <Baseline points="1494,1539 1934,1539"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

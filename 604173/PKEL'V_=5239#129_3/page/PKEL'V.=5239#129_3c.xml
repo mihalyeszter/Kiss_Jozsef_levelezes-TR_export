@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2021-02-08T17:03:56.338+01:00</Created>
+        <LastChange>2021-02-23T14:08:13.255+01:00</LastChange>
+        <TranskribusMetadata docId="604173" pageId="23952647" pageNr="3" tsid="52964912" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=RNCNZAGAIPYEXKDOJJRILHXF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CBPYTAFLQVXEUWRFMOMEWXFW" imageId="18388060"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#129_3c.tif" imageWidth="3347" imageHeight="3370">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424785665" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1613485625200_221"/>
+                <RegionRefIndexed index="1" regionRef="region_1613485790920_275"/>
+                <RegionRefIndexed index="2" regionRef="region_1613485627235_224"/>
+                <RegionRefIndexed index="3" regionRef="region_1613485631601_227"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1613485625200_221" custom="readingOrder {index:0;}">
+            <Coords points="110,154 3084,154 3051,617 1555,584 1177,527 965,579 951,518 106,503"/>
+            <TextLine id="line_1613485643012_232" custom="readingOrder {index:0;}">
+                <Coords points="183,285 3005,285 2955,516 1517,560 1205,518 960,565 856,518 133,516"/>
+                <Baseline points="153,466 2975,466"/>
+                <TextEquiv>
+                    <Unicode>kitűnő egészséget kíván.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>kitűnő egészséget kíván.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1613485790920_275" custom="readingOrder {index:1;}">
+            <Coords points="58,494 998,555 1418,499 1607,801 58,801"/>
+            <TextLine id="line_1613485646664_237" custom="readingOrder {index:0;}">
+                <Coords points="186,485 984,560 1474,494 1578,727 124,731"/>
+                <Baseline points="124,706 1578,702"/>
+                <TextEquiv>
+                    <Unicode>Tisztelő híve</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Tisztelő híve</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1613485627235_224" custom="readingOrder {index:2;}">
+            <Coords points="1177,876 2484,876 2484,1348 1177,1348"/>
+            <TextLine id="line_1613485649202_242" custom="readingOrder {index:0;}">
+                <Coords points="1302,930 2387,940 2323,1344 1238,1334"/>
+                <Baseline points="1323,1230 2352,1235"/>
+                <TextEquiv>
+                    <Unicode>Fröhlichné</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Fröhlichné</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1613485631601_227" custom="readingOrder {index:3;}">
+            <Coords points="516,1367 3188,1296 3188,1820 516,1820"/>
+            <TextLine id="line_1613485652868_247" custom="readingOrder {index:0;}">
+                <Coords points="707,1376 3223,1385 3121,1737 605,1728"/>
+                <Baseline points="610,1660 3126,1669"/>
+                <TextEquiv>
+                    <Unicode>(Budapest Rökk Szilárd u. 18)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>(Budapest Rökk Szilárd u. 18)</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

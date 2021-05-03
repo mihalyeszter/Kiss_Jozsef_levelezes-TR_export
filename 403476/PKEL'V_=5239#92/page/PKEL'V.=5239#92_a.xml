@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-05T12:43:14.045+02:00</Created>
+        <LastChange>2020-11-24T19:08:50.578+01:00</LastChange>
+        <TranskribusMetadata docId="403476" pageId="15584648" pageNr="1" tsid="49538591" status="IN_PROGRESS" userId="58915" imgUrl="https://files.transkribus.eu/Get?id=UPMOIGTRINIQZXVXNOOUPMPV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ESRISKLSMGGLXXTGUWOQXJUG" imageId="11409276"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#92_a.tif" imageWidth="2827" imageHeight="3722">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424198613" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1595524217308_69"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+                <RegionRefIndexed index="2" regionRef="region_1595524056992_34"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1595524217308_69" custom="readingOrder {index:0;}">
+            <Coords points="2180,514 525,514 525,857 2180,857"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="563,845 1011,864 1982,793 2167,529 1196,600 573,610"/>
+                <Baseline points="563,804 637,813 712,820 787,824 861,825 936,825 1011,823 1085,819 1160,815 1235,809 1309,802 1384,795 1459,787 1533,780 1608,774 1683,767 1757,761 1832,757 1907,754 2001,754"/>
+                <TextEquiv>
+                    <Unicode>Kedves Mester!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kedves Mester!</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="283,932 274,3240 2709,3238 2718,930"/>
+            <TextLine id="r2l2" custom="readingOrder {index:0;}">
+                <Coords points="960,1226 2612,1192 2617,979 965,1013"/>
+                <Baseline points="960,1185 1042,1184 1125,1183 1207,1181 1290,1178 1373,1174 1455,1171 1538,1166 1620,1161 1703,1157 1786,1152 1868,1148 1951,1145 2033,1142 2116,1140 2199,1139 2281,1139 2364,1139 2446,1142 2529,1146 2612,1151"/>
+                <TextEquiv>
+                    <Unicode>Egy makói estélyen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:1;}">
+                <Coords points="293,1388 2541,1369 2540,1228 293,1265"/>
+                <Baseline points="293,1347 405,1353 517,1358 630,1361 742,1362 854,1364 967,1364 1079,1362 1191,1361 1304,1358 1416,1354 1528,1350 1641,1346 1753,1342 1865,1337 1978,1332 2090,1327 2202,1322 2315,1319 2427,1314 2540,1310"/>
+                <TextEquiv>
+                    <Unicode>a nagy Mester kitüntetett egy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:2;}">
+                <Coords points="281,1570 2660,1544 2660,1391 281,1417"/>
+                <Baseline points="281,1529 406,1538 531,1544 656,1547 781,1547 907,1546 1032,1543 1157,1538 1282,1533 1407,1527 1533,1521 1658,1515 1783,1509 1908,1503 2033,1499 2159,1496 2284,1494 2409,1494 2534,1498 2660,1503"/>
+                <TextEquiv>
+                    <Unicode>bátortalan kis hegedűművész¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:3;}">
+                <Coords points="285,1741 2712,1729 2721,1558 285,1596"/>
+                <Baseline points="285,1700 403,1709 521,1716 640,1719 758,1722 876,1721 995,1719 1113,1716 1231,1713 1350,1708 1468,1703 1586,1698 1705,1692 1823,1687 1941,1683 2060,1680 2178,1677 2296,1677 2415,1679 2533,1682 2696,1696"/>
+                <TextEquiv>
+                    <Unicode>nőt azzal, hogy ráemelte poharát,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:4;}">
+                <Coords points="293,1924 2621,1891 2619,1737 291,1770"/>
+                <Baseline points="293,1883 409,1887 525,1889 642,1890 758,1890 875,1889 991,1887 1107,1884 1224,1881 1340,1877 1457,1873 1573,1869 1689,1865 1806,1861 1922,1857 2039,1854 2155,1851 2271,1850 2388,1848 2504,1848 2621,1850"/>
+                <TextEquiv>
+                    <Unicode>őt kis csolnaknak nevezve, ki</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:5;}">
+                <Coords points="320,2098 2669,2065 2669,1899 320,1932"/>
+                <Baseline points="320,2060 437,2060 554,2060 672,2058 789,2057 907,2054 1024,2051 1142,2048 1259,2045 1377,2040 1494,2037 1611,2033 1729,2030 1846,2027 1964,2025 2081,2022 2199,2022 2316,2021 2434,2022 2551,2024 2669,2027"/>
+                <TextEquiv>
+                    <Unicode>majd az élet tengerén fejlődik</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:6;}">
+                <Coords points="344,2294 2435,2215 2435,2058 344,2137"/>
+                <Baseline points="344,2256 448,2255 553,2253 657,2252 762,2247 866,2244 971,2238 1075,2234 1180,2227 1284,2222 1389,2215 1494,2208 1598,2202 1703,2198 1807,2192 1912,2187 2016,2183 2121,2180 2225,2177 2330,2175 2435,2177"/>
+                <TextEquiv>
+                    <Unicode>nagy hajóvá. – Az a kis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:7;}">
+                <Coords points="339,2473 2625,2407 2625,2226 339,2292"/>
+                <Baseline points="339,2432 453,2433 567,2433 681,2430 796,2426 910,2421 1024,2414 1139,2406 1253,2398 1367,2390 1482,2382 1596,2374 1710,2366 1824,2360 1939,2354 2053,2351 2167,2349 2282,2349 2396,2352 2510,2357 2625,2366"/>
+                <TextEquiv>
+                    <Unicode>csónak egy percre sem feledte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:8;}">
+                <Coords points="323,2662 2570,2572 2568,2396 321,2486"/>
+                <Baseline points="321,2607 433,2607 545,2606 658,2603 770,2598 882,2593 995,2586 1107,2580 1219,2572 1332,2565 1444,2556 1556,2549 1669,2543 1781,2535 1893,2529 2006,2525 2118,2520 2230,2517 2343,2516 2455,2516 2568,2517"/>
+                <TextEquiv>
+                    <Unicode>el azt a nagy kitüntetést, ez</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:9;}">
+                <Coords points="333,2819 2619,2734 2619,2580 333,2665"/>
+                <Baseline points="333,2778 447,2777 561,2775 675,2772 790,2769 904,2766 1018,2762 1133,2757 1247,2753 1361,2748 1476,2742 1590,2737 1704,2732 1818,2727 1933,2721 2047,2715 2161,2711 2276,2706 2390,2702 2504,2697 2619,2693"/>
+                <TextEquiv>
+                    <Unicode>bátorította, ambicionálta s</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:10;}">
+                <Coords points="318,3010 2677,2942 2673,2768 314,2836"/>
+                <Baseline points="318,2969 434,2969 550,2966 666,2963 783,2958 899,2951 1015,2945 1131,2937 1248,2928 1364,2921 1480,2913 1596,2906 1713,2898 1829,2894 1945,2889 2061,2886 2178,2885 2294,2886 2410,2888 2526,2894 2667,2900"/>
+                <TextEquiv>
+                    <Unicode>nagyban hozzájárult ahhoz, hogy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:11;}">
+                <Coords points="324,3246 2334,3198 2334,2967 324,3015"/>
+                <Baseline points="324,3146 424,3147 525,3149 625,3147 726,3145 826,3141 927,3137 1027,3132 1128,3126 1228,3120 1329,3114 1429,3108 1530,3102 1630,3098 1731,3093 1831,3090 1932,3089 2032,3087 2133,3089 2233,3092 2334,3098"/>
+                <TextEquiv>
+                    <Unicode>ma a nagyközönség elé lép.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Egy makói estélyen&#xD;
+a nagy Mester kitüntetett egy&#xD;
+bátortalan kis hegedűművész¬&#xD;
+nőt azzal, hogy ráemelte poharát,&#xD;
+őt kis csolnaknak nevezve, ki&#xD;
+majd az élet tengerén fejlődik&#xD;
+nagy hajóvá. – Az a kis&#xD;
+csónak egy percre sem feledte&#xD;
+el azt a nagy kitüntetést, ez&#xD;
+bátorította, ambicionálta s&#xD;
+nagyban hozzájárult ahhoz, hogy&#xD;
+ma a nagyközönség elé lép.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1595524056992_34" custom="readingOrder {index:2;}">
+            <Coords points="1190,3414 1190,3538 1336,3538 1336,3414"/>
+            <TextLine id="line_1595524057099_37" custom="readingOrder {index:0;}">
+                <Coords points="1188,3426 1332,3421 1336,3533 1192,3538"/>
+                <Baseline points="1192,3533 1336,3528"/>
+                <TextEquiv>
+                    <Unicode>1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

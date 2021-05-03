@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2021-01-28T14:52:54.856+01:00</Created>
+        <LastChange>2021-02-09T10:17:43.538+01:00</LastChange>
+        <TranskribusMetadata docId="595981" pageId="23781729" pageNr="1" tsid="52217990" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=TSCVNLGROZNBJKMBXKVBWDAT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KKSENPSODVLOLMTVDOPXSEYN" imageId="18259217"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#110_6a.tif" imageWidth="3024" imageHeight="4256">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424786803" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1611848474887_11"/>
+                <RegionRefIndexed index="1" regionRef="region_1611848492327_19"/>
+                <RegionRefIndexed index="2" regionRef="region_1611848506269_22"/>
+                <RegionRefIndexed index="3" regionRef="region_1611848514090_25"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1611848474887_11" custom="readingOrder {index:0;}">
+            <Coords points="427,663 435,850 2149,850 2141,663"/>
+            <TextLine id="line_1611848474971_14" custom="readingOrder {index:0;}">
+                <Coords points="438,673 2143,678 2148,850 435,819"/>
+                <Baseline points="435,814 2148,845"/>
+                <TextEquiv>
+                    <Unicode>Kedves Mesterem!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kedves Mesterem!</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1611848492327_19" custom="readingOrder {index:1;}">
+            <Coords points="233,909 2882,909 2882,1606 233,1606"/>
+            <TextLine id="line_1611848525778_28" custom="readingOrder {index:0;}">
+                <Coords points="253,925 2756,974 2753,1195 250,1146"/>
+                <Baseline points="254,1090 2757,1139"/>
+                <TextEquiv>
+                    <Unicode>Igen boldoggá tesz az a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1611848532679_33" custom="readingOrder {index:1;}">
+                <Coords points="260,1173 2860,1199 2869,1410 261,1354"/>
+                <Baseline points="261,1305 2869,1361"/>
+                <TextEquiv>
+                    <Unicode>meleg érdeklődés, mellyel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1611848538396_38" custom="readingOrder {index:2;}">
+                <Coords points="259,1374 2523,1413 2520,1606 256,1602"/>
+                <Baseline points="256,1515 2520,1554"/>
+                <TextEquiv>
+                    <Unicode>a dolgaimat kíséri.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Igen boldoggá tesz az a&#xD;
+meleg érdeklődés, mellyel&#xD;
+a dolgaimat kíséri.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1611848506269_22" custom="readingOrder {index:2;}">
+            <Coords points="2882,1611 214,1611 214,3975 2882,3975"/>
+            <TextLine id="line_1611848543926_43" custom="readingOrder {index:0;}">
+                <Coords points="244,1618 2869,1612 2872,1809 242,1782"/>
+                <Baseline points="242,1747 2872,1774"/>
+                <TextEquiv>
+                    <Unicode>Megyek Önhöz szombaton</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1611848549085_48" custom="readingOrder {index:1;}">
+                <Coords points="270,1798 2773,1815 2771,2001 268,1984"/>
+                <Baseline points="266,1941 2769,1958"/>
+                <TextEquiv>
+                    <Unicode>délután; kérem, várjon</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1611848555139_53" custom="readingOrder {index:2;}">
+                <Coords points="250,1978 2812,2015 2806,2220 244,2183"/>
+                <Baseline points="244,2131 2806,2168"/>
+                <TextEquiv>
+                    <Unicode>meg. Viszem a verse¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1611848563491_58" custom="readingOrder {index:3;}">
+                <Coords points="233,2197 2869,2212 2860,2401 224,2386"/>
+                <Baseline points="224,2363 2860,2378"/>
+                <TextEquiv>
+                    <Unicode>ket is, hogy az Ön igazán</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1611848569080_63" custom="readingOrder {index:4;}">
+                <Coords points="241,2395 2847,2422 2847,2595 242,2532"/>
+                <Baseline points="242,2527 2847,2590"/>
+                <TextEquiv>
+                    <Unicode>nemes ízlése szerint so¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1611848574928_68" custom="readingOrder {index:5;}">
+                <Coords points="259,2577 2559,2633 2554,2808 254,2752"/>
+                <Baseline points="254,2727 2554,2783"/>
+                <TextEquiv>
+                    <Unicode>rakozzanak egymás</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1611848581842_73" custom="readingOrder {index:6;}">
+                <Coords points="225,2760 2845,2791 2840,2950 224,2906"/>
+                <Baseline points="224,2901 2840,2945"/>
+                <TextEquiv>
+                    <Unicode>mellé, mire könyv lesz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1611848587616_78" custom="readingOrder {index:7;}">
+                <Coords points="227,2968 2855,2961 2855,3116 227,3123"/>
+                <Baseline points="227,3118 2855,3111"/>
+                <TextEquiv>
+                    <Unicode>belőlük. Az előszó kö¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1611848593198_83" custom="readingOrder {index:8;} textStyle {offset:4; length:1;strikethrough:true; fontSize:0.0; kerning:0;} add {offset:5; length:1;}">
+                <Coords points="231,3172 2846,3135 2845,3338 230,3375"/>
+                <Baseline points="232,3331 2847,3294"/>
+                <TextEquiv>
+                    <Unicode>rül nvagyon egy kis baj.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1611848600815_88" custom="readingOrder {index:9;}">
+                <Coords points="255,3378 2870,3361 2874,3556 259,3573"/>
+                <Baseline points="259,3539 2874,3522"/>
+                <TextEquiv>
+                    <Unicode>Majd élőszóval mondom</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1611848607616_93" custom="readingOrder {index:10;}">
+                <Coords points="316,3587 2832,3550 2833,3721 317,3758"/>
+                <Baseline points="317,3723 2833,3686"/>
+                <TextEquiv>
+                    <Unicode>el hogy mi. De talán</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1611848614450_98" custom="readingOrder {index:11;}">
+                <Coords points="334,3767 2840,3716 2838,3965 332,3971"/>
+                <Baseline points="332,3903 2838,3852"/>
+                <TextEquiv>
+                    <Unicode>el lehet igazítani va¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Megyek Önhöz szombaton&#xD;
+délután; kérem, várjon&#xD;
+meg. Viszem a verse¬&#xD;
+ket is, hogy az Ön igazán&#xD;
+nemes ízlése szerint so¬&#xD;
+rakozzanak egymás&#xD;
+mellé, mire könyv lesz&#xD;
+belőlük. Az előszó kö¬&#xD;
+rül nvagyon egy kis baj.&#xD;
+Majd élőszóval mondom&#xD;
+el hogy mi. De talán&#xD;
+el lehet igazítani va¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1611848514090_25" custom="readingOrder {index:3;}">
+            <Coords points="1408,3975 1546,3975 1546,4076 1408,4076"/>
+            <TextLine id="line_1611848619214_103" custom="readingOrder {index:0;}">
+                <Coords points="1417,3972 1535,3967 1535,4058 1417,4063"/>
+                <Baseline points="1417,4058 1535,4053"/>
+                <TextEquiv>
+                    <Unicode>1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

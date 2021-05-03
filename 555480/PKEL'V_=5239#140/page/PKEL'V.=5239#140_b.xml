@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-12-14T11:02:38.812+01:00</Created>
+        <LastChange>2020-12-16T18:17:35.807+01:00</LastChange>
+        <TranskribusMetadata docId="555480" pageId="22976861" pageNr="2" tsid="50370620" status="IN_PROGRESS" userId="58915" imgUrl="https://files.transkribus.eu/Get?id=ZDICOVCAIPULGPXZCKQEPZZZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RDKBYQBNZWVQCLYOGQDWSQTJ" imageId="17928539"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#140_b.tif" imageWidth="2989" imageHeight="2374">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619423903215" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1608036000852_1746"/>
+                <RegionRefIndexed index="1" regionRef="region_1608036044029_1771"/>
+                <RegionRefIndexed index="2" regionRef="region_1608036009495_1759"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1608036000852_1746" custom="readingOrder {index:0;}">
+            <Coords points="1077,302 1077,481 1741,481 1741,302"/>
+            <TextLine id="line_1608036000884_1749" custom="readingOrder {index:0;}">
+                <Coords points="1081,313 1735,312 1741,413 1083,481"/>
+                <Baseline points="1082,476 1740,408"/>
+                <TextEquiv>
+                    <Unicode>Dr Goldziher</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Dr Goldziher</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1608036044029_1771" custom="readingOrder {index:1;}">
+            <Coords points="1653,553 2000,520 2002,354 1670,401"/>
+            <TextLine id="line_1608036005615_1754" custom="readingOrder {index:0;} abbrev {offset:0; length:3;}">
+                <Coords points="1681,400 1983,366 1986,522 1663,551"/>
+                <Baseline points="1680,522 1982,488"/>
+                <TextEquiv>
+                    <Unicode>Bpt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Bpt</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1608036009495_1759" custom="readingOrder {index:2;}">
+            <Coords points="1548,546 1548,686 2206,686 2206,546"/>
+            <TextLine id="line_1608036009526_1762" custom="readingOrder {index:0;}">
+                <Coords points="1561,560 2188,555 2206,640 1551,686"/>
+                <Baseline points="1551,681 2206,635"/>
+                <TextEquiv>
+                    <Unicode>VII Holló u. 4.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>VII Holló u. 4.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

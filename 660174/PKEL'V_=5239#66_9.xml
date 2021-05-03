@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>PKEL'V.=5239#66_9</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: szucs.kata.agnes@gmail.com</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile xml:id='facs_1'>
+		<surface ulx='0' uly='0' lrx='3349' lry='4427'>
+			<graphic url='PKEL'V.=5239#66_9a.tif' width='3349px' height='4427px'/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id='facs_2'>
+		<surface ulx='0' uly='0' lrx='3311' lry='4379'>
+			<graphic url='PKEL'V.=5239#66_9b.tif' width='3311px' height='4379px'/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id='facs_3'>
+		<surface ulx='0' uly='0' lrx='3317' lry='4401'>
+			<graphic url='PKEL'V.=5239#66_9c.tif' width='3317px' height='4401px'/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id='facs_4'>
+		<surface ulx='0' uly='0' lrx='3337' lry='4405'>
+			<graphic url='PKEL'V.=5239#66_9d.tif' width='3337px' height='4405px'/>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<pb facs='#facs_1' n='1'/>
+			<pb facs='#facs_2' n='2'/>
+			<pb facs='#facs_3' n='3'/>
+			<pb facs='#facs_4' n='4'/>
+		</body>
+	</text>
+</TEI>

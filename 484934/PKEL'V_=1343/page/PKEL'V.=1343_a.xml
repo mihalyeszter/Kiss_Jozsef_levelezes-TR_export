@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-09-21T14:11:05.318+02:00</Created>
+        <LastChange>2020-11-19T15:04:56.808+01:00</LastChange>
+        <TranskribusMetadata docId="484934" pageId="19998922" pageNr="1" tsid="49191939" status="IN_PROGRESS" userId="58915" imgUrl="https://files.transkribus.eu/Get?id=EMOLKKOWUSHLCFQSXWSSEZPS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MCDKVJPKUSLKPDJZTVMIVFZY" imageId="15414373"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=1343_a.tif" imageWidth="3435" imageHeight="4368">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424570710" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1602249975991_1928"/>
+                <RegionRefIndexed index="1" regionRef="region_1602249978248_1931"/>
+                <RegionRefIndexed index="2" regionRef="region_1602249980159_1934"/>
+                <RegionRefIndexed index="3" regionRef="region_1602249982649_1937"/>
+                <RegionRefIndexed index="4" regionRef="region_1602249985531_1940"/>
+                <RegionRefIndexed index="5" regionRef="region_1602249988118_1943"/>
+                <RegionRefIndexed index="6" regionRef="TextRegion_1602250141615_1997"/>
+                <RegionRefIndexed index="7" regionRef="TextRegion_1602250070516_1976"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1602249975991_1928" custom="readingOrder {index:0;}">
+            <Coords points="261,415 966,415 966,553 261,553"/>
+            <TextLine id="line_1602250153029_2004" custom="readingOrder {index:0;}">
+                <Coords points="309,442 944,439 941,540 306,543"/>
+                <Baseline points="306,538 941,535"/>
+                <TextEquiv>
+                    <Unicode>Kiss József</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kiss József</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1602249978248_1931" custom="readingOrder {index:1;}">
+            <Coords points="185,558 1104,558 1104,678 185,678"/>
+            <TextLine id="line_1602250159111_2010" custom="readingOrder {index:0;}">
+                <Coords points="229,581 1062,572 1062,655 229,664"/>
+                <Baseline points="229,659 1062,650"/>
+                <TextEquiv>
+                    <Unicode>A Hét szerkesztője</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>A Hét szerkesztője</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1602249980159_1934" custom="readingOrder {index:2;}">
+            <Coords points="256,687 1015,687 1015,794 256,794"/>
+            <TextLine id="line_1602250163480_2016" custom="readingOrder {index:0;}">
+                <Coords points="277,702 996,680 997,754 278,776"/>
+                <Baseline points="278,771 997,749"/>
+                <TextEquiv>
+                    <Unicode>VIII., Rökk Szilárd-u. 18.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>VIII., Rökk Szilárd-u. 18.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1602249982649_1937" custom="readingOrder {index:3;}">
+            <Coords points="368,843 903,843 903,968 368,968"/>
+            <TextLine id="line_1602250167328_2022" custom="readingOrder {index:0;}">
+                <Coords points="399,861 887,855 888,944 400,950"/>
+                <Baseline points="400,945 888,939"/>
+                <TextEquiv>
+                    <Unicode>Telefon 61–38.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Telefon 61–38.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1602249985531_1940" custom="readingOrder {index:4;}">
+            <Coords points="1733,479 3013,479 3013,848 1733,848"/>
+            <TextLine id="line_1602250172260_2028" custom="readingOrder {index:0;} abbrev {offset:15; length:4;}">
+                <Coords points="1776,542 3007,504 3005,731 1774,769"/>
+                <Baseline points="1774,731 3005,693"/>
+                <TextEquiv>
+                    <Unicode>Budapest, 1908 febr. 2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Budapest, 1908 febr. 2</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1602249988118_1943" custom="readingOrder {index:5;}">
+            <Coords points="524,1200 1751,1200 1751,1481 524,1481"/>
+            <TextLine id="line_1602250205151_2049" custom="readingOrder {index:0;}">
+                <Coords points="565,1239 1709,1214 1695,1447 551,1472"/>
+                <Baseline points="551,1431 1695,1406"/>
+                <TextEquiv>
+                    <Unicode>Kedves czimborám!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kedves czimborám!</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="TextRegion_1602250141615_1997" custom="readingOrder {index:6;}">
+            <Coords points="266,1467 3273,1467 3273,2885 2566,2873 2554,2954 2404,2960 2401,2886 1167,2889 1169,3016 834,3029 505,3044 465,3122 458,3135 269,3135"/>
+            <TextLine id="line_1602250214565_2055" custom="readingOrder {index:0;}">
+                <Coords points="379,1551 2688,1472 3235,1534 3232,1665 2066,1656 378,1715"/>
+                <Baseline points="378,1710 2066,1651 3232,1660"/>
+                <TextEquiv>
+                    <Unicode>Nem halaszthatom el a felolvasást, mert</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1602250219481_2060" custom="readingOrder {index:1;}">
+                <Coords points="298,1701 3230,1645 3210,1821 278,1877"/>
+                <Baseline points="278,1872 3210,1816"/>
+                <TextEquiv>
+                    <Unicode>márczius elejére Abbaziába szándékozom. Ami</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1602250223776_2065" custom="readingOrder {index:2;}">
+                <Coords points="323,1886 3227,1837 3210,1992 306,2041"/>
+                <Baseline points="306,2036 3210,1987"/>
+                <TextEquiv>
+                    <Unicode>az ajándékot illeti, az reám nézve meglehe¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1602250227120_2070" custom="readingOrder {index:3;}">
+                <Coords points="303,2048 3181,2026 3169,2169 291,2191"/>
+                <Baseline points="291,2186 3169,2164"/>
+                <TextEquiv>
+                    <Unicode>tősen közömbös. Ugy rémlik, azt mondtam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1602250230803_2075" custom="readingOrder {index:4;}">
+                <Coords points="287,2207 3209,2173 3210,2343 288,2377"/>
+                <Baseline points="288,2372 3210,2338"/>
+                <TextEquiv>
+                    <Unicode>Önnek, hogy félek, esetleg ott is ezüst ko¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1602250233995_2080" custom="readingOrder {index:5;} gap {offset:16; length:0;}">
+                <Coords points="330,2387 3094,2347 3092,2511 328,2551"/>
+                <Baseline points="328,2546 3092,2506"/>
+                <TextEquiv>
+                    <Unicode>szorut kapok és  én nem tudok az ezüst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1602250237482_2085" custom="readingOrder {index:6;}">
+                <Coords points="321,2576 3106,2542 3104,2688 319,2722"/>
+                <Baseline points="319,2717 3104,2683"/>
+                <TextEquiv>
+                    <Unicode>koszorukkal mit csinálni. Még a babba</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1602250241330_2090" custom="readingOrder {index:7;}">
+                <Coords points="315,2732 3165,2689 3163,2850 313,2893"/>
+                <Baseline points="313,2888 3163,2845"/>
+                <TextEquiv>
+                    <Unicode>se jó. Hát édes barátom, ne törődjön az</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1602250244991_2095" custom="readingOrder {index:8;}">
+                <Coords points="331,2924 1133,2874 1136,3011 334,3061"/>
+                <Baseline points="334,3056 1136,3006"/>
+                <TextEquiv>
+                    <Unicode>egészszel. –</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Nem halaszthatom el a felolvasást, mert&#xD;
+márczius elejére Abbaziába szándékozom. Ami&#xD;
+az ajándékot illeti, az reám nézve meglehe¬&#xD;
+tősen közömbös. Ugy rémlik, azt mondtam&#xD;
+Önnek, hogy félek, esetleg ott is ezüst ko¬&#xD;
+szorut kapok és  én nem tudok az ezüst&#xD;
+koszorukkal mit csinálni. Még a babba&#xD;
+se jó. Hát édes barátom, ne törődjön az&#xD;
+egészszel. –</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="TextRegion_1602250070516_1976" custom="readingOrder {index:7;}">
+            <Coords points="520,3055 1789,2991 1800,3069 2481,3056 2495,2988 2770,2988 2775,3075 3255,3062 3255,3994 324,3994 324,3151 326,3151 510,3148"/>
+            <TextLine id="line_1602250383659_2162" custom="readingOrder {index:0;}">
+                <Coords points="541,3020 1761,3027 1770,3013 1770,3099 2460,3084 2516,2994 2752,2994 2771,3087 3092,3087 3076,3224 514,3208"/>
+                <Baseline points="514,3203 3076,3219"/>
+                <TextEquiv>
+                    <Unicode>Némi útba igazítást azonban adhatna.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1602250318268_2123" custom="readingOrder {index:1;}">
+                <Coords points="380,3230 3227,3236 3206,3367 359,3361"/>
+                <Baseline points="359,3356 3206,3362"/>
+                <TextEquiv>
+                    <Unicode>Délután van a felolvasás vagy este? Frakk¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1602250321015_2128" custom="readingOrder {index:2;}">
+                <Coords points="380,3389 3184,3404 3178,3547 374,3532"/>
+                <Baseline points="374,3527 3178,3542"/>
+                <TextEquiv>
+                    <Unicode>ban vagy redingotban? Milyen a terem?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1602250323491_2133" custom="readingOrder {index:3;}">
+                <Coords points="380,3563 2879,3569 2870,3718 371,3712"/>
+                <Baseline points="371,3707 2870,3713"/>
+                <TextEquiv>
+                    <Unicode>Megtűri a félhalk felolvasást vagy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1602250325922_2138" custom="readingOrder {index:4;}">
+                <Coords points="390,3744 3194,3744 3191,3902 387,3902"/>
+                <Baseline points="387,3897 3191,3897"/>
+                <TextEquiv>
+                    <Unicode>ordítani kell? Ennek a tudása nagyon</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Némi útba igazítást azonban adhatna.&#xD;
+Délután van a felolvasás vagy este? Frakk¬&#xD;
+ban vagy redingotban? Milyen a terem?&#xD;
+Megtűri a félhalk felolvasást vagy&#xD;
+ordítani kell? Ennek a tudása nagyon</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

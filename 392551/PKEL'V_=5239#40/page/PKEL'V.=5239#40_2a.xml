@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-05-25T17:02:14.139+02:00</Created>
+        <LastChange>2020-11-24T11:28:15.409+01:00</LastChange>
+        <TranskribusMetadata docId="392551" pageId="15216877" pageNr="3" tsid="49519866" status="IN_PROGRESS" userId="56520" imgUrl="https://files.transkribus.eu/Get?id=MAJCEPUZUQQQKJCWYTVSFGMX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MNKPXRLERZGRYJVQVVZGRCYD" imageId="11076241"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#40_2a.tif" imageWidth="2477" imageHeight="1547">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424437213" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1591815407243_1335"/>
+                <RegionRefIndexed index="1" regionRef="region_1591815411502_1338"/>
+                <RegionRefIndexed index="2" regionRef="region_1591815423261_1341"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1591815407243_1335" custom="readingOrder {index:0;}">
+            <Coords points="195,167 932,167 932,265 195,265"/>
+            <TextLine id="line_1591815447508_1346" custom="readingOrder {index:0;}">
+                <Coords points="215,172 912,172 912,261 215,261"/>
+                <Baseline points="215,256 912,256"/>
+                <TextEquiv>
+                    <Unicode>Altai Rezsőné</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Altai Rezsőné</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1591815411502_1338" custom="readingOrder {index:1;}">
+            <Coords points="235,299 895,299 895,382 235,382"/>
+            <TextLine id="line_1591815455095_1351" custom="readingOrder {index:0;}">
+                <Coords points="252,317 863,314 863,364 252,367"/>
+                <Baseline points="252,362 863,359"/>
+                <TextEquiv>
+                    <Unicode>Gomperz Margit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Gomperz Margit</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1591815423261_1341" custom="readingOrder {index:2;}">
+            <Coords points="137,1312 2412,1312 2412,199 137,199"/>
+            <TextLine id="line_1591815461070_1356" custom="readingOrder {index:0;}">
+                <Coords points="1000,203 2254,203 2263,430 1009,430"/>
+                <Baseline points="1009,362 2263,362"/>
+                <TextEquiv>
+                    <Unicode>Kiss Józsefnek a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1591815467183_1361" custom="readingOrder {index:1;}">
+                <Coords points="169,440 2412,451 2400,659 157,648"/>
+                <Baseline points="163,592 2406,603"/>
+                <TextEquiv>
+                    <Unicode>nagy Költőnek – hálából azért</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1591815472648_1366" custom="readingOrder {index:2;}">
+                <Coords points="137,687 2381,730 2386,1084 142,1041"/>
+                <Baseline points="154,873 2398,916"/>
+                <TextEquiv>
+                    <Unicode>a felejthetetlen néhány másod¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1591815477097_1371" custom="readingOrder {index:3;}">
+                <Coords points="174,1047 848,1044 854,1281 180,1284"/>
+                <Baseline points="183,1231 857,1228"/>
+                <TextEquiv>
+                    <Unicode>percért.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kiss Józsefnek a&#xD;
+nagy Költőnek – hálából azért&#xD;
+a felejthetetlen néhány másod¬&#xD;
+percért.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

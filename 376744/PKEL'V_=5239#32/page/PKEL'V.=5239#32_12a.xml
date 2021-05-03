@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-04-28T12:11:32.814+02:00</Created>
+        <LastChange>2020-12-01T16:52:13.342+01:00</LastChange>
+        <TranskribusMetadata docId="376744" pageId="14729592" pageNr="31" tsid="49756723" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=ZHENEVHTOOTAZUUMSAJFJUUC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CSQONOTSWODBGHWKHFSSCUHK" imageId="10670627"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#32_12a.tif" imageWidth="5398" imageHeight="4375">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619423980844" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1593549657886_1714"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+                <RegionRefIndexed index="2" regionRef="region_1593549554717_1703"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1593549657886_1714" custom="readingOrder {index:0;}">
+            <Coords points="4108,726 3033,795 2987,1086 4039,1017"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="2992,1067 4028,987 4085,731 3049,811"/>
+                <Baseline points="2992,1028 3043,1025 3095,1021 3147,1017 3199,1013 3251,1010 3302,1005 3354,1002 3406,998 3458,994 3510,989 3561,986 3613,981 3665,977 3717,973 3769,969 3820,966 3872,962 3924,957 3976,953 4028,948"/>
+                <TextEquiv>
+                    <Unicode>Kedves Mamuska!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kedves Mamuska!</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="2798,1088 2817,4057 5243,4057 5276,1045"/>
+            <TextLine id="r2l2" custom="readingOrder {index:0;}">
+                <Coords points="2912,1370 5042,1316 5106,1067 2976,1121"/>
+                <Baseline points="2912,1332 3018,1321 3125,1312 3231,1303 3338,1296 3444,1290 3551,1284 3657,1280 3764,1276 3870,1272 3977,1270 4083,1268 4190,1268 4296,1268 4403,1268 4509,1268 4616,1270 4722,1271 4829,1274 4935,1276 5042,1278"/>
+                <TextEquiv>
+                    <Unicode>E pillanatban kapom az Ottó</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:1;}">
+                <Coords points="2824,1546 5228,1448 5238,1238 2834,1336"/>
+                <Baseline points="2824,1508 2944,1495 3064,1484 3184,1474 3304,1464 3425,1458 3545,1451 3665,1446 3785,1442 3905,1438 4026,1434 4146,1432 4266,1430 4386,1428 4506,1426 4627,1424 4747,1422 4867,1420 4987,1418 5107,1414 5228,1410"/>
+                <TextEquiv>
+                    <Unicode>levelét, melyben értesít, hogy már</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:2;}">
+                <Coords points="2860,1733 5250,1643 5282,1451 2892,1541"/>
+                <Baseline points="2860,1674 2979,1670 3099,1666 3218,1661 3338,1656 3457,1650 3577,1646 3696,1640 3816,1634 3935,1630 4055,1624 4174,1620 4294,1614 4413,1610 4533,1604 4652,1601 4772,1596 4891,1592 5011,1589 5130,1586 5250,1584"/>
+                <TextEquiv>
+                    <Unicode>helyben vagytok. Mi van a Molnár</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:3;}">
+                <Coords points="2846,1931 5164,1827 5176,1619 2858,1723"/>
+                <Baseline points="2846,1860 2961,1856 3077,1851 3193,1846 3309,1842 3425,1836 3541,1830 3657,1825 3773,1819 3889,1812 4005,1806 4120,1800 4236,1795 4352,1789 4468,1783 4584,1778 4700,1772 4816,1768 4932,1763 5048,1758 5164,1756"/>
+                <TextEquiv>
+                    <Unicode>Feri szekrényével? Ha lehet vegyétek</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:4;}">
+                <Coords points="2860,2088 5230,2046 5246,1817 2876,1859"/>
+                <Baseline points="2862,1996 2980,2000 3099,2004 3217,2004 3336,2004 3454,2004 3573,2002 3691,2000 3810,1996 3928,1992 4047,1988 4165,1983 4284,1978 4402,1974 4521,1970 4639,1966 4758,1962 4876,1958 4995,1956 5113,1954 5232,1954"/>
+                <TextEquiv>
+                    <Unicode>meg. A rendezéssel pedig azt hinném</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:5;} unclear {offset:16; length:9;}">
+                <Coords points="2850,2226 5164,2174 5172,1982 2858,2034"/>
+                <Baseline points="2850,2166 2965,2164 3081,2164 3197,2161 3312,2158 3428,2156 3544,2152 3659,2148 3775,2144 3891,2140 4007,2136 4122,2132 4238,2128 4354,2125 4469,2122 4585,2120 4701,2118 4816,2116 4932,2114 5048,2114 5164,2114"/>
+                <TextEquiv>
+                    <Unicode>rá érnétek majd tepsimben. Addig</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:6;}">
+                <Coords points="2846,2390 5248,2326 5254,2139 2852,2203"/>
+                <Baseline points="2846,2352 2964,2350 3082,2348 3201,2346 3319,2342 3438,2338 3556,2334 3674,2330 3793,2324 3911,2320 4030,2316 4148,2312 4266,2306 4385,2302 4503,2298 4622,2294 4740,2290 4858,2288 4977,2285 5095,2282 5236,2287"/>
+                <TextEquiv>
+                    <Unicode>kampirozzunk. A mi engemet illet,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:7;}">
+                <Coords points="2834,2598 4981,2522 5127,2503 5118,2307 2858,2393"/>
+                <Baseline points="2838,2520 2951,2516 3064,2512 3177,2508 3290,2504 3403,2502 3516,2500 3629,2496 3742,2494 3855,2492 3968,2488 4081,2486 4194,2482 4307,2480 4420,2476 4533,2470 4646,2464 4759,2459 4872,2452 4985,2444 5098,2434"/>
+                <TextEquiv>
+                    <Unicode>én folyton javulok. Minden nap</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:8;}">
+                <Coords points="2844,2774 5194,2690 5220,2458 2870,2542"/>
+                <Baseline points="2848,2688 2965,2682 3083,2675 3200,2670 3318,2666 3435,2662 3553,2658 3670,2656 3788,2654 3905,2650 4023,2648 4140,2646 4258,2644 4375,2640 4493,2638 4610,2634 4728,2629 4845,2624 4963,2618 5080,2611 5198,2604"/>
+                <TextEquiv>
+                    <Unicode>derültebb vagyok és jó étvágygyal</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:9;}">
+                <Coords points="2842,2937 5154,2857 5186,2630 2874,2710"/>
+                <Baseline points="2844,2864 2959,2855 3075,2850 3190,2844 3306,2840 3422,2834 3537,2832 3653,2828 3768,2826 3884,2822 4000,2820 4115,2818 4231,2816 4346,2813 4462,2810 4578,2807 4693,2804 4809,2800 4924,2795 5040,2789 5156,2784"/>
+                <TextEquiv>
+                    <Unicode>eszem és elég jól alszom. Két hét</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:10;}">
+                <Coords points="2852,3101 5092,3005 5111,2784 2871,2880"/>
+                <Baseline points="2852,3036 2964,3029 3076,3022 3188,3017 3300,3012 3412,3006 3524,3003 3636,2999 3748,2996 3860,2992 3972,2989 4084,2986 4196,2982 4308,2978 4420,2974 4532,2970 4644,2965 4756,2960 4868,2954 4980,2946 5092,2940"/>
+                <TextEquiv>
+                    <Unicode>mulva próbálok áthelyezkedni a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:11;} sic {offset:23; length:6;}">
+                <Coords points="2850,3264 5202,3160 5229,2958 2877,3062"/>
+                <Baseline points="2850,3206 2967,3202 3085,3196 3202,3190 3320,3186 3438,3180 3555,3174 3673,3168 3790,3164 3908,3158 4026,3152 4143,3146 4261,3140 4378,3135 4496,3130 4614,3124 4731,3120 4849,3115 4966,3110 5084,3106 5202,3102"/>
+                <TextEquiv>
+                    <Unicode>Balatonra; ahova te is eljösz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:12;} add {offset:20; length:1;} gap {offset:20; length:0;}">
+                <Coords points="2860,3418 5202,3356 5210,3141 2868,3203"/>
+                <Baseline points="2860,3352 2977,3350 3094,3349 3211,3346 3328,3343 3445,3340 3562,3334 3679,3330 3796,3325 3913,3321 4031,3314 4148,3310 4265,3306 4382,3301 4499,3297 4616,3294 4733,3292 4850,3290 4967,3288 5084,3290 5202,3290"/>
+                <TextEquiv>
+                    <Unicode>és kipihened a költözködés fáradal¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:13;}">
+                <Coords points="2848,3589 5042,3540 5049,3322 2873,3396"/>
+                <Baseline points="2846,3526 2954,3524 3063,3521 3172,3518 3281,3516 3390,3514 3498,3511 3607,3510 3716,3507 3825,3504 3934,3502 4042,3500 4151,3496 4260,3494 4369,3490 4478,3485 4586,3479 4695,3474 4804,3468 4913,3461 5022,3452"/>
+                <TextEquiv>
+                    <Unicode>mait. Írni azonban még nem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:14;}">
+                <Coords points="2858,3729 4964,3703 5198,3685 5198,3515 2858,3559"/>
+                <Baseline points="2858,3690 2975,3690 3092,3691 3209,3692 3326,3692 3443,3694 3560,3694 3677,3696 3794,3696 3911,3696 4028,3694 4145,3694 4262,3691 4379,3689 4496,3686 4613,3682 4730,3676 4847,3670 4964,3664 5081,3654 5198,3646"/>
+                <TextEquiv>
+                    <Unicode>tudok. Fáraszt. Ezért nem tudtam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:15;}">
+                <Coords points="2868,4037 4812,4023 4843,3697 2899,3711"/>
+                <Baseline points="2890,3862 2987,3862 3084,3864 3181,3864 3278,3864 3376,3865 3473,3866 3570,3866 3667,3866 3764,3866 3862,3866 3959,3866 4056,3865 4153,3864 4250,3862 4348,3861 4445,3860 4542,3858 4639,3854 4736,3852 4834,3848"/>
+                <TextEquiv>
+                    <Unicode>még írni a doktorunknak.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>E pillanatban kapom az Ottó&#xD;
+levelét, melyben értesít, hogy már&#xD;
+helyben vagytok. Mi van a Molnár&#xD;
+Feri szekrényével? Ha lehet vegyétek&#xD;
+meg. A rendezéssel pedig azt hinném&#xD;
+rá érnétek majd tepsimben. Addig&#xD;
+kampirozzunk. A mi engemet illet,&#xD;
+én folyton javulok. Minden nap&#xD;
+derültebb vagyok és jó étvágygyal&#xD;
+eszem és elég jól alszom. Két hét&#xD;
+mulva próbálok áthelyezkedni a&#xD;
+Balatonra; ahova te is eljösz&#xD;
+és kipihened a költözködés fáradal¬&#xD;
+mait. Írni azonban még nem&#xD;
+tudok. Fáraszt. Ezért nem tudtam&#xD;
+még írni a doktorunknak.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1593549554717_1703" custom="readingOrder {index:2;}">
+            <Coords points="3794,4060 3917,4060 3917,4219 3794,4219"/>
+            <TextLine id="line_1593549562655_1706" custom="readingOrder {index:0;}">
+                <Coords points="3799,4065 3910,4068 3907,4193 3796,4190"/>
+                <Baseline points="3796,4185 3907,4188"/>
+                <TextEquiv>
+                    <Unicode>1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-09-21T14:08:03.370+02:00</Created>
+        <LastChange>2020-11-20T15:45:58.733+01:00</LastChange>
+        <TranskribusMetadata docId="484885" pageId="19998665" pageNr="4" tsid="49364519" status="IN_PROGRESS" userId="63384" imgUrl="https://files.transkribus.eu/Get?id=KFXIVMSTSVIUBUKQPENUVCEO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ROCZIZARVHHFWUHJRFMDUOUI" imageId="15414116"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5936#9_2b.tif" imageWidth="5270" imageHeight="8282">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424616042" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1603978890041_779"/>
+                <RegionRefIndexed index="1" regionRef="region_1603978902490_782"/>
+                <RegionRefIndexed index="2" regionRef="region_1603978905466_785"/>
+                <RegionRefIndexed index="3" regionRef="region_1603978908146_788"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1603978890041_779" custom="readingOrder {index:0;}">
+            <Coords points="2252,4654 3648,4654 3651,4882 2255,4882"/>
+            <TextLine id="line_1603984972849_2138" custom="readingOrder {index:0;}">
+                <Coords points="2347,4734 3680,4684 3679,4836 2346,4886"/>
+                <Baseline points="2346,4881 3605,4841"/>
+                <TextEquiv>
+                    <Unicode>Adott  istenke eleven észt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Adott  istenke eleven észt</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1603978902490_782" custom="readingOrder {index:1;}">
+            <Coords points="2316,4916 2313,4850 2523,4897 2763,4897 2951,4867 2988,4904 2988,4873 3201,4888 3368,4861 3684,4831 3727,4857 3893,4695 4006,4689 4013,4845 4058,4850 4058,4998 2313,4998"/>
+            <TextLine id="line_1603984982084_2144" custom="readingOrder {index:0;}">
+                <Coords points="2359,4942 2383,4894 2457,4895 2466,4934 2775,4925 2779,4883 2841,4884 2949,4872 2958,4884 2972,4895 3138,4910 3235,4873 3285,4903 3381,4854 3511,4870 3663,4837 3726,4864 3779,4830 3904,4719 3995,4705 4011,4865 4053,4877 4059,4914 4057,4994 4009,4946 3286,4953 2899,4974 2361,4992"/>
+                <Baseline points="2361,4987 2899,4969 3286,4948 3979,4925 4003,4948 4044,4967"/>
+                <TextEquiv>
+                    <Unicode>és gyermekbájt, mely hódolni készt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>és gyermekbájt, mely hódolni készt,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1603978905466_785" custom="readingOrder {index:2;}">
+            <Coords points="2316,5013 2319,4959 2440,5004 2495,5046 2553,5037 2586,5037 2772,4992 2968,4979 3008,5027 3049,4976 3199,4974 3210,5017 3248,5017 3294,4973 3855,4959 3858,5114 2322,5114"/>
+            <TextLine id="line_1603985016085_2166" custom="readingOrder {index:0;}">
+                <Coords points="2369,5013 2451,5022 2492,5061 2604,5045 2757,5033 2985,4977 2989,5085 2773,5111 2366,5111"/>
+                <Baseline points="2366,5106 2773,5106 2988,5080"/>
+                <TextEquiv>
+                    <Unicode>Jusson mellé</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1603985018685_2171" custom="readingOrder {index:1;} add {offset:0; length:3;}">
+                <Coords points="3027,4982 3183,4977 3188,5027 3032,5032"/>
+                <Baseline points="3032,5027 3188,5022"/>
+                <TextEquiv>
+                    <Unicode>még</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1603985022084_2176" custom="readingOrder {index:2;} add {offset:6; length:1;} gap {offset:6; length:0;}">
+                <Coords points="3060,5047 3336,5003 3595,4992 3817,5047 3817,5097 3523,5094 3263,5105 3058,5097"/>
+                <Baseline points="3058,5092 3263,5100 3523,5089 3817,5092"/>
+                <TextEquiv>
+                    <Unicode>egy tál lencse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Jusson mellé&#xD;
+még&#xD;
+egy tál lencse</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1603978908146_788" custom="readingOrder {index:3;}">
+            <Coords points="2340,5093 3833,5093 3812,5296 2319,5296"/>
+            <TextLine id="region_1603978908146_788l1" custom="readingOrder {index:0;}">
+                <Coords points="2348,5302 3654,5246 3715,5070 2409,5126"/>
+                <Baseline points="2348,5252 2413,5243 2478,5238 2543,5232 2609,5228 2674,5224 2739,5222 2805,5219 2870,5218 2935,5217 3001,5216 3066,5216 3131,5214 3196,5214 3262,5212 3327,5212 3392,5210 3458,5208 3523,5204 3588,5200 3654,5196"/>
+                <TextEquiv>
+                    <Unicode>Egy kicsike szerencse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Egy kicsike szerencse</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

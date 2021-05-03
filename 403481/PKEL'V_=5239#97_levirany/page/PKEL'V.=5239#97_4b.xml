@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-06-05T12:43:26.202+02:00</Created>
+        <LastChange>2020-08-15T09:24:34.237+02:00</LastChange>
+        <TranskribusMetadata docId="403481" pageId="15584683" pageNr="7" tsid="36959159" status="IN_PROGRESS" userId="56520" imgUrl="https://files.transkribus.eu/Get?id=IMJPTAPKJVJEGEZUIHQJYJXA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ITHDCOEXNBQPZQVCXXIYGZFY" imageId="11409307"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#97_4b.tif" imageWidth="2634" imageHeight="1725">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424322799" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1597410448702_1777"/>
+                <RegionRefIndexed index="1" regionRef="region_1597410450603_1780"/>
+                <RegionRefIndexed index="2" regionRef="region_1597324342562_3020"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1597410448702_1777" custom="readingOrder {index:0;}">
+            <Coords points="869,754 1819,754 1819,919 869,919"/>
+            <TextLine id="line_1597410455707_1784" custom="readingOrder {index:0;}">
+                <Coords points="889,789 1789,784 1784,884 884,889"/>
+                <Baseline points="884,884 1784,879"/>
+                <TextEquiv>
+                    <Unicode>Prof. Dr Donath Gyula</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Prof. Dr Donath Gyula</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1597410450603_1780" custom="readingOrder {index:1;}">
+            <Coords points="1539,1389 2409,1389 2409,1529 1539,1529"/>
+            <TextLine id="line_1597410460088_1790" custom="readingOrder {index:0;}">
+                <Coords points="1554,1414 2379,1414 2374,1509 1549,1509"/>
+                <Baseline points="1549,1479 2374,1479"/>
+                <TextEquiv>
+                    <Unicode>Budapest, V., Bálvány-u. 4.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Budapest, V., Bálvány-u. 4.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1597324342562_3020" custom="readingOrder {index:2;}">
+            <Coords points="418,1267 421,1536 1380,1536 1377,1267"/>
+            <TextLine id="line_1597324342578_3023" custom="readingOrder {index:0;}">
+                <Coords points="412,1322 1370,1308 1380,1522 422,1536"/>
+                <Baseline points="422,1531 1380,1517"/>
+                <TextEquiv>
+                    <Unicode>1921 decz. 11</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1921 decz. 11</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

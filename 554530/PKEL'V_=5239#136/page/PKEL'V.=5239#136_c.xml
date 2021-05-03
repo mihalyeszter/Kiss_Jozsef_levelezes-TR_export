@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-12-11T12:56:41.971+01:00</Created>
+        <LastChange>2020-12-11T18:06:28.708+01:00</LastChange>
+        <TranskribusMetadata docId="554530" pageId="22967305" pageNr="3" tsid="50274992" status="IN_PROGRESS" userId="56520" imgUrl="https://files.transkribus.eu/Get?id=WPJXYDXBSSEKYXSALYMUBYJA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TNFWPJQCFXSEIAHZKTMDQWHM" imageId="17920556"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#136_c.tif" imageWidth="2563" imageHeight="1661">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424823964" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1607694037532_704"/>
+                <RegionRefIndexed index="1" regionRef="region_1607694041757_707"/>
+                <RegionRefIndexed index="2" regionRef="region_1607694045097_710"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1607694037532_704" custom="readingOrder {index:0;}">
+            <Coords points="130,154 2422,154 2422,590 130,590"/>
+            <TextLine id="line_1607694052321_713" custom="readingOrder {index:0;}">
+                <Coords points="193,167 2371,205 2370,330 192,292"/>
+                <Baseline points="192,277 2370,315"/>
+                <TextEquiv>
+                    <Unicode>és kívánnak neki és kedves</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1607694057581_718" custom="readingOrder {index:1;}">
+                <Coords points="199,302 2397,354 2390,459 192,407"/>
+                <Baseline points="196,388 2394,440"/>
+                <TextEquiv>
+                    <Unicode>családjának tartós, állandó</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1607694062562_723" custom="readingOrder {index:2;}">
+                <Coords points="157,413 1109,441 1106,575 154,547"/>
+                <Baseline points="154,512 1106,540"/>
+                <TextEquiv>
+                    <Unicode>boldogságot</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>és kívánnak neki és kedves&#xD;
+családjának tartós, állandó&#xD;
+boldogságot</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1607694041757_707" custom="readingOrder {index:1;}">
+            <Coords points="251,1308 990,1308 990,1519 251,1519"/>
+            <TextLine id="line_1607694068541_728" custom="readingOrder {index:0;}">
+                <Coords points="269,1315 969,1326 958,1510 258,1499"/>
+                <Baseline points="260,1453 960,1464"/>
+                <TextEquiv>
+                    <Unicode>Vasárnap.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Vasárnap.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1607694045097_710" custom="readingOrder {index:2;}">
+            <Coords points="2308,1310 2474,1310 2474,1528 2308,1528"/>
+            <TextLine id="line_1607694075675_733" custom="readingOrder {index:0;}">
+                <Coords points="2434,1335 2460,1510 2365,1520 2339,1345"/>
+                <Baseline points="2344,1344 2370,1519"/>
+                <TextEquiv>
+                    <Unicode>158</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>158</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

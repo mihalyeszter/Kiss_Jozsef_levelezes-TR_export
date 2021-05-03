@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-09-21T14:11:05.646+02:00</Created>
+        <LastChange>2020-11-19T15:05:50.720+01:00</LastChange>
+        <TranskribusMetadata docId="484934" pageId="19998932" pageNr="2" tsid="49192176" status="IN_PROGRESS" userId="58915" imgUrl="https://files.transkribus.eu/Get?id=LCOTPGWSOFRAZIIDHAFAWMVM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VNNKKMPSTWYIBOSCEPURXAYO" imageId="15414383"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=1343_b.tif" imageWidth="3438" imageHeight="4338">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424571001" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1602250541949_2204"/>
+                <RegionRefIndexed index="1" regionRef="region_1602250544613_2207"/>
+                <RegionRefIndexed index="2" regionRef="region_1602250555844_2210"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1602250541949_2204" custom="readingOrder {index:0;}">
+            <Coords points="412,588 3160,588 3160,1299 412,1299"/>
+            <TextLine id="line_1602250588412_2229" custom="readingOrder {index:0;}">
+                <Coords points="501,649 3086,676 3065,905 480,878"/>
+                <Baseline points="480,873 3065,900"/>
+                <TextEquiv>
+                    <Unicode>fontos. Legyen oly kegyes, adjon egy kis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1602250596383_2234" custom="readingOrder {index:1;}">
+                <Coords points="488,866 2958,921 2957,1108 487,1053"/>
+                <Baseline points="487,1048 2957,1103"/>
+                <TextEquiv>
+                    <Unicode>informácziót. Viszontlátásra igaz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1602250601532_2239" custom="readingOrder {index:2;}">
+                <Coords points="478,1083 1595,1077 1583,1250 466,1256"/>
+                <Baseline points="466,1251 1583,1245"/>
+                <TextEquiv>
+                    <Unicode>híve és barátja</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>fontos. Legyen oly kegyes, adjon egy kis&#xD;
+informácziót. Viszontlátásra igaz&#xD;
+híve és barátja</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1602250544613_2207" custom="readingOrder {index:1;}">
+            <Coords points="1725,1265 3065,1265 3065,1976 1725,1976"/>
+            <TextLine id="line_1602250609447_2245" custom="readingOrder {index:0;}">
+                <Coords points="1788,1323 2999,1310 2970,1663 1759,1676"/>
+                <Baseline points="1759,1671 2970,1658"/>
+                <TextEquiv>
+                    <Unicode>Kiss József</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kiss József</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1602250555844_2210" custom="readingOrder {index:2;}">
+            <Coords points="466,1921 3160,1921 3160,2815 466,2815"/>
+            <TextLine id="line_1602250673799_2272" custom="readingOrder {index:0;}">
+                <Coords points="576,1957 840,1965 809,2113 3133,2237 3106,2502 527,2421"/>
+                <Baseline points="527,2416 3106,2497"/>
+                <TextEquiv>
+                    <Unicode>Én úgy tudom: vasárnap, 9-én lesz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1602250624756_2256" custom="readingOrder {index:1;} abbrev {offset:0; length:1;}">
+                <Coords points="706,2392 2269,2419 2212,2644 649,2617"/>
+                <Baseline points="649,2612 2212,2639"/>
+                <TextEquiv>
+                    <Unicode>D. társaság ülése.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Én úgy tudom: vasárnap, 9-én lesz&#xD;
+D. társaság ülése.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

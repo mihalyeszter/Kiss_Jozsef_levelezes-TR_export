@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>PKEL'V.=5239#77</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: eszter.mihaly@gmail.com</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile xml:id='facs_1'>
+		<surface ulx='0' uly='0' lrx='2562' lry='1411'>
+			<graphic url='PKEL'V.=5239#77_a.tif' width='2562px' height='1411px'/>
+			<zone ulx='107' uly='89' lrx='2480' lry='877' rendition='TextRegion' xml:id='facs_1_region_1593370986325_351'>
+				<zone ulx='110' uly='97' lrx='2474' lry='265' rendition='Line' xml:id='facs_1_line_1593371008966_357'/>
+				<zone ulx='109' uly='245' lrx='2375' lry='496' rendition='Line' xml:id='facs_1_line_1593371018575_362'/>
+				<zone ulx='124' uly='423' lrx='2325' lry='597' rendition='Line' xml:id='facs_1_line_1593371026395_367'/>
+				<zone ulx='151' uly='602' lrx='1256' lry='872' rendition='Line' xml:id='facs_1_line_1593371032077_372'/>
+			</zone>
+			<zone ulx='837' uly='729' lrx='2305' lry='1289' rendition='TextRegion' xml:id='facs_1_region_1593370998406_354'>
+				<zone ulx='847' uly='729' lrx='2265' lry='1277' rendition='Line' xml:id='facs_1_line_1593371038477_377'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<pb facs='#facs_1' n='1'/>
+			<p facs='#facs_1_region_1593370986325_351'>
+				<lb facs='#facs_1_line_1593371008966_357' n='N001'/>Hetvenedik születés napom al¬
+				<lb facs='#facs_1_line_1593371018575_362' n='N002'/>kalmából jóleső <sic>figyelmeért</sic>,
+				<lb facs='#facs_1_line_1593371026395_367' n='N003'/>hálás köszönetét küldi,
+				<lb facs='#facs_1_line_1593371032077_372' n='N004'/>régi jó híve
+			</p>
+			<p facs='#facs_1_region_1593370998406_354'>
+				<lb facs='#facs_1_line_1593371038477_377' n='N001'/>Blaha Lujza
+			</p>
+		</body>
+	</text>
+</TEI>

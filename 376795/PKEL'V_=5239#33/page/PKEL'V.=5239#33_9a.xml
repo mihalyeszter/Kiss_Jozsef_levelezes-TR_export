@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-28T13:02:33.052+02:00</Created>
+        <LastChange>2020-11-19T15:19:54.638+01:00</LastChange>
+        <TranskribusMetadata docId="376795" pageId="14734271" pageNr="17" tsid="49196087" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=ZLYPPZPCMWBLVFZTHREGDBPJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KBCBAZXXDDYOBQEKQNOVZDNV" imageId="10675293"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#33_9a.tif" imageWidth="3335" imageHeight="2251">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424128256" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1597408072847_698"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1597408072847_697"/>
+                <RegionRefIndexed index="2" regionRef="region_1597136952887_1488"/>
+                <RegionRefIndexed index="3" regionRef="region_1597136958267_1491"/>
+                <RegionRefIndexed index="4" regionRef="region_1597136965463_1494"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="TextRegion_1597408072847_698" custom="readingOrder {index:0;}">
+            <Coords points="160,153 1028,153 1028,311 160,311"/>
+            <TextLine id="line_1597394950843_989" custom="readingOrder {index:0;}">
+                <Coords points="197,164 662,161 659,295 194,298"/>
+                <Baseline points="194,293 659,290"/>
+                <TextEquiv>
+                    <Unicode>A Hét</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>A Hét</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="TextRegion_1597408072847_697" custom="readingOrder {index:1;}">
+            <Coords points="160,311 1028,311 1028,389 160,389"/>
+            <TextLine id="line_1597394956973_994" custom="readingOrder {index:0;}">
+                <Coords points="208,312 991,312 991,380 208,380"/>
+                <Baseline points="208,375 991,375"/>
+                <TextEquiv>
+                    <Unicode>VIII. Rökk-Szilárd-utcza 18.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>VIII. Rökk-Szilárd-utcza 18.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1597136952887_1488" custom="readingOrder {index:2;}">
+            <Coords points="277,375 986,375 986,540 277,540"/>
+            <TextLine id="line_1597136974547_1497" custom="readingOrder {index:0;}">
+                <Coords points="305,381 965,379 965,510 305,510"/>
+                <Baseline points="305,505 965,505"/>
+                <TextEquiv>
+                    <Unicode>Kedves Zsóka!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kedves Zsóka!</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1597136958267_1491" custom="readingOrder {index:3;}">
+            <Coords points="217,526 3199,526 3199,1762 217,1762"/>
+            <TextLine id="line_1597136987998_1509" custom="readingOrder {index:0;}">
+                <Coords points="252,554 1374,562 2257,556 3144,534 3142,686 2258,707 1373,679 252,661"/>
+                <Baseline points="252,656 1373,674 2258,702 3142,681"/>
+                <TextEquiv>
+                    <Unicode>Nagyon üresnek találom a házat nélküled. Igazán sajnálom,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597137001361_1521" custom="readingOrder {index:1;}">
+                <Coords points="231,677 1080,733 1879,726 3155,700 3164,837 1899,826 1102,823 235,774"/>
+                <Baseline points="235,769 1102,818 1899,821 3164,832"/>
+                <TextEquiv>
+                    <Unicode>hogy eleresztettelek. Ma délig ágyban maradtam és a délutánt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597137006377_1526" custom="readingOrder {index:2;}">
+                <Coords points="251,807 3039,839 3023,949 235,917"/>
+                <Baseline points="259,920 3023,944"/>
+                <TextEquiv>
+                    <Unicode>heverészve töltöttem a díványon. Még az utczára sincs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597137011155_1531" custom="readingOrder {index:3;}">
+                <Coords points="253,925 3125,964 3135,1090 263,1051"/>
+                <Baseline points="263,1046 3135,1085"/>
+                <TextEquiv>
+                    <Unicode>kedvem kimenni, annyira elernyedt és akarat nélkül va¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597137014740_1536" custom="readingOrder {index:4;}">
+                <Coords points="255,1050 3096,1106 3093,1230 252,1174"/>
+                <Baseline points="252,1169 3093,1225"/>
+                <TextEquiv>
+                    <Unicode>gyok. Azt hiszem, hogyha módomban volna is, csak erő¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597137017846_1541" custom="readingOrder {index:5;}">
+                <Coords points="264,1234 3035,1262 3041,1346 270,1318"/>
+                <Baseline points="270,1313 3041,1341"/>
+                <TextEquiv>
+                    <Unicode>szakkal lehetne kimozdítani, hogy valahova menjek.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597137020728_1546" custom="readingOrder {index:6;}">
+                <Coords points="230,1333 3053,1375 3072,1483 249,1441"/>
+                <Baseline points="249,1436 3072,1478"/>
+                <TextEquiv>
+                    <Unicode>Folyton levert és szomoru vagyok, talán betegebb,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597137023292_1551" custom="readingOrder {index:7;}">
+                <Coords points="250,1466 3077,1497 3093,1623 266,1592"/>
+                <Baseline points="266,1587 3093,1618"/>
+                <TextEquiv>
+                    <Unicode>mint magam gondolnám. De az is lehet, hogy ez az</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597137026669_1556" custom="readingOrder {index:8;}">
+                <Coords points="260,1624 2567,1627 2577,1746 270,1743"/>
+                <Baseline points="270,1738 2577,1741"/>
+                <TextEquiv>
+                    <Unicode>öregség jele és én még bele nem szoktam.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Nagyon üresnek találom a házat nélküled. Igazán sajnálom,&#xD;
+hogy eleresztettelek. Ma délig ágyban maradtam és a délutánt&#xD;
+heverészve töltöttem a díványon. Még az utczára sincs&#xD;
+kedvem kimenni, annyira elernyedt és akarat nélkül va¬&#xD;
+gyok. Azt hiszem, hogyha módomban volna is, csak erő¬&#xD;
+szakkal lehetne kimozdítani, hogy valahova menjek.&#xD;
+Folyton levert és szomoru vagyok, talán betegebb,&#xD;
+mint magam gondolnám. De az is lehet, hogy ez az&#xD;
+öregség jele és én még bele nem szoktam.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1597136965463_1494" custom="readingOrder {index:4;}">
+            <Coords points="228,1769 3192,1769 3192,2103 228,2103"/>
+            <TextLine id="line_1597137030531_1561" custom="readingOrder {index:0;}">
+                <Coords points="373,1765 3067,1779 3083,1897 389,1883"/>
+                <Baseline points="389,1878 3083,1892"/>
+                <TextEquiv>
+                    <Unicode>Mondd meg a kis Andreának, hogy a mintázáshoz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597137034191_1566" custom="readingOrder {index:1;}">
+                <Coords points="258,1888 3095,1895 3093,2031 256,2024"/>
+                <Baseline points="256,2019 3093,2026"/>
+                <TextEquiv>
+                    <Unicode>majd küldök neki mintázó fát a Kallós műterméből</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Mondd meg a kis Andreának, hogy a mintázáshoz&#xD;
+majd küldök neki mintázó fát a Kallós műterméből</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

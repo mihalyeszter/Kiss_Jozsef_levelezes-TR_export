@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-06-05T11:05:11.944+02:00</Created>
+        <LastChange>2020-12-01T13:42:23.636+01:00</LastChange>
+        <TranskribusMetadata docId="403337" pageId="15583894" pageNr="4" tsid="49751973" status="IN_PROGRESS" userId="58915" imgUrl="https://files.transkribus.eu/Get?id=EAXPGMZIEGIEWWPCHKFSOZEX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XJZKSFZIFPXGEEFUBDWWQLGB" imageId="11408536"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#84_d.tif" imageWidth="2774" imageHeight="4373">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424382743" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1595177928477_581"/>
+                <RegionRefIndexed index="1" regionRef="region_1595177937830_584"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1595177928477_581" custom="readingOrder {index:0;}">
+            <Coords points="413,636 2769,636 2769,1212 413,1212"/>
+            <TextLine id="line_1595177949289_587" custom="readingOrder {index:0;} unclear {offset:0; length:5;}">
+                <Coords points="474,637 2728,684 2727,832 473,785"/>
+                <Baseline points="473,780 2727,827"/>
+                <TextEquiv>
+                    <Unicode>votre superbe talent l’assu¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1595177955995_592" custom="readingOrder {index:1;}">
+                <Coords points="428,930 2700,963 2699,1013 427,980"/>
+                <Baseline points="427,975 2699,1008"/>
+                <TextEquiv>
+                    <Unicode>rance de ma Considération</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1595177961685_597" custom="readingOrder {index:2;}">
+                <Coords points="455,1125 1635,1130 1635,1180 455,1175"/>
+                <Baseline points="455,1170 1635,1175"/>
+                <TextEquiv>
+                    <Unicode>très distinguée</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>votre superbe talent l’assu¬&#xD;
+rance de ma Considération&#xD;
+très distinguée</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1595177937830_584" custom="readingOrder {index:1;}">
+            <Coords points="2667,1212 511,1212 511,1547 2667,1547"/>
+            <TextLine id="line_1595177969167_602" custom="readingOrder {index:0;}">
+                <Coords points="536,1216 2662,1216 2662,1531 536,1531"/>
+                <Baseline points="548,1366 2662,1366"/>
+                <TextEquiv>
+                    <Unicode>Franz Courtens</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Franz Courtens</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

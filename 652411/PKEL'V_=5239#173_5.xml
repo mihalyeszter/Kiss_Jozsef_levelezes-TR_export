@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>PKEL'V.=5239#173_5</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: szucs.kata.agnes@gmail.com</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile xml:id='facs_1'>
+		<surface ulx='0' uly='0' lrx='3558' lry='5478'>
+			<graphic url='PKEL'V.=5239#173_5a.tif' width='3558px' height='5478px'/>
+			<zone ulx='2356' uly='472' lrx='2934' lry='572' rendition='TextRegion' xml:id='facs_1_region_1618233619059_1824'>
+				<zone ulx='2370' uly='484' lrx='2905' lry='557' rendition='Line' xml:id='facs_1_line_1618233675414_1846'/>
+			</zone>
+			<zone ulx='1748' uly='629' lrx='2878' lry='954' rendition='TextRegion' xml:id='facs_1_region_1618233621845_1827'>
+				<zone ulx='1765' uly='639' lrx='2820' lry='922' rendition='Line' xml:id='facs_1_line_1618233688175_1854'/>
+			</zone>
+			<zone ulx='569' uly='1324' lrx='3274' lry='4554' rendition='TextRegion' xml:id='facs_1_region_1618233634902_1830'>
+				<zone ulx='677' uly='1378' lrx='3235' lry='1748' rendition='Line' xml:id='facs_1_line_1618233714144_1861'/>
+				<zone ulx='774' uly='1836' lrx='3155' lry='2196' rendition='Line' xml:id='facs_1_line_1618233718400_1866'/>
+				<zone ulx='743' uly='2309' lrx='3229' lry='2669' rendition='Line' xml:id='facs_1_line_1618233722155_1871'/>
+				<zone ulx='783' uly='2811' lrx='3181' lry='3214' rendition='Line' xml:id='facs_1_line_1618233724857_1876'/>
+				<zone ulx='781' uly='3353' lrx='3161' lry='3709' rendition='Line' xml:id='facs_1_line_1618233735994_1881'/>
+				<zone ulx='817' uly='3792' lrx='3096' lry='4132' rendition='Line' xml:id='facs_1_line_1618233738879_1886'/>
+				<zone ulx='814' uly='4246' lrx='2988' lry='4536' rendition='Line' xml:id='facs_1_line_1618233742061_1891'/>
+			</zone>
+			<zone ulx='1741' uly='4574' lrx='2842' lry='4780' rendition='TextRegion' xml:id='facs_1_region_1618233637985_1833'>
+				<zone ulx='1828' uly='4573' lrx='2723' lry='4750' rendition='Line' xml:id='facs_1_line_1618233994849_1941'/>
+			</zone>
+			<zone ulx='2240' uly='4794' lrx='2960' lry='5109' rendition='TextRegion' xml:id='facs_1_region_1618233640677_1836'>
+				<zone ulx='2274' uly='4802' lrx='2917' lry='5066' rendition='Line' xml:id='facs_1_line_1618234013713_1952'/>
+			</zone>
+			<zone ulx='1567' uly='5053' lrx='1741' lry='5202' rendition='TextRegion' xml:id='facs_1_region_1618233643644_1839'>
+				<zone ulx='1613' uly='5074' lrx='1706' lry='5188' rendition='Line' xml:id='facs_1_line_1618234031867_1960'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<pb facs='#facs_1' n='1'/>
+			<p facs='#facs_1_region_1618233619059_1824'>
+				<lb facs='#facs_1_line_1618233675414_1846' n='N001'/>Báthory-utcza 3.
+			</p>
+			<p facs='#facs_1_region_1618233621845_1827'>
+				<lb facs='#facs_1_line_1618233688175_1854' n='N001'/>1907 Nov 10
+			</p>
+			<p facs='#facs_1_region_1618233634902_1830'>
+				<lb facs='#facs_1_line_1618233714144_1861' n='N001'/>Kedves Józsi bácsim, köszö¬
+				<lb facs='#facs_1_line_1618233718400_1866' n='N002'/>nöm azt a sok kedveset,
+				<lb facs='#facs_1_line_1618233722155_1871' n='N003'/>szépet és jóságósat, amivel
+				<lb facs='#facs_1_line_1618233724857_1876' n='N004'/>te meg A Hét nyomo¬
+				<lb facs='#facs_1_line_1618233735994_1881' n='N005'/>rúságomban rám gon¬
+				<lb facs='#facs_1_line_1618233738879_1886' n='N006'/>doltatok. Ölel mind¬
+				<lb facs='#facs_1_line_1618233742061_1891' n='N007'/>nyájatokat szeretettel
+			</p>
+			<p facs='#facs_1_region_1618233637985_1833'>
+				<lb facs='#facs_1_line_1618233994849_1941' n='N001'/>hű fiad
+			</p>
+			<p facs='#facs_1_region_1618233640677_1836'>
+				<lb facs='#facs_1_line_1618234013713_1952' n='N001'/>Ignotus
+			</p>
+			<p facs='#facs_1_region_1618233643644_1839'>
+				<lb facs='#facs_1_line_1618234031867_1960' n='N001'/>1
+			</p>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>PKEL'V.=5239#11_2</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: szucs.kata.agnes@gmail.com</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile xml:id='facs_1'>
+		<surface ulx='0' uly='0' lrx='3488' lry='2319'>
+			<graphic url='PKEL'V.=5239#11_2a.tif' width='3488px' height='2319px'/>
+			<zone ulx='251' uly='909' lrx='3374' lry='1491' rendition='TextRegion' xml:id='facs_1_region_1574067988915_267'>
+				<zone ulx='657' uly='972' lrx='1635' lry='1263' rendition='Line' xml:id='facs_1_line_1574068035141_281'/>
+				<zone ulx='1162' uly='1176' lrx='2774' lry='1510' rendition='Line' xml:id='facs_1_line_1574068039131_286'/>
+			</zone>
+			<zone ulx='1554' uly='1491' lrx='3239' lry='1801' rendition='TextRegion' xml:id='facs_1_region_1574067997136_270'>
+				<zone ulx='1911' uly='1518' lrx='2837' lry='1840' rendition='Line' xml:id='facs_1_line_1574068043271_291'/>
+			</zone>
+			<zone ulx='1556' uly='1798' lrx='3385' lry='2130' rendition='TextRegion' xml:id='facs_1_region_1574068001656_273'>
+				<zone ulx='1742' uly='1782' lrx='3333' lry='2079' rendition='Line' xml:id='facs_1_line_1574068047941_296'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id='facs_2'>
+		<surface ulx='0' uly='0' lrx='3461' lry='2308'>
+			<graphic url='PKEL'V.=5239#11_2b.tif' width='3461px' height='2308px'/>
+			<zone ulx='690' uly='1969' lrx='2594' lry='2134' rendition='TextRegion' xml:id='facs_2_region_1574072789824_983'>
+				<zone ulx='715' uly='1964' lrx='2588' lry='2137' rendition='Line' xml:id='facs_2_line_1574073817724_1182'/>
+			</zone>
+			<zone ulx='673' uly='2079' lrx='2756' lry='2222' rendition='TextRegion' xml:id='facs_2_region_1574072825000_988'>
+				<zone ulx='687' uly='2074' lrx='2724' lry='2231' rendition='Line' xml:id='facs_2_line_1574073117533_1049'/>
+			</zone>
+			<zone ulx='2891' uly='76' lrx='3415' lry='2169' rendition='TextRegion' xml:id='facs_2_region_1574072968663_1010'>
+				<zone ulx='2934' uly='80' lrx='3070' lry='2110' rendition='Line' xml:id='facs_2_line_1574073173502_1063'/>
+				<zone ulx='3010' uly='75' lrx='3134' lry='2100' rendition='Line' xml:id='facs_2_line_1574073188062_1068'/>
+				<zone ulx='3097' uly='77' lrx='3205' lry='2108' rendition='Line' xml:id='facs_2_line_1574073200357_1073'/>
+				<zone ulx='3181' uly='215' lrx='3311' lry='2114' rendition='Line' xml:id='facs_2_line_1574073208807_1078'/>
+				<zone ulx='3280' uly='173' lrx='3378' lry='2153' rendition='Line' xml:id='facs_2_line_1574073219295_1083'/>
+			</zone>
+			<zone ulx='2791' uly='2097' lrx='3223' lry='2256' rendition='TextRegion' xml:id='facs_2_region_1606301118696_428'>
+				<zone ulx='2797' uly='2108' lrx='3207' lry='2220' rendition='Line' xml:id='facs_2_line_1606301144062_435'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<pb facs='#facs_1' n='1'/>
+			<p facs='#facs_1_region_1574067988915_267'>
+				<lb facs='#facs_1_line_1574068035141_281' n='N001'/>Tekintetes
+				<lb facs='#facs_1_line_1574068039131_286' n='N002'/>Kiss Otto úrnak
+			</p>
+			<p facs='#facs_1_region_1574067997136_270'>
+				<lb facs='#facs_1_line_1574068043271_291' n='N001'/>Budapest
+			</p>
+			<p facs='#facs_1_region_1574068001656_273'>
+				<lb facs='#facs_1_line_1574068047941_296' n='N001'/>Rök-<sic>Szilard</sic> u. 18.
+			</p>
+			<pb facs='#facs_2' n='2'/>
+			<p facs='#facs_2_region_1574072789824_983'>
+				<lb facs='#facs_2_line_1574073817724_1182' n='N001'/>Nem kell post restant<note>Postán maradó</note> írni
+			</p>
+			<p facs='#facs_2_region_1574072825000_988'>
+				<lb facs='#facs_2_line_1574073117533_1049' n='N001'/>Remek hegyek, szállók, nincs flanír<note>flangálás</note>.
+			</p>
+			<p facs='#facs_2_region_1574072968663_1010'>
+				<lb facs='#facs_2_line_1574073173502_1063' n='N001'/>A fürdő szobában találsz két kis üveget, a
+				<lb facs='#facs_2_line_1574073188062_1068' n='N002'/>kettő közül a nagyobbat küld el nekem, de úgy
+				<lb facs='#facs_2_line_1574073200357_1073' n='N003'/>csomagolva, hogy egy kis katulyá<note>skatulya</note>ba felálít¬
+				<lb facs='#facs_2_line_1574073208807_1078' n='N004'/>va, nehogy a tartalma kifolyon.
+				<lb facs='#facs_2_line_1574073219295_1083' n='N005'/>Esik az eső, egy kis reumám van csókol
+			</p>
+			<p facs='#facs_2_region_1606301118696_428'>
+				<lb facs='#facs_2_line_1606301144062_435' n='N001'/>P<gap />pus
+			</p>
+		</body>
+	</text>
+</TEI>

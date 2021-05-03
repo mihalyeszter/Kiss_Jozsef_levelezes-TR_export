@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2021-01-11T16:29:50.779+01:00</Created>
+        <LastChange>2021-01-19T17:23:45.422+01:00</LastChange>
+        <TranskribusMetadata docId="569257" pageId="23183116" pageNr="1" tsid="51464555" status="IN_PROGRESS" userId="56520" imgUrl="https://files.transkribus.eu/Get?id=GQMFOJZXWZJKMSRBWZFCHRLK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SNPQOLROXMYNATZWJLMJRJFD" imageId="18091389"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#148_a.tif" imageWidth="4395" imageHeight="4216">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424855758" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1611046271724_283"/>
+                <RegionRefIndexed index="1" regionRef="region_1611046273787_286"/>
+                <RegionRefIndexed index="2" regionRef="region_1611046275804_289"/>
+                <RegionRefIndexed index="3" regionRef="region_1611046281116_292"/>
+                <RegionRefIndexed index="4" regionRef="region_1611046284332_295"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="region_1611046271724_283" custom="readingOrder {index:0;}">
+            <Coords points="309,2024 1923,2024 1923,2464 309,2464"/>
+            <TextLine id="region_1611046271724_283l1" custom="readingOrder {index:0;}">
+                <Coords points="422,2450 1832,2465 1832,2073 422,2058"/>
+                <Baseline points="422,2400 492,2400 563,2400 633,2400 704,2400 774,2399 845,2399 915,2397 986,2396 1056,2396 1127,2394 1197,2394 1268,2394 1338,2394 1409,2396 1479,2397 1550,2399 1620,2402 1691,2405 1761,2410 1832,2415"/>
+                <TextEquiv>
+                    <Unicode>Méltóságos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Méltóságos</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1611046273787_286" custom="readingOrder {index:1;}">
+            <Coords points="1437,2457 3442,2457 3442,2887 1437,2887"/>
+            <TextLine id="region_1611046273787_286l6" custom="readingOrder {index:0;}">
+                <Coords points="1550,2832 3155,2853 3438,2780 3347,2505 1529,2490"/>
+                <Baseline points="1763,2808 1832,2810 1902,2811 1971,2813 2041,2813 2111,2813 2180,2813 2250,2813 2319,2812 2389,2811 2459,2811 2528,2811 2598,2810 2667,2811 2737,2811 2807,2813 2876,2814 2946,2817 3015,2820 3085,2823 3155,2829"/>
+                <TextEquiv>
+                    <Unicode>Kiss József</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kiss József</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1611046275804_289" custom="readingOrder {index:2;}">
+            <Coords points="2062,2873 4218,2873 4218,3152 2062,3152"/>
+            <TextLine id="region_1611046275804_289l1" custom="readingOrder {index:0;}">
+                <Coords points="2186,3097 3041,3080 4228,3133 4227,2888 3992,2888 2186,2843"/>
+                <Baseline points="2186,3047 2281,3042 2376,3038 2471,3035 2566,3032 2661,3030 2756,3029 2851,3029 2946,3029 3041,3030 3137,3033 3232,3036 3327,3040 3422,3045 3517,3051 3612,3057 3707,3065 3802,3074 3897,3082 3992,3092 4088,3104"/>
+                <TextEquiv>
+                    <Unicode>szerkesztő urnak</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>szerkesztő urnak</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1611046281116_292" custom="readingOrder {index:3;}">
+            <Coords points="1819,3108 3907,3108 3907,3638 1819,3638"/>
+            <TextLine id="region_1611046281116_292l1" custom="readingOrder {index:0;} textStyle {offset:0; length:8;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="2007,3612 2993,3620 3391,3506 3582,3490 3595,3166 2988,3159 2002,3151"/>
+                <Baseline points="2303,3483 2360,3484 2417,3485 2474,3486 2532,3488 2589,3489 2646,3491 2704,3491 2761,3492 2818,3492 2876,3492 2933,3492 2990,3491 3047,3489 3105,3486 3162,3483 3219,3479 3277,3471 3334,3465 3391,3456 3449,3446"/>
+                <TextEquiv>
+                    <Unicode>Budapest</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Budapest</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1611046284332_295" custom="readingOrder {index:4;}">
+            <Coords points="1349,3524 4236,3524 4236,4075 1349,4075"/>
+            <TextLine id="line_1611046718136_351" custom="readingOrder {index:0;} textStyle {offset:3; length:3;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="1410,3633 4131,3611 4151,3990 1800,4033 1430,3928"/>
+                <Baseline points="1430,3896 1455,3897 1481,3897 1507,3897 1533,3897 1559,3896 1585,3896 1611,3897 1800,3917 1913,3911 2026,3905 2140,3901 2253,3897 2366,3893 2480,3890 2593,3888 2706,3886 2820,3885 2933,3884 3046,3884 3160,3884 3273,3884 3386,3884 3500,3885 3613,3885 3726,3887 3840,3887 3953,3888 4067,3890"/>
+                <TextEquiv>
+                    <Unicode>a „Hét” szerkesztősége</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>a „Hét” szerkesztősége</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

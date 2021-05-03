@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-05T12:43:32.473+02:00</Created>
+        <LastChange>2020-11-25T10:50:26.697+01:00</LastChange>
+        <TranskribusMetadata docId="403483" pageId="15584685" pageNr="3" tsid="49596401" status="IN_PROGRESS" userId="58915" imgUrl="https://files.transkribus.eu/Get?id=SNARYEQSSJYTLAHOFJVRJGQZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WUTOAJIHKJKSPMRMIQKVTLSS" imageId="11409309"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#99_c.tif" imageWidth="3797" imageHeight="5779">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424310907" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1595528854657_1177"/>
+                <RegionRefIndexed index="1" regionRef="r1"/>
+                <RegionRefIndexed index="2" regionRef="region_1595528863540_1180"/>
+                <RegionRefIndexed index="3" regionRef="region_1595528873715_1183"/>
+                <RegionRefIndexed index="4" regionRef="region_1595528879893_1186"/>
+                <RegionRefIndexed index="5" regionRef="region_1595528884634_1189"/>
+                <RegionRefIndexed index="6" regionRef="region_1595528890216_1192"/>
+                <RegionRefIndexed index="7" regionRef="region_1595528895740_1195"/>
+                <RegionRefIndexed index="8" regionRef="region_1595528903138_1198"/>
+                <RegionRefIndexed index="9" regionRef="region_1595528674057_1141"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1595528854657_1177" custom="readingOrder {index:0;}">
+            <Coords points="678,2583 1761,2583 1761,2699 678,2699"/>
+            <TextLine id="r1l10" custom="readingOrder {index:0;}">
+                <Coords points="692,2684 1748,2690 1748,2609 692,2603"/>
+                <Baseline points="692,2666 744,2667 797,2668 850,2668 903,2668 956,2668 1008,2668 1061,2668 1114,2668 1167,2668 1220,2668 1272,2668 1325,2668 1378,2668 1431,2668 1484,2669 1536,2670 1589,2670 1642,2670 1695,2671 1748,2672"/>
+                <TextEquiv>
+                    <Unicode>Tisztelt czím!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Tisztelt czím!</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:1;}">
+            <Coords points="479,2741 478,3112 3440,3112 3441,2741"/>
+            <TextLine id="r1l11" custom="readingOrder {index:0;}">
+                <Coords points="710,2889 3220,2893 3220,2800 710,2796"/>
+                <Baseline points="710,2862 835,2862 961,2862 1086,2862 1212,2862 1337,2862 1463,2862 1588,2862 1714,2864 1839,2864 1965,2864 2090,2866 2216,2866 2341,2866 2467,2868 2592,2868 2718,2868 2843,2868 2969,2868 3094,2867 3220,2866"/>
+                <TextEquiv>
+                    <Unicode>A „Dorotheum” helyiségeiben napról¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:1;}">
+                <Coords points="472,2995 3178,2997 3178,2909 472,2907"/>
+                <Baseline points="472,2970 607,2970 742,2970 877,2970 1013,2970 1148,2970 1283,2972 1419,2972 1554,2972 1689,2974 1825,2974 1960,2974 2095,2976 2230,2976 2366,2976 2501,2976 2636,2976 2772,2976 2907,2976 3042,2974 3178,2972"/>
+                <TextEquiv>
+                    <Unicode>napra változik és szaporodik a szebbnél¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:2;}">
+                <Coords points="504,3096 1307,3106 1307,3028 504,3018"/>
+                <Baseline points="498,3076 537,3076 576,3075 616,3074 655,3074 695,3074 734,3074 773,3074 813,3074 852,3076 892,3076 931,3076 970,3076 1010,3077 1049,3078 1089,3078 1128,3080 1167,3080 1207,3082 1246,3084 1295,3088"/>
+                <TextEquiv>
+                    <Unicode>szebb anyag.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>A „Dorotheum” helyiségeiben napról¬&#xD;
+napra változik és szaporodik a szebbnél¬&#xD;
+szebb anyag.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1595528863540_1180" custom="readingOrder {index:2;}">
+            <Coords points="475,3111 3278,3111 3278,3427 475,3427"/>
+            <TextLine id="r1l14" custom="readingOrder {index:0;}">
+                <Coords points="712,3207 3253,3217 3253,3127 712,3117"/>
+                <Baseline points="712,3182 838,3182 964,3184 1090,3184 1216,3184 1342,3184 1468,3186 1594,3186 1720,3186 1846,3186 1972,3186 2098,3186 2224,3186 2350,3186 2476,3186 2602,3188 2728,3188 2854,3188 2980,3190 3106,3192 3244,3193"/>
+                <TextEquiv>
+                    <Unicode>Kiváló szép és értékes Olajfestmények,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:1;}">
+                <Coords points="490,3314 3118,3324 3118,3234 490,3224"/>
+                <Baseline points="490,3288 621,3288 752,3290 884,3290 1015,3292 1147,3292 1278,3292 1409,3292 1541,3292 1672,3292 1804,3292 1935,3292 2066,3292 2198,3292 2329,3292 2461,3292 2592,3294 2723,3294 2855,3295 2986,3296 3118,3298"/>
+                <TextEquiv>
+                    <Unicode>Pastellek, Aquarellek – neves Mesterek</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:2;}">
+                <Coords points="484,3419 3084,3429 3084,3335 484,3325"/>
+                <Baseline points="484,3394 614,3394 744,3396 874,3396 1004,3396 1134,3398 1264,3398 1394,3398 1524,3398 1654,3398 1784,3398 1914,3398 2044,3398 2174,3398 2304,3398 2434,3400 2564,3400 2694,3400 2824,3401 2954,3402 3084,3404"/>
+                <TextEquiv>
+                    <Unicode>alkotásai – nagyszámban gyűltek össze.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kiváló szép és értékes Olajfestmények,&#xD;
+Pastellek, Aquarellek – neves Mesterek&#xD;
+alkotásai – nagyszámban gyűltek össze.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1595528873715_1183" custom="readingOrder {index:3;}">
+            <Coords points="3278,3427 442,3427 442,3841 3278,3841"/>
+            <TextLine id="r1l17" custom="readingOrder {index:0;}">
+                <Coords points="702,3529 3068,3531 3068,3437 702,3435"/>
+                <Baseline points="702,3504 820,3504 938,3502 1056,3502 1175,3502 1293,3502 1411,3502 1530,3502 1648,3502 1766,3502 1885,3504 2003,3504 2121,3504 2239,3504 2358,3504 2476,3504 2594,3506 2713,3506 2831,3506 2949,3506 3068,3506"/>
+                <TextEquiv>
+                    <Unicode>Ezek, úgy mint kisebb-nagyobb Sző¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:1;}">
+                <Coords points="476,3635 3128,3637 3128,3544 476,3542"/>
+                <Baseline points="476,3610 608,3610 741,3608 873,3608 1006,3608 1139,3608 1271,3608 1404,3608 1536,3608 1669,3609 1802,3610 1934,3610 2067,3610 2199,3612 2332,3612 2465,3612 2597,3612 2730,3612 2862,3612 2995,3612 3128,3612"/>
+                <TextEquiv>
+                    <Unicode>nyegek, Indiai himzett Draperiák, régi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:2;}">
+                <Coords points="480,3737 3236,3749 3236,3656 480,3644"/>
+                <Baseline points="480,3712 617,3714 755,3714 893,3714 1031,3714 1169,3716 1306,3716 1444,3716 1582,3716 1720,3716 1858,3718 1995,3718 2133,3718 2271,3718 2409,3718 2547,3720 2684,3720 2822,3720 2960,3722 3098,3722 3236,3724"/>
+                <TextEquiv>
+                    <Unicode>butor és egyes Műtárgyak rendkívüli olcsó</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:3;}">
+                <Coords points="454,3834 2070,3834 2070,3758 454,3758"/>
+                <Baseline points="454,3824 534,3822 615,3822 696,3822 777,3820 858,3820 938,3820 1019,3820 1100,3820 1181,3820 1262,3820 1342,3820 1423,3820 1504,3820 1585,3820 1666,3822 1746,3822 1827,3822 1908,3822 1989,3823 2070,3824"/>
+                <TextEquiv>
+                    <Unicode>árak mellett eladatnak.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ezek, úgy mint kisebb-nagyobb Sző¬&#xD;
+nyegek, Indiai himzett Draperiák, régi&#xD;
+butor és egyes Műtárgyak rendkívüli olcsó&#xD;
+árak mellett eladatnak.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1595528879893_1186" custom="readingOrder {index:4;}">
+            <Coords points="442,3841 3094,3841 3094,4081 442,4081"/>
+            <TextLine id="r1l21" custom="readingOrder {index:0;}">
+                <Coords points="682,3954 3062,3958 3062,3862 682,3858"/>
+                <Baseline points="682,3928 801,3926 920,3926 1039,3926 1158,3926 1277,3926 1396,3926 1515,3928 1634,3928 1753,3928 1872,3928 1991,3930 2110,3930 2229,3930 2348,3931 2467,3932 2586,3932 2705,3932 2824,3932 2943,3932 3062,3932"/>
+                <TextEquiv>
+                    <Unicode>Mielőtt máshol választana, érdemes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:1;}">
+                <Coords points="454,4059 2858,4071 2858,3972 454,3960"/>
+                <Baseline points="454,4032 574,4035 694,4037 814,4038 934,4038 1055,4038 1175,4038 1295,4038 1415,4036 1535,4036 1656,4034 1776,4034 1896,4032 2016,4032 2136,4032 2257,4032 2377,4032 2497,4034 2617,4036 2737,4040 2858,4044"/>
+                <TextEquiv>
+                    <Unicode>lenne a „Dorotheumot” felkeresni.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Mielőtt máshol választana, érdemes&#xD;
+lenne a „Dorotheumot” felkeresni.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1595528884634_1189" custom="readingOrder {index:5;}">
+            <Coords points="1857,4145 3265,4145 3265,4271 1857,4271"/>
+            <TextLine id="r1l23" custom="readingOrder {index:0;}">
+                <Coords points="1880,4245 3240,4251 3240,4170 1880,4164"/>
+                <Baseline points="1880,4230 1948,4230 2016,4230 2084,4230 2152,4230 2220,4230 2288,4230 2356,4230 2424,4231 2492,4232 2560,4232 2628,4232 2696,4232 2764,4234 2832,4234 2900,4234 2968,4234 3036,4236 3104,4236 3172,4236 3240,4236"/>
+                <TextEquiv>
+                    <Unicode>Minden tisztelettel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Minden tisztelettel</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1595528890216_1192" custom="readingOrder {index:6;}">
+            <Coords points="3078,4277 2035,4277 2035,4394 3078,4394"/>
+            <TextLine id="r1l24" custom="readingOrder {index:0;}">
+                <Coords points="2050,4383 3064,4373 3064,4292 2050,4302"/>
+                <Baseline points="2050,4362 2100,4361 2151,4360 2202,4360 2252,4358 2303,4358 2354,4358 2404,4358 2455,4358 2506,4358 2557,4356 2607,4356 2658,4356 2709,4356 2759,4356 2810,4356 2861,4354 2911,4354 2962,4354 3013,4352 3064,4352"/>
+                <TextEquiv>
+                    <Unicode>a „Dorotheum”</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>a „Dorotheum”</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1595528895740_1195" custom="readingOrder {index:7;}">
+            <Coords points="2167,4397 2974,4397 2974,4523 2167,4523"/>
+            <TextLine id="r1l25" custom="readingOrder {index:0;}">
+                <Coords points="2182,4495 2954,4511 2954,4430 2182,4414"/>
+                <Baseline points="2182,4480 2220,4480 2259,4482 2297,4483 2336,4484 2375,4484 2413,4486 2452,4486 2490,4486 2529,4486 2568,4488 2606,4488 2645,4488 2683,4490 2722,4490 2761,4490 2799,4492 2838,4492 2876,4494 2915,4495 2954,4496"/>
+                <TextEquiv>
+                    <Unicode>vezetősége.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>vezetősége.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1595528903138_1198" custom="readingOrder {index:8;}">
+            <Coords points="445,4596 1909,4596 1909,4719 445,4719"/>
+            <TextLine id="r1l26" custom="readingOrder {index:0;}">
+                <Coords points="464,4693 1888,4701 1888,4620 464,4612"/>
+                <Baseline points="464,4678 535,4678 606,4680 677,4681 748,4682 820,4682 891,4682 962,4682 1033,4682 1104,4682 1176,4682 1247,4682 1318,4682 1389,4682 1460,4682 1532,4684 1603,4684 1674,4684 1745,4684 1816,4684 1888,4686"/>
+                <TextEquiv>
+                    <Unicode>Budapest, 1913. XII.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Budapest, 1913. XII.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1595528674057_1141" custom="readingOrder {index:9;}">
+            <Coords points="1697,5220 1697,5339 1830,5339 1830,5220"/>
+            <TextLine id="line_1595528674157_1144" custom="readingOrder {index:0;}">
+                <Coords points="1698,5229 1830,5232 1829,5339 1697,5336"/>
+                <Baseline points="1697,5331 1829,5334"/>
+                <TextEquiv>
+                    <Unicode>1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

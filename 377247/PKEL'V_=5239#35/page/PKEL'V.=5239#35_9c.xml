@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-29T11:45:37.164+02:00</Created>
+        <LastChange>2020-08-03T15:36:47.568+02:00</LastChange>
+        <TranskribusMetadata docId="377247" pageId="14771327" pageNr="17" tsid="35983491" status="IN_PROGRESS" userId="56520" imgUrl="https://files.transkribus.eu/Get?id=ENFRSCGOBNHBFMZANUFVOPWP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CVVKMVACHZRELJQHAFHBAWDU" imageId="10711162"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#35_9c.tif" imageWidth="3646" imageHeight="2538">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424018604" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1594150528762_747"/>
+                <RegionRefIndexed index="1" regionRef="region_1594150535930_750"/>
+                <RegionRefIndexed index="2" regionRef="region_1594150545971_753"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1594150528762_747" custom="readingOrder {index:0;}">
+            <Coords points="622,567 3310,567 3310,1280 622,1280"/>
+            <TextLine id="line_1594150555370_756" custom="readingOrder {index:0;}">
+                <Coords points="655,648 3280,614 3266,960 641,936"/>
+                <Baseline points="641,931 3266,897"/>
+                <TextEquiv>
+                    <Unicode>Dr Braun Sándorné Ő Nagy¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1594150562636_761" custom="readingOrder {index:1;}">
+                <Coords points="936,955 1776,941 1787,1221 947,1235"/>
+                <Baseline points="937,1120 1777,1106"/>
+                <TextEquiv>
+                    <Unicode>ságának</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Dr Braun Sándorné Ő Nagy¬&#xD;
+ságának</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1594150535930_750" custom="readingOrder {index:1;}">
+            <Coords points="1932,1528 2747,1528 2747,1785 1932,1785"/>
+            <TextLine id="line_1594150572820_766" custom="readingOrder {index:0;} textStyle {offset:0; length:7;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="1978,1571 2706,1537 2703,1771 1980,1776"/>
+                <Baseline points="1980,1751 2708,1717"/>
+                <TextEquiv>
+                    <Unicode>helyben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>helyben</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1594150545971_753" custom="readingOrder {index:2;}">
+            <Coords points="1636,1775 3368,1775 3368,2134 1636,2134"/>
+            <TextLine id="line_1594150586774_771" custom="readingOrder {index:0;}">
+                <Coords points="1654,1809 2297,1805 2399,2119 1650,2134"/>
+                <Baseline points="1650,1994 2369,1979"/>
+                <TextEquiv>
+                    <Unicode>Rákóczy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1594150594734_776" custom="readingOrder {index:1;} add {offset:0; length:2;}">
+                <Coords points="2289,1792 2503,1782 2500,1877 2286,1887"/>
+                <Baseline points="2286,1882 2500,1872"/>
+                <TextEquiv>
+                    <Unicode>út</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1594150606641_781" custom="readingOrder {index:2;} gap {offset:3; length:0;} textStyle {offset:4; length:1;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="2468,1868 3324,1790 3339,2005 2427,2086"/>
+                <Baseline points="2446,2003 3339,1945"/>
+                <TextEquiv>
+                    <Unicode>78  I em.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Rákóczy&#xD;
+út&#xD;
+78  I em.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

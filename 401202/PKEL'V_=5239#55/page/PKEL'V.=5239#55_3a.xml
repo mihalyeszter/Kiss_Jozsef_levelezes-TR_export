@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-06-03T13:27:13.173+02:00</Created>
+        <LastChange>2020-12-04T14:48:33.032+01:00</LastChange>
+        <TranskribusMetadata docId="401202" pageId="15522878" pageNr="7" tsid="50117009" status="IN_PROGRESS" userId="63384" imgUrl="https://files.transkribus.eu/Get?id=CLXCKGXNBJIJNFNLGYZZJIML&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DGLMSUMKAEZRPPJTJVOATBDD" imageId="11350791"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#55_3a.tif" imageWidth="4353" imageHeight="5487">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424303423" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1592941566590_1244"/>
+                <RegionRefIndexed index="1" regionRef="region_1592941572757_1247"/>
+                <RegionRefIndexed index="2" regionRef="region_1592941590331_1250"/>
+                <RegionRefIndexed index="3" regionRef="region_1592941595127_1253"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1592941566590_1244" custom="readingOrder {index:0;}">
+            <Coords points="467,384 3695,384 3695,505 467,505"/>
+            <TextLine id="line_1592941615965_1256" custom="readingOrder {index:0;}">
+                <Coords points="484,393 3681,400 3681,496 484,489"/>
+                <Baseline points="484,484 3681,491"/>
+                <TextEquiv>
+                    <Unicode>Borsod Miskolczi Közművelődési és Muzeum Egyesület</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Borsod Miskolczi Közművelődési és Muzeum Egyesület</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1592941572757_1247" custom="readingOrder {index:1;}">
+            <Coords points="1114,512 3062,512 3062,702 1114,702"/>
+            <TextLine id="line_1592941621527_1261" custom="readingOrder {index:0;}">
+                <Coords points="1125,518 3038,521 3041,679 1128,676"/>
+                <Baseline points="1128,671 3041,674"/>
+                <TextEquiv>
+                    <Unicode>Közművelődési Osztálya.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Közművelődési Osztálya.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1592941590331_1250" custom="readingOrder {index:2;}">
+            <Coords points="243,908 4178,908 4178,5023 243,5023"/>
+            <TextLine id="line_1592941626509_1266" custom="readingOrder {index:0;} supplied {offset:14; length:6;}">
+                <Coords points="802,968 3715,961 3706,1523 793,1530"/>
+                <Baseline points="799,1321 3712,1314"/>
+                <TextEquiv>
+                    <Unicode>Igen tisztelt Mester,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1592941633432_1271" custom="readingOrder {index:1;} sic {offset:6; length:4;} gap {offset:11; length:0;}">
+                <Coords points="272,1393 4068,1393 4055,1826 259,1826"/>
+                <Baseline points="262,1747 4058,1747"/>
+                <TextEquiv>
+                    <Unicode>tehát 13án  ¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1592941643538_1276" custom="readingOrder {index:2;} gap {offset:18; length:0;}">
+                <Coords points="294,1890 3740,1852 3740,2181 294,2219"/>
+                <Baseline points="294,2214 3740,2176"/>
+                <TextEquiv>
+                    <Unicode>hatlanúl és vissza</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1592941651421_1281" custom="readingOrder {index:3;} gap {offset:25; length:0;}">
+                <Coords points="287,2288 3937,2264 3923,2692 273,2716"/>
+                <Baseline points="273,2636 3923,2612"/>
+                <TextEquiv>
+                    <Unicode>lanúl. Mi is várjuk, a Ki</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1592941661637_1286" custom="readingOrder {index:4;} gap {offset:24; length:0;}">
+                <Coords points="294,2753 3786,2771 3772,3193 280,3175"/>
+                <Baseline points="283,3072 3775,3090"/>
+                <TextEquiv>
+                    <Unicode>is várja, de várják az a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1592941690909_1291" custom="readingOrder {index:5;} gap {offset:19; length:0;}">
+                <Coords points="288,3193 3620,3190 3604,3690 272,3693"/>
+                <Baseline points="276,3548 3608,3545"/>
+                <TextEquiv>
+                    <Unicode>nyok is. Zene a bik</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1592941696641_1296" custom="readingOrder {index:6;} unclear {offset:0; length:1;} supplied {offset:18; length:1;} supplied {offset:20; length:3;}">
+                <Coords points="295,3657 4119,3688 4110,4058 286,4027"/>
+                <Baseline points="289,3971 4113,4002"/>
+                <TextEquiv>
+                    <Unicode>a mellékelt papíron legyen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1592941702608_1301" custom="readingOrder {index:7;} supplied {offset:13; length:7;}">
+                <Coords points="291,4092 4042,4119 4039,4570 288,4543"/>
+                <Baseline points="282,4431 4033,4458"/>
+                <TextEquiv>
+                    <Unicode>szíves velem közölni, hogy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1592941707083_1306" custom="readingOrder {index:8;} abbrev {offset:12; length:8;}">
+                <Coords points="335,4560 3886,4529 3892,4957 341,4988"/>
+                <Baseline points="341,4915 3892,4884"/>
+                <TextEquiv>
+                    <Unicode>mikor indul Bpestről. A</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Igen tisztelt Mester,&#xD;
+tehát 13án  ¬&#xD;
+hatlanúl és vissza&#xD;
+lanúl. Mi is várjuk, a Ki&#xD;
+is várja, de várják az a&#xD;
+nyok is. Zene a bik&#xD;
+a mellékelt papíron legyen&#xD;
+szíves velem közölni, hogy&#xD;
+mikor indul Bpestről. A</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1592941595127_1253" custom="readingOrder {index:3;}">
+            <Coords points="1846,5104 2014,5104 2014,5261 1846,5261"/>
+            <TextLine id="line_1592941712167_1311" custom="readingOrder {index:0;}">
+                <Coords points="1860,5130 1995,5130 1992,5249 1857,5249"/>
+                <Baseline points="1857,5244 1992,5244"/>
+                <TextEquiv>
+                    <Unicode>1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

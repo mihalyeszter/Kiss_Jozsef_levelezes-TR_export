@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-06-03T17:41:42.530+02:00</Created>
+        <LastChange>2020-11-24T15:57:27.339+01:00</LastChange>
+        <TranskribusMetadata docId="401463" pageId="15532409" pageNr="1" tsid="49527537" status="IN_PROGRESS" userId="56520" imgUrl="https://files.transkribus.eu/Get?id=FMWKSNOINQGRMYIOYWWJHDWX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YWNMNYGAMLPSHXPYOKGDLDIU" imageId="11360228"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#75_a.tif" imageWidth="5382" imageHeight="6746">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424379972" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1593370036692_118"/>
+                <RegionRefIndexed index="1" regionRef="region_1593370045959_121"/>
+                <RegionRefIndexed index="2" regionRef="region_1593370052775_124"/>
+                <RegionRefIndexed index="3" regionRef="region_1593370057617_127"/>
+                <RegionRefIndexed index="4" regionRef="region_1593370071622_130"/>
+                <RegionRefIndexed index="5" regionRef="region_1593370083422_136"/>
+                <RegionRefIndexed index="6" regionRef="region_1593370076632_133"/>
+                <RegionRefIndexed index="7" regionRef="region_1593370097249_139"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1593370036692_118" custom="readingOrder {index:0;}">
+            <Coords points="675,975 2438,975 2438,1159 675,1159"/>
+            <TextLine id="line_1593370310789_233" custom="readingOrder {index:0;}">
+                <Coords points="718,990 2395,990 2403,1136 726,1136"/>
+                <Baseline points="726,1107 2403,1107"/>
+                <TextEquiv>
+                    <Unicode>Igen tisztelt szerkesztő úr,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Igen tisztelt szerkesztő úr,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1593370045959_121" custom="readingOrder {index:1;}">
+            <Coords points="4894,1377 838,1377 838,2558 4894,2558"/>
+            <TextLine id="line_1593370304862_228" custom="readingOrder {index:0;}">
+                <Coords points="889,1392 4769,1414 4773,1540 893,1518"/>
+                <Baseline points="893,1513 4773,1535"/>
+                <TextEquiv>
+                    <Unicode>most kaptam Beöthy Lászlótól egy levelet /Budapesten már nem tud¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1593370297159_223" custom="readingOrder {index:1;} gap {offset:10; length:0;} gap {offset:12; length:0;} gap {offset:47; length:0;}">
+                <Coords points="892,1607 1301,1606 1401,1719 1668,1629 3520,1607 3794,1670 3922,1615 4650,1631 4649,1745 3931,1728 3798,1779 3524,1732 1685,1753 1414,1852 1289,1719 901,1724"/>
+                <Baseline points="901,1719 1291,1714 1415,1847 1684,1748 3524,1727 3798,1774 3930,1723 4649,1740"/>
+                <TextEquiv>
+                    <Unicode>tam ve le e  a dolgot elintézni/, a melyben ért óla, hogy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1593370257681_218" custom="readingOrder {index:2;} gap {offset:5; length:0;} gap {offset:42; length:0;}">
+                <Coords points="906,1798 4756,1824 4756,1942 906,1916"/>
+                <Baseline points="906,1911 4756,1937"/>
+                <TextEquiv>
+                    <Unicode>belee „A vőlegény” előzetes közlésébe. Az  feltétele</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1593370233246_211" custom="readingOrder {index:3;} unclear {offset:5; length:14;} gap {offset:44; length:0;}">
+                <Coords points="893,2007 4619,2029 4619,2163 893,2141"/>
+                <Baseline points="893,2116 4619,2138"/>
+                <TextEquiv>
+                    <Unicode>van, hogy a közlést kísérje egy megjegyzés,  kitűnik,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1593370226429_206" custom="readingOrder {index:4;}">
+                <Coords points="880,2210 4859,2214 4863,2336 884,2332"/>
+                <Baseline points="884,2326 4863,2330"/>
+                <TextEquiv>
+                    <Unicode>hogy a darab része A családi tűzhely című egyfelvonásos–ciklusnak,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1593370220374_201" custom="readingOrder {index:5;}">
+                <Coords points="889,2419 3965,2423 3965,2536 889,2532"/>
+                <Baseline points="889,2527 3965,2531"/>
+                <TextEquiv>
+                    <Unicode>a mely októberben kerül színre a Magyar Színházban.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>most kaptam Beöthy Lászlótól egy levelet /Budapesten már nem tud¬&#xD;
+tam ve le e  a dolgot elintézni/, a melyben ért óla, hogy&#xD;
+belee „A vőlegény” előzetes közlésébe. Az  feltétele&#xD;
+van, hogy a közlést kísérje egy megjegyzés,  kitűnik,&#xD;
+hogy a darab része A családi tűzhely című egyfelvonásos–ciklusnak,&#xD;
+a mely októberben kerül színre a Magyar Színházban.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1593370052775_124" custom="readingOrder {index:2;}">
+            <Coords points="838,2575 4877,2575 4877,3739 838,3739"/>
+            <TextLine id="line_1593370213523_196" custom="readingOrder {index:0;}">
+                <Coords points="1107,2611 4727,2615 4735,2750 1115,2746"/>
+                <Baseline points="1115,2741 4735,2745"/>
+                <TextEquiv>
+                    <Unicode>Kérem tehát kegyes értesítését, parancsolja e így a darabot.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1593370200944_191" custom="readingOrder {index:1;}">
+                <Coords points="892,2812 4632,2816 4636,2944 896,2940"/>
+                <Baseline points="896,2935 4636,2939"/>
+                <TextEquiv>
+                    <Unicode>Ha igen, meg fogom kérni Kosztolányi Dezső barátomat, kérje el</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1593370196301_186" custom="readingOrder {index:2;}">
+                <Coords points="871,3002 4747,3015 4747,3137 871,3124"/>
+                <Baseline points="871,3119 4747,3132"/>
+                <TextEquiv>
+                    <Unicode>Márkus Lászlótól a színháznál lévő példányt, lévén az a darabnak</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1593370189956_181" custom="readingOrder {index:3;}">
+                <Coords points="888,3204 4862,3221 4862,3355 888,3338"/>
+                <Baseline points="888,3333 4862,3350"/>
+                <TextEquiv>
+                    <Unicode>egyetlen teljes szövege. És akkor ugye magam végezhetem el a kor¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1593370183324_176" custom="readingOrder {index:4;}">
+                <Coords points="871,3405 4739,3414 4743,3539 875,3530"/>
+                <Baseline points="875,3525 4743,3534"/>
+                <TextEquiv>
+                    <Unicode>rekturát? Erre azért van szükségem, mert egy két szót törölni a¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1593370176724_171" custom="readingOrder {index:5;}">
+                <Coords points="871,3612 1248,3612 1252,3723 875,3723"/>
+                <Baseline points="875,3718 1252,3718"/>
+                <TextEquiv>
+                    <Unicode>karok.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kérem tehát kegyes értesítését, parancsolja e így a darabot.&#xD;
+Ha igen, meg fogom kérni Kosztolányi Dezső barátomat, kérje el&#xD;
+Márkus Lászlótól a színháznál lévő példányt, lévén az a darabnak&#xD;
+egyetlen teljes szövege. És akkor ugye magam végezhetem el a kor¬&#xD;
+rekturát? Erre azért van szükségem, mert egy két szót törölni a¬&#xD;
+karok.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1593370057617_127" custom="readingOrder {index:3;}">
+            <Coords points="1082,3803 2819,3803 2819,3965 1082,3965"/>
+            <TextLine id="line_1593370163410_161" custom="readingOrder {index:0;}">
+                <Coords points="1106,3824 2757,3816 2757,3920 1106,3928"/>
+                <Baseline points="1106,3923 2757,3915"/>
+                <TextEquiv>
+                    <Unicode>Tisztelettel és köszönettel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Tisztelettel és köszönettel</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1593370071622_130" custom="readingOrder {index:4;}">
+            <Coords points="4228,4154 3590,4154 3590,3982 4228,3982"/>
+            <TextLine id="line_1593370170674_166" custom="readingOrder {index:0;}">
+                <Coords points="3634,4007 4182,4011 4182,4133 3634,4129"/>
+                <Baseline points="3634,4124 4182,4128"/>
+                <TextEquiv>
+                    <Unicode>igaz híve</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>igaz híve</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1593370083422_136" custom="readingOrder {index:5;}">
+            <Coords points="741,4530 1995,4530 1995,4770 741,4770"/>
+            <TextLine id="line_1593370158042_156" custom="readingOrder {index:0;} supplied {offset:8; length:7;}">
+                <Coords points="807,4576 1910,4584 1910,4715 807,4707"/>
+                <Baseline points="807,4702 1910,4710"/>
+                <TextEquiv>
+                    <Unicode>Berlin, március 9.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Berlin, március 9.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1593370076632_133" custom="readingOrder {index:6;}">
+            <Coords points="3612,4543 4288,4543 4288,4787 3612,4787"/>
+            <TextLine id="line_1593370150503_151" custom="readingOrder {index:0;} gap {offset:3; length:0;} unclear {offset:4; length:5;}">
+                <Coords points="3634,4584 4190,4580 4186,4728 3630,4732"/>
+                <Baseline points="3630,4727 4186,4723"/>
+                <TextEquiv>
+                    <Unicode>Bir Lajos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Bir Lajos</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1593370097249_139" custom="readingOrder {index:7;}">
+            <Coords points="2564,6230 2782,6230 2782,6448 2564,6448"/>
+            <TextLine id="line_1593370144854_146" custom="readingOrder {index:0;}">
+                <Coords points="2590,6251 2735,6247 2740,6388 2595,6392"/>
+                <Baseline points="2595,6387 2740,6383"/>
+                <TextEquiv>
+                    <Unicode>1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

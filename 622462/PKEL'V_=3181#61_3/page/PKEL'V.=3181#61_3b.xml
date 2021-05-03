@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-11-09T16:24:22.013+01:00</Created>
+        <LastChange>2020-11-10T16:14:51.915+01:00</LastChange>
+        <TranskribusMetadata docId="622462" pageId="24575895" pageNr="2" tsid="53301694" status="NEW" userId="73049" imgUrl="https://files.transkribus.eu/Get?id=CVAGPTDOPXAQOTLEOGFUTOFZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PBROEWVUGFSVATGZHKWSBYSN" imageId="18926077"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=3181#61_3b.tif" imageWidth="3439" imageHeight="2320">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425053540" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1605000383596_561"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1605000383596_561" custom="readingOrder {index:0;}">
+            <Coords points="1215,1063 2168,1063 2168,1266 1215,1266"/>
+            <TextLine id="line_1605000390226_565" custom="readingOrder {index:0;}">
+                <Coords points="1246,1083 2141,1080 2144,1209 1249,1212"/>
+                <Baseline points="1249,1207 2144,1204"/>
+                <TextEquiv>
+                    <Unicode>VIII. Rökk Szilárd-utcza 18.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>VIII. Rökk Szilárd-utcza 18.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

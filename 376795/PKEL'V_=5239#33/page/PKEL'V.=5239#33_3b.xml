@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-28T13:02:32.017+02:00</Created>
+        <LastChange>2020-11-13T10:28:02.263+01:00</LastChange>
+        <TranskribusMetadata docId="376795" pageId="14734178" pageNr="6" tsid="48625965" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=EFEVZHMFKZIROEAYEOEVGKXY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WKGPRVGCPSNLKHYHSLNNIAEB" imageId="10675200"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#33_3b.tif" imageWidth="3546" imageHeight="2366">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424125461" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1597134134498_865"/>
+                <RegionRefIndexed index="1" regionRef="region_1597134138494_868"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1597841083550_796"/>
+                <RegionRefIndexed index="3" regionRef="TextRegion_1597841644398_941"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1597134134498_865" custom="readingOrder {index:0;}">
+            <Coords points="698,812 3037,812 3037,1199 698,1199"/>
+            <TextLine id="line_1597134148728_874" custom="readingOrder {index:0;}">
+                <Coords points="709,832 3023,829 3019,1139 705,1142"/>
+                <Baseline points="705,1137 3019,1134"/>
+                <TextEquiv>
+                    <Unicode>Kiss Erzsike kisasszony</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kiss Erzsike kisasszony</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1597134138494_868" custom="readingOrder {index:1;}">
+            <Coords points="1787,1375 2986,1375 2986,1839 1787,1839"/>
+            <TextLine id="line_1597134153530_879" custom="readingOrder {index:0;}">
+                <Coords points="1864,1415 2957,1404 2917,1808 1824,1819"/>
+                <Baseline points="1824,1814 2917,1803"/>
+                <TextEquiv>
+                    <Unicode>Gödöllő</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Gödöllő</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="TextRegion_1597841083550_796" custom="readingOrder {index:2;}">
+            <Coords points="1816,1857 3290,1857 3290,2025 1816,2025"/>
+            <TextLine id="line_1597134156315_884" custom="readingOrder {index:0;}">
+                <Coords points="1889,1850 3230,1846 3238,2016 1897,2020"/>
+                <Baseline points="1897,2015 3238,2011"/>
+                <TextEquiv>
+                    <Unicode>Maria Valeria-ut</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Maria Valeria-ut</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="TextRegion_1597841644398_941" custom="readingOrder {index:3;}">
+            <Coords points="2280,2025 2697,2025 2697,2205 2280,2205"/>
+            <TextLine id="line_1597841083566_798" custom="readingOrder {index:0;}">
+                <Coords points="2337,2025 2665,2025 2650,2184 2322,2184"/>
+                <Baseline points="2346,2179 2602,2179"/>
+                <TextEquiv>
+                    <Unicode>651</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>651</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

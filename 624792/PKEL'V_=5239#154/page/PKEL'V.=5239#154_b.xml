@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2021-03-08T10:47:36.907+01:00</Created>
+        <LastChange>2021-03-10T14:56:04.242+01:00</LastChange>
+        <TranskribusMetadata docId="624792" pageId="24629721" pageNr="2" tsid="53521148" status="IN_PROGRESS" userId="56520" imgUrl="https://files.transkribus.eu/Get?id=RRAIPYCZHIWVXIEEJWVJBAQR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BVBJMTSAUJOJNOJQJZGBNMFM" imageId="18974094"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#154_b.tif" imageWidth="4592" imageHeight="3342">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425066481" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1615378631448_1702"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1615378631448_1702" custom="readingOrder {index:0;}">
+            <Coords points="2111,703 2111,1130 2527,1130 2527,703"/>
+            <TextLine id="line_1615378631464_1705" custom="readingOrder {index:0;}">
+                <Coords points="2224,1121 2130,1047 2096,915 2124,793 2211,711 2344,690 2480,740 2539,881 2534,985 2468,1080 2386,1117 2366,1071 2435,1042 2471,978 2478,884 2435,794 2333,765 2247,772 2179,834 2161,916 2183,1006 2260,1079"/>
+                <Baseline points="2257,1083 2179,1009 2156,916 2175,831 2245,767 2334,760 2438,790 2483,883 2476,979 2438,1046 2368,1076"/>
+                <TextEquiv>
+                    <Unicode>M. K. Honvédelmi Minister</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>M. K. Honvédelmi Minister</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

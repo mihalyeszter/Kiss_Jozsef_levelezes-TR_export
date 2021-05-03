@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-28T12:11:28.945+02:00</Created>
+        <LastChange>2020-12-01T10:21:53.311+01:00</LastChange>
+        <TranskribusMetadata docId="376744" pageId="14729461" pageNr="1" tsid="49746746" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=MTHWKYJRWIEKYANKWIBFSBIR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VDDYDZCBGWQJYZIHPMMXVQQR" imageId="10670496"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#32_1a.tif" imageWidth="3455" imageHeight="2062">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619423972518" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1590570439408_554"/>
+                <RegionRefIndexed index="1" regionRef="region_1590570458644_557"/>
+                <RegionRefIndexed index="2" regionRef="region_1590570469446_560"/>
+                <RegionRefIndexed index="3" regionRef="region_1590570499449_565"/>
+                <RegionRefIndexed index="4" regionRef="region_1590570508645_568"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1590570439408_554" custom="readingOrder {index:0;}">
+            <Coords points="3240,969 829,969 829,1290 3240,1290"/>
+            <TextLine id="line_1590570529367_571" custom="readingOrder {index:0;}">
+                <Coords points="861,972 3217,977 3223,1272 867,1267"/>
+                <Baseline points="843,1189 3199,1194"/>
+                <TextEquiv>
+                    <Unicode>Kiss Józsefné asszonynak</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kiss Józsefné asszonynak</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1590570458644_557" custom="readingOrder {index:1;}">
+            <Coords points="266,1337 1689,1337 1689,1598 266,1598"/>
+            <TextLine id="line_1590570537734_576" custom="readingOrder {index:0;} textStyle {offset:4; length:8;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="257,1345 1641,1345 1661,1580 277,1580"/>
+                <Baseline points="277,1557 1661,1557"/>
+                <TextEquiv>
+                    <Unicode>via Budapest</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>via Budapest</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1590570469446_560" custom="readingOrder {index:2;}">
+            <Coords points="1570,1781 845,1781 848,1592 1573,1592"/>
+            <TextLine id="line_1590570545351_581" custom="readingOrder {index:0;}">
+                <Coords points="849,1584 1552,1593 1557,1760 854,1751"/>
+                <Baseline points="854,1691 1557,1700"/>
+                <TextEquiv>
+                    <Unicode>Ungheria</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ungheria</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1590570499449_565" custom="readingOrder {index:3;}">
+            <Coords points="1969,1422 3095,1422 3095,1768 1969,1768"/>
+            <TextLine id="line_1590570550782_586" custom="readingOrder {index:0;} textStyle {offset:0; length:11;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="1976,1445 3081,1445 3093,1743 1988,1743"/>
+                <Baseline points="1988,1738 3081,1741"/>
+                <TextEquiv>
+                    <Unicode>Rákospalota</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Rákospalota</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1590570508645_568" custom="readingOrder {index:4;}">
+            <Coords points="2875,1955 1818,1955 1818,1763 2875,1763"/>
+            <TextLine id="line_1590570556851_591" custom="readingOrder {index:0;} textStyle {offset:0; length:12;underlined:true; fontSize:0.0; kerning:0;} textStyle {offset:12; length:1;underlined:true; strikethrough:true; fontSize:0.0; kerning:0;} textStyle {offset:13; length:4;underlined:true; fontSize:0.0; kerning:0;} add {offset:13; length:1;}">
+                <Coords points="1817,1775 2849,1764 2864,1937 1832,1948"/>
+                <Baseline points="1829,1867 2861,1856"/>
+                <TextEquiv>
+                    <Unicode>villa Eichengburg</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>villa Eichengburg</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

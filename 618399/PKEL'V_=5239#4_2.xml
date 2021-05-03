@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>PKEL'V.=5239#4_2</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: szucs.kata.agnes@gmail.com</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile xml:id='facs_1'>
+		<surface ulx='0' uly='0' lrx='5200' lry='3515'>
+			<graphic url='PKEL'V.=5239#4_2a.tif' width='5200px' height='3515px'/>
+			<zone ulx='871' uly='125' lrx='4027' lry='410' rendition='TextRegion' xml:id='facs_1_region_1571131983084_172'>
+				<zone ulx='938' uly='126' lrx='3920' lry='390' rendition='Line' xml:id='facs_1_line_1571132056299_194'/>
+			</zone>
+			<zone ulx='776' uly='351' lrx='5062' lry='2327' rendition='TextRegion' xml:id='facs_1_region_1571131996636_175'>
+				<zone ulx='811' uly='385' lrx='4841' lry='641' rendition='Line' xml:id='facs_1_line_1571132063035_199'/>
+				<zone ulx='1033' uly='643' lrx='4544' lry='871' rendition='Line' xml:id='facs_1_line_1571132068331_204'/>
+				<zone ulx='1093' uly='876' lrx='4629' lry='1178' rendition='Line' xml:id='facs_1_line_1571132074259_209'/>
+				<zone ulx='1114' uly='1130' lrx='4771' lry='1504' rendition='Line' xml:id='facs_1_line_1571132080419_214'/>
+				<zone ulx='1131' uly='1333' lrx='4425' lry='1740' rendition='Line' xml:id='facs_1_line_1571132086364_219'/>
+				<zone ulx='1147' uly='1607' lrx='5064' lry='2071' rendition='Line' xml:id='facs_1_line_1571132091748_224'/>
+				<zone ulx='1209' uly='1870' lrx='4704' lry='2332' rendition='Line' xml:id='facs_1_line_1571132104060_230'/>
+			</zone>
+			<zone ulx='2622' uly='2280' lrx='4943' lry='2881' rendition='TextRegion' xml:id='facs_1_region_1571132004292_178'>
+				<zone ulx='2651' uly='2236' lrx='4910' lry='2610' rendition='Line' xml:id='facs_1_line_1571132113372_235'/>
+				<zone ulx='2950' uly='2499' lrx='4626' lry='2866' rendition='Line' xml:id='facs_1_line_1571132117788_240'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<pb facs='#facs_1' n='1'/>
+			<p facs='#facs_1_region_1571131983084_172'>
+				<lb facs='#facs_1_line_1571132056299_194' n='N001'/>Bauer Alezredes Kaposvár
+			</p>
+			<p facs='#facs_1_region_1571131996636_175'>
+				<lb facs='#facs_1_line_1571132063035_199' n='N001'/>Születésnapod alkalmával sok szere¬
+				<lb facs='#facs_1_line_1571132068331_204' n='N002'/>tettel gondoltunk ma rád és
+				<lb facs='#facs_1_line_1571132074259_209' n='N003'/>valamennyien megsimogattuk
+				<lb facs='#facs_1_line_1571132080419_214' n='N004'/>ezt a kis aranysörényű flaskót,
+				<lb facs='#facs_1_line_1571132086364_219' n='N005'/>melyet te fogsz helyettünk
+				<lb facs='#facs_1_line_1571132091748_224' n='N006'/>üríteni, mivelhogy mi antialko¬
+				<lb facs='#facs_1_line_1571132104060_230' n='N007'/>holisták vagyunk. Lechajim<note>Héber nyelvű üdvözlés, szó szerinti jelentése ’az életre’, tulajdonképpen ’egészségünkre’.</note>!
+			</p>
+			<p facs='#facs_1_region_1571132004292_178'>
+				<lb facs='#facs_1_line_1571132113372_235' n='N001'/>Papa, mama, Zsóka
+				<lb facs='#facs_1_line_1571132117788_240' n='N002'/>és a többiek
+			</p>
+		</body>
+	</text>
+</TEI>

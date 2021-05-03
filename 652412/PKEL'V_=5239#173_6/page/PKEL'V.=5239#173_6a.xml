@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2021-04-12T09:17:11.648+02:00</Created>
+        <LastChange>2021-04-19T16:40:53.216+02:00</LastChange>
+        <TranskribusMetadata docId="652412" pageId="25407266" pageNr="1" tsid="56818595" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=NVCAFUCTGOXCMIDYINKLRMAB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PZKQLWPRLQUHSMGZKVGKMRJN" imageId="19484455"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#173_6a.tif" imageWidth="3307" imageHeight="4324">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424985851" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1618230718574_1428"/>
+                <RegionRefIndexed index="1" regionRef="region_1618230724126_1431"/>
+                <RegionRefIndexed index="2" regionRef="region_1618230733536_1434"/>
+                <RegionRefIndexed index="3" regionRef="region_1618230735904_1437"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1618230718574_1428" custom="readingOrder {index:0;}">
+            <Coords points="1591,824 2234,824 2234,1209 1591,1209"/>
+            <TextLine id="line_1618230756999_1443" custom="readingOrder {index:0;}">
+                <Coords points="1677,886 2219,877 2217,1176 1656,1187"/>
+                <Baseline points="1676,1168 2206,1162"/>
+                <TextEquiv>
+                    <Unicode>Szerdán.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Szerdán.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1618230724126_1431" custom="readingOrder {index:1;}">
+            <Coords points="386,1498 3171,1477 3171,2505 386,2526"/>
+            <TextLine id="line_1618230793016_1452" custom="readingOrder {index:0;}">
+                <Coords points="496,1555 3069,1487 3072,1713 467,1789"/>
+                <Baseline points="488,1747 3055,1665"/>
+                <TextEquiv>
+                    <Unicode>Kedves öregem, a feleségem el van ra¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618230796689_1457" custom="readingOrder {index:1;}">
+                <Coords points="450,1863 3052,1810 3054,1975 452,2028"/>
+                <Baseline points="454,1994 1412,1966 2623,1938 2749,1912 3030,1927"/>
+                <TextEquiv>
+                    <Unicode>gadtatva tőled s az igazán gyönyörű vázá¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618230800370_1462" custom="readingOrder {index:2;}">
+                <Coords points="473,2088 3091,2032 3081,2193 463,2249"/>
+                <Baseline points="463,2244 1356,2191 1418,2168 1510,2210 1707,2171 1974,2177 2221,2162 2628,2182 3081,2188"/>
+                <TextEquiv>
+                    <Unicode>tól s boldog lesz, ha ezt neked személyesen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618230804035_1467" custom="readingOrder {index:3;}">
+                <Coords points="471,2348 1566,2295 1561,2486 471,2496"/>
+                <Baseline points="471,2491 1547,2441"/>
+                <TextEquiv>
+                    <Unicode>is elmondhatja.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kedves öregem, a feleségem el van ra¬&#xD;
+gadtatva tőled s az igazán gyönyörű vázá¬&#xD;
+tól s boldog lesz, ha ezt neked személyesen&#xD;
+is elmondhatja.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1618230733536_1434" custom="readingOrder {index:2;}">
+            <Coords points="371,2566 3129,2566 3129,3634 371,3634"/>
+            <TextLine id="line_1618231012216_1487" custom="readingOrder {index:0;} abbrev {offset:2; length:3;}">
+                <Coords points="774,2605 3074,2572 3074,2737 765,2796"/>
+                <Baseline points="773,2777 1167,2765 1564,2730 2284,2706 2787,2698 3059,2718"/>
+                <TextEquiv>
+                    <Unicode>A Szk. eladásáról jut eszembe: ne¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618231016340_1492" custom="readingOrder {index:1;}">
+                <Coords points="463,2847 3013,2755 3011,2960 461,3052"/>
+                <Baseline points="475,2994 847,3017 1454,2976 2009,2964 2043,2914 2371,2935 2433,2909 3002,2902"/>
+                <TextEquiv>
+                    <Unicode>hogy a vevőd becsapjon. Szokásuk a kia¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618231020144_1497" custom="readingOrder {index:2;} textStyle {offset:10; length:11;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="479,3098 3013,2972 2995,3161 461,3287"/>
+                <Baseline points="500,3230 851,3249 1091,3206 1179,3232 1485,3179 2232,3136 2282,3112 2980,3123"/>
+                <TextEquiv>
+                    <Unicode>dóknak az első kiadás klauzulájá¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618231025630_1502" custom="readingOrder {index:3;} add {offset:17; length:1;} gap {offset:17; length:0;}">
+                <Coords points="461,3320 2920,3196 2943,3422 475,3532"/>
+                <Baseline points="483,3457 598,3486 993,3474 1543,3428 2476,3388 2682,3330 2899,3354"/>
+                <TextEquiv>
+                    <Unicode>hoz azt a kikötést hozzá tenniök, hogy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>A Szk. eladásáról jut eszembe: ne¬&#xD;
+hogy a vevőd becsapjon. Szokásuk a kia¬&#xD;
+dóknak az első kiadás klauzulájá¬&#xD;
+hoz azt a kikötést hozzá tenniök, hogy</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1618230735904_1437" custom="readingOrder {index:3;}">
+            <Coords points="1472,4042 1690,4042 1690,4189 1472,4189"/>
+            <TextLine id="line_1618231343432_1528" custom="readingOrder {index:0;}">
+                <Coords points="1529,4061 1629,4061 1631,4166 1531,4166"/>
+                <Baseline points="1531,4161 1620,4157"/>
+                <TextEquiv>
+                    <Unicode>1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

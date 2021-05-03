@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-03T17:42:08.605+02:00</Created>
+        <LastChange>2020-07-02T09:08:11.311+02:00</LastChange>
+        <TranskribusMetadata docId="401468" pageId="15532429" pageNr="2" tsid="33229322" status="IN_PROGRESS" userId="56520" imgUrl="https://files.transkribus.eu/Get?id=SBQIRPRYYXSOWKCBJIXRUNDL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JGVSOJTYNTIZQFVRDXPKGREB" imageId="11360248"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#80_b.tif" imageWidth="2481" imageHeight="1622">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424452549" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:0;}">
+            <Coords points="749,740 749,895 1713,895 1713,740"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="749,890 1713,892 1713,742 749,740"/>
+                <Baseline points="749,840 797,841 845,842 893,842 941,842 990,842 1038,843 1086,843 1134,843 1182,843 1231,843 1279,843 1327,843 1375,845 1423,844 1472,843 1520,843 1568,843 1616,843 1664,843 1713,842"/>
+                <TextEquiv>
+                    <Unicode>Brázay Brummer Emil</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Brázay Brummer Emil</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

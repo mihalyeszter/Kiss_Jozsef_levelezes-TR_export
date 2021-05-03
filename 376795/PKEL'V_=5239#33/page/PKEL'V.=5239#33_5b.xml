@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-28T13:02:32.353+02:00</Created>
+        <LastChange>2020-11-19T15:13:19.986+01:00</LastChange>
+        <TranskribusMetadata docId="376795" pageId="14734207" pageNr="10" tsid="49194212" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=IEGLTSWDVERZWBNQUBCZGFPW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GZABZKKZNAUWZAQNYFOXWETT" imageId="10675229"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#33_5b.tif" imageWidth="3503" imageHeight="2348">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424126545" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1597134523046_1032"/>
+                <RegionRefIndexed index="1" regionRef="region_1597134525594_1035"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1597134523046_1032" custom="readingOrder {index:0;}">
+            <Coords points="933,865 2743,865 2743,1227 933,1227"/>
+            <TextLine id="line_1597134874895_1038" custom="readingOrder {index:0;}">
+                <Coords points="970,881 2705,939 2695,1159 981,1159"/>
+                <Baseline points="981,1154 2695,1154"/>
+                <TextEquiv>
+                    <Unicode>Kiss Erzsike kisasszony</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kiss Erzsike kisasszony</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1597134525594_1035" custom="readingOrder {index:1;}">
+            <Coords points="2041,1395 2955,1395 2955,1775 2041,1775"/>
+            <TextLine id="line_1597134877282_1043" custom="readingOrder {index:0;}">
+                <Coords points="2115,1422 2916,1425 2900,1733 2114,1729"/>
+                <Baseline points="2114,1724 2900,1728"/>
+                <TextEquiv>
+                    <Unicode>Gödöllő.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Gödöllő.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

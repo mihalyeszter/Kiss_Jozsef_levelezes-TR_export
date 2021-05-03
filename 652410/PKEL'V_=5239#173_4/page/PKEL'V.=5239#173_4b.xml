@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2021-04-12T09:17:13.273+02:00</Created>
+        <LastChange>2021-04-19T16:23:04.202+02:00</LastChange>
+        <TranskribusMetadata docId="652410" pageId="25407271" pageNr="2" tsid="56815163" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=SYRQYDZHOKTHCUNJXPGZGTWB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HTTVMLFKFUCZLZOXYGKOYFVT" imageId="19484461"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#173_4b.tif" imageWidth="3608" imageHeight="4571">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424981538" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1618304902011_783"/>
+                <RegionRefIndexed index="1" regionRef="region_1618304905730_786"/>
+                <RegionRefIndexed index="2" regionRef="region_1618304907817_789"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1618304902011_783" custom="readingOrder {index:0;}">
+            <Coords points="236,535 3489,535 3489,3457 765,3465 721,3534 236,3543"/>
+            <TextLine id="line_1618304956559_797" custom="readingOrder {index:0;} unclear {offset:19; length:9;}">
+                <Coords points="306,620 3377,587 3383,778 312,811"/>
+                <Baseline points="314,789 705,804 1409,768 2474,747 3010,738 3383,773"/>
+                <TextEquiv>
+                    <Unicode>a Gottfried Keller kegyetlen, de zamatos régi nyelvén</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618304965941_802" custom="readingOrder {index:1;} add {offset:7; length:1;} gap {offset:7; length:0;}">
+                <Coords points="358,920 3259,841 3263,1020 362,1099"/>
+                <Baseline points="386,1048 1683,1033 1831,1002 2092,1023 2444,975 2938,1005 3224,985"/>
+                <TextEquiv>
+                    <Unicode>írva, hanem egy XVII századbeli papnak vagy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618304969395_807" custom="readingOrder {index:2;}">
+                <Coords points="395,1183 3284,1068 3265,1271 384,1415"/>
+                <Baseline points="407,1369 937,1312 1424,1291 1969,1297 2607,1261 3241,1260"/>
+                <TextEquiv>
+                    <Unicode>valóságos, vagy roppant művészettel költött és</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618304973025_812" custom="readingOrder {index:3;} textStyle {offset:15; length:6;underlined:true; fontSize:0.0; kerning:0;} add {offset:15; length:1;} gap {offset:15; length:0;} add {offset:26; length:1;} gap {offset:26; length:0;} add {offset:29; length:1;} gap {offset:29; length:0;}">
+                <Coords points="449,1481 3392,1349 3395,1617 442,1685"/>
+                <Baseline points="462,1640 1758,1584 2607,1551 2655,1521 2938,1548 3390,1554"/>
+                <TextEquiv>
+                    <Unicode>utánzott, igen pedáns, nyakatekert és arhaista</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618304977131_817" custom="readingOrder {index:4;}">
+                <Coords points="457,1756 3371,1602 3368,1850 454,2004"/>
+                <Baseline points="454,1918 1357,1844 1590,1844 2386,1833 2878,1847 3344,1776"/>
+                <TextEquiv>
+                    <Unicode>czafrangokkal teli nyelvén. Nekem tehát</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618304981187_822" custom="readingOrder {index:5;}">
+                <Coords points="400,2023 3239,1885 3241,2122 402,2260"/>
+                <Baseline points="405,2203 857,2187 1390,2140 2312,2091 2455,2075 2688,2088 3232,2069"/>
+                <TextEquiv>
+                    <Unicode>az én fordításomban hasonlót kellett volna</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618304984481_827" custom="readingOrder {index:6;}">
+                <Coords points="370,2271 3278,2169 3278,2403 370,2503"/>
+                <Baseline points="375,2445 851,2451 1103,2397 1474,2412 1960,2369 2572,2340 3257,2342"/>
+                <TextEquiv>
+                    <Unicode>találnom, s a mi akkori nyelvünk ehhez még</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618304988000_832" custom="readingOrder {index:7;} add {offset:12; length:4;} gap {offset:12; length:0;}">
+                <Coords points="344,2532 3224,2406 3240,2626 1445,2762 341,2757"/>
+                <Baseline points="338,2700 3218,2574"/>
+                <TextEquiv>
+                    <Unicode>nem is volt elég, s még messzebbre kellett</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618304995944_837" custom="readingOrder {index:8;} sic {offset:17; length:11;}">
+                <Coords points="418,2741 1454,2758 2254,2675 3433,2636 3421,2881 406,2986"/>
+                <Baseline points="417,2942 3432,2837"/>
+                <TextEquiv>
+                    <Unicode>visszanyúlnom, a pedanteriát s a szöveg fran¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618304998873_842" custom="readingOrder {index:9;}">
+                <Coords points="419,3037 3394,2934 3378,3175 403,3278"/>
+                <Baseline points="403,3214 1500,3156 2471,3134 3073,3116 3359,3141"/>
+                <TextEquiv>
+                    <Unicode>cziás hatását, latinizálással pótolván. Eny¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618305002269_847" custom="readingOrder {index:10;} sic {offset:19; length:12;}">
+                <Coords points="352,3284 3483,3178 3491,3358 356,3509"/>
+                <Baseline points="360,3459 1508,3386 1717,3407 3491,3353"/>
+                <TextEquiv>
+                    <Unicode>nyit, nem ítéleted megdöntéseül, de igazolásomul.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>a Gottfried Keller kegyetlen, de zamatos régi nyelvén&#xD;
+írva, hanem egy XVII századbeli papnak vagy&#xD;
+valóságos, vagy roppant művészettel költött és&#xD;
+utánzott, igen pedáns, nyakatekert és arhaista&#xD;
+czafrangokkal teli nyelvén. Nekem tehát&#xD;
+az én fordításomban hasonlót kellett volna&#xD;
+találnom, s a mi akkori nyelvünk ehhez még&#xD;
+nem is volt elég, s még messzebbre kellett&#xD;
+visszanyúlnom, a pedanteriát s a szöveg fran¬&#xD;
+cziás hatását, latinizálással pótolván. Eny¬&#xD;
+nyit, nem ítéleted megdöntéseül, de igazolásomul.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1618304905730_786" custom="readingOrder {index:1;}">
+            <Coords points="836,3500 3263,3500 3263,3912 836,3912"/>
+            <TextLine id="line_1618305878222_919" custom="readingOrder {index:0;} add {offset:3; length:1;} add {offset:6; length:2;} gap {offset:6; length:0;}">
+                <Coords points="893,3516 3236,3506 3225,3709 888,3779"/>
+                <Baseline points="898,3720 1754,3725 2599,3658 3188,3658"/>
+                <TextEquiv>
+                    <Unicode>Leveledet még egyszer köszöni s tisztelettel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618305880649_924" custom="readingOrder {index:1;}">
+                <Coords points="2682,3763 3199,3698 3199,3837 2682,3902"/>
+                <Baseline points="2696,3888 3198,3832"/>
+                <TextEquiv>
+                    <Unicode>üdvözöl</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Leveledet még egyszer köszöni s tisztelettel&#xD;
+üdvözöl</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1618304907817_789" custom="readingOrder {index:2;}">
+            <Coords points="2611,3989 3369,3989 3369,4320 2611,4320"/>
+            <TextLine id="line_1618305884073_929" custom="readingOrder {index:0;}">
+                <Coords points="2716,4058 3332,3996 3366,4261 2750,4323"/>
+                <Baseline points="2800,4180 3335,4148"/>
+                <TextEquiv>
+                    <Unicode>Ignotus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ignotus</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

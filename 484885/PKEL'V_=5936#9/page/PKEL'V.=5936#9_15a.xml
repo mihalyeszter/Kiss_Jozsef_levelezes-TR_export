@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA76_249_0mod90.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-09-21T14:08:10.411+02:00</Created>
+        <LastChange>2020-11-20T16:16:41.187+01:00</LastChange>
+        <TranskribusMetadata docId="484885" pageId="19998804" pageNr="20" tsid="49368998" status="IN_PROGRESS" userId="63384" imgUrl="https://files.transkribus.eu/Get?id=OEKEHXKAVICWYEJSXPRPVYOK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DJLITZXLLCGYHYAFXHFYHIMZ" imageId="15414255"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5936#9_15a.tif" imageWidth="4231" imageHeight="2288">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424620399" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1603984433990_2004"/>
+                <RegionRefIndexed index="1" regionRef="region_1603984436224_2007"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="region_1603984433990_2004" custom="readingOrder {index:0;}">
+            <Coords points="873,1226 2399,1226 2399,1586 873,1586"/>
+            <TextLine id="region_1603984433990_2004l1" custom="readingOrder {index:0;}">
+                <Coords points="960,1532 1024,1534 1089,1534 1154,1535 1219,1535 1284,1535 1348,1537 1413,1537 1478,1535 1543,1535 1608,1537 1672,1537 1737,1537 1802,1538 1867,1540 1932,1541 1996,1543 2061,1546 2126,1550 2191,1555 2351,1565 2357,1355 2197,1345 2126,1400 2061,1396 1996,1393 1932,1391 1867,1390 1802,1388 1737,1387 1672,1387 1608,1387 1541,1317 1478,1385 1413,1387 1348,1387 1284,1385 1231,1292 1166,1292 1089,1384 1024,1384 960,1382"/>
+                <Baseline points="960,1482 1024,1484 1089,1484 1154,1485 1219,1485 1284,1485 1348,1487 1413,1487 1478,1485 1543,1485 1608,1487 1672,1487 1737,1487 1802,1488 1867,1490 1932,1491 1996,1493 2061,1496 2126,1500 2191,1505 2256,1509"/>
+                <TextEquiv>
+                    <Unicode>Mélyen tisztelt Uram!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Mélyen tisztelt Uram!</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1603984436224_2007" custom="readingOrder {index:1;}">
+            <Coords points="302,1535 3797,1535 3797,2120 302,2120"/>
+            <TextLine id="region_1603984436224_2007l1" custom="readingOrder {index:0;} textStyle {offset:1; length:1;strikethrough:true; fontSize:0.0; kerning:0;} add {offset:2; length:1;}">
+                <Coords points="644,1843 794,1841 944,1841 1094,1841 1244,1843 1394,1846 1544,1849 1695,1853 1845,1856 1995,1861 2145,1867 2295,1871 2445,1876 2595,1881 2746,1886 2896,1891 3046,1895 3196,1898 3346,1902 3496,1904 3720,1900 3720,1750 3499,1702 3349,1700 3196,1748 3046,1745 2896,1741 2746,1736 2595,1731 2457,1658 2307,1653 2145,1717 1995,1711 1845,1706 1695,1703 1556,1645 1406,1642 1244,1693 1094,1691 938,1622 788,1622 644,1693"/>
+                <Baseline points="644,1793 794,1791 944,1791 1094,1791 1244,1793 1394,1796 1544,1799 1695,1803 1845,1806 1995,1811 2145,1817 2295,1821 2445,1826 2595,1831 2746,1836 2896,1841 3046,1845 3196,1848 3346,1852 3496,1854 3647,1856"/>
+                <TextEquiv>
+                    <Unicode>Jáanuár 12.én a zeneakadémia nagy termében</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1603984436224_2007l2" custom="readingOrder {index:1;}">
+                <Coords points="361,2040 412,2042 549,1977 600,1979 652,1981 704,1982 755,1982 807,1984 858,1985 910,1986 962,1987 1013,1988 1065,1990 1116,1991 1168,1994 1220,1996 1271,1999 1323,2002 1374,2005 1426,2009 1541,2014 1553,1825 1438,1820 1374,1855 1323,1852 1271,1849 1220,1846 1168,1844 1116,1841 1065,1840 1007,1813 956,1812 910,1836 858,1835 807,1834 755,1832 704,1832 652,1831 600,1829 555,1805 503,1803 446,1823"/>
+                <Baseline points="446,1923 497,1925 549,1927 600,1929 652,1931 704,1932 755,1932 807,1934 858,1935 910,1936 962,1937 1013,1938 1065,1940 1116,1941 1168,1944 1220,1946 1271,1949 1323,1952 1374,1955 1426,1959 1507,1968"/>
+                <TextEquiv>
+                    <Unicode>felolvasási estét</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Jáanuár 12.én a zeneakadémia nagy termében&#xD;
+felolvasási estét</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

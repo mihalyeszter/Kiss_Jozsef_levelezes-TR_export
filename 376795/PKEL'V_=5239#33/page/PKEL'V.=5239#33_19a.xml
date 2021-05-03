@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-28T13:02:35.535+02:00</Created>
+        <LastChange>2020-11-19T15:48:04.543+01:00</LastChange>
+        <TranskribusMetadata docId="376795" pageId="14734488" pageNr="43" tsid="49206280" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=RDRMPVQBZKWMALLLSMEZNYCA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SNFEHIIRWDXMGGUIIVTWUYCZ" imageId="10675510"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#33_19a.tif" imageWidth="5301" imageHeight="4313">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424135121" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1597395416507_1196"/>
+                <RegionRefIndexed index="1" regionRef="region_1597229582320_986"/>
+                <RegionRefIndexed index="2" regionRef="region_1597229587318_989"/>
+                <RegionRefIndexed index="3" regionRef="region_1597229595466_992"/>
+                <RegionRefIndexed index="4" regionRef="region_1597230007760_1240"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1597395416507_1196" custom="readingOrder {index:0;}">
+            <Coords points="3411,330 4419,330 4419,523 3411,523"/>
+            <TextLine id="line_1597395421939_1200" custom="readingOrder {index:0;}">
+                <Coords points="3441,369 4384,356 4393,470 3450,483"/>
+                <Baseline points="3450,478 4393,465"/>
+                <TextEquiv>
+                    <Unicode>Szt. Margitsziget</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Szt. Margitsziget</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1597229582320_986" custom="readingOrder {index:1;}">
+            <Coords points="3478,619 4831,619 4831,874 3478,874"/>
+            <TextLine id="line_1597229606330_998" custom="readingOrder {index:0;}">
+                <Coords points="3594,669 4751,648 4743,825 3586,846"/>
+                <Baseline points="3586,841 4743,820"/>
+                <TextEquiv>
+                    <Unicode>Kedves Erzsikém!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kedves Erzsikém!</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1597229587318_989" custom="readingOrder {index:2;}">
+            <Coords points="2745,847 5194,847 5194,2058 2745,2058"/>
+            <TextLine id="line_1597229612390_1003" custom="readingOrder {index:0;} sic {offset:2; length:7;}">
+                <Coords points="2944,907 4584,947 5141,862 5147,1014 4582,1054 2940,1014"/>
+                <Baseline points="2940,1009 4582,1049 5147,1009"/>
+                <TextEquiv>
+                    <Unicode>A legujab terv, az az doktor ajánlotta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597229620761_1008" custom="readingOrder {index:1;}">
+                <Coords points="2918,1035 3728,1039 4313,1059 4613,1090 5094,1043 5113,1135 4629,1182 4299,1169 3720,1142 2920,1128"/>
+                <Baseline points="2920,1123 3720,1137 4299,1164 4629,1177 5113,1130"/>
+                <TextEquiv>
+                    <Unicode>hogy miután a papának levegő és hely</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597229628013_1013" custom="readingOrder {index:2;}">
+                <Coords points="2964,1130 3828,1137 4382,1154 5114,1187 5106,1323 4373,1290 3821,1229 2960,1222"/>
+                <Baseline points="2960,1217 3821,1224 4373,1285 5106,1318"/>
+                <TextEquiv>
+                    <Unicode>változásra van szüksége, Purkersdorf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597229637558_1018" custom="readingOrder {index:3;}">
+                <Coords points="2941,1226 3972,1253 4658,1310 4997,1310 5225,1372 5193,1465 4971,1411 4656,1411 3969,1350 2940,1323"/>
+                <Baseline points="2940,1318 3969,1345 4656,1406 4972,1406 5194,1460"/>
+                <TextEquiv>
+                    <Unicode>meg meszsze van én meg úgyse akarnám</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597229648462_1023" custom="readingOrder {index:4;}">
+                <Coords points="2957,1327 3945,1365 4814,1433 5172,1478 5168,1566 4800,1525 3938,1449 2951,1411"/>
+                <Baseline points="2951,1406 3938,1444 4800,1520 5169,1561"/>
+                <TextEquiv>
+                    <Unicode>rövid pár honap mulva ismét dr. Stein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597229655034_1028" custom="readingOrder {index:5;} textStyle {offset:5; length:1;strikethrough:true; fontSize:0.0; kerning:0;} add {offset:6; length:1;} sic {offset:15; length:6;}">
+                <Coords points="2979,1408 3746,1431 4226,1520 4648,1512 5157,1543 5146,1635 4637,1604 4216,1574 3737,1517 2977,1490"/>
+                <Baseline points="2977,1485 3737,1512 4216,1569 4637,1599 5146,1630"/>
+                <TextEquiv>
+                    <Unicode>kedveszményét igenybe venni, jónak</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597229662777_1033" custom="readingOrder {index:6;}">
+                <Coords points="2967,1498 3632,1517 3631,1616 2966,1597"/>
+                <Baseline points="2966,1592 3631,1611"/>
+                <TextEquiv>
+                    <Unicode>találom és a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597229666175_1038" custom="readingOrder {index:7;}">
+                <Coords points="3618,1500 3899,1512 3897,1574 3616,1562"/>
+                <Baseline points="3629,1554 3897,1569"/>
+                <TextEquiv>
+                    <Unicode>papa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597229670822_1043" custom="readingOrder {index:8;} textStyle {offset:13; length:1;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="3720,1550 4549,1573 5165,1677 5153,1745 4531,1676 3710,1635"/>
+                <Baseline points="3710,1630 4531,1671 5154,1740"/>
+                <TextEquiv>
+                    <Unicode>örül is neki da Bernátt dr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597229678007_1048" custom="readingOrder {index:9;} unclear {offset:0; length:16;}">
+                <Coords points="2996,1613 3979,1653 5136,1763 5122,1851 3965,1730 2993,1699"/>
+                <Baseline points="2993,1694 3965,1725 5123,1846"/>
+                <TextEquiv>
+                    <Unicode>properioriojának hogy Balatonfüredre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597229684435_1053" custom="readingOrder {index:10;}">
+                <Coords points="2945,1694 4906,1812 5153,1905 5145,1954 4894,1912 2936,1794"/>
+                <Baseline points="2936,1789 4895,1907 5146,1949"/>
+                <TextEquiv>
+                    <Unicode>menjünk; augusztus vége felé és ha</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597229688338_1058" custom="readingOrder {index:11;}">
+                <Coords points="2943,1800 4246,1877 5103,1951 5075,2043 4223,1961 2935,1904"/>
+                <Baseline points="3008,1911 4223,1956 5032,2032"/>
+                <TextEquiv>
+                    <Unicode>az idő engedi egész szeptemberig ott</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597229691103_1063" custom="readingOrder {index:12;}">
+                <Coords points="2993,1907 3623,1934 3615,2030 2985,2003"/>
+                <Baseline points="2985,1998 3615,2025"/>
+                <TextEquiv>
+                    <Unicode>maradjon.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>A legujab terv, az az doktor ajánlotta&#xD;
+hogy miután a papának levegő és hely&#xD;
+változásra van szüksége, Purkersdorf&#xD;
+meg meszsze van én meg úgyse akarnám&#xD;
+rövid pár honap mulva ismét dr. Stein&#xD;
+kedveszményét igenybe venni, jónak&#xD;
+találom és a&#xD;
+papa&#xD;
+örül is neki da Bernátt dr.&#xD;
+properioriojának hogy Balatonfüredre&#xD;
+menjünk; augusztus vége felé és ha&#xD;
+az idő engedi egész szeptemberig ott&#xD;
+maradjon.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1597229595466_992" custom="readingOrder {index:3;}">
+            <Coords points="2873,2011 5187,2011 5187,4178 2873,4178"/>
+            <TextLine id="line_1597229694979_1068" custom="readingOrder {index:0;}">
+                <Coords points="3365,2012 4482,2097 5109,2108 5108,2235 4474,2185 3361,2128"/>
+                <Baseline points="3361,2123 4474,2180 5108,2230"/>
+                <TextEquiv>
+                    <Unicode>Az én reményem is az, hogy a </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597229699329_1073" custom="readingOrder {index:1;} supplied {offset:34; length:1;}">
+                <Coords points="2970,2133 4176,2134 5159,2260 5150,2334 4170,2258 2971,2233"/>
+                <Baseline points="2977,2230 4170,2253 5150,2329"/>
+                <TextEquiv>
+                    <Unicode>papa ha szép lesz a szeptember ösz¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597229704213_1078" custom="readingOrder {index:2;} sic {offset:16; length:6;} supplied {offset:33; length:1;}">
+                <Coords points="2967,2257 4477,2257 5202,2371 5172,2478 4459,2406 2974,2349"/>
+                <Baseline points="2974,2344 4459,2401 5173,2473"/>
+                <TextEquiv>
+                    <Unicode>sze szedi magát anyira hogy tűrhe¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597229711298_1083" custom="readingOrder {index:3;}">
+                <Coords points="2957,2383 4735,2429 5144,2550 5134,2599 4724,2512 2951,2466"/>
+                <Baseline points="2951,2461 4725,2507 5135,2594"/>
+                <TextEquiv>
+                    <Unicode>tő tele lesz. Csak azt nagyon sajná¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597229720057_1088" custom="readingOrder {index:4;}">
+                <Coords points="3008,2443 4506,2512 5106,2591 5093,2668 4485,2607 3000,2535"/>
+                <Baseline points="3000,2530 4485,2602 5093,2663"/>
+                <TextEquiv>
+                    <Unicode>lom hogy téged nem foglak láthatni,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597229746998_1094" custom="readingOrder {index:5;}">
+                <Coords points="3019,2568 4957,2677 5172,2735 5162,2784 4949,2739 3015,2630"/>
+                <Baseline points="3015,2625 4950,2734 5163,2779"/>
+                <TextEquiv>
+                    <Unicode>pedig de régen volt az, hogy bucsuztunk</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597229755764_1099" custom="readingOrder {index:6;}">
+                <Coords points="3047,2616 3922,2681 4474,2691 5151,2777 5135,2876 4461,2790 3919,2769 3044,2704"/>
+                <Baseline points="3044,2699 3919,2764 4461,2785 5136,2871"/>
+                <TextEquiv>
+                    <Unicode>egymástol; talán nem lesz terhedre egy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597229763858_1104" custom="readingOrder {index:7;} sic {offset:7; length:8;} sic {offset:16; length:7;}">
+                <Coords points="2980,2718 3429,2728 4541,2774 5169,2935 5150,2999 4552,2880 3455,2819 2982,2819"/>
+                <Baseline points="2982,2814 3455,2814 4553,2875 5151,2994"/>
+                <TextEquiv>
+                    <Unicode>kis ki ruczánás füredre. Sok mon¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597229776096_1109" custom="readingOrder {index:8;} sic {offset:8; length:12;} add {offset:25; length:1;} gap {offset:25; length:0;}">
+                <Coords points="2975,2797 4232,2856 4716,2933 5116,3004 5107,3053 4710,2983 4221,2954 2964,2895"/>
+                <Baseline points="2964,2890 4221,2949 4711,2978 5108,3048"/>
+                <TextEquiv>
+                    <Unicode>dani és megmebészlni valom volna</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597229784962_1114" custom="readingOrder {index:9;} gap {offset:22; length:0;} textStyle {offset:31; length:3;strikethrough:true; fontSize:0.0; kerning:0;} add {offset:34; length:1;}">
+                <Coords points="2987,2892 3717,2892 4715,3009 5024,3029 5022,3129 4699,3092 3699,3014 2982,2981"/>
+                <Baseline points="2982,2976 3699,3009 4699,3087 5023,3124"/>
+                <TextEquiv>
+                    <Unicode>egyet másrol, leginkáb Sándorkárólt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597229791871_1119" custom="readingOrder {index:10;} sic {offset:14; length:7;} supplied {offset:36; length:1;}">
+                <Coords points="2990,2969 3859,2985 5151,3159 5131,3248 3835,3116 2982,3079"/>
+                <Baseline points="2982,3074 3835,3111 5132,3243"/>
+                <TextEquiv>
+                    <Unicode>illetve, hogy legaláb tisztán láthat¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597229802743_1124" custom="readingOrder {index:11;} sic {offset:12; length:5;}">
+                <Coords points="2986,3069 3741,3122 5156,3258 5149,3353 3719,3219 2976,3158"/>
+                <Baseline points="2976,3153 3719,3214 5149,3348"/>
+                <TextEquiv>
+                    <Unicode>nád az okot miert nem teljesíthetem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597229809475_1129" custom="readingOrder {index:12;}">
+                <Coords points="2997,3191 3563,3214 5161,3358 5155,3431 3555,3314 2985,3259"/>
+                <Baseline points="3013,3254 3555,3309 5155,3426"/>
+                <TextEquiv>
+                    <Unicode>Sándorka kívánságát mert vannak</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597229812465_1134" custom="readingOrder {index:13;}">
+                <Coords points="3012,3269 5154,3427 5153,3517 3011,3359"/>
+                <Baseline points="3011,3354 5153,3512"/>
+                <TextEquiv>
+                    <Unicode>dolgok amit én nem mondhatok</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597229815289_1139" custom="readingOrder {index:14;} sic {offset:16; length:9;}">
+                <Coords points="3003,3356 5144,3494 5144,3610 3003,3472"/>
+                <Baseline points="3003,3467 5144,3605"/>
+                <TextEquiv>
+                    <Unicode>meg neki, de az aszonynak te azt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597229821108_1144" custom="readingOrder {index:15;}">
+                <Coords points="3018,3467 4901,3581 5151,3677 5127,3741 4874,3698 3009,3569"/>
+                <Baseline points="3009,3564 4875,3693 5128,3736"/>
+                <TextEquiv>
+                    <Unicode>meg mondhatnád. A gyerek jól</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597229827376_1149" custom="readingOrder {index:16;} sic {offset:0; length:4;}">
+                <Coords points="2995,3570 4870,3703 5109,3795 5098,3844 4872,3794 3001,3661"/>
+                <Baseline points="3001,3656 4873,3789 5099,3839"/>
+                <TextEquiv>
+                    <Unicode>erzi magát az ágyba ott lakik ott</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597229832803_1154" custom="readingOrder {index:17;}">
+                <Coords points="2985,3691 3702,3710 5079,3848 5073,3910 3693,3805 2980,3774"/>
+                <Baseline points="2980,3769 3693,3800 5091,3908"/>
+                <TextEquiv>
+                    <Unicode>fog kezdeni járni, ha el esik nem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597229843852_1164" custom="readingOrder {index:18;}">
+                <Coords points="2972,3778 5009,3921 5003,4018 2966,3875"/>
+                <Baseline points="2966,3870 5003,4013"/>
+                <TextEquiv>
+                    <Unicode>fogja magát megütni azt hiszem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597229849547_1169" custom="readingOrder {index:19;}">
+                <Coords points="2975,3884 4997,3998 4994,4084 2972,3970"/>
+                <Baseline points="2999,3962 4994,4079"/>
+                <TextEquiv>
+                    <Unicode>szépen fejlődik, sajnálom hogy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597230000410_1235" custom="readingOrder {index:20;}">
+                <Coords points="2986,3987 3719,4020 4253,4054 5093,4073 5122,4175 4249,4138 3709,4124 2982,4062"/>
+                <Baseline points="2982,4057 3709,4119 4249,4133 5122,4170"/>
+                <TextEquiv>
+                    <Unicode>csak akkor fogom láthatni ha</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Az én reményem is az, hogy a &#xD;
+papa ha szép lesz a szeptember ösz¬&#xD;
+sze szedi magát anyira hogy tűrhe¬&#xD;
+tő tele lesz. Csak azt nagyon sajná¬&#xD;
+lom hogy téged nem foglak láthatni,&#xD;
+pedig de régen volt az, hogy bucsuztunk&#xD;
+egymástol; talán nem lesz terhedre egy&#xD;
+kis ki ruczánás füredre. Sok mon¬&#xD;
+dani és megmebészlni valom volna&#xD;
+egyet másrol, leginkáb Sándorkárólt&#xD;
+illetve, hogy legaláb tisztán láthat¬&#xD;
+nád az okot miert nem teljesíthetem&#xD;
+Sándorka kívánságát mert vannak&#xD;
+dolgok amit én nem mondhatok&#xD;
+meg neki, de az aszonynak te azt&#xD;
+meg mondhatnád. A gyerek jól&#xD;
+erzi magát az ágyba ott lakik ott&#xD;
+fog kezdeni járni, ha el esik nem&#xD;
+fogja magát megütni azt hiszem&#xD;
+szépen fejlődik, sajnálom hogy&#xD;
+csak akkor fogom láthatni ha</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1597230007760_1240" custom="readingOrder {index:4;}">
+            <Coords points="5036,3921 5160,3921 5160,4055 5036,4055"/>
+            <TextLine id="line_1597395546373_1241" custom="readingOrder {index:0;}">
+                <Coords points="5049,3933 5161,3930 5160,4038 5048,4041"/>
+                <Baseline points="5048,4036 5160,4033"/>
+                <TextEquiv>
+                    <Unicode>1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

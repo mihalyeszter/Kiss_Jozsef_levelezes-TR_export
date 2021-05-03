@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-28T13:02:32.717+02:00</Created>
+        <LastChange>2020-11-19T15:14:51.631+01:00</LastChange>
+        <TranskribusMetadata docId="376795" pageId="14734237" pageNr="14" tsid="49194653" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=IACFUGXXBPUEMIIQCZAGCHBE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LXKRSBYSQNCYBTMCGCYCHYPY" imageId="10675259"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#33_7b.tif" imageWidth="3507" imageHeight="2367">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424127527" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1597318317123_30"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1597318324155_34"/>
+                <RegionRefIndexed index="2" regionRef="region_1597135241383_1181"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="TextRegion_1597318317123_30" custom="readingOrder {index:0;}">
+            <Coords points="609,772 2541,772 2543,1154 611,1154"/>
+            <TextLine id="line_1597135258989_1185" custom="readingOrder {index:0;}">
+                <Coords points="645,824 2388,824 2393,1146 650,1146"/>
+                <Baseline points="650,1141 2393,1141"/>
+                <TextEquiv>
+                    <Unicode>Kiss Erzsike</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kiss Erzsike</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="TextRegion_1597318324155_34" custom="readingOrder {index:1;}">
+            <Coords points="1147,1154 2543,1154 2546,1485 1147,1485"/>
+            <TextLine id="line_1597135261431_1190" custom="readingOrder {index:0;}">
+                <Coords points="1196,1159 2489,1163 2497,1392 1204,1388"/>
+                <Baseline points="1204,1383 2497,1387"/>
+                <TextEquiv>
+                    <Unicode>Kisasszonynak</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kisasszonynak</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1597135241383_1181" custom="readingOrder {index:2;}">
+            <Coords points="505,1516 3377,1516 3377,2058 505,2058"/>
+            <TextLine id="line_1597135278196_1203" custom="readingOrder {index:0;} textStyle {offset:0; length:10;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="549,1594 3299,1628 3300,1964 550,1930"/>
+                <Baseline points="550,1925 3300,1959"/>
+                <TextEquiv>
+                    <Unicode>Lillafüred pr Diósgyőr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Lillafüred pr Diósgyőr</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

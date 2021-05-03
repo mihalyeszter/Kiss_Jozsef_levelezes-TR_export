@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2021-01-28T15:52:37.960+01:00</Created>
+        <LastChange>2021-02-09T09:32:56.817+01:00</LastChange>
+        <TranskribusMetadata docId="596051" pageId="23782402" pageNr="3" tsid="52206586" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=GSRBAXDSIQJOCGGMMEQBYFFC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UKEFCXUPIYAVLBEWAJHZONXZ" imageId="18259835"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#110_1c.tif" imageWidth="3287" imageHeight="4279">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424779386" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1611918443107_2050"/>
+                <RegionRefIndexed index="1" regionRef="region_1611918457679_2053"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1611918443107_2050" custom="readingOrder {index:0;}">
+            <Coords points="138,234 3264,234 3264,3609 129,3526"/>
+            <TextLine id="line_1611918490835_2059" custom="readingOrder {index:0;} sic {offset:18; length:5;}">
+                <Coords points="258,246 3239,345 3237,539 253,410"/>
+                <Baseline points="253,363 3237,492"/>
+                <TextEquiv>
+                    <Unicode>hogy már a Hét is prude!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1611918496474_2064" custom="readingOrder {index:1;}">
+                <Coords points="294,409 3222,546 3214,708 295,547"/>
+                <Baseline points="295,515 3214,676"/>
+                <TextEquiv>
+                    <Unicode>Mert az én regényem miatt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1611918502227_2069" custom="readingOrder {index:2;}">
+                <Coords points="285,555 3204,707 3205,871 286,719"/>
+                <Baseline points="286,690 3205,842"/>
+                <TextEquiv>
+                    <Unicode>akármilyen prude lehet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1611918508070_2074" custom="readingOrder {index:3;} supplied {offset:21; length:1;}">
+                <Coords points="229,721 3190,882 3191,1049 230,888"/>
+                <Baseline points="230,842 3191,1003"/>
+                <TextEquiv>
+                    <Unicode>miután ez egy gyermek¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1611918514523_2079" custom="readingOrder {index:4;}">
+                <Coords points="224,881 3170,1073 3163,1226 221,1037"/>
+                <Baseline points="221,1008 3163,1197"/>
+                <TextEquiv>
+                    <Unicode>kor története, a címe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1611918522786_2084" custom="readingOrder {index:5;}">
+                <Coords points="221,1066 3246,1237 3229,1422 204,1251"/>
+                <Baseline points="207,1201 3232,1372"/>
+                <TextEquiv>
+                    <Unicode>pedig „Szent Benedek leá¬ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1611918530219_2089" custom="readingOrder {index:6;}">
+                <Coords points="223,1291 3196,1402 3192,1512 207,1466"/>
+                <Baseline points="212,1395 3195,1487"/>
+                <TextEquiv>
+                    <Unicode>nya” és – ha nem volna</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1611918536467_2094" custom="readingOrder {index:7;}">
+                <Coords points="211,1465 3172,1516 3168,1686 207,1635"/>
+                <Baseline points="207,1597 3168,1648"/>
+                <TextEquiv>
+                    <Unicode>benne a régi zsidó pat¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1611918542015_2099" custom="readingOrder {index:8;}">
+                <Coords points="175,1644 3204,1713 3192,1887 168,1799"/>
+                <Baseline points="171,1758 3195,1846"/>
+                <TextEquiv>
+                    <Unicode>riarchalis erkölcsök di¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1611918548613_2104" custom="readingOrder {index:9;} unclear {offset:13; length:11;}">
+                <Coords points="273,1832 3257,1915 3247,2088 263,2005"/>
+                <Baseline points="207,1952 3191,2035"/>
+                <TextEquiv>
+                    <Unicode>csőítése – a Reparatzitt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1611918555692_2109" custom="readingOrder {index:10;}">
+                <Coords points="217,1987 3256,2089 3251,2264 212,2162"/>
+                <Baseline points="212,2117 3251,2219"/>
+                <TextEquiv>
+                    <Unicode>dámáknak is jó olvas¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1611918562275_2114" custom="readingOrder {index:11;}">
+                <Coords points="205,2161 3184,2267 3182,2432 196,2351"/>
+                <Baseline points="203,2297 3182,2403"/>
+                <TextEquiv>
+                    <Unicode>mánya lehetne. Őket</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1611918570364_2119" custom="readingOrder {index:12;} supplied {offset:21; length:1;}">
+                <Coords points="208,2352 3155,2444 3154,2582 207,2490"/>
+                <Baseline points="207,2467 3154,2559"/>
+                <TextEquiv>
+                    <Unicode>azért említem mert is¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1611918577330_2124" custom="readingOrder {index:13;}">
+                <Coords points="191,2520 3217,2611 3214,2779 189,2650"/>
+                <Baseline points="189,2615 3214,2744"/>
+                <TextEquiv>
+                    <Unicode>merem a felfogásukat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1611918587017_2129" custom="readingOrder {index:14;} supplied {offset:23; length:1;}">
+                <Coords points="202,2669 3204,2784 3191,2931 189,2816"/>
+                <Baseline points="189,2794 3191,2909"/>
+                <TextEquiv>
+                    <Unicode>és monasztikus szellemű¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1611918601033_2134" custom="readingOrder {index:15;}">
+                <Coords points="176,2842 3201,2929 3200,3120 175,3033"/>
+                <Baseline points="175,2983 3200,3070"/>
+                <TextEquiv>
+                    <Unicode>ket minthogy egy évig</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1611918609217_2139" custom="readingOrder {index:16;}">
+                <Coords points="188,3025 3194,3145 3209,3320 189,3185"/>
+                <Baseline points="189,3153 3195,3273"/>
+                <TextEquiv>
+                    <Unicode>köztük éltem s majd¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1611918617005_2144" custom="readingOrder {index:17;}">
+                <Coords points="175,3185 3245,3326 3237,3500 172,3410"/>
+                <Baseline points="180,3328 3237,3448"/>
+                <TextEquiv>
+                    <Unicode>hogy mindörökre köztük</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1611918623463_2149" custom="readingOrder {index:18;}">
+                <Coords points="202,3414 2816,3485 2809,3605 203,3513"/>
+                <Baseline points="203,3499 2809,3591"/>
+                <TextEquiv>
+                    <Unicode>nem maradtam.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>hogy már a Hét is prude!&#xD;
+Mert az én regényem miatt&#xD;
+akármilyen prude lehet&#xD;
+miután ez egy gyermek¬&#xD;
+kor története, a címe&#xD;
+pedig „Szent Benedek leá¬ &#xD;
+nya” és – ha nem volna&#xD;
+benne a régi zsidó pat¬&#xD;
+riarchalis erkölcsök di¬&#xD;
+csőítése – a Reparatzitt&#xD;
+dámáknak is jó olvas¬&#xD;
+mánya lehetne. Őket&#xD;
+azért említem mert is¬&#xD;
+merem a felfogásukat&#xD;
+és monasztikus szellemű¬&#xD;
+ket minthogy egy évig&#xD;
+köztük éltem s majd¬&#xD;
+hogy mindörökre köztük&#xD;
+nem maradtam.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1611918457679_2053" custom="readingOrder {index:1;}">
+            <Coords points="3223,4134 166,4134 161,3540 3223,3628"/>
+            <TextLine id="line_1611918634207_2154" custom="readingOrder {index:0;}">
+                <Coords points="172,3555 3203,3631 3197,3758 177,3726"/>
+                <Baseline points="180,3683 3200,3715"/>
+                <TextEquiv>
+                    <Unicode>De a Sátán, vagy ahogy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1611918640771_2159" custom="readingOrder {index:1;}">
+                <Coords points="245,3739 3178,3780 3177,3938 244,3897"/>
+                <Baseline points="244,3872 3177,3913"/>
+                <TextEquiv>
+                    <Unicode>az ottani kis mére eco¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1611918648059_2164" custom="readingOrder {index:2;}">
+                <Coords points="194,3921 3140,3949 3143,4128 197,4100"/>
+                <Baseline points="194,4028 3140,4056"/>
+                <TextEquiv>
+                    <Unicode>nome mondja: „le petit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>De a Sátán, vagy ahogy&#xD;
+az ottani kis mére eco¬&#xD;
+nome mondja: „le petit</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

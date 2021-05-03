@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-28T12:11:35.303+02:00</Created>
+        <LastChange>2020-12-01T17:35:55.503+01:00</LastChange>
+        <TranskribusMetadata docId="376744" pageId="14729687" pageNr="56" tsid="49757886" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=MBFLOHUETIYBRPAKWMYHPWBZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CKXHWKHXNCNQIARYUPNLJPJV" imageId="10670722"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#32_18b.tif" imageWidth="3274" imageHeight="2190">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619423987320" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1591901478244_1260"/>
+                <RegionRefIndexed index="1" regionRef="region_1591901484829_1263"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1591901478244_1260" custom="readingOrder {index:0;}">
+            <Coords points="3185,145 233,145 233,881 3185,881"/>
+            <TextLine id="line_1591901493887_1266" custom="readingOrder {index:0;}">
+                <Coords points="252,185 3175,155 3172,336 249,366"/>
+                <Baseline points="249,329 3172,299"/>
+                <TextEquiv>
+                    <Unicode>lehet. Unatkozni ott a legjobb. Azt szeretném, hogy ti is</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1591901499598_1271" custom="readingOrder {index:1;} sic {offset:12; length:7;}">
+                <Coords points="245,333 3137,292 3147,467 255,508"/>
+                <Baseline points="255,463 3147,422"/>
+                <TextEquiv>
+                    <Unicode>odajönnétek utánnam, föltéve, hogy alkalmas kvártélyt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1591901505049_1276" custom="readingOrder {index:2;}">
+                <Coords points="237,460 3076,419 3086,577 247,618"/>
+                <Baseline points="247,598 3086,557"/>
+                <TextEquiv>
+                    <Unicode>találok. Nekem már sehogy se jó egyedül. Nincsen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1591901512268_1281" custom="readingOrder {index:3;} sic {offset:34; length:7;}">
+                <Coords points="237,609 3171,565 3172,721 238,765"/>
+                <Baseline points="238,724 3172,680"/>
+                <TextEquiv>
+                    <Unicode>semmi bajom, csak szomoru vagyok. Olellek és csokollak</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1591901517861_1286" custom="readingOrder {index:4;}">
+                <Coords points="257,728 1792,692 1793,836 258,872"/>
+                <Baseline points="258,867 1793,831"/>
+                <TextEquiv>
+                    <Unicode>benneteket. Szerető híved</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>lehet. Unatkozni ott a legjobb. Azt szeretném, hogy ti is&#xD;
+odajönnétek utánnam, föltéve, hogy alkalmas kvártélyt&#xD;
+találok. Nekem már sehogy se jó egyedül. Nincsen&#xD;
+semmi bajom, csak szomoru vagyok. Olellek és csokollak&#xD;
+benneteket. Szerető híved</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1591901484829_1263" custom="readingOrder {index:1;}">
+            <Coords points="2683,1227 2254,1227 2254,702 2683,702"/>
+            <TextLine id="line_1591901522726_1291" custom="readingOrder {index:0;}">
+                <Coords points="2287,715 2657,710 2648,1207 2278,1212"/>
+                <Baseline points="2285,867 2655,862"/>
+                <TextEquiv>
+                    <Unicode>Józsi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Józsi</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

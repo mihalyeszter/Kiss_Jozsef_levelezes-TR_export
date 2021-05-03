@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-12-14T11:02:38.858+01:00</Created>
+        <LastChange>2021-01-05T09:53:25.726+01:00</LastChange>
+        <TranskribusMetadata docId="555480" pageId="22976862" pageNr="3" tsid="50688815" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=EUUPPEXHUJMTYNLMNBMYJEBG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ONTTQSBAYQYNQYWNEQEAOVBO" imageId="17928540"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#140_c.tif" imageWidth="2703" imageHeight="2216">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619423903506" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1608036117430_1782"/>
+                <RegionRefIndexed index="1" regionRef="region_1608036123893_1785"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1608036117430_1782" custom="readingOrder {index:0;}">
+            <Coords points="344,503 2347,503 2347,1209 344,1209"/>
+            <TextLine id="line_1608036132147_1788" custom="readingOrder {index:0;} add {offset:9; length:2;}">
+                <Coords points="384,525 2247,525 2245,766 382,766"/>
+                <Baseline points="384,696 2247,696"/>
+                <TextEquiv>
+                    <Unicode>Fogadják az édes anyám és a magam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1608036137380_1793" custom="readingOrder {index:1;}">
+                <Coords points="388,769 2322,814 2319,1004 385,959"/>
+                <Baseline points="389,893 2323,938"/>
+                <TextEquiv>
+                    <Unicode>nevében kifejezett legbensőbb részvétet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1608036141650_1798" custom="readingOrder {index:2;}">
+                <Coords points="372,1010 1274,1024 1273,1199 358,1209"/>
+                <Baseline points="373,1128 1275,1142"/>
+                <TextEquiv>
+                    <Unicode>nagy bánatukban.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Fogadják az édes anyám és a magam&#xD;
+nevében kifejezett legbensőbb részvétet&#xD;
+nagy bánatukban.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1608036123893_1785" custom="readingOrder {index:1;}">
+            <Coords points="1309,1211 2385,1211 2385,1575 1309,1575"/>
+            <TextLine id="line_1608036147150_1803" custom="readingOrder {index:0;}">
+                <Coords points="1328,1222 2395,1237 2386,1551 1319,1536"/>
+                <Baseline points="1313,1408 2380,1423"/>
+                <TextEquiv>
+                    <Unicode>Dr Goldziher Károly</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Dr Goldziher Károly</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

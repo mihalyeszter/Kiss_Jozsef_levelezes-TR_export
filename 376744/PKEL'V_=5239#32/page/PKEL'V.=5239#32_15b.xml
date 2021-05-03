@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-28T12:11:34.400+02:00</Created>
+        <LastChange>2020-12-01T17:19:54.485+01:00</LastChange>
+        <TranskribusMetadata docId="376744" pageId="14729650" pageNr="44" tsid="49757649" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=NFGESBZGBGZTPKEVFEFXWNQV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TCBXRYSFAQDGKKJWWJATIZST" imageId="10670685"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#32_15b.tif" imageWidth="3296" imageHeight="2194">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619423984251" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1591896401313_156"/>
+                <RegionRefIndexed index="1" regionRef="region_1591896436991_159"/>
+                <RegionRefIndexed index="2" regionRef="region_1591896519659_164"/>
+                <RegionRefIndexed index="3" regionRef="region_1591896536085_167"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1591896401313_156" custom="readingOrder {index:0;}">
+            <Coords points="3202,107 238,107 238,1065 3202,1065"/>
+            <TextLine id="line_1591896627844_170" custom="readingOrder {index:0;} unclear {offset:8; length:1;}">
+                <Coords points="269,131 3139,123 3127,330 257,338"/>
+                <Baseline points="263,282 3133,274"/>
+                <TextEquiv>
+                    <Unicode>fatumom a jó barátok. Most semmiféle kurát</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1591896633225_175" custom="readingOrder {index:1;}">
+                <Coords points="282,299 3073,272 3062,421 271,448"/>
+                <Baseline points="271,422 3062,395"/>
+                <TextEquiv>
+                    <Unicode>nem tartok. Holnapra egy masseurt rendeltem és</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1591896649580_180" custom="readingOrder {index:2;}">
+                <Coords points="286,436 1561,411 2946,417 3183,453 3186,622 2922,590 1554,598 277,604"/>
+                <Baseline points="282,565 1557,532 2922,530 3188,617"/>
+                <TextEquiv>
+                    <Unicode>megkezdem a fürdést, ami ilyen hidegbe nem passió.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1591896657185_185" custom="readingOrder {index:3;}">
+                <Coords points="267,554 3121,521 3122,765 268,748"/>
+                <Baseline points="263,719 3117,686"/>
+                <TextEquiv>
+                    <Unicode>A legrosszabb esetben haza megyek és Füreden vagy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1591896663270_190" custom="readingOrder {index:4;}">
+                <Coords points="257,726 2894,704 2906,902 269,924"/>
+                <Baseline points="263,865 2900,843"/>
+                <TextEquiv>
+                    <Unicode>Priessnitzthalban próbálok nyaralni vagy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1591896672572_195" custom="readingOrder {index:5;} sic {offset:17; length:9;}">
+                <Coords points="277,875 2312,853 2312,1035 277,1057"/>
+                <Baseline points="277,1002 2312,980"/>
+                <TextEquiv>
+                    <Unicode>esetleg elmegyek Herkuless fürdőre.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>fatumom a jó barátok. Most semmiféle kurát&#xD;
+nem tartok. Holnapra egy masseurt rendeltem és&#xD;
+megkezdem a fürdést, ami ilyen hidegbe nem passió.&#xD;
+A legrosszabb esetben haza megyek és Füreden vagy&#xD;
+Priessnitzthalban próbálok nyaralni vagy&#xD;
+esetleg elmegyek Herkuless fürdőre.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1591896436991_159" custom="readingOrder {index:1;}">
+            <Coords points="241,1799 3205,1799 3205,988 241,988"/>
+            <TextLine id="line_1591896683440_200" custom="readingOrder {index:0;}">
+                <Coords points="405,1027 3168,970 3169,1127 406,1184"/>
+                <Baseline points="406,1150 3169,1093"/>
+                <TextEquiv>
+                    <Unicode>Nem tudom mi lesz. A mai nap annyival volt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1591896738812_205" custom="readingOrder {index:1;}">
+                <Coords points="259,1158 2942,1097 2946,1264 263,1325"/>
+                <Baseline points="263,1285 2946,1224"/>
+                <TextEquiv>
+                    <Unicode>jobb, hogy az ebédet elköltöttem Gellériék</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1591896746873_210" custom="readingOrder {index:2;} unclear {offset:24; length:1;}">
+                <Coords points="278,1297 3079,1237 3081,1477 277,1503"/>
+                <Baseline points="280,1452 3081,1392"/>
+                <TextEquiv>
+                    <Unicode>társaságában. Annyi itt a magyar, hogy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1591896758972_215" custom="readingOrder {index:3;}">
+                <Coords points="268,1451 3191,1408 3194,1636 274,1635"/>
+                <Baseline points="274,1606 3191,1576"/>
+                <TextEquiv>
+                    <Unicode>szinte scandalum. Nem jól érzem magamat.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1591896768350_220" custom="readingOrder {index:4;}">
+                <Coords points="289,1611 2855,1567 2848,1748 282,1792"/>
+                <Baseline points="282,1763 2848,1719"/>
+                <TextEquiv>
+                    <Unicode>Este 8 órakor fekszem és 9 órakor kelek.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Nem tudom mi lesz. A mai nap annyival volt&#xD;
+jobb, hogy az ebédet elköltöttem Gellériék&#xD;
+társaságában. Annyi itt a magyar, hogy&#xD;
+szinte scandalum. Nem jól érzem magamat.&#xD;
+Este 8 órakor fekszem és 9 órakor kelek.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1591896519659_164" custom="readingOrder {index:2;}">
+            <Coords points="431,1903 2702,1903 2702,1719 431,1719"/>
+            <TextLine id="line_1591896798630_225" custom="readingOrder {index:0;} unclear {offset:6; length:1;} sic {offset:26; length:4;}">
+                <Coords points="458,1761 2689,1709 2675,1845 444,1897"/>
+                <Baseline points="444,1892 2675,1840"/>
+                <TextEquiv>
+                    <Unicode>Várom a leveleteket. Ölel hívd</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Várom a leveleteket. Ölel hívd</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1591896536085_167" custom="readingOrder {index:3;}">
+            <Coords points="2518,2035 3012,2035 3012,1793 2518,1793"/>
+            <TextLine id="line_1591896805380_230" custom="readingOrder {index:0;}">
+                <Coords points="2543,1811 3012,1805 3001,2010 2532,2016"/>
+                <Baseline points="2532,1999 3001,1993"/>
+                <TextEquiv>
+                    <Unicode>Józsi.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Józsi.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-06-03T17:22:40.948+02:00</Created>
+        <LastChange>2020-11-24T15:06:00.521+01:00</LastChange>
+        <TranskribusMetadata docId="401428" pageId="15532076" pageNr="3" tsid="49525564" status="IN_PROGRESS" userId="56520" imgUrl="https://files.transkribus.eu/Get?id=WJJEVXUDLABOEEGRLJDTRPOA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RIXZDFUSEVTVMTKQFCWLFYRN" imageId="11359903"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#67_c.tif" imageWidth="2499" imageHeight="1646">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424486459" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1593024053310_1036"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1593024053310_1036" custom="readingOrder {index:0;}">
+            <Coords points="50,626 2456,626 2456,1587 50,1587"/>
+            <TextLine id="line_1593024062120_1039" custom="readingOrder {index:0;}">
+                <Coords points="599,659 2422,650 2428,876 605,885"/>
+                <Baseline points="605,880 2428,871"/>
+                <TextEquiv>
+                    <Unicode>Beck Dénes őszinte ba¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1593024067534_1044" custom="readingOrder {index:1;}">
+                <Coords points="209,839 2568,889 2577,1003 211,1005"/>
+                <Baseline points="60,984 2426,982"/>
+                <TextEquiv>
+                    <Unicode>ráti szívvel csatlakozik számtalan tisztelőid</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1593024074434_1049" custom="readingOrder {index:2;}">
+                <Coords points="56,981 2449,995 2442,1180 55,1153"/>
+                <Baseline points="57,1086 2444,1113"/>
+                <TextEquiv>
+                    <Unicode>üdvözleteihez még avval, hogy az egek áldását</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1593024083798_1054" custom="readingOrder {index:3;}">
+                <Coords points="61,1080 2418,1119 2419,1284 62,1245"/>
+                <Baseline points="64,1194 2421,1233"/>
+                <TextEquiv>
+                    <Unicode>kéri további munkásságodra, a melyet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1593024090278_1059" custom="readingOrder {index:4;}">
+                <Coords points="63,1206 2454,1233 2447,1403 60,1352"/>
+                <Baseline points="64,1321 2451,1372"/>
+                <TextEquiv>
+                    <Unicode>folytatólagos dicsőségedre, erőben és egészségben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1593024099699_1064" custom="readingOrder {index:5;}">
+                <Coords points="53,1301 2444,1359 2451,1519 60,1461"/>
+                <Baseline points="60,1432 2451,1490"/>
+                <TextEquiv>
+                    <Unicode>teljes lelki megelégedéssel folytathassad ad mul¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1593024106302_1069" custom="readingOrder {index:6;}">
+                <Coords points="62,1434 1134,1471 1132,1583 60,1546"/>
+                <Baseline points="60,1541 1132,1578"/>
+                <TextEquiv>
+                    <Unicode>tos annos! 1907. XII. 16.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Beck Dénes őszinte ba¬&#xD;
+ráti szívvel csatlakozik számtalan tisztelőid&#xD;
+üdvözleteihez még avval, hogy az egek áldását&#xD;
+kéri további munkásságodra, a melyet&#xD;
+folytatólagos dicsőségedre, erőben és egészségben&#xD;
+teljes lelki megelégedéssel folytathassad ad mul¬&#xD;
+tos annos! 1907. XII. 16.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

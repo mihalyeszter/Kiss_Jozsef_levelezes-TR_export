@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2021-04-08T10:44:54.301+02:00</Created>
+        <LastChange>2021-04-19T08:59:22.280+02:00</LastChange>
+        <TranskribusMetadata docId="649132" pageId="25213433" pageNr="2" tsid="56735698" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=ZAJQXPXFOOTZWASLQPLHMTVF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BRWXYUXWCOEGURRKBOXGIBTE" imageId="19444354"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#173_15b.tif" imageWidth="3583" imageHeight="4563">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424947653" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1617958515894_106"/>
+                <RegionRefIndexed index="1" regionRef="region_1617958521214_109"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1617958515894_106" custom="readingOrder {index:0;}">
+            <Coords points="357,886 3321,886 3305,2007 341,2007"/>
+            <TextLine id="line_1617958529423_112" custom="readingOrder {index:0;} textStyle {offset:14; length:1;strikethrough:true; fontSize:0.0; kerning:0;} add {offset:15; length:1;} unclear {offset:24; length:13;}">
+                <Coords points="569,1084 3249,915 3268,1153 588,1322"/>
+                <Baseline points="580,1269 3260,1100"/>
+                <TextEquiv>
+                    <Unicode>Egyben kegyes úutólagos engedelmeddel beje¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617958533274_117" custom="readingOrder {index:1;} sic {offset:7; length:6;} gap {offset:18; length:0;}">
+                <Coords points="430,1343 3103,1211 3145,1509 472,1641"/>
+                <Baseline points="448,1576 3121,1444"/>
+                <TextEquiv>
+                    <Unicode>lentek nehány sor </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617958536538_122" custom="readingOrder {index:2;}">
+                <Coords points="432,1757 3083,1581 3118,1835 467,2011"/>
+                <Baseline points="455,1950 3106,1774"/>
+                <TextEquiv>
+                    <Unicode>Apponyi Albertné melegedő szobáiról.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Egyben kegyes úutólagos engedelmeddel beje¬&#xD;
+lentek nehány sor &#xD;
+Apponyi Albertné melegedő szobáiról.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1617958521214_109" custom="readingOrder {index:1;}">
+            <Coords points="338,2064 3464,2064 3464,3848 338,3848"/>
+            <TextLine id="line_1617958539762_127" custom="readingOrder {index:0;}">
+                <Coords points="845,2150 3292,2080 3304,2262 858,2486"/>
+                <Baseline points="858,2481 3304,2257"/>
+                <TextEquiv>
+                    <Unicode>Igen kérlek, hogy a Dánielné dolgá¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617958542986_132" custom="readingOrder {index:1;} textStyle {offset:29; length:8;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="398,2556 3188,2336 3228,2598 438,2818"/>
+                <Baseline points="430,2781 3220,2561"/>
+                <TextEquiv>
+                    <Unicode>ról való elhatározásod felől értesíts</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617958546869_137" custom="readingOrder {index:2;} textStyle {offset:26; length:6;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="422,2847 3278,2635 3297,2869 441,3081"/>
+                <Baseline points="437,3044 3293,2832"/>
+                <TextEquiv>
+                    <Unicode>engem lakásomra legkésőbb holnap,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617958550459_142" custom="readingOrder {index:3;} textStyle {offset:0; length:25;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="417,3090 3119,2914 3158,3200 456,3376"/>
+                <Baseline points="444,3363 3146,3187"/>
+                <TextEquiv>
+                    <Unicode>csütörtökön, déli 1 óráig, mert ez</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617958555423_147" custom="readingOrder {index:4;}">
+                <Coords points="488,3492 3405,3223 3453,3545 536,3814"/>
+                <Baseline points="524,3733 3441,3464"/>
+                <TextEquiv>
+                    <Unicode>órára ígértem én is H. Elzának, hogy tele¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Igen kérlek, hogy a Dánielné dolgá¬&#xD;
+ról való elhatározásod felől értesíts&#xD;
+engem lakásomra legkésőbb holnap,&#xD;
+csütörtökön, déli 1 óráig, mert ez&#xD;
+órára ígértem én is H. Elzának, hogy tele¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

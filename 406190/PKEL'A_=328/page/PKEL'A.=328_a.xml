@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-06-09T18:49:58.636+02:00</Created>
+        <LastChange>2020-11-19T11:44:42.420+01:00</LastChange>
+        <TranskribusMetadata docId="406190" pageId="15986754" pageNr="1" tsid="49136837" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=RVWSZFNYPPTXZGEKKWVWZBIF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DVPMBILZHUDVTTDBYOKJYLRK" imageId="11801621"/>
+    </Metadata>
+    <Page imageFilename="PKEL'A.=328_a.tif" imageWidth="2478" imageHeight="1528">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424462350" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1593110134679_891"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1593110134679_891" custom="readingOrder {index:0;}">
+            <Coords points="198,86 2257,86 2257,1412 198,1412"/>
+            <TextLine id="line_1593110141353_894" custom="readingOrder {index:0;}">
+                <Coords points="233,85 2077,134 2064,298 220,249"/>
+                <Baseline points="220,216 2064,265"/>
+                <TextEquiv>
+                    <Unicode>Mélyen Tisztelt Szerkesztő</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1593110187531_899" custom="readingOrder {index:1;} sic {offset:0; length:5;}">
+                <Coords points="252,207 2192,290 2184,452 244,369"/>
+                <Baseline points="246,346 2186,429"/>
+                <TextEquiv>
+                    <Unicode>Ur, kedves Józsi bátyám,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1593110193008_904" custom="readingOrder {index:2;}">
+                <Coords points="249,337 2238,463 2225,615 236,489"/>
+                <Baseline points="236,484 2225,610"/>
+                <TextEquiv>
+                    <Unicode>itt küldöm a cikket,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1593110198792_909" custom="readingOrder {index:3;} sic {offset:2; length:5;}">
+                <Coords points="244,497 2080,591 2064,741 228,647"/>
+                <Baseline points="228,642 2064,736"/>
+                <TextEquiv>
+                    <Unicode>a címet tessék föl¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1593110208631_914" custom="readingOrder {index:4;}">
+                <Coords points="252,652 2111,739 2095,907 236,820"/>
+                <Baseline points="236,815 2095,902"/>
+                <TextEquiv>
+                    <Unicode>cserélni, ha egy jobb</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1593110214576_919" custom="readingOrder {index:5;} sic {offset:0; length:3;} unclear {offset:15; length:3;}">
+                <Coords points="254,812 2194,916 2241,1116 250,990"/>
+                <Baseline points="248,955 2188,1059"/>
+                <TextEquiv>
+                    <Unicode>cím ötlenék. A jel,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1593110221365_924" custom="readingOrder {index:6;}">
+                <Coords points="243,974 2244,1096 2239,1228 238,1106"/>
+                <Baseline points="238,1101 2239,1223"/>
+                <TextEquiv>
+                    <Unicode>a Barla név, talán</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1593110226510_929" custom="readingOrder {index:7;}">
+                <Coords points="252,1137 2074,1200 2064,1364 242,1301"/>
+                <Baseline points="242,1296 2064,1359"/>
+                <TextEquiv>
+                    <Unicode>jó lesz, de ez is</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Mélyen Tisztelt Szerkesztő&#xD;
+Ur, kedves Józsi bátyám,&#xD;
+itt küldöm a cikket,&#xD;
+a címet tessék föl¬&#xD;
+cserélni, ha egy jobb&#xD;
+cím ötlenék. A jel,&#xD;
+a Barla név, talán&#xD;
+jó lesz, de ez is</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2021-02-22T22:59:41.515+01:00</Created>
+        <LastChange>2021-03-01T17:44:02.897+01:00</LastChange>
+        <TranskribusMetadata docId="616386" pageId="24434588" pageNr="2" tsid="53202051" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=JHHCAHKCDTECCDDTKROLZSJI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VUTIKZWINCTPBBYAZXVPTVQR" imageId="18809577"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#65_9b.tif" imageWidth="2777" imageHeight="1858">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424992217" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1614246292664_131"/>
+                <RegionRefIndexed index="1" regionRef="region_1614246296821_134"/>
+                <RegionRefIndexed index="2" regionRef="region_1614246300508_137"/>
+                <RegionRefIndexed index="3" regionRef="region_1614246304305_140"/>
+                <RegionRefIndexed index="4" regionRef="region_1614246308183_146"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1614246292664_131" custom="readingOrder {index:0;}">
+            <Coords points="374,26 1588,26 1591,226 374,236"/>
+            <TextLine id="line_1614246424698_168" custom="readingOrder {index:0;}">
+                <Coords points="489,92 1556,78 1483,226 391,232"/>
+                <Baseline points="425,224 1492,210"/>
+                <TextEquiv>
+                    <Unicode>Kedves Barátom!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kedves Barátom!</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1614246296821_134" custom="readingOrder {index:1;}">
+            <Coords points="109,253 2212,203 2205,566 673,581 591,655 78,659"/>
+            <TextLine id="line_1614246429042_173" custom="readingOrder {index:0;} sic {offset:9; length:13;}">
+                <Coords points="355,237 2179,210 2184,312 2004,323 1938,315 1716,346 1624,321 1322,343 1303,315 931,346 760,376 721,351 652,368 328,349"/>
+                <Baseline points="328,344 2166,294"/>
+                <TextEquiv>
+                    <Unicode>Ama fájó vesztességhez – mely drága</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1614246432713_178" custom="readingOrder {index:1;}">
+                <Coords points="108,365 652,357 796,365 923,340 1275,323 1317,323 1389,337 1525,321 1696,321 1710,348 1860,323 1993,323 2007,337 2087,315 2193,321 2189,393 1347,407 1286,448 1256,426 929,443 854,470 801,470 771,437 100,443"/>
+                <Baseline points="100,438 2189,388"/>
+                <TextEquiv>
+                    <Unicode>hitvesed elhunytával Téged és b. családod</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1614246436096_183" custom="readingOrder {index:2;}">
+                <Coords points="108,456 743,443 851,459 907,434 1236,423 1275,445 1347,412 2218,393 2203,490 1480,556 832,562 552,548 424,573 110,551"/>
+                <Baseline points="110,546 2203,485"/>
+                <TextEquiv>
+                    <Unicode>ért – fogadd legbensőbb és legőszintébb rész¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1614246439993_188" custom="readingOrder {index:3;}">
+                <Coords points="145,577 565,570 533,641 94,659"/>
+                <Baseline points="113,643 533,636"/>
+                <TextEquiv>
+                    <Unicode>vétemet.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ama fájó vesztességhez – mely drága&#xD;
+hitvesed elhunytával Téged és b. családod&#xD;
+ért – fogadd legbensőbb és legőszintébb rész¬&#xD;
+vétemet.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1614246300508_137" custom="readingOrder {index:2;}">
+            <Coords points="67,651 619,641 657,589 2746,545 2689,995 683,966 664,1087 61,1100"/>
+            <TextLine id="line_1614246446229_193" custom="readingOrder {index:0;}">
+                <Coords points="369,656 574,645 627,612 2686,556 2679,668 1702,739 834,731 665,747 640,723 321,732"/>
+                <Baseline points="321,727 2679,663"/>
+                <TextEquiv>
+                    <Unicode>Mindég őszinte kegyelettel fogom megőrizni drá¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1614246450829_198" custom="readingOrder {index:1;}">
+                <Coords points="147,752 679,747 2719,682 2650,795 222,872 122,914 78,865"/>
+                <Baseline points="90,854 2662,784"/>
+                <TextEquiv>
+                    <Unicode>ga emlékét – kinek minden megnyilatkozása – mint</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1614246454614_203" custom="readingOrder {index:2;}">
+                <Coords points="204,853 1586,820 1641,856 1799,811 2622,786 2545,896 1619,972 424,991 114,983"/>
+                <Baseline points="127,958 2545,891"/>
+                <TextEquiv>
+                    <Unicode>feleség s mint anya a jóság és önfeláldozás</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1614246458187_208" custom="readingOrder {index:3;}">
+                <Coords points="185,990 688,966 640,1077 144,1086"/>
+                <Baseline points="174,1062 630,1052"/>
+                <TextEquiv>
+                    <Unicode>voltak.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Mindég őszinte kegyelettel fogom megőrizni drá¬&#xD;
+ga emlékét – kinek minden megnyilatkozása – mint&#xD;
+feleség s mint anya a jóság és önfeláldozás&#xD;
+voltak.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1614246304305_140" custom="readingOrder {index:3;}">
+            <Coords points="659,992 2328,960 2321,1131 659,1131"/>
+            <TextLine id="line_1614246461075_213" custom="readingOrder {index:0;}">
+                <Coords points="710,990 2035,960 2015,1087 640,1138"/>
+                <Baseline points="690,1112 2015,1082"/>
+                <TextEquiv>
+                    <Unicode>Őszinte híved és Barátod</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Őszinte híved és Barátod</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1614246308183_146" custom="readingOrder {index:4;}">
+            <Coords points="82,1468 1726,1468 1726,1719 82,1719"/>
+            <TextLine id="line_1614246466339_223" custom="readingOrder {index:0;}">
+                <Coords points="179,1570 1741,1507 1685,1695 139,1722"/>
+                <Baseline points="154,1693 1700,1666"/>
+                <TextEquiv>
+                    <Unicode>Budapest, 1921 deczember 11.én.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Budapest, 1921 deczember 11.én.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-06-05T11:05:10.888+02:00</Created>
+        <LastChange>2021-02-09T08:51:20.784+01:00</LastChange>
+        <TranskribusMetadata docId="403337" pageId="15583884" pageNr="1" tsid="52197485" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=UTSDQZLQTEPOMHEOSRJRGGTF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YEANKIEOQYVGBYBKXRZQEMAK" imageId="11408526"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#84_a.tif" imageWidth="3014" imageHeight="2428">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424381985" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1595176704136_291"/>
+                <RegionRefIndexed index="1" regionRef="region_1595176712837_294"/>
+                <RegionRefIndexed index="2" regionRef="region_1595176724147_297"/>
+                <RegionRefIndexed index="3" regionRef="region_1595176731135_300"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1595176704136_291" custom="readingOrder {index:0;}">
+            <Coords points="2630,1014 497,1014 497,1397 2630,1397"/>
+            <TextLine id="line_1595176740770_303" custom="readingOrder {index:0;}">
+                <Coords points="521,1096 2602,1037 2606,1373 513,1399"/>
+                <Baseline points="519,1304 2600,1245"/>
+                <TextEquiv>
+                    <Unicode>Monsieur József Kiss</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Monsieur József Kiss</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1595176712837_294" custom="readingOrder {index:1;}">
+            <Coords points="412,1408 2220,1408 2220,1687 412,1687"/>
+            <TextLine id="line_1595176747215_308" custom="readingOrder {index:0;} sic {offset:6; length:12;}">
+                <Coords points="455,1440 2201,1456 2198,1679 452,1663"/>
+                <Baseline points="452,1613 2198,1629"/>
+                <TextEquiv>
+                    <Unicode>A Hét Szerkesztője</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>A Hét Szerkesztője</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1595176724147_297" custom="readingOrder {index:2;}">
+            <Coords points="423,1690 2901,1690 2901,1924 423,1924"/>
+            <TextLine id="line_1595176756056_313" custom="readingOrder {index:0;} sic {offset:12; length:8;}">
+                <Coords points="433,1698 2890,1702 2891,1887 428,1919"/>
+                <Baseline points="428,1890 2891,1858"/>
+                <TextEquiv>
+                    <Unicode>VIII., Rökk Szillárd-u.18</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>VIII., Rökk Szillárd-u.18</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1595176731135_300" custom="readingOrder {index:3;}">
+            <Coords points="1392,1932 2749,1932 2749,2321 1392,2321"/>
+            <TextLine id="line_1595176762071_318" custom="readingOrder {index:0;} textStyle {offset:0; length:9;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="1397,1951 2736,1955 2736,2212 1400,2313"/>
+                <Baseline points="1397,2233 2733,2132"/>
+                <TextEquiv>
+                    <Unicode>Buda Pest</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Buda Pest</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

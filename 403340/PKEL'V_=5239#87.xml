@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>PKEL'V.=5239#87</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: eszter.mihaly@gmail.com</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile xml:id='facs_1'>
+		<surface ulx='0' uly='0' lrx='2830' lry='4322'>
+			<graphic url='PKEL'V.=5239#87_a.tif' width='2830px' height='4322px'/>
+			<zone ulx='1300' uly='125' lrx='2727' lry='713' rendition='TextRegion' xml:id='facs_1_TextRegion_1594278621872_1249'>
+				<zone ulx='1314' uly='126' lrx='2752' lry='671' rendition='Line' xml:id='facs_1_line_1594278735599_1272'/>
+			</zone>
+			<zone ulx='358' uly='601' lrx='2205' lry='904' rendition='TextRegion' xml:id='facs_1_region_1594278637370_1255'>
+				<zone ulx='363' uly='621' lrx='2172' lry='900' rendition='Line' xml:id='facs_1_line_1594278743121_1277'/>
+			</zone>
+			<zone ulx='139' uly='899' lrx='2732' lry='3739' rendition='TextRegion' xml:id='facs_1_region_1594278660232_1258'>
+				<zone ulx='214' uly='917' lrx='2728' lry='1285' rendition='Line' xml:id='facs_1_line_1594278748177_1282'/>
+				<zone ulx='199' uly='1267' lrx='2728' lry='1618' rendition='Line' xml:id='facs_1_line_1594278753043_1287'/>
+				<zone ulx='171' uly='1561' lrx='2713' lry='1968' rendition='Line' xml:id='facs_1_line_1594278757524_1292'/>
+				<zone ulx='190' uly='1900' lrx='2736' lry='2328' rendition='Line' xml:id='facs_1_line_1594278764641_1297'/>
+				<zone ulx='213' uly='2283' lrx='2722' lry='2697' rendition='Line' xml:id='facs_1_line_1594278772162_1302'/>
+				<zone ulx='214' uly='2692' lrx='2736' lry='3053' rendition='Line' xml:id='facs_1_line_1594278777556_1307'/>
+				<zone ulx='191' uly='2971' lrx='2722' lry='3318' rendition='Line' xml:id='facs_1_line_1594278783827_1312'/>
+				<zone ulx='170' uly='3389' lrx='1920' lry='3567' rendition='Line' xml:id='facs_1_line_1594278788307_1317'/>
+			</zone>
+			<zone ulx='321' uly='3617' lrx='2722' lry='4228' rendition='TextRegion' xml:id='facs_1_TextRegion_1594278698125_1266'>
+				<zone ulx='606' uly='3663' lrx='2560' lry='3991' rendition='Line' xml:id='facs_1_line_1594278794874_1322'/>
+			</zone>
+			<zone ulx='1104' uly='4093' lrx='1240' lry='4228' rendition='TextRegion' xml:id='facs_1_TextRegion_1594278698125_1265'>
+				<zone ulx='1118' uly='4103' lrx='1229' lry='4219' rendition='Line' xml:id='facs_1_line_1594278800483_1327'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<pb facs='#facs_1' n='1'/>
+			<p facs='#facs_1_TextRegion_1594278621872_1249'>
+				<lb facs='#facs_1_line_1594278735599_1272' n='N001'/>Mándok 5/XII
+			</p>
+			<p facs='#facs_1_region_1594278637370_1255'>
+				<lb facs='#facs_1_line_1594278743121_1277' n='N001'/>Tisztelt uram!
+			</p>
+			<p facs='#facs_1_region_1594278660232_1258'>
+				<lb facs='#facs_1_line_1594278748177_1282' n='N001'/>Megtisztelő felhívásának
+				<lb facs='#facs_1_line_1594278753043_1287' n='N002'/>eleget téve, ide mellékelve
+				<lb facs='#facs_1_line_1594278757524_1292' n='N003'/>küldök a Hét jubiláris szá¬
+				<lb facs='#facs_1_line_1594278764641_1297' n='N004'/>ma részére egy költeményt
+				<lb facs='#facs_1_line_1594278772162_1302' n='N005'/>Azon kívánsággal, hogy e kitű¬
+				<lb facs='#facs_1_line_1594278777556_1307' n='N006'/>nő lap továbbra is eredmény¬
+				<lb facs='#facs_1_line_1594278783827_1312' n='N007'/>teljesen működjék, maradtam
+				<lb facs='#facs_1_line_1594278788307_1317' n='N008'/>őszinte tisztelője
+			</p>
+			<p facs='#facs_1_TextRegion_1594278698125_1266'>
+				<lb facs='#facs_1_line_1594278794874_1322' n='N001'/>Czóbel Minka
+			</p>
+			<p facs='#facs_1_TextRegion_1594278698125_1265'>
+				<lb facs='#facs_1_line_1594278800483_1327' n='N001'/>1
+			</p>
+		</body>
+	</text>
+</TEI>

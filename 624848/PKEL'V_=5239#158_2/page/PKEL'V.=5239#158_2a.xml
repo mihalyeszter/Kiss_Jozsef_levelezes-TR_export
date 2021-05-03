@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2021-03-08T11:44:23.322+01:00</Created>
+        <LastChange>2021-03-16T14:00:17.534+01:00</LastChange>
+        <TranskribusMetadata docId="624848" pageId="24631420" pageNr="1" tsid="53769491" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=VEOLSAPXSCTJCFUDLHVSGTYQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HWRKWFKKRXRNHEJKTPDPPWPR" imageId="18975764"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#158_2a.tif" imageWidth="3620" imageHeight="5464">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424812649" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1615393774631_4354"/>
+                <RegionRefIndexed index="1" regionRef="region_1615393779891_4362"/>
+                <RegionRefIndexed index="2" regionRef="region_1615393792021_4370"/>
+                <RegionRefIndexed index="3" regionRef="region_1615393805951_4373"/>
+                <RegionRefIndexed index="4" regionRef="region_1615393814251_4376"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1615393774631_4354" custom="readingOrder {index:0;}">
+            <Coords points="1308,408 1311,683 3093,683 3090,408"/>
+            <TextLine id="line_1615393774641_4357" custom="readingOrder {index:0;}">
+                <Coords points="1308,423 3090,417 3090,668 1308,674"/>
+                <Baseline points="1311,585 3093,579"/>
+                <TextEquiv>
+                    <Unicode>Budapesten 1903 XII. 29.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Budapesten 1903 XII. 29.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1615393779891_4362" custom="readingOrder {index:1;}">
+            <Coords points="685,1123 691,1465 2294,1465 2288,1123"/>
+            <TextLine id="line_1615393779906_4365" custom="readingOrder {index:0;}">
+                <Coords points="687,1134 2292,1132 2285,1456 693,1465"/>
+                <Baseline points="693,1460 2294,1398"/>
+                <TextEquiv>
+                    <Unicode>Kedves Öcsémuram!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kedves Öcsémuram!</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1615393792021_4370" custom="readingOrder {index:2;}">
+            <Coords points="775,1542 3441,1542 3441,2965 775,2965"/>
+            <TextLine id="line_1615393897246_4398" custom="readingOrder {index:0;}">
+                <Coords points="968,1564 3247,1551 3245,1859 962,1873"/>
+                <Baseline points="962,1823 3242,1794"/>
+                <TextEquiv>
+                    <Unicode>Ha a Szilágyi szivarja mehet,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615393902916_4403" custom="readingOrder {index:1;}">
+                <Coords points="790,1884 3283,1872 3286,2070 790,2099"/>
+                <Baseline points="793,2028 3286,2016"/>
+                <TextEquiv>
+                    <Unicode>igen kérem, szíveskedjék ott, a hol</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615393915251_4408" custom="readingOrder {index:2;} abbrev {offset:2; length:5;}">
+                <Coords points="813,2104 2058,2117 2168,2108 3151,2070 3163,2257 3148,2322 3017,2319 2821,2278 2070,2309 2004,2319 810,2286"/>
+                <Baseline points="813,2227 2039,2236 2063,2265 3154,2213"/>
+                <TextEquiv>
+                    <Unicode>a m. e. partot felsorolom még</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615393921621_4413" custom="readingOrder {index:3;} sic {offset:7; length:4;}">
+                <Coords points="780,2339 795,2292 2013,2322 2788,2283 3017,2316 3288,2310 3286,2485 778,2514"/>
+                <Baseline points="781,2464 3289,2435"/>
+                <TextEquiv>
+                    <Unicode>Beöthy Akos és Pulszky Guszti ne¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615393928271_4418" custom="readingOrder {index:4;}">
+                <Coords points="787,2516 3429,2493 3435,2750 793,2734"/>
+                <Baseline points="790,2657 3432,2634"/>
+                <TextEquiv>
+                    <Unicode>vét közbeszúrni; a rágyujtók között,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615393933241_4423" custom="readingOrder {index:5;} textStyle {offset:0; length:13;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="814,2737 2845,2773 2841,2959 810,2948"/>
+                <Baseline points="813,2891 2844,2927"/>
+                <TextEquiv>
+                    <Unicode>Gullner előtt ezt betoldani:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ha a Szilágyi szivarja mehet,&#xD;
+igen kérem, szíveskedjék ott, a hol&#xD;
+a m. e. partot felsorolom még&#xD;
+Beöthy Akos és Pulszky Guszti ne¬&#xD;
+vét közbeszúrni; a rágyujtók között,&#xD;
+Gullner előtt ezt betoldani:</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1615393805951_4373" custom="readingOrder {index:3;}">
+            <Coords points="734,2979 3473,2979 3473,4712 734,4712"/>
+            <TextLine id="line_1615393945641_4428" custom="readingOrder {index:0;} textStyle {offset:11; length:7;underlined:true; fontSize:0.0; kerning:0;} textStyle {offset:19; length:6;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="1029,2986 3233,2995 3257,3196 1038,3217"/>
+                <Baseline points="1038,3172 3242,3181"/>
+                <TextEquiv>
+                    <Unicode>Rágyujtott Pulszky Guszti is egy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615393951221_4433" custom="readingOrder {index:1;}">
+                <Coords points="784,3273 787,3228 2809,3261 2850,3310 3064,3334 3072,3468 792,3407"/>
+                <Baseline points="795,3351 3075,3412"/>
+                <TextEquiv>
+                    <Unicode>nyúlfarknyi államtitkárságra,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615393957141_4438" custom="readingOrder {index:2;} add {offset:0; length:14;}">
+                <Coords points="2844,3209 3356,3214 3362,3304 2856,3290"/>
+                <Baseline points="2844,3287 3356,3292"/>
+                <TextEquiv>
+                    <Unicode>azért ennyire,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615393964121_4443" custom="readingOrder {index:3;}">
+                <Coords points="3091,3326 3356,3301 3353,3388 3093,3397"/>
+                <Baseline points="3093,3392 3353,3383"/>
+                <TextEquiv>
+                    <Unicode>mert</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615393979381_4448" custom="readingOrder {index:4;}">
+                <Coords points="816,3421 3395,3477 3379,3641 795,3600"/>
+                <Baseline points="801,3547 3385,3588"/>
+                <TextEquiv>
+                    <Unicode>kisült, hogy nem született beámter¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615393984251_4453" custom="readingOrder {index:5;}">
+                <Coords points="794,3609 3321,3638 3312,3849 790,3796"/>
+                <Baseline points="793,3746 3315,3799"/>
+                <TextEquiv>
+                    <Unicode>nek és ezt nem tudta; pedig Szilágyi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615393989761_4458" custom="readingOrder {index:6;}">
+                <Coords points="767,3804 3442,3872 3438,4051 763,4007"/>
+                <Baseline points="763,3936 3438,4004"/>
+                <TextEquiv>
+                    <Unicode>Dezső úgy jellemezte egyszer: „Az úris¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615393995581_4463" custom="readingOrder {index:7;}">
+                <Coords points="770,4009 3385,4045 3397,4253 772,4191"/>
+                <Baseline points="763,4141 3388,4203"/>
+                <TextEquiv>
+                    <Unicode>ten és Pulszky Guszti között az a kü¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615394002201_4468" custom="readingOrder {index:8;}">
+                <Coords points="768,4208 3421,4288 3409,4472 760,4399"/>
+                <Baseline points="763,4325 3412,4422"/>
+                <TextEquiv>
+                    <Unicode>lönbség, hogy az úristen mindent tud,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615394006881_4473" custom="readingOrder {index:9;}">
+                <Coords points="837,4401 3442,4465 3441,4692 828,4683"/>
+                <Baseline points="836,4542 3441,4606"/>
+                <TextEquiv>
+                    <Unicode>Guszti pedig mindent jobban tud …</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Rágyujtott Pulszky Guszti is egy&#xD;
+nyúlfarknyi államtitkárságra,&#xD;
+azért ennyire,&#xD;
+mert&#xD;
+kisült, hogy nem született beámter¬&#xD;
+nek és ezt nem tudta; pedig Szilágyi&#xD;
+Dezső úgy jellemezte egyszer: „Az úris¬&#xD;
+ten és Pulszky Guszti között az a kü¬&#xD;
+lönbség, hogy az úristen mindent tud,&#xD;
+Guszti pedig mindent jobban tud …</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1615393814251_4376" custom="readingOrder {index:4;}">
+            <Coords points="1782,5138 1785,5269 1923,5269 1920,5138"/>
+            <TextLine id="line_1615393814261_4379" custom="readingOrder {index:0;}">
+                <Coords points="1783,5147 1920,5150 1922,5269 1785,5266"/>
+                <Baseline points="1785,5261 1922,5264"/>
+                <TextEquiv>
+                    <Unicode>1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

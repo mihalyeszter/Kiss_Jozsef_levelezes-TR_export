@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-29T10:54:40.427+02:00</Created>
+        <LastChange>2020-11-24T10:39:53.282+01:00</LastChange>
+        <TranskribusMetadata docId="377228" pageId="14767829" pageNr="29" tsid="49518321" status="IN_PROGRESS" userId="56520" imgUrl="https://files.transkribus.eu/Get?id=MLEPSUFLJFJJXAUSKJYJBKGD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NNSCULFAONSFUZIOWXOBFLAV" imageId="10707668"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#34_11a.tif" imageWidth="3307" imageHeight="2218">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424053763" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1594547018504_1102"/>
+                <RegionRefIndexed index="1" regionRef="region_1594547032063_1110"/>
+                <RegionRefIndexed index="2" regionRef="region_1594547040794_1113"/>
+                <RegionRefIndexed index="3" regionRef="region_1594547048339_1121"/>
+                <RegionRefIndexed index="4" regionRef="region_1594547066409_1129"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1594547018504_1102" custom="readingOrder {index:0;}">
+            <Coords points="268,234 272,358 785,358 781,234"/>
+            <TextLine id="line_1594547018535_1105" custom="readingOrder {index:0;}">
+                <Coords points="272,245 785,245 785,358 272,358"/>
+                <Baseline points="272,353 785,353"/>
+                <TextEquiv>
+                    <Unicode>A Hét</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>A Hét</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1594547032063_1110" custom="readingOrder {index:1;}">
+            <Coords points="1972,241 3133,241 3133,482 1972,482"/>
+            <TextLine id="line_1594547132508_1139" custom="readingOrder {index:0;} textStyle {offset:0; length:8;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="1983,420 2419,420 2419,476 1983,476"/>
+                <Baseline points="1983,471 2419,471"/>
+                <TextEquiv>
+                    <Unicode>Budapest.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1594547140895_1144" custom="readingOrder {index:1;} add {offset:0; length:21;} abbrev {offset:14; length:3;}">
+                <Coords points="1984,243 3113,280 3111,444 1980,396"/>
+                <Baseline points="1980,380 3109,417"/>
+                <TextEquiv>
+                    <Unicode>Balaton-füred jul 26.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Budapest.&#xD;
+Balaton-füred jul 26.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1594547040794_1113" custom="readingOrder {index:2;}">
+            <Coords points="1788,493 1788,548 2593,548 2593,493"/>
+            <TextLine id="line_1594547040841_1116" custom="readingOrder {index:0;}">
+                <Coords points="1788,493 2593,498 2593,548 1788,543"/>
+                <Baseline points="1788,538 2593,543"/>
+                <TextEquiv>
+                    <Unicode>VIII., Rökk Szilárd-u. 18.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>VIII., Rökk Szilárd-u. 18.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1594547048339_1121" custom="readingOrder {index:3;}">
+            <Coords points="458,658 451,816 1473,775 1481,596"/>
+            <TextLine id="line_1594547048386_1124" custom="readingOrder {index:0;}">
+                <Coords points="458,671 1475,605 1473,754 459,816"/>
+                <Baseline points="459,770 1473,749"/>
+                <TextEquiv>
+                    <Unicode>Kedves jó doktorom!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kedves jó doktorom!</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1594547066409_1129" custom="readingOrder {index:4;}">
+            <Coords points="3213,693 163,869 163,2096 3213,2096"/>
+            <TextLine id="line_1594547165520_1151" custom="readingOrder {index:0;}">
+                <Coords points="297,861 3138,717 3143,921 304,1002"/>
+                <Baseline points="304,982 3143,901"/>
+                <TextEquiv>
+                    <Unicode>Hálásan köszönöm szíves érdeklődését. Állapotom</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1594547174011_1156" custom="readingOrder {index:1;}">
+                <Coords points="188,995 3180,931 3184,1060 192,1124"/>
+                <Baseline points="192,1104 3184,1040"/>
+                <TextEquiv>
+                    <Unicode>lassan bár, de mindegyre javul. A szédülési momen¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1594547181144_1161" custom="readingOrder {index:2;}">
+                <Coords points="194,1129 3126,1073 3127,1176 195,1232"/>
+                <Baseline points="195,1227 3127,1171"/>
+                <TextEquiv>
+                    <Unicode>tumok csaknem egészen elmaradtak, de a fejem még</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1594547189189_1166" custom="readingOrder {index:3;} sic {offset:40; length:8;}">
+                <Coords points="198,1231 3141,1191 3148,1326 205,1366"/>
+                <Baseline points="208,1358 3151,1318"/>
+                <TextEquiv>
+                    <Unicode>mindig kissé kábult és hamar elfáradok. Étvagyam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1594547196628_1171" custom="readingOrder {index:4;}">
+                <Coords points="202,1374 3111,1334 3114,1459 203,1517"/>
+                <Baseline points="203,1497 3114,1439"/>
+                <TextEquiv>
+                    <Unicode>kitűnő. Aránylag sokat eszem és még többet pihe¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1594547202549_1176" custom="readingOrder {index:5;}">
+                <Coords points="185,1508 3131,1471 3138,1592 192,1629"/>
+                <Baseline points="192,1612 3138,1575"/>
+                <TextEquiv>
+                    <Unicode>nek. Hideg víz kurát itt tartani nem lehet. Nincs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1594547212655_1181" custom="readingOrder {index:6;} unclear {offset:43; length:5;}">
+                <Coords points="194,1641 3175,1588 3189,1733 195,1777"/>
+                <Baseline points="195,1754 3176,1701"/>
+                <TextEquiv>
+                    <Unicode>berendezés, sem ahhoz értő ember. 26 fokos langy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1594547220797_1186" custom="readingOrder {index:7;}">
+                <Coords points="169,1771 3022,1720 3032,1858 179,1909"/>
+                <Baseline points="173,1880 3026,1829"/>
+                <TextEquiv>
+                    <Unicode>fürdőket veszek, amelyeket lehűtök erős mozgás</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1594547227394_1191" custom="readingOrder {index:8;}">
+                <Coords points="202,1919 3188,1852 3197,2051 206,2085"/>
+                <Baseline points="203,2038 3189,1971"/>
+                <TextEquiv>
+                    <Unicode>közben és ezzel pótolom. Ha két fokkal melegebb</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Hálásan köszönöm szíves érdeklődését. Állapotom&#xD;
+lassan bár, de mindegyre javul. A szédülési momen¬&#xD;
+tumok csaknem egészen elmaradtak, de a fejem még&#xD;
+mindig kissé kábult és hamar elfáradok. Étvagyam&#xD;
+kitűnő. Aránylag sokat eszem és még többet pihe¬&#xD;
+nek. Hideg víz kurát itt tartani nem lehet. Nincs&#xD;
+berendezés, sem ahhoz értő ember. 26 fokos langy&#xD;
+fürdőket veszek, amelyeket lehűtök erős mozgás&#xD;
+közben és ezzel pótolom. Ha két fokkal melegebb</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

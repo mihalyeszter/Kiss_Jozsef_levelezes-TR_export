@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2021-02-03T13:59:45.926+01:00</Created>
+        <LastChange>2021-02-16T17:53:55.276+01:00</LastChange>
+        <TranskribusMetadata docId="599949" pageId="23868933" pageNr="1" tsid="52759606" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=HDBZDEPNVBWFASYCXCWIFQJO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QQTDIZBUCKQZNBDOQDOGGTCS" imageId="18320613"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=4290_a.tif" imageWidth="4550" imageHeight="2896">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424746409" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1612455691445_91"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1612455691445_90"/>
+                <RegionRefIndexed index="2" regionRef="region_1612455426856_13"/>
+                <RegionRefIndexed index="3" regionRef="region_1612455433414_21"/>
+                <RegionRefIndexed index="4" regionRef="region_1612455438700_29"/>
+                <RegionRefIndexed index="5" regionRef="region_1612455452760_45"/>
+                <RegionRefIndexed index="6" regionRef="region_1612455446873_37"/>
+                <RegionRefIndexed index="7" regionRef="region_1612455462583_53"/>
+                <RegionRefIndexed index="8" regionRef="region_1612455467347_61"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="TextRegion_1612455691445_91" custom="readingOrder {index:0;}">
+            <Coords points="3503,177 3898,177 3902,354 3511,336 3504,256"/>
+            <TextLine id="line_1612455659881_84" custom="readingOrder {index:0;}">
+                <Coords points="3526,196 3884,198 3884,343 3526,332"/>
+                <Baseline points="3551,307 3851,321"/>
+                <TextEquiv>
+                    <Unicode>P. ES</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>P. ES</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="TextRegion_1612455691445_90" custom="readingOrder {index:1;}">
+            <Coords points="442,253 3503,253 3504,256 3511,336 3902,354 3898,253 4102,253 4093,675 433,675"/>
+            <TextLine id="line_1612455691476_94" custom="readingOrder {index:0;}">
+                <Coords points="460,242 3531,256 3538,329 3929,347 3925,259 4106,260 4114,658 464,644"/>
+                <Baseline points="437,466 4097,499"/>
+                <TextEquiv>
+                    <Unicode>Fenséges József főherczeg kamarásátol</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Fenséges József főherczeg kamarásátol</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1612455426856_13" custom="readingOrder {index:2;}">
+            <Coords points="1785,701 1786,1092 3667,1222 3569,842"/>
+            <TextLine id="line_1612455426919_16" custom="readingOrder {index:0;} abbrev {offset:0; length:6;}">
+                <Coords points="1789,706 3645,858 3649,1221 1793,1069"/>
+                <Baseline points="1793,976 3649,1128"/>
+                <TextEquiv>
+                    <Unicode>T. Cz.        444 </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>T. Cz.        444 </Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1612455433414_21" custom="readingOrder {index:3;}">
+            <Coords points="2199,1193 1786,1121 1081,1136 1085,1549 3791,1549 3783,1222"/>
+            <TextLine id="line_1612455433460_24" custom="readingOrder {index:0;} textStyle {offset:0; length:17;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="1090,1141 1786,1124 2202,1208 3768,1251 3790,1549 1085,1516"/>
+                <Baseline points="1085,1511 3790,1544"/>
+                <TextEquiv>
+                    <Unicode>Kiss József urnak</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kiss József urnak</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1612455438700_29" custom="readingOrder {index:4;}">
+            <Coords points="1725,1609 1699,1859 2709,1768 2699,1609"/>
+            <TextLine id="line_1612455438747_32" custom="readingOrder {index:0;}">
+                <Coords points="1734,1621 2707,1639 2698,1759 1714,1855"/>
+                <Baseline points="1725,1714 2698,1732"/>
+                <TextEquiv>
+                    <Unicode>magyar író</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>magyar író</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1612455452760_45" custom="readingOrder {index:5;}">
+            <Coords points="167,1716 162,2070 918,2070 923,1716"/>
+            <TextLine id="line_1612455452807_48" custom="readingOrder {index:0;} textStyle {offset:0; length:6;underlined:true; fontSize:0.0; kerning:0;} abbrev {offset:0; length:6;}">
+                <Coords points="155,1722 911,1726 918,2070 162,2066"/>
+                <Baseline points="162,2061 918,2065"/>
+                <TextEquiv>
+                    <Unicode>Hvtbol</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Hvtbol</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1612455446873_37" custom="readingOrder {index:6;}">
+            <Coords points="3320,1793 3027,1714 2445,1816 2438,2174 4393,2178 4400,1820"/>
+            <TextLine id="line_1612455446936_40" custom="readingOrder {index:0;}">
+                <Coords points="2459,1830 3016,1725 3323,1812 4406,1848 4379,2175 2448,2164"/>
+                <Baseline points="2430,2068 4361,2079"/>
+                <TextEquiv>
+                    <Unicode>Budapesten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Budapesten</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1612455462583_53" custom="readingOrder {index:7;}">
+            <Coords points="2392,2218 2379,2432 4166,2444 4206,2513 4369,2432 4382,2218"/>
+            <TextLine id="line_1612455462629_56" custom="readingOrder {index:0;} textStyle {offset:0; length:3;underlined:true; fontSize:0.0; kerning:0;} sic {offset:10; length:3;}">
+                <Coords points="2380,2232 4369,2249 4372,2437 4210,2510 4177,2434 2383,2394"/>
+                <Baseline points="2383,2365 4372,2408"/>
+                <TextEquiv>
+                    <Unicode>VII. Ker. dob utcza 53. Sz.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>VII. Ker. dob utcza 53. Sz.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1612455467347_61" custom="readingOrder {index:8;}">
+            <Coords points="2908,2455 2900,2643 4054,2643 4062,2455"/>
+            <TextLine id="line_1612455467410_64" custom="readingOrder {index:0;} textStyle {offset:0; length:2;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="2900,2463 4054,2460 4054,2639 2900,2642"/>
+                <Baseline points="2900,2567 4054,2564"/>
+                <TextEquiv>
+                    <Unicode>II. em. 16. ajtó</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>II. em. 16. ajtó</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

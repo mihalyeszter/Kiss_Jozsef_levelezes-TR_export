@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-29T10:54:41.871+02:00</Created>
+        <LastChange>2020-08-03T15:30:49.709+02:00</LastChange>
+        <TranskribusMetadata docId="377228" pageId="14767960" pageNr="47" tsid="35983290" status="IN_PROGRESS" userId="56520" imgUrl="https://files.transkribus.eu/Get?id=UZZVRZMCLAXOGWDJNJHOWPOZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CIPTXTGXGQOPDHVTYCHZFWHC" imageId="10707799"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#34_20c.tif" imageWidth="3457" imageHeight="2343">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424058779" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1594558391515_811"/>
+                <RegionRefIndexed index="1" regionRef="region_1594558395474_819"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1594558391515_811" custom="readingOrder {index:0;}">
+            <Coords points="550,598 532,1245 3214,1245 3232,598"/>
+            <TextLine id="line_1594558391546_814" custom="readingOrder {index:0;}">
+                <Coords points="541,643 3222,607 3223,1152 542,1188"/>
+                <Baseline points="542,1075 3223,1039"/>
+                <TextEquiv>
+                    <Unicode>Dr Braun Sándor urnak</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Dr Braun Sándor urnak</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1594558395474_819" custom="readingOrder {index:1;}">
+            <Coords points="1658,1511 1661,2059 3041,2059 3038,1511"/>
+            <TextLine id="line_1594558395505_822" custom="readingOrder {index:0;}">
+                <Coords points="1661,1535 3041,1532 3050,2047 1670,2050"/>
+                <Baseline points="1664,1889 3044,1886"/>
+                <TextEquiv>
+                    <Unicode>Rákoczy-ut 74</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Rákoczy-ut 74</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

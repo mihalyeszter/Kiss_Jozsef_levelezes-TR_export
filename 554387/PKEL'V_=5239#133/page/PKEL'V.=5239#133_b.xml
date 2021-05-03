@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-12-11T08:43:15.674+01:00</Created>
+        <LastChange>2020-12-11T16:10:27.101+01:00</LastChange>
+        <TranskribusMetadata docId="554387" pageId="22965044" pageNr="2" tsid="50268770" status="IN_PROGRESS" userId="58915" imgUrl="https://files.transkribus.eu/Get?id=CFPCMOIELJYZJUGKEJZOGZNO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MPVHVNRHDUTUIFVCXCJQRNGM" imageId="17918508"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#133_b.tif" imageWidth="3358" imageHeight="4333">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424914227" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1607683747209_687"/>
+                <RegionRefIndexed index="1" regionRef="region_1607683764712_690"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1607683747209_687" custom="readingOrder {index:0;}">
+            <Coords points="137,772 3254,772 3254,2061 137,2061"/>
+            <TextLine id="line_1607683797651_695" custom="readingOrder {index:0;}">
+                <Coords points="165,792 3208,820 3204,1036 178,1036"/>
+                <Baseline points="178,978 3204,978"/>
+                <TextEquiv>
+                    <Unicode>fáj, az igazságos, őszinte bírálatot többre is</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1607683805087_700" custom="readingOrder {index:1;}">
+                <Coords points="163,1043 3221,1056 3213,1238 155,1225"/>
+                <Baseline points="155,1202 3213,1215"/>
+                <TextEquiv>
+                    <Unicode>becsülöm a jóság s barátság elnézésénél; –</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1607683812362_705" custom="readingOrder {index:2;}">
+                <Coords points="159,1244 3249,1267 3249,1438 159,1415"/>
+                <Baseline points="159,1389 3249,1412"/>
+                <TextEquiv>
+                    <Unicode>nem tettem másrészt, mert a könyv nem szo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1607683820130_710" custom="readingOrder {index:3;} sic {offset:36; length:9;}">
+                <Coords points="175,1439 3233,1430 3214,1625 156,1634"/>
+                <Baseline points="159,1590 3217,1581"/>
+                <TextEquiv>
+                    <Unicode>rúl elnézésre, olyan íróink s olyan bíráloink</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1607683827007_715" custom="readingOrder {index:4;}">
+                <Coords points="158,1629 3202,1657 3199,1845 155,1817"/>
+                <Baseline points="155,1800 3199,1828"/>
+                <TextEquiv>
+                    <Unicode>beszélnek róla bámulattal, akiknél compe¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1607683833844_720" custom="readingOrder {index:5;}">
+                <Coords points="159,1851 3199,1869 3190,2059 150,2041"/>
+                <Baseline points="150,1997 3190,2015"/>
+                <TextEquiv>
+                    <Unicode>tensebbek alig vannak ma Magyarországon.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>fáj, az igazságos, őszinte bírálatot többre is&#xD;
+becsülöm a jóság s barátság elnézésénél; –&#xD;
+nem tettem másrészt, mert a könyv nem szo¬&#xD;
+rúl elnézésre, olyan íróink s olyan bíráloink&#xD;
+beszélnek róla bámulattal, akiknél compe¬&#xD;
+tensebbek alig vannak ma Magyarországon.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1607683764712_690" custom="readingOrder {index:1;}">
+            <Coords points="3254,2061 141,2061 141,3921 2203,4013 3194,4045 3254,3921"/>
+            <TextLine id="line_1607683847997_725" custom="readingOrder {index:0;}">
+                <Coords points="147,2059 3045,2096 3044,2313 146,2276"/>
+                <Baseline points="146,2230 3044,2267"/>
+                <TextEquiv>
+                    <Unicode>De hogy valaki neki álljon gunyolni ezt a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1607683859659_730" custom="readingOrder {index:1;}">
+                <Coords points="164,2292 3236,2324 3214,2512 150,2469"/>
+                <Baseline points="150,2449 3222,2481"/>
+                <TextEquiv>
+                    <Unicode>könyvet, – ezt a könyvet, melybe egy fi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1607683874893_735" custom="readingOrder {index:2;}">
+                <Coords points="157,2480 3235,2519 3226,2707 159,2689"/>
+                <Baseline points="159,2660 3226,2678"/>
+                <TextEquiv>
+                    <Unicode>atal húsz éves lélek, aki 3 teljes évet, mindig</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1607683882995_740" custom="readingOrder {index:3;}">
+                <Coords points="156,2689 3227,2749 3226,2933 155,2873"/>
+                <Baseline points="155,2856 3226,2916"/>
+                <TextEquiv>
+                    <Unicode>az elmúlás biztos tudatával, nem mint martyr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1607683891081_745" custom="readingOrder {index:4;}">
+                <Coords points="151,2913 3177,2959 3176,3143 149,3128"/>
+                <Baseline points="150,3062 3176,3108"/>
+                <TextEquiv>
+                    <Unicode>de mint egy hős, szenvedett át s ép ily hősiesen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1607683898151_750" custom="readingOrder {index:5;}">
+                <Coords points="176,3135 3160,3142 3135,3334 159,3307"/>
+                <Baseline points="159,3263 3135,3290"/>
+                <TextEquiv>
+                    <Unicode>panasz s keserűség nélkül elment tőlünk,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1607683904752_755" custom="readingOrder {index:6;}">
+                <Coords points="162,3319 3225,3371 3216,3589 158,3502"/>
+                <Baseline points="155,3455 3213,3542"/>
+                <TextEquiv>
+                    <Unicode>itt hagyva nekünk könyvét, annak bizonyságá¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1607683912215_760" custom="readingOrder {index:7;}">
+                <Coords points="173,3527 3244,3591 3242,3787 172,3704"/>
+                <Baseline points="169,3683 3240,3747"/>
+                <TextEquiv>
+                    <Unicode>úl, hogy megbocsátotta nekünk létezését, szen¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1607683918782_765" custom="readingOrder {index:8;}">
+                <Coords points="203,3740 3220,3800 3205,4038 191,3903"/>
+                <Baseline points="191,3898 3208,3958"/>
+                <TextEquiv>
+                    <Unicode>vedéseit s a természetnek kegyetlenségét.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>De hogy valaki neki álljon gunyolni ezt a&#xD;
+könyvet, – ezt a könyvet, melybe egy fi¬&#xD;
+atal húsz éves lélek, aki 3 teljes évet, mindig&#xD;
+az elmúlás biztos tudatával, nem mint martyr&#xD;
+de mint egy hős, szenvedett át s ép ily hősiesen&#xD;
+panasz s keserűség nélkül elment tőlünk,&#xD;
+itt hagyva nekünk könyvét, annak bizonyságá¬&#xD;
+úl, hogy megbocsátotta nekünk létezését, szen¬&#xD;
+vedéseit s a természetnek kegyetlenségét.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2021-02-03T14:34:47.672+01:00</Created>
+        <LastChange>2021-02-10T14:07:11.049+01:00</LastChange>
+        <TranskribusMetadata docId="599985" pageId="23869557" pageNr="2" tsid="52341420" status="IN_PROGRESS" userId="56520" imgUrl="https://files.transkribus.eu/Get?id=SNWPPAPTLSOQSIGKJDTJWCAU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XUNHQRCALKWOGXLRMMEGSMRX" imageId="18321223"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#116_b.tif" imageWidth="2942" imageHeight="2353">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424767317" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1612542153960_1824"/>
+                <RegionRefIndexed index="1" regionRef="region_1612542168181_1832"/>
+                <RegionRefIndexed index="2" regionRef="region_1612542176904_1840"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1612542153960_1824" custom="readingOrder {index:0;}">
+            <Coords points="306,129 306,332 2609,332 2609,129"/>
+            <TextLine id="line_1612542154007_1827" custom="readingOrder {index:0;} supplied {offset:28; length:1;}">
+                <Coords points="306,143 2602,136 2609,321 307,324"/>
+                <Baseline points="307,307 2609,272"/>
+                <TextEquiv>
+                    <Unicode>Feladó: Rosenfeld Bella Buda¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Feladó: Rosenfeld Bella Buda¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1612542168181_1832" custom="readingOrder {index:1;}">
+            <Coords points="428,337 424,568 2351,568 2355,337"/>
+            <TextLine id="line_1612542168212_1835" custom="readingOrder {index:0;} textStyle {offset:5; length:2;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="426,383 2352,333 2349,511 423,561"/>
+                <Baseline points="429,493 2355,443"/>
+                <TextEquiv>
+                    <Unicode>pest II ker. Lövőház u. 34</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>pest II ker. Lövőház u. 34</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1612542176904_1840" custom="readingOrder {index:2;}">
+            <Coords points="2517,1872 2517,2181 2678,2179 2678,1870"/>
+            <TextLine id="line_1612542176951_1843" custom="readingOrder {index:0;}">
+                <Coords points="2662,1876 2678,2183 2533,2181 2517,1874"/>
+                <Baseline points="2522,1874 2538,2181"/>
+                <TextEquiv>
+                    <Unicode>211.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>211.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

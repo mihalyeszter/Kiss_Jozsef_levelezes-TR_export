@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-09-21T14:08:10.751+02:00</Created>
+        <LastChange>2020-11-20T16:17:32.324+01:00</LastChange>
+        <TranskribusMetadata docId="484885" pageId="19998811" pageNr="21" tsid="49369077" status="IN_PROGRESS" userId="63384" imgUrl="https://files.transkribus.eu/Get?id=OPYLKVMIPIJVFUZUTLCPTFEE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GRTHITIPZOMUQSYNVWQWGJGK" imageId="15414262"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5936#9_16a.tif" imageWidth="4290" imageHeight="2482">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424620678" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1603984541453_2023"/>
+                <RegionRefIndexed index="1" regionRef="region_1603984545008_2026"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="region_1603984541453_2023" custom="readingOrder {index:0;}">
+            <Coords points="909,1241 2545,1241 2545,1671 909,1671"/>
+            <TextLine id="region_1603984541453_2023l1" custom="readingOrder {index:0;}">
+                <Coords points="1025,1565 1090,1568 1156,1571 1221,1573 1287,1575 1353,1576 1418,1577 1484,1579 1549,1579 1615,1580 1681,1580 1746,1580 1812,1582 1877,1582 1943,1582 2008,1583 2074,1585 2140,1586 2205,1587 2271,1589 2442,1591 2454,1371 2283,1369 2205,1437 2140,1436 2074,1435 2008,1433 1943,1432 1877,1432 1812,1432 1746,1430 1681,1430 1615,1430 1549,1429 1484,1429 1418,1427 1353,1426 1287,1425 1221,1367 1156,1365 1090,1418 1025,1415"/>
+                <Baseline points="1025,1515 1090,1518 1156,1521 1221,1523 1287,1525 1353,1526 1418,1527 1484,1529 1549,1529 1615,1530 1681,1530 1746,1530 1812,1532 1877,1532 1943,1532 2008,1533 2074,1535 2140,1536 2205,1537 2271,1539 2337,1541"/>
+                <TextEquiv>
+                    <Unicode>Mélyen tisztelt Uram!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Mélyen tisztelt Uram!</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1603984545008_2026" custom="readingOrder {index:1;}">
+            <Coords points="458,1674 3842,1674 3842,2340 458,2340"/>
+            <TextLine id="line_1603984620169_2036" custom="readingOrder {index:0;} textStyle {offset:1; length:1;fontSize:0.0; kerning:0; superscript:true;}">
+                <Coords points="595,1845 673,1739 2425,1787 2740,1912 2889,1917 3038,1923 3184,1911 3499,1856 3651,1885 3782,1968 3782,2083 792,1984 766,1983 595,1965"/>
+                <Baseline points="666,1937 691,1935 716,1937 741,1941 766,1943 792,1944 807,1940 955,1945 1104,1950 1253,1955 1402,1958 1550,1962 1699,1965 1848,1968 1997,1971 2145,1974 2294,1977 2443,1980 2592,1985 2740,1989 2889,1994 3038,2000 3187,2007 3335,2015 3484,2023 3633,2033 3782,2045"/>
+                <TextEquiv>
+                    <Unicode>Dr Molnár Géza barátom oly meleg elismeréssel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1603984545008_2026l3" custom="readingOrder {index:1;}">
+                <Coords points="561,2126 720,2132 879,2138 1038,2143 1198,2147 1357,2151 1516,2155 1675,2158 1835,2161 1994,2164 2153,2167 2312,2171 2472,2175 2631,2180 2790,2186 2949,2192 3109,2200 3268,2210 3427,2219 3586,2231 3746,2245 3749,2106 3589,2092 3427,2104 3261,2055 3109,2085 2955,2023 2796,2017 2631,2065 2481,2011 2321,2007 2153,2003 1994,2000 1844,1992 1684,1989 1516,2040 1357,2036 1198,2032 1038,2028 892,1983 733,1977 561,2011"/>
+                <Baseline points="561,2088 720,2094 879,2100 1038,2105 1198,2109 1357,2113 1516,2117 1675,2120 1835,2123 1994,2126 2153,2129 2312,2133 2472,2137 2631,2142 2790,2148 2949,2154 3109,2162 3268,2172 3427,2181 3586,2193 3746,2207"/>
+                <TextEquiv>
+                    <Unicode>beszél nekem az Ön énekművészetéről, hogy ellen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1603984545008_2026l4" custom="readingOrder {index:2;}">
+                <Coords points="575,2298 614,2300 653,2302 692,2304 731,2306 770,2308 809,2308 849,2310 888,2311 927,2313 966,2314 1005,2314 1044,2316 1083,2317 1123,2319 1162,2320 1201,2322 1240,2325 1279,2327 1318,2330 1358,2334 1358,2214 1318,2210 1279,2207 1240,2205 1201,2202 1162,2176 1123,2175 1083,2197 1035,2147 996,2145 966,2194 927,2193 888,2191 849,2190 809,2188 770,2188 731,2186 692,2184 653,2182 614,2180 575,2178"/>
+                <Baseline points="575,2258 614,2260 653,2262 692,2264 731,2266 770,2268 809,2268 849,2270 888,2271 927,2273 966,2274 1005,2274 1044,2276 1083,2277 1123,2279 1162,2280 1201,2282 1240,2285 1279,2287 1318,2290 1358,2294"/>
+                <TextEquiv>
+                    <Unicode>nem állhatok</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Dr Molnár Géza barátom oly meleg elismeréssel&#xD;
+beszél nekem az Ön énekművészetéről, hogy ellen&#xD;
+nem állhatok</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

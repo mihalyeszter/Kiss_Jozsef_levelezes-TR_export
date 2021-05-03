@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-06-03T13:27:13.942+02:00</Created>
+        <LastChange>2020-11-25T15:44:13.514+01:00</LastChange>
+        <TranskribusMetadata docId="401202" pageId="15522941" pageNr="9" tsid="49618207" status="IN_PROGRESS" userId="56520" imgUrl="https://files.transkribus.eu/Get?id=FQKUEFZUYGMTFTEJHIVXIKNS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NSEKHNOADGYDQOJNPDBZQSUC" imageId="11350854"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#55_4a.tif" imageWidth="4896" imageHeight="5039">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424304027" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1592942249472_1452"/>
+                <RegionRefIndexed index="1" regionRef="region_1592942255974_1455"/>
+                <RegionRefIndexed index="2" regionRef="region_1592942310626_1458"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1592942249472_1452" custom="readingOrder {index:0;}">
+            <Coords points="1405,728 3498,728 3498,985 1405,985"/>
+            <TextLine id="line_1592942343578_1461" custom="readingOrder {index:0;}">
+                <Coords points="1417,738 3487,791 3486,961 1416,908"/>
+                <Baseline points="1416,903 3486,956"/>
+                <TextEquiv>
+                    <Unicode>= rp 10+ kiss jozsef budapest</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>= rp 10+ kiss jozsef budapest</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1592942255974_1455" custom="readingOrder {index:1;}">
+            <Coords points="1544,1002 3037,1002 3037,1195 1544,1195"/>
+            <TextLine id="line_1592942349229_1466" custom="readingOrder {index:0;}">
+                <Coords points="1562,1026 3008,1015 3008,1165 1562,1176"/>
+                <Baseline points="1562,1171 3008,1160"/>
+                <TextEquiv>
+                    <Unicode>nepszinhazutza 22 =</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>nepszinhazutza 22 =</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1592942310626_1458" custom="readingOrder {index:2;}">
+            <Coords points="303,2530 4547,2530 4547,3212 303,3212"/>
+            <TextLine id="line_1592942357603_1471" custom="readingOrder {index:0;}">
+                <Coords points="518,2548 4535,2531 4535,2669 518,2686"/>
+                <Baseline points="518,2681 4535,2664"/>
+                <TextEquiv>
+                    <Unicode>hangversenyt lekuezdhetetlen akadalyok miatt kenytelenek</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1592942364654_1476" custom="readingOrder {index:1;}">
+                <Coords points="308,2779 4261,2779 4261,2937 308,2937"/>
+                <Baseline points="308,2932 4261,2932"/>
+                <TextEquiv>
+                    <Unicode>vagyunk elhalasztani azonnali valaszt januar huszadikan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1592942372509_1481" custom="readingOrder {index:2;}">
+                <Coords points="1026,3008 4314,3020 4314,3182 1026,3170"/>
+                <Baseline points="1026,3165 4314,3177"/>
+                <TextEquiv>
+                    <Unicode>lehete szerencsenk ?= balogh bertalan .+</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>hangversenyt lekuezdhetetlen akadalyok miatt kenytelenek&#xD;
+vagyunk elhalasztani azonnali valaszt januar huszadikan&#xD;
+lehete szerencsenk ?= balogh bertalan .+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

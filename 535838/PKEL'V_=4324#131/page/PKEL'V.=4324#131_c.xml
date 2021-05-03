@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-11-11T13:55:45.277+01:00</Created>
+        <LastChange>2020-11-12T09:33:10.049+01:00</LastChange>
+        <TranskribusMetadata docId="535838" pageId="22611048" pageNr="3" tsid="48562778" status="IN_PROGRESS" userId="63384" imgUrl="https://files.transkribus.eu/Get?id=SVMWEENVVETAKDFIVMJQYXQF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JAOYZYKROCUNNAJLYNYCUVPU" imageId="17606296"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=4324#131_c.tif" imageWidth="4047" imageHeight="5484">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424662361" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1605169986920_49"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1605169986920_49" custom="readingOrder {index:0;}">
+            <Coords points="1695,892 2854,892 2854,1171 1695,1171"/>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA76_249_0mod90.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-09-21T14:10:34.217+02:00</Created>
+        <LastChange>2020-11-24T09:49:10.063+01:00</LastChange>
+        <TranskribusMetadata docId="484926" pageId="19998881" pageNr="1" tsid="49515533" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=BDEQWVXVGZWLVDQPYSYUQTDJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GNQZGCZKIQZBSHEUCSJESBAP" imageId="15414332"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=2003#4_a.tif" imageWidth="3657" imageHeight="5607">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424712194" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1602748655231_534"/>
+                <RegionRefIndexed index="1" regionRef="region_1602748657406_537"/>
+                <RegionRefIndexed index="2" regionRef="region_1602748660603_540"/>
+                <RegionRefIndexed index="3" regionRef="region_1602748663120_543"/>
+                <RegionRefIndexed index="4" regionRef="region_1602748665709_546"/>
+                <RegionRefIndexed index="5" regionRef="region_1602749950044_554"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="region_1602748655231_534" custom="readingOrder {index:0;}">
+            <Coords points="508,354 1193,354 1189,511 504,511"/>
+            <TextLine id="region_1602748655231_534l1" custom="readingOrder {index:0;}">
+                <Coords points="552,497 1166,509 1156,394 542,382"/>
+                <Baseline points="542,482 572,482 603,482 634,482 664,483 695,484 726,485 756,486 787,487 818,488 849,488 879,490 910,491 941,492 971,492 1002,494 1033,494 1063,494 1094,494 1125,494 1156,494"/>
+                <TextEquiv>
+                    <Unicode>Kiss József,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kiss József,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1602748657406_537" custom="readingOrder {index:1;}">
+            <Coords points="778,519 920,519 920,595 778,595"/>
+            <TextLine id="line_1602750107297_608" custom="readingOrder {index:0;}">
+                <Coords points="795,532 905,533 905,583 795,582"/>
+                <Baseline points="795,577 905,578"/>
+                <TextEquiv>
+                    <Unicode>a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>a</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1602748660603_540" custom="readingOrder {index:2;}">
+            <Coords points="368,566 1347,566 1347,694 368,694"/>
+            <TextLine id="line_1602750114419_614" custom="readingOrder {index:0;}">
+                <Coords points="378,588 1324,586 1324,675 378,677"/>
+                <Baseline points="378,672 1324,670"/>
+                <TextEquiv>
+                    <Unicode>„Képes Világ”</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>„Képes Világ”</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1602748663120_543" custom="readingOrder {index:3;}">
+            <Coords points="601,685 1071,685 1071,805 601,805"/>
+            <TextLine id="region_1602748663120_543l1" custom="readingOrder {index:0;}">
+                <Coords points="652,794 1056,788 1054,684 650,690"/>
+                <Baseline points="652,744 677,744 702,744 727,744 753,744 778,744 803,744 828,744 854,744 879,744 904,744 929,744 955,742 980,742 1005,742 1030,740 1056,738"/>
+                <TextEquiv>
+                    <Unicode>szerkesztője.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>szerkesztője.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1602748665709_546" custom="readingOrder {index:4;}">
+            <Coords points="429,845 2971,845 2971,1225 429,1225"/>
+            <TextLine id="region_1602748665709_546l1" custom="readingOrder {index:0;}">
+                <Coords points="522,1188 2919,1188 2946,885 549,885"/>
+                <Baseline points="522,1138 637,1136 752,1134 867,1134 982,1134 1097,1134 1212,1134 1327,1136 1442,1136 1557,1138 1672,1138 1787,1140 1902,1140 2017,1142 2132,1142 2247,1144 2362,1144 2477,1142 2592,1142 2707,1140 2881,1142"/>
+                <TextEquiv>
+                    <Unicode>Szeretett jóakaró barátom!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Szeretett jóakaró barátom!</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1602749950044_554" custom="readingOrder {index:5;}">
+            <Coords points="258,1219 3556,1219 3551,5362 253,5362"/>
+            <TextLine id="region_1602749950044_554l1" custom="readingOrder {index:0;}">
+                <Coords points="340,1493 3336,1495 3351,1295 355,1293"/>
+                <Baseline points="340,1456 489,1452 639,1450 789,1448 939,1448 1089,1450 1238,1450 1388,1452 1538,1454 1688,1456 1838,1460 1987,1462 2137,1464 2287,1466 2437,1468 2587,1468 2736,1468 2886,1467 3036,1465 3186,1462 3336,1458"/>
+                <TextEquiv>
+                    <Unicode>Örömmel hallottam, hogy ön négy heti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1602749950044_554l2" custom="readingOrder {index:1;}">
+                <Coords points="502,1641 3392,1659 3387,1523 497,1505"/>
+                <Baseline points="502,1604 646,1600 791,1598 935,1596 1080,1598 1224,1600 1369,1602 1513,1608 1658,1612 1802,1616 1947,1622 2091,1626 2236,1632 2380,1636 2525,1638 2669,1640 2814,1640 2958,1638 3103,1636 3247,1630 3392,1622"/>
+                <TextEquiv>
+                    <Unicode>kura után oly üdén és épen tért</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1602749950044_554l3" custom="readingOrder {index:2;}">
+                <Coords points="488,1801 3296,1827 3296,1671 488,1645"/>
+                <Baseline points="488,1764 628,1764 768,1766 909,1766 1049,1768 1190,1770 1330,1772 1470,1774 1611,1778 1751,1780 1892,1782 2032,1786 2172,1788 2313,1790 2453,1791 2594,1792 2734,1794 2874,1794 3015,1794 3155,1792 3296,1790"/>
+                <TextEquiv>
+                    <Unicode>haza a porczellánedény hazájából,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1602749950044_554l4" custom="readingOrder {index:3;}">
+                <Coords points="452,1962 3492,1982 3497,1828 457,1808"/>
+                <Baseline points="452,1926 604,1924 756,1924 908,1924 1060,1924 1212,1926 1364,1926 1516,1928 1668,1930 1820,1932 1972,1934 2124,1936 2276,1938 2428,1940 2580,1942 2732,1942 2884,1944 3036,1946 3188,1946 3340,1946 3492,1946"/>
+                <TextEquiv>
+                    <Unicode>hogy akár egyenesen templomba, ille¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1602750209434_653" custom="readingOrder {index:4;}">
+                <Coords points="444,1983 3424,1959 3406,2111 426,2135"/>
+                <Baseline points="426,2130 3406,2106"/>
+                <TextEquiv>
+                    <Unicode>tőleg esküvőre, már mint saját</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1602749950044_554l7" custom="readingOrder {index:5;}">
+                <Coords points="474,2292 3373,2294 3526,2288 3532,2095 480,2099"/>
+                <Baseline points="474,2254 626,2249 779,2244 931,2240 1084,2238 1237,2238 1389,2238 1542,2240 1694,2242 1847,2244 2000,2247 2152,2250 2305,2252 2457,2255 2610,2258 2763,2258 2915,2260 3068,2260 3220,2258 3373,2256 3526,2250"/>
+                <TextEquiv>
+                    <Unicode>esküvőjére mehetne. Körülbelül ma¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1602749950044_554l8" custom="readingOrder {index:6;}">
+                <Coords points="480,2460 3440,2464 3446,2277 486,2273"/>
+                <Baseline points="480,2422 628,2417 776,2414 924,2410 1072,2408 1220,2408 1368,2408 1516,2408 1664,2408 1812,2410 1960,2412 2108,2414 2256,2416 2404,2418 2552,2420 2700,2422 2848,2424 2996,2424 3144,2426 3292,2426 3440,2426"/>
+                <TextEquiv>
+                    <Unicode>gam is ugy jártam, csakhogy ne¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1602749950044_554l9" custom="readingOrder {index:7;}">
+                <Coords points="406,2620 3526,2652 3532,2495 412,2463"/>
+                <Baseline points="406,2584 562,2582 718,2580 874,2578 1030,2578 1186,2578 1342,2578 1498,2578 1654,2578 1810,2580 1966,2582 2122,2584 2278,2586 2434,2589 2590,2592 2746,2596 2902,2599 3058,2602 3214,2606 3370,2610 3526,2616"/>
+                <TextEquiv>
+                    <Unicode>kem hat hétre volt szükségem;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1602749950044_554l10" custom="readingOrder {index:8;}">
+                <Coords points="472,2786 3366,2792 3378,2599 484,2593"/>
+                <Baseline points="472,2750 616,2748 761,2746 906,2744 1050,2744 1195,2744 1340,2746 1484,2746 1629,2748 1774,2750 1919,2752 2063,2754 2208,2756 2353,2758 2497,2759 2642,2760 2787,2760 2931,2760 3076,2760 3221,2758 3366,2756"/>
+                <TextEquiv>
+                    <Unicode>Mintegy másfél hete, hogy itthon</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1602749950044_554l11" custom="readingOrder {index:9;}">
+                <Coords points="418,2962 3008,2958 3466,2928 3478,2795 430,2829"/>
+                <Baseline points="418,2924 570,2918 722,2912 875,2910 1027,2908 1180,2910 1332,2910 1484,2913 1637,2916 1789,2920 1942,2922 2094,2926 2246,2928 2399,2930 2551,2930 2704,2928 2856,2926 3008,2920 3161,2912 3313,2903 3466,2890"/>
+                <TextEquiv>
+                    <Unicode>vagyok s a szerkesztésí gondok</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1602749950044_554l12" custom="readingOrder {index:10;}">
+                <Coords points="476,3132 3380,3108 3374,2939 470,2963"/>
+                <Baseline points="476,3094 621,3090 766,3088 911,3086 1056,3084 1202,3084 1347,3084 1492,3084 1637,3086 1782,3086 1928,3086 2073,3088 2218,3088 2363,3088 2508,3088 2654,3087 2799,3086 2944,3083 3089,3080 3234,3076 3380,3070"/>
+                <TextEquiv>
+                    <Unicode>terhét újra viselem. Szeretett</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1602749950044_554l13" custom="readingOrder {index:11;}">
+                <Coords points="476,3310 3444,3274 3444,3075 476,3111"/>
+                <Baseline points="476,3272 624,3265 772,3259 921,3256 1069,3252 1218,3252 1366,3250 1514,3250 1663,3252 1811,3252 1960,3254 2108,3256 2256,3256 2405,3258 2553,3258 2702,3257 2850,3256 2998,3252 3147,3248 3295,3243 3444,3236"/>
+                <TextEquiv>
+                    <Unicode>rokon! Az a költői beszély, me¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1602749950044_554l14" custom="readingOrder {index:12;}">
+                <Coords points="454,3486 3526,3464 3526,3283 454,3305"/>
+                <Baseline points="454,3448 607,3438 761,3432 914,3427 1068,3424 1222,3422 1375,3420 1529,3420 1682,3420 1836,3422 1990,3424 2143,3426 2297,3428 2450,3430 2604,3432 2758,3434 2911,3434 3065,3434 3218,3433 3372,3430 3526,3426"/>
+                <TextEquiv>
+                    <Unicode>lyet Ön nagylelkűleg nekem szánt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1602749950044_554l15" custom="readingOrder {index:13;}">
+                <Coords points="448,3664 3508,3620 3508,3451 448,3495"/>
+                <Baseline points="448,3626 601,3618 754,3610 907,3604 1060,3599 1213,3594 1366,3592 1519,3592 1672,3590 1825,3590 1978,3590 2131,3590 2284,3592 2437,3592 2590,3592 2743,3592 2896,3592 3049,3592 3202,3590 3355,3586 3508,3582"/>
+                <TextEquiv>
+                    <Unicode>annyira szívemen fekszik, mint</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1602749950044_554l16" custom="readingOrder {index:14;}">
+                <Coords points="446,3836 3530,3806 3518,3631 434,3661"/>
+                <Baseline points="446,3798 600,3793 754,3788 908,3784 1062,3780 1217,3778 1371,3776 1525,3774 1679,3774 1833,3774 1988,3772 2142,3772 2296,3772 2450,3772 2604,3772 2759,3772 2913,3772 3067,3772 3221,3770 3375,3770 3530,3768"/>
+                <TextEquiv>
+                    <Unicode>az a másik melynek lefordítását</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1602749950044_554l17" custom="readingOrder {index:15;}">
+                <Coords points="454,4006 3296,3986 3296,3781 454,3801"/>
+                <Baseline points="454,3968 596,3968 738,3966 880,3963 1022,3960 1164,3957 1306,3953 1448,3950 1590,3946 1732,3944 1875,3940 2017,3938 2159,3935 2301,3934 2443,3932 2585,3932 2727,3934 2869,3936 3011,3938 3153,3942 3296,3948"/>
+                <TextEquiv>
+                    <Unicode>Ön oly jó volt megígérni. Ha</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1602749950044_554l19" custom="readingOrder {index:16;} textStyle {offset:20; length:6;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="476,4263 3529,4196 3541,3964 488,4031"/>
+                <Baseline points="482,4204 631,4196 781,4188 931,4182 1081,4178 1231,4173 1380,4170 1530,4168 1680,4166 1830,4164 1980,4162 2129,4162 2279,4160 2429,4160 2579,4158 2729,4156 2878,4155 3028,4152 3178,4149 3328,4146 3528,4141"/>
+                <TextEquiv>
+                    <Unicode>kezeim közt lenne a költői be¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1602749950044_554l20" custom="readingOrder {index:17;}">
+                <Coords points="460,4382 3528,4350 3528,4187 460,4219"/>
+                <Baseline points="460,4344 610,4335 760,4328 911,4323 1061,4318 1212,4316 1362,4314 1512,4312 1663,4312 1813,4310 1964,4312 2114,4312 2264,4312 2415,4314 2565,4314 2716,4316 2866,4316 3016,4316 3167,4314 3317,4314 3529,4316"/>
+                <TextEquiv>
+                    <Unicode>szély, szeretnék reklamot csap¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1602749950044_554l21" custom="readingOrder {index:18;}">
+                <Coords points="470,4548 3520,4540 3528,4337 478,4345"/>
+                <Baseline points="470,4510 622,4508 775,4506 927,4504 1080,4502 1232,4500 1385,4498 1537,4498 1690,4496 1842,4494 1995,4494 2147,4494 2300,4494 2452,4492 2605,4494 2757,4494 2910,4494 3062,4496 3215,4498 3367,4500 3520,4502"/>
+                <TextEquiv>
+                    <Unicode>ni mellette az előfizetési felhí¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1602749950044_554l22" custom="readingOrder {index:19;}">
+                <Coords points="452,4740 3516,4738 3516,4527 452,4529"/>
+                <Baseline points="452,4702 605,4698 758,4694 911,4692 1064,4690 1218,4688 1371,4688 1524,4688 1677,4688 1830,4688 1984,4690 2137,4690 2290,4692 2443,4692 2596,4694 2750,4696 2903,4696 3056,4698 3209,4698 3362,4700 3516,4700"/>
+                <TextEquiv>
+                    <Unicode>vásban, melyet holnap fogalmaz¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1602749950044_554l23" custom="readingOrder {index:20;}">
+                <Coords points="470,4906 3440,4928 3440,4735 470,4713"/>
+                <Baseline points="470,4868 618,4866 767,4864 915,4864 1064,4864 1212,4864 1361,4866 1509,4868 1658,4870 1806,4872 1955,4874 2103,4878 2252,4880 2400,4882 2549,4885 2697,4887 2846,4888 2994,4890 3143,4890 3291,4890 3440,4890"/>
+                <TextEquiv>
+                    <Unicode>ni fogok. Mit csináljak? írjon</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1602749950044_554l24" custom="readingOrder {index:21;}">
+                <Coords points="482,5082 3480,5120 3480,5005 3330,4919 482,4889"/>
+                <Baseline points="482,5044 631,5044 781,5044 931,5044 1081,5044 1231,5044 1381,5044 1531,5044 1681,5044 1831,5044 1981,5044 2130,5044 2280,5046 2430,5048 2580,5050 2730,5054 2880,5058 3030,5062 3180,5068 3330,5074 3480,5082"/>
+                <TextEquiv>
+                    <Unicode>Ön nekem utjáról, éleményeíről, tőlem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1602749950044_554l25" custom="readingOrder {index:22;}">
+                <Coords points="470,5256 3508,5266 3508,5091 470,5081"/>
+                <Baseline points="470,5218 621,5216 773,5216 925,5216 1077,5216 1229,5216 1381,5216 1533,5218 1685,5219 1837,5220 1989,5222 2140,5224 2292,5225 2444,5226 2596,5228 2748,5228 2900,5230 3052,5230 3204,5230 3356,5230 3508,5228"/>
+                <TextEquiv>
+                    <Unicode>a „Kákai heti krónika” holnapi számában</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Örömmel hallottam, hogy ön négy heti&#xD;
+kura után oly üdén és épen tért&#xD;
+haza a porczellánedény hazájából,&#xD;
+hogy akár egyenesen templomba, ille¬&#xD;
+tőleg esküvőre, már mint saját&#xD;
+esküvőjére mehetne. Körülbelül ma¬&#xD;
+gam is ugy jártam, csakhogy ne¬&#xD;
+kem hat hétre volt szükségem;&#xD;
+Mintegy másfél hete, hogy itthon&#xD;
+vagyok s a szerkesztésí gondok&#xD;
+terhét újra viselem. Szeretett&#xD;
+rokon! Az a költői beszély, me¬&#xD;
+lyet Ön nagylelkűleg nekem szánt,&#xD;
+annyira szívemen fekszik, mint&#xD;
+az a másik melynek lefordítását&#xD;
+Ön oly jó volt megígérni. Ha&#xD;
+kezeim közt lenne a költői be¬&#xD;
+szély, szeretnék reklamot csap¬&#xD;
+ni mellette az előfizetési felhí¬&#xD;
+vásban, melyet holnap fogalmaz¬&#xD;
+ni fogok. Mit csináljak? írjon&#xD;
+Ön nekem utjáról, éleményeíről, tőlem&#xD;
+a „Kákai heti krónika” holnapi számában</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

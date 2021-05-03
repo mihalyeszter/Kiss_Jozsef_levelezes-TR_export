@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-06-05T11:05:22.196+02:00</Created>
+        <LastChange>2020-11-24T18:47:27.790+01:00</LastChange>
+        <TranskribusMetadata docId="403342" pageId="15583899" pageNr="1" tsid="49536977" status="IN_PROGRESS" userId="58915" imgUrl="https://files.transkribus.eu/Get?id=RBWGVPAAKCNMOHEYUCLOCAPV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XYCWJYZCYMCPHGPQZQVLHGIQ" imageId="11408541"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#89_a.tif" imageWidth="3721" imageHeight="5756">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424443943" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1595343962074_35"/>
+                <RegionRefIndexed index="1" regionRef="region_1595343990656_43"/>
+                <RegionRefIndexed index="2" regionRef="region_1595343994840_51"/>
+                <RegionRefIndexed index="3" regionRef="region_1595343999502_59"/>
+                <RegionRefIndexed index="4" regionRef="region_1595344005566_67"/>
+                <RegionRefIndexed index="5" regionRef="region_1595344010430_75"/>
+                <RegionRefIndexed index="6" regionRef="region_1595344104300_163"/>
+                <RegionRefIndexed index="7" regionRef="region_1595344018718_83"/>
+                <RegionRefIndexed index="8" regionRef="region_1595344023448_91"/>
+                <RegionRefIndexed index="9" regionRef="region_1595344031530_99"/>
+                <RegionRefIndexed index="10" regionRef="region_1595344036152_107"/>
+                <RegionRefIndexed index="11" regionRef="region_1595344040992_115"/>
+                <RegionRefIndexed index="12" regionRef="region_1595344156467_179"/>
+                <RegionRefIndexed index="13" regionRef="region_1595344195523_185"/>
+                <RegionRefIndexed index="14" regionRef="region_1595344080776_131"/>
+                <RegionRefIndexed index="15" regionRef="region_1595344086108_139"/>
+                <RegionRefIndexed index="16" regionRef="region_1595344090278_147"/>
+                <RegionRefIndexed index="17" regionRef="region_1595344094158_155"/>
+                <RegionRefIndexed index="18" regionRef="region_1595344052702_123"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1595343962074_35" custom="readingOrder {index:0;}">
+            <Coords points="1242,264 1218,602 2240,602 2264,264"/>
+            <TextLine id="line_1595343962114_38" custom="readingOrder {index:0;}">
+                <Coords points="1221,287 2243,276 2240,591 1218,602"/>
+                <Baseline points="1218,597 2240,586"/>
+                <TextEquiv>
+                    <Unicode>A Hét</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>A Hét</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1595343990656_43" custom="readingOrder {index:1;}">
+            <Coords points="1044,609 1041,714 2240,714 2243,609"/>
+            <TextLine id="line_1595343990666_46" custom="readingOrder {index:0;}">
+                <Coords points="1047,625 2246,618 2240,707 1041,714"/>
+                <Baseline points="1041,709 2240,702"/>
+                <TextEquiv>
+                    <Unicode>Társadalmi, Irodalmi és Művészeti Közlöny.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Társadalmi, Irodalmi és Művészeti Közlöny.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1595343994840_51" custom="readingOrder {index:2;}">
+            <Coords points="1535,732 1535,785 1875,785 1875,732"/>
+            <TextLine id="line_1595343994850_54" custom="readingOrder {index:0;}">
+                <Coords points="1535,735 1875,732 1875,782 1535,785"/>
+                <Baseline points="1535,780 1875,777"/>
+                <TextEquiv>
+                    <Unicode>Szerkeszti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Szerkeszti</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1595343999502_59" custom="readingOrder {index:3;}">
+            <Coords points="1479,797 1473,891 1933,891 1939,797"/>
+            <TextLine id="line_1595343999512_62" custom="readingOrder {index:0;}">
+                <Coords points="1473,817 1932,803 1933,877 1474,891"/>
+                <Baseline points="1474,886 1933,872"/>
+                <TextEquiv>
+                    <Unicode>Kiss József.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kiss József.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1595344005566_67" custom="readingOrder {index:4;}">
+            <Coords points="1188,773 1188,823 1361,823 1361,773"/>
+            <TextLine id="line_1595344005586_70" custom="readingOrder {index:0;}">
+                <Coords points="1188,773 1361,773 1361,823 1188,823"/>
+                <Baseline points="1188,818 1361,818"/>
+                <TextEquiv>
+                    <Unicode>I. évfolyam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>I. évfolyam</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1595344010430_75" custom="readingOrder {index:5;}">
+            <Coords points="2042,752 2042,806 2200,806 2200,752"/>
+            <TextLine id="line_1595344010450_78" custom="readingOrder {index:0;}">
+                <Coords points="2043,752 2200,756 2199,806 2042,802"/>
+                <Baseline points="2042,797 2199,801"/>
+                <TextEquiv>
+                    <Unicode>24 szám</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>24 szám</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1595344104300_163" custom="readingOrder {index:6;}">
+            <Coords points="2335,413 3356,413 3356,597 2335,597"/>
+            <TextLine id="line_1595344119938_168" custom="readingOrder {index:0;}">
+                <Coords points="2337,434 3314,420 3315,482 2338,496"/>
+                <Baseline points="2338,491 3315,477"/>
+                <TextEquiv>
+                    <Unicode>Szerkesztőség és Kiadó¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1595344124268_173" custom="readingOrder {index:1;}">
+                <Coords points="2668,530 3005,527 3002,598 2665,601"/>
+                <Baseline points="2665,596 3002,593"/>
+                <TextEquiv>
+                    <Unicode>hivatal:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Szerkesztőség és Kiadó¬&#xD;
+hivatal:</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1595344018718_83" custom="readingOrder {index:7;}">
+            <Coords points="2342,636 2342,714 3339,714 3339,636"/>
+            <TextLine id="line_1595344018738_86" custom="readingOrder {index:0;}">
+                <Coords points="2336,652 3333,642 3339,704 2342,714"/>
+                <Baseline points="2342,709 3339,699"/>
+                <TextEquiv>
+                    <Unicode>VII., Erzsébet-körut 6.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>VII., Erzsébet-körut 6.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1595344023448_91" custom="readingOrder {index:8;}">
+            <Coords points="1813,941 1810,1112 3176,1112 3181,816"/>
+            <TextLine id="line_1595344023478_94" custom="readingOrder {index:0;}">
+                <Coords points="1813,969 3174,826 3176,1075 1811,1112"/>
+                <Baseline points="1811,1107 3176,1070"/>
+                <TextEquiv>
+                    <Unicode>Budapest, 1892 okt. 21.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Budapest, 1892 okt. 21.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1595344031530_99" custom="readingOrder {index:9;}">
+            <Coords points="1160,1346 1121,1723 2191,1723 2230,1346"/>
+            <TextLine id="line_1595344031560_102" custom="readingOrder {index:0;} add {offset:4; length:1;} gap {offset:4; length:0;}">
+                <Coords points="1151,1370 2220,1353 2203,1699 1134,1716"/>
+                <Baseline points="1140,1597 2209,1580"/>
+                <TextEquiv>
+                    <Unicode>Nagyságos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Nagyságos</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1595344036152_107" custom="readingOrder {index:10;}">
+            <Coords points="690,1717 675,2008 2774,2008 2789,1717"/>
+            <TextLine id="line_1595344036172_110" custom="readingOrder {index:0;}">
+                <Coords points="688,1732 2790,1726 2770,1998 677,2008"/>
+                <Baseline points="677,2003 2774,1894"/>
+                <TextEquiv>
+                    <Unicode>Kiss József úrnak</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kiss József úrnak</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1595344040992_115" custom="readingOrder {index:11;}">
+            <Coords points="2056,2037 2035,2480 3371,2480 3392,2037"/>
+            <TextLine id="line_1595344041022_118" custom="readingOrder {index:0;}">
+                <Coords points="2056,2100 3390,2045 3382,2474 2037,2484"/>
+                <Baseline points="2049,2357 3383,2302"/>
+                <TextEquiv>
+                    <Unicode>Budapesten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Budapesten.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1595344156467_179" custom="readingOrder {index:12;}">
+            <Coords points="3558,2489 246,2489 246,4385 3537,4189"/>
+            <TextLine id="line_1595344211593_193" custom="readingOrder {index:0;} sic {offset:0; length:2;}">
+                <Coords points="470,2613 2115,2523 2920,2519 3553,2574 3522,2869 2893,2814 2088,2830 442,2920"/>
+                <Baseline points="442,2882 2088,2792 2908,2727 3537,2782"/>
+                <TextEquiv>
+                    <Unicode>dr. Ziffer Károly úrnak Nagyságod</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1595344220293_198" custom="readingOrder {index:1;} abbrev {offset:21; length:3;}">
+                <Coords points="285,3012 728,3015 889,2931 3491,2816 3493,3070 897,3184 723,3160 273,3157"/>
+                <Baseline points="273,3152 722,3155 899,3107 3496,2993"/>
+                <TextEquiv>
+                    <Unicode>ellen hátralékos 115 frt és járulékai</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1595344224083_203" custom="readingOrder {index:2;} sic {offset:6; length:7;}">
+                <Coords points="324,3229 3491,3059 3472,3292 305,3462"/>
+                <Baseline points="311,3391 3478,3221"/>
+                <TextEquiv>
+                    <Unicode>iránt fenálló ügyében a mellékelt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1595344228943_208" custom="readingOrder {index:3;} abbrev {offset:29; length:3;}">
+                <Coords points="324,3477 3533,3290 3527,3497 318,3684"/>
+                <Baseline points="318,3636 3527,3449"/>
+                <TextEquiv>
+                    <Unicode>nyugta szerint felvettem 125 frt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1595344277075_213" custom="readingOrder {index:4;}">
+                <Coords points="325,3697 3427,3479 3424,3736 322,3954"/>
+                <Baseline points="325,3892 3427,3674"/>
+                <TextEquiv>
+                    <Unicode>azaz Egyszáz huszonöt forintot,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1595344281025_218" custom="readingOrder {index:5;}">
+                <Coords points="330,3932 3487,3745 3472,3964 315,4151"/>
+                <Baseline points="318,4110 3475,3923"/>
+                <TextEquiv>
+                    <Unicode>nevezett ügyfelem követelésé¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1595344285665_223" custom="readingOrder {index:6;}">
+                <Coords points="354,4148 2920,3982 2905,4208 339,4374"/>
+                <Baseline points="345,4345 2911,4179"/>
+                <TextEquiv>
+                    <Unicode>nek résztörlesztéseül.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>dr. Ziffer Károly úrnak Nagyságod&#xD;
+ellen hátralékos 115 frt és járulékai&#xD;
+iránt fenálló ügyében a mellékelt&#xD;
+nyugta szerint felvettem 125 frt&#xD;
+azaz Egyszáz huszonöt forintot,&#xD;
+nevezett ügyfelem követelésé¬&#xD;
+nek résztörlesztéseül.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1595344195523_185" custom="readingOrder {index:13;}">
+            <Coords points="1903,4243 1885,4526 3534,4526 3552,4243"/>
+            <TextLine id="line_1595344195553_188" custom="readingOrder {index:0;}">
+                <Coords points="1900,4256 3549,4256 3537,4514 1888,4514"/>
+                <Baseline points="1888,4500 3537,4500"/>
+                <TextEquiv>
+                    <Unicode>Kiváló tisztelettel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kiváló tisztelettel</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1595344080776_131" custom="readingOrder {index:14;}">
+            <Coords points="1508,4536 1490,4819 3356,4819 3374,4536"/>
+            <TextLine id="line_1595344080806_134" custom="readingOrder {index:0;}">
+                <Coords points="1514,4545 3376,4538 3354,4797 1488,4813"/>
+                <Baseline points="1491,4799 3356,4758"/>
+                <TextEquiv>
+                    <Unicode>Csetényi Adolf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Csetényi Adolf</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1595344086108_139" custom="readingOrder {index:15;}">
+            <Coords points="2014,4816 1927,5135 2694,5135 2781,4816"/>
+            <TextLine id="line_1595344086128_142" custom="readingOrder {index:0;}">
+                <Coords points="2025,4836 2791,4819 2708,5112 1942,5129"/>
+                <Baseline points="1981,4989 2747,4972"/>
+                <TextEquiv>
+                    <Unicode>ügyvéd</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ügyvéd</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1595344090278_147" custom="readingOrder {index:16;}">
+            <Coords points="2832,4849 2616,5161 3127,5161 3343,4849"/>
+            <TextLine id="line_1595344090298_150" custom="readingOrder {index:0;}">
+                <Coords points="2841,4845 3326,4850 3108,5158 2621,5155"/>
+                <Baseline points="2675,5057 3176,5156"/>
+                <TextEquiv>
+                    <Unicode>helyett</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>helyett</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1595344094158_155" custom="readingOrder {index:17;}">
+            <Coords points="1125,5080 1079,5440 3531,5440 3577,5080"/>
+            <TextLine id="line_1595344094188_158" custom="readingOrder {index:0;}">
+                <Coords points="1108,5446 3559,5389 3530,5443 1086,5437"/>
+                <Baseline points="1086,5411 3537,5354"/>
+                <TextEquiv>
+                    <Unicode>Strausz Miklós.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Strausz Miklós.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1595344052702_123" custom="readingOrder {index:18;}">
+            <Coords points="1701,5446 1698,5553 1841,5553 1844,5446"/>
+            <TextLine id="line_1595344052732_126" custom="readingOrder {index:0;}">
+                <Coords points="1701,5455 1844,5455 1841,5553 1698,5553"/>
+                <Baseline points="1698,5548 1841,5548"/>
+                <TextEquiv>
+                    <Unicode>1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

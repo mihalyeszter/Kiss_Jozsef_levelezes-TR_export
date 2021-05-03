@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-03T17:22:19.503+02:00</Created>
+        <LastChange>2020-11-24T14:52:18.384+01:00</LastChange>
+        <TranskribusMetadata docId="401424" pageId="15532062" pageNr="2" tsid="49525253" status="IN_PROGRESS" userId="56520" imgUrl="https://files.transkribus.eu/Get?id=OLSTDVEZIQSWQOLZWUTCVINB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XCOIRTPFPYFCNSHUBFTHMZDO" imageId="11359889"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#63_2a.tif" imageWidth="5197" imageHeight="8313">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424362863" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1593108317663_419"/>
+                <RegionRefIndexed index="1" regionRef="region_1593108324378_422"/>
+                <RegionRefIndexed index="2" regionRef="region_1593108343658_425"/>
+                <RegionRefIndexed index="3" regionRef="region_1593108350311_428"/>
+                <RegionRefIndexed index="4" regionRef="region_1593108358844_431"/>
+                <RegionRefIndexed index="5" regionRef="region_1593108380377_434"/>
+                <RegionRefIndexed index="6" regionRef="region_1593108401792_439"/>
+                <RegionRefIndexed index="7" regionRef="region_1593108406172_442"/>
+                <RegionRefIndexed index="8" regionRef="region_1593108410384_445"/>
+                <RegionRefIndexed index="9" regionRef="region_1593108416304_448"/>
+                <RegionRefIndexed index="10" regionRef="region_1593108420984_451"/>
+                <RegionRefIndexed index="11" regionRef="region_1593108425727_454"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1593108317663_419" custom="readingOrder {index:0;}">
+            <Coords points="663,576 1820,576 1820,875 663,875"/>
+            <TextLine id="line_1593108465382_457" custom="readingOrder {index:0;}">
+                <Coords points="703,779 813,718 933,648 1127,594 1346,599 1545,632 1788,768 1765,852 1526,738 1331,689 1138,694 992,738 856,802 747,862"/>
+                <Baseline points="745,858 854,798 990,733 1137,689 1332,684 1528,733 1767,847"/>
+                <TextEquiv>
+                    <Unicode>Budapest Székesfőváros</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Budapest Székesfőváros</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1593108324378_422" custom="readingOrder {index:1;}">
+            <Coords points="521,1087 2022,1087 2022,1451 521,1451"/>
+            <TextLine id="line_1593108485836_462" custom="readingOrder {index:0;}">
+                <Coords points="592,1099 1018,1312 1441,1317 1716,1236 1919,1108 1971,1194 1774,1324 1475,1423 978,1417 542,1199"/>
+                <Baseline points="544,1195 979,1412 1474,1418 1772,1320 1968,1190"/>
+                <TextEquiv>
+                    <Unicode>Főpolgármestere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Főpolgármestere</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1593108343658_425" custom="readingOrder {index:2;}">
+            <Coords points="549,1723 1804,1723 1804,2011 549,2011"/>
+            <TextLine id="line_1593108495081_467" custom="readingOrder {index:0;} textStyle {offset:6; length:6;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="552,1741 1770,1746 1778,1874 560,1869"/>
+                <Baseline points="560,1864 1778,1869"/>
+                <TextEquiv>
+                    <Unicode>1914: 598. …szám.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1593108503086_472" custom="readingOrder {index:1;}">
+                <Coords points="1083,1873 1344,1867 1349,1977 1088,1983"/>
+                <Baseline points="1088,1978 1349,1972"/>
+                <TextEquiv>
+                    <Unicode>főpm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1914: 598. …szám.&#xD;
+főpm.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1593108350311_428" custom="readingOrder {index:3;}">
+            <Coords points="1750,2522 3353,2522 3353,2696 1750,2696"/>
+            <TextLine id="line_1593108512075_477" custom="readingOrder {index:0;} textStyle {offset:0; length:23;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="1779,2539 3301,2539 3305,2673 1783,2673"/>
+                <Baseline points="1783,2668 3305,2668"/>
+                <TextEquiv>
+                    <Unicode>N A G Y S Á G O S  U R!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>N A G Y S Á G O S  U R!</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1593108358844_431" custom="readingOrder {index:4;}">
+            <Coords points="5071,3130 1092,3130 1092,4103 5071,4103"/>
+            <TextLine id="line_1593108517946_482" custom="readingOrder {index:0;}">
+                <Coords points="1717,3142 5049,3147 5045,3265 1713,3260"/>
+                <Baseline points="1713,3255 5045,3260"/>
+                <TextEquiv>
+                    <Unicode>Ő császári és apostoli királyi Felsége folyó évi május</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1593108523447_487" custom="readingOrder {index:1;}">
+                <Coords points="1126,3335 4887,3346 4887,3472 1126,3461"/>
+                <Baseline points="1126,3456 4887,3467"/>
+                <TextEquiv>
+                    <Unicode>hó 25-én kelt legfelsőbb elhatározásával Nagyságodnak a magyar</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1593108529001_492" custom="readingOrder {index:2;}">
+                <Coords points="1112,3515 4895,3531 4903,3673 1120,3657"/>
+                <Baseline points="1120,3652 4903,3668"/>
+                <TextEquiv>
+                    <Unicode>költészet terén szerzett kiváló érdemei elismeréséül a Ferencz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1593108534615_497" custom="readingOrder {index:3;}">
+                <Coords points="1116,3720 5035,3715 5039,3853 1120,3858"/>
+                <Baseline points="1120,3853 5039,3848"/>
+                <TextEquiv>
+                    <Unicode>Józsefrend középkeresztjét legkegyelmesebben adományozni méltóz¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1593108539188_502" custom="readingOrder {index:4;}">
+                <Coords points="1125,3924 1565,3918 1566,4048 1126,4054"/>
+                <Baseline points="1126,4049 1566,4043"/>
+                <TextEquiv>
+                    <Unicode>tatott.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ő császári és apostoli királyi Felsége folyó évi május&#xD;
+hó 25-én kelt legfelsőbb elhatározásával Nagyságodnak a magyar&#xD;
+költészet terén szerzett kiváló érdemei elismeréséül a Ferencz&#xD;
+Józsefrend középkeresztjét legkegyelmesebben adományozni méltóz¬&#xD;
+tatott.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1593108380377_434" custom="readingOrder {index:5;}">
+            <Coords points="5083,4115 1089,4115 1089,5507 5083,5507"/>
+            <TextLine id="line_1593108545152_507" custom="readingOrder {index:0;}">
+                <Coords points="1725,4131 5046,4142 5050,4260 1729,4249"/>
+                <Baseline points="1729,4244 5050,4255"/>
+                <TextEquiv>
+                    <Unicode>Van szerencsém erről Nagyságodat a vallás és közoktatás</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1593108553707_512" custom="readingOrder {index:1;}">
+                <Coords points="1122,4328 5068,4350 5072,4472 1126,4450"/>
+                <Baseline points="1126,4445 5072,4467"/>
+                <TextEquiv>
+                    <Unicode>ügyi m.kir.miniszter urnak 1914 évi junius hó 13-án 2540/1914 eln.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1593108562260_517" custom="readingOrder {index:2;}">
+                <Coords points="1126,4517 4990,4533 4990,4668 1126,4652"/>
+                <Baseline points="1126,4647 4990,4663"/>
+                <TextEquiv>
+                    <Unicode>szám alatt kelt leirata alapján a legkegyelmesebben adományozott</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1593108578450_522" custom="readingOrder {index:3;}">
+                <Coords points="1134,4725 5086,4747 5086,4879 1134,4857"/>
+                <Baseline points="1134,4852 5086,4874"/>
+                <TextEquiv>
+                    <Unicode>rendjel és a vonatkozó alapszabályok megküldése mellett örvendetes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1593108586706_527" custom="readingOrder {index:4;} sic {offset:42; length:8;}">
+                <Coords points="1139,4913 5080,4941 5080,5080 1139,5052"/>
+                <Baseline points="1139,5047 5080,5075"/>
+                <TextEquiv>
+                    <Unicode>tudomásul oly kéréssel értesíteni, hogy a szintént mellékelt térít¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1593108592364_532" custom="readingOrder {index:5;}">
+                <Coords points="1134,5123 4912,5139 4912,5286 1134,5270"/>
+                <Baseline points="1134,5265 4912,5281"/>
+                <TextEquiv>
+                    <Unicode>vényt aláírni és ennek megtörténte után hozzám mielőbb vissza¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1593108597800_537" custom="readingOrder {index:6;}">
+                <Coords points="1140,5326 2526,5342 2525,5476 1139,5460"/>
+                <Baseline points="1139,5455 2525,5471"/>
+                <TextEquiv>
+                    <Unicode>juttatni legyen szíves.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Van szerencsém erről Nagyságodat a vallás és közoktatás&#xD;
+ügyi m.kir.miniszter urnak 1914 évi junius hó 13-án 2540/1914 eln.&#xD;
+szám alatt kelt leirata alapján a legkegyelmesebben adományozott&#xD;
+rendjel és a vonatkozó alapszabályok megküldése mellett örvendetes&#xD;
+tudomásul oly kéréssel értesíteni, hogy a szintént mellékelt térít¬&#xD;
+vényt aláírni és ennek megtörténte után hozzám mielőbb vissza¬&#xD;
+juttatni legyen szíves.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1593108401792_439" custom="readingOrder {index:6;}">
+            <Coords points="3964,5512 2078,5512 2078,5697 3964,5697"/>
+            <TextLine id="line_1593108603499_542" custom="readingOrder {index:0;}">
+                <Coords points="2087,5533 3951,5538 3955,5661 2091,5656"/>
+                <Baseline points="2091,5651 3955,5656"/>
+                <TextEquiv>
+                    <Unicode>Budapest, 1914 évi junius hó 18.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Budapest, 1914 évi junius hó 18.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1593108406172_442" custom="readingOrder {index:7;}">
+            <Coords points="2904,5822 3828,5822 3828,6262 2904,6262"/>
+            <TextLine id="line_1593108608056_547" custom="readingOrder {index:0;}">
+                <Coords points="2970,5839 3763,5893 3739,6252 2955,6096"/>
+                <Baseline points="2955,6091 3748,6145"/>
+                <TextEquiv>
+                    <Unicode>Bárczy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Bárczy</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1593108410384_445" custom="readingOrder {index:8;}">
+            <Coords points="2828,6300 3932,6300 3932,6545 2828,6545"/>
+            <TextLine id="line_1593108613271_552" custom="readingOrder {index:0;}">
+                <Coords points="2853,6317 3896,6338 3895,6460 2852,6439"/>
+                <Baseline points="2852,6434 3895,6455"/>
+                <TextEquiv>
+                    <Unicode>h. főpolgármester.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>h. főpolgármester.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1593108416304_448" custom="readingOrder {index:9;}">
+            <Coords points="616,6779 1290,6779 1290,6985 616,6985"/>
+            <TextLine id="line_1593108620517_557" custom="readingOrder {index:0;}">
+                <Coords points="641,6810 1222,6810 1226,6933 645,6933"/>
+                <Baseline points="645,6928 1226,6928"/>
+                <TextEquiv>
+                    <Unicode>Nagyságos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Nagyságos</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1593108420984_451" custom="readingOrder {index:10;}">
+            <Coords points="1779,6991 3595,6991 3595,7203 1779,7203"/>
+            <TextLine id="line_1593108626100_562" custom="readingOrder {index:0;} textStyle {offset:0; length:20;fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="1813,7009 3542,7014 3542,7156 1813,7151"/>
+                <Baseline points="1813,7146 3542,7151"/>
+                <TextEquiv>
+                    <Unicode>K I S S  J Ó Z S E F urnak</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>K I S S  J Ó Z S E F urnak</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1593108425727_454" custom="readingOrder {index:11;}">
+            <Coords points="3502,7507 4519,7507 4519,7692 3502,7692"/>
+            <TextLine id="line_1593108640316_567" custom="readingOrder {index:0;} textStyle {offset:0; length:15;underlined:true; fontSize:0.0; kerning:0; letterSpaced:true;}">
+                <Coords points="3544,7522 4489,7533 4492,7667 3547,7656"/>
+                <Baseline points="3547,7651 4492,7662"/>
+                <TextEquiv>
+                    <Unicode>B U D A P E S T</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>B U D A P E S T</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

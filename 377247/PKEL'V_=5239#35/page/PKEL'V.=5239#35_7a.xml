@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-29T11:45:36.707+02:00</Created>
+        <LastChange>2020-11-24T11:08:59.491+01:00</LastChange>
+        <TranskribusMetadata docId="377247" pageId="14771297" pageNr="13" tsid="49519013" status="IN_PROGRESS" userId="56520" imgUrl="https://files.transkribus.eu/Get?id=ODHIMHFWVZOTMCSHBATQEACQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZCNYVDYXLMEWNSURVYZIZGCU" imageId="10711132"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#35_7a.tif" imageWidth="3164" imageHeight="2421">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424017573" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1594147289254_173"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1594147461573_216"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1594147461573_215"/>
+                <RegionRefIndexed index="3" regionRef="region_1594147313342_179"/>
+                <RegionRefIndexed index="4" regionRef="region_1594147317067_182"/>
+                <RegionRefIndexed index="5" regionRef="region_1594147326810_185"/>
+                <RegionRefIndexed index="6" regionRef="region_1594147334216_193"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1594147289254_173" custom="readingOrder {index:0;}">
+            <Coords points="788,332 1797,332 1797,530 788,530"/>
+            <TextLine id="line_1594147501847_226" custom="readingOrder {index:0;}">
+                <Coords points="794,351 1794,351 1791,521 791,521"/>
+                <Baseline points="791,516 1791,516"/>
+                <TextEquiv>
+                    <Unicode>Kedves Viki néni!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kedves Viki néni!</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="TextRegion_1594147461573_216" custom="readingOrder {index:1;}">
+            <Coords points="501,545 3001,545 3001,910 2483,910 2482,904 2441,738 1886,726 1827,904 1825,910 501,910"/>
+            <TextLine id="line_1594147510585_231" custom="readingOrder {index:0;}">
+                <Coords points="659,547 2984,579 2983,725 658,693"/>
+                <Baseline points="658,688 2983,720"/>
+                <TextEquiv>
+                    <Unicode>Küldök egy kis konty alá valót. Fogyaszszák</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1594147516485_236" custom="readingOrder {index:1;}">
+                <Coords points="511,704 1175,722 1177,901 522,898"/>
+                <Baseline points="513,815 1177,833"/>
+                <TextEquiv>
+                    <Unicode>el egészségben.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Küldök egy kis konty alá valót. Fogyaszszák&#xD;
+el egészségben.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="TextRegion_1594147461573_215" custom="readingOrder {index:2;}">
+            <Coords points="1886,726 2441,738 2482,904 2483,910 1825,910 1827,904"/>
+            <TextLine id="line_1594147523227_241" custom="readingOrder {index:0;}">
+                <Coords points="1889,741 2446,750 2464,898 1862,907"/>
+                <Baseline points="1859,854 2455,886"/>
+                <TextEquiv>
+                    <Unicode>Hűséges híve</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Hűséges híve</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1594147313342_179" custom="readingOrder {index:3;}">
+            <Coords points="2885,993 1975,993 1975,1616 2885,1616"/>
+            <TextLine id="line_1594147528903_246" custom="readingOrder {index:0;}">
+                <Coords points="2004,1015 2865,1015 2841,1591 1980,1591"/>
+                <Baseline points="2010,1213 2871,1213"/>
+                <TextEquiv>
+                    <Unicode>Kiss József</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kiss József</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1594147317067_182" custom="readingOrder {index:4;}">
+            <Coords points="628,993 1064,993 1064,1147 628,1147"/>
+            <TextLine id="line_1594147534634_251" custom="readingOrder {index:0;}">
+                <Coords points="641,1010 1042,1019 1041,1132 640,1123"/>
+                <Baseline points="640,1094 1041,1103"/>
+                <TextEquiv>
+                    <Unicode>1913 okt 20</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1913 okt 20</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1594147326810_185" custom="readingOrder {index:5;}">
+            <Coords points="2230,2001 2230,2054 2868,2054 2868,2001"/>
+            <TextLine id="line_1594147326851_188" custom="readingOrder {index:0;}">
+                <Coords points="2230,2004 2868,2001 2868,2051 2230,2054"/>
+                <Baseline points="2230,2049 2868,2046"/>
+                <TextEquiv>
+                    <Unicode>VIII., Népszinház-u. 22.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>VIII., Népszinház-u. 22.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1594147334216_193" custom="readingOrder {index:6;}">
+            <Coords points="2227,2090 2227,2143 2874,2143 2874,2090"/>
+            <TextLine id="line_1594147334263_196" custom="readingOrder {index:0;}">
+                <Coords points="2227,2093 2874,2090 2874,2140 2227,2143"/>
+                <Baseline points="2227,2138 2874,2135"/>
+                <TextEquiv>
+                    <Unicode>Telefon József 5-27.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Telefon József 5-27.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

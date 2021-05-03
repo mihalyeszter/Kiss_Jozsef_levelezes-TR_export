@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-28T11:43:41.015+02:00</Created>
+        <LastChange>2020-11-23T16:27:54.738+01:00</LastChange>
+        <TranskribusMetadata docId="376721" pageId="14728723" pageNr="10" tsid="49498613" status="IN_PROGRESS" userId="56520" imgUrl="https://files.transkribus.eu/Get?id=POVWYTOUTPPDLBCUDBQGUQIV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BKSZHTKUGXIBPCDTOEZNZGOR" imageId="10669770"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#30_7a.tif" imageWidth="3327" imageHeight="2250">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424073815" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1590499291070_1614"/>
+                <RegionRefIndexed index="1" regionRef="region_1590499296954_1617"/>
+                <RegionRefIndexed index="2" regionRef="region_1590499310635_1620"/>
+                <RegionRefIndexed index="3" regionRef="region_1590499321855_1623"/>
+                <RegionRefIndexed index="4" regionRef="region_1590499326877_1626"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1590499291070_1614" custom="readingOrder {index:0;}">
+            <Coords points="661,153 187,153 187,317 661,317"/>
+            <TextLine id="line_1590499357821_1631" custom="readingOrder {index:0;}">
+                <Coords points="197,169 645,164 646,304 198,309"/>
+                <Baseline points="198,298 637,293"/>
+                <TextEquiv>
+                    <Unicode>A Hét</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>A Hét</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1590499296954_1617" custom="readingOrder {index:1;}">
+            <Coords points="986,330 193,330 193,394 986,394"/>
+            <TextLine id="line_1590499365616_1636" custom="readingOrder {index:0;}">
+                <Coords points="203,335 972,341 972,391 203,385"/>
+                <Baseline points="198,380 967,386"/>
+                <TextEquiv>
+                    <Unicode>VIII. Rökk–Szilárd–utcza 18.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>VIII. Rökk–Szilárd–utcza 18.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1590499310635_1620" custom="readingOrder {index:2;}">
+            <Coords points="235,407 3231,407 3231,1906 235,1906"/>
+            <TextLine id="line_1590499374129_1641" custom="readingOrder {index:0;} textStyle {offset:0; length:11;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="245,412 3204,414 3210,581 245,632"/>
+                <Baseline points="248,589 3210,576"/>
+                <TextEquiv>
+                    <Unicode>Giacometta. Egy régi chablonos história uj voná¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1590499380712_1646" custom="readingOrder {index:1;}">
+                <Coords points="378,620 3195,567 3205,708 388,761"/>
+                <Baseline points="388,756 3205,703"/>
+                <TextEquiv>
+                    <Unicode>sok, új szín nélkül. A tőrt a modern novellákban</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1590499386881_1651" custom="readingOrder {index:2;}">
+                <Coords points="387,756 3166,714 3173,867 394,909"/>
+                <Baseline points="394,904 3173,862"/>
+                <TextEquiv>
+                    <Unicode>már nem igen használják. Az is régi, elkopott.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1590499394392_1656" custom="readingOrder {index:3;}">
+                <Coords points="386,907 2980,857 2993,1010 399,1060"/>
+                <Baseline points="399,1055 2980,1010"/>
+                <TextEquiv>
+                    <Unicode>Kivételesen visszaküldjük a kéziratot. Ha</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1590499401642_1661" custom="readingOrder {index:4;}">
+                <Coords points="388,1047 3139,1002 3152,1150 401,1195"/>
+                <Baseline points="401,1190 3152,1145"/>
+                <TextEquiv>
+                    <Unicode>máskor valamely írást beküld, ne méltóztassék</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1590499407092_1666" custom="readingOrder {index:5;}">
+                <Coords points="400,1182 3198,1150 3205,1300 407,1332"/>
+                <Baseline points="407,1327 3205,1295"/>
+                <TextEquiv>
+                    <Unicode>a visszaküldést oly nagyon szorgalmazni. Ne¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1590499413037_1671" custom="readingOrder {index:6;}">
+                <Coords points="408,1343 3068,1308 3075,1448 415,1483"/>
+                <Baseline points="415,1478 3075,1443"/>
+                <TextEquiv>
+                    <Unicode>künk nagyon sokat kell olvasnunk. A ki</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1590499418838_1676" custom="readingOrder {index:7;} textStyle {offset:23; length:12;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="401,1474 2985,1449 2977,1599 401,1599"/>
+                <Baseline points="401,1594 2977,1594"/>
+                <TextEquiv>
+                    <Unicode>sorjára nem vár, annak olvasatlanúl</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1590499426028_1681" custom="readingOrder {index:8;}">
+                <Coords points="433,1591 3225,1594 3225,1745 433,1742"/>
+                <Baseline points="423,1750 3215,1753"/>
+                <TextEquiv>
+                    <Unicode>meg küldjük a kéziratát. Lapunk kezdők műveire</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1590499436208_1686" custom="readingOrder {index:9;}">
+                <Coords points="430,1743 3024,1743 3030,1885 436,1885"/>
+                <Baseline points="436,1880 3030,1880"/>
+                <TextEquiv>
+                    <Unicode>egyáltalán nem reflectál. Tisztelettel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Giacometta. Egy régi chablonos história uj voná¬&#xD;
+sok, új szín nélkül. A tőrt a modern novellákban&#xD;
+már nem igen használják. Az is régi, elkopott.&#xD;
+Kivételesen visszaküldjük a kéziratot. Ha&#xD;
+máskor valamely írást beküld, ne méltóztassék&#xD;
+a visszaküldést oly nagyon szorgalmazni. Ne¬&#xD;
+künk nagyon sokat kell olvasnunk. A ki&#xD;
+sorjára nem vár, annak olvasatlanúl&#xD;
+meg küldjük a kéziratát. Lapunk kezdők műveire&#xD;
+egyáltalán nem reflectál. Tisztelettel</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1590499321855_1623" custom="readingOrder {index:3;}">
+            <Coords points="3226,2115 2337,2115 2337,1901 3226,1901"/>
+            <TextLine id="line_1590499442772_1691" custom="readingOrder {index:0;} textStyle {offset:0; length:5;underlined:true; fontSize:0.0; kerning:0;} abbrev {offset:6; length:5;}">
+                <Coords points="2361,1907 3197,1913 3200,2104 2353,2097"/>
+                <Baseline points="2364,2078 3200,2084"/>
+                <TextEquiv>
+                    <Unicode>A Hét szerk.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>A Hét szerk.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1590499326877_1626" custom="readingOrder {index:4;}">
+            <Coords points="843,2110 412,2110 412,1922 843,1922"/>
+            <TextLine id="line_1590499449654_1696" custom="readingOrder {index:0;} abbrev {offset:0; length:3;}">
+                <Coords points="440,1951 792,1946 790,2090 438,2095"/>
+                <Baseline points="444,2049 796,2044"/>
+                <TextEquiv>
+                    <Unicode>okt 18.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>okt 18.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

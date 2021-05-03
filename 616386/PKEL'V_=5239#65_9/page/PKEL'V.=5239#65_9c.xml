@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2021-02-22T22:59:41.550+01:00</Created>
+        <LastChange>2021-02-25T15:45:08.992+01:00</LastChange>
+        <TranskribusMetadata docId="616386" pageId="24434589" pageNr="3" tsid="53073092" status="IN_PROGRESS" userId="58915" imgUrl="https://files.transkribus.eu/Get?id=TBXOQPEKENQCRYKDDNTROJUV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KLKNHXFDWZMRAZPBNIOVDSTX" imageId="18809578"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#65_9c.tif" imageWidth="2786" imageHeight="1841">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424992633" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1614247012209_328"/>
+                <RegionRefIndexed index="1" regionRef="region_1614247014692_331"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1614247012209_328" custom="readingOrder {index:0;}">
+            <Coords points="912,695 1846,695 1846,897 912,897"/>
+            <TextLine id="line_1614247020059_334" custom="readingOrder {index:0;}">
+                <Coords points="995,788 1800,792 1797,879 992,875"/>
+                <Baseline points="992,870 1797,874"/>
+                <TextEquiv>
+                    <Unicode>Julius von Bauer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Julius von Bauer</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1614247014692_331" custom="readingOrder {index:1;}">
+            <Coords points="1072,897 1724,897 1724,1009 1072,1009"/>
+            <TextLine id="line_1614247024358_339" custom="readingOrder {index:0;} textStyle {offset:6; length:2;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="1143,925 1643,929 1643,988 1143,984"/>
+                <Baseline points="1143,979 1643,983"/>
+                <TextEquiv>
+                    <Unicode>K. u. K. Oberst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>K. u. K. Oberst</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

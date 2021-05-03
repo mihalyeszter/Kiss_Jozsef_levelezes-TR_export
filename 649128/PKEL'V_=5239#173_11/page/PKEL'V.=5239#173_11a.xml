@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2021-04-08T10:44:42.526+02:00</Created>
+        <LastChange>2021-04-13T08:10:11.368+02:00</LastChange>
+        <TranskribusMetadata docId="649128" pageId="25213421" pageNr="1" tsid="56273399" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=AIFVFUKMGFMULFROWDVCUPXP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VSXQSETLHPQARJGJWMVUZHHF" imageId="19444342"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#173_11a.tif" imageWidth="3608" imageHeight="4397">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424966422" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1617970571962_198"/>
+                <RegionRefIndexed index="1" regionRef="region_1617970573764_201"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1617970571962_198" custom="readingOrder {index:0;}">
+            <Coords points="538,2661 3290,2661 3290,3306 538,3306"/>
+            <TextLine id="line_1617970579331_204" custom="readingOrder {index:0;}">
+                <Coords points="719,2780 3196,2916 3129,3251 652,3115"/>
+                <Baseline points="712,3015 3154,3146"/>
+                <TextEquiv>
+                    <Unicode>Nagyságos Kiss József úrnak.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Nagyságos Kiss József úrnak.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1617970573764_201" custom="readingOrder {index:1;}">
+            <Coords points="2251,3510 3066,3510 3066,4088 2251,4088"/>
+            <TextLine id="line_1617970599028_212" custom="readingOrder {index:0;}">
+                <Coords points="2385,3613 2872,3618 2892,3983 2405,3978"/>
+                <Baseline points="2435,3918 2892,3923"/>
+                <TextEquiv>
+                    <Unicode>H.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>H.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>PKEL'V.=5239#155</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: szucs.kata.agnes@gmail.com</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile xml:id='facs_1'>
+		<surface ulx='0' uly='0' lrx='2968' lry='3792'>
+			<graphic url='PKEL'V.=5239#155_a.tif' width='2968px' height='3792px'/>
+			<zone ulx='438' uly='1801' lrx='1628' lry='2205' rendition='TextRegion' xml:id='facs_1_region_1615381657895_1962'>
+				<zone ulx='439' uly='1808' lrx='1626' lry='2203' rendition='Line' xml:id='facs_1_line_1615381657934_1965'/>
+			</zone>
+			<zone ulx='573' uly='2242' lrx='2689' lry='2579' rendition='TextRegion' xml:id='facs_1_region_1615381663277_1970'>
+				<zone ulx='576' uly='2252' lrx='2685' lry='2569' rendition='Line' xml:id='facs_1_line_1615381663319_1973'/>
+			</zone>
+			<zone ulx='616' uly='2535' lrx='2457' lry='2848' rendition='TextRegion' xml:id='facs_1_region_1615381668194_1978'>
+				<zone ulx='610' uly='2547' lrx='2457' lry='2848' rendition='Line' xml:id='facs_1_line_1615381668237_1981'/>
+			</zone>
+			<zone ulx='1394' uly='2863' lrx='2706' lry='3293' rendition='TextRegion' xml:id='facs_1_region_1615381676270_1986'>
+				<zone ulx='1400' uly='2873' lrx='2696' lry='3294' rendition='Line' xml:id='facs_1_line_1615381676315_1989'/>
+			</zone>
+			<zone ulx='1393' uly='3300' lrx='2477' lry='3606' rendition='TextRegion' xml:id='facs_1_region_1615381680960_1994'>
+				<zone ulx='1396' uly='3306' lrx='2473' lry='3605' rendition='Line' xml:id='facs_1_line_1615381681004_1997'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id='facs_2'>
+		<surface ulx='0' uly='0' lrx='2972' lry='2345'>
+			<graphic url='PKEL'V.=5239#155_b.tif' width='2972px' height='2345px'/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id='facs_3'>
+		<surface ulx='0' uly='0' lrx='2878' lry='2213'>
+			<graphic url='PKEL'V.=5239#155_c.tif' width='2878px' height='2213px'/>
+			<zone ulx='175' uly='162' lrx='2776' lry='1184' rendition='TextRegion' xml:id='facs_3_region_1615381906420_2037'>
+				<zone ulx='418' uly='118' lrx='2585' lry='467' rendition='Line' xml:id='facs_3_line_1615382015922_2050'/>
+				<zone ulx='176' uly='421' lrx='2783' lry='659' rendition='Line' xml:id='facs_3_line_1615382023473_2055'/>
+				<zone ulx='227' uly='582' lrx='2726' lry='875' rendition='Line' xml:id='facs_3_line_1615382029792_2060'/>
+				<zone ulx='239' uly='747' lrx='2691' lry='1088' rendition='Line' xml:id='facs_3_line_1615382035879_2065'/>
+				<zone ulx='290' uly='961' lrx='725' lry='1179' rendition='Line' xml:id='facs_3_line_1615382041596_2070'/>
+			</zone>
+			<zone ulx='526' uly='1124' lrx='2023' lry='1436' rendition='TextRegion' xml:id='facs_3_region_1615381915868_2040'>
+				<zone ulx='525' uly='1127' lrx='2006' lry='1426' rendition='Line' xml:id='facs_3_line_1615382046902_2075'/>
+			</zone>
+			<zone ulx='1166' uly='1371' lrx='2397' lry='1712' rendition='TextRegion' xml:id='facs_3_region_1615381925789_2043'>
+				<zone ulx='1171' uly='1374' lrx='2389' lry='1694' rendition='Line' xml:id='facs_3_line_1615382053769_2080'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<pb facs='#facs_1' n='1'/>
+			<p facs='#facs_1_region_1615381657895_1962'>
+				<lb facs='#facs_1_line_1615381657934_1965' n='N001'/>Nagyságos
+			</p>
+			<p facs='#facs_1_region_1615381663277_1970'>
+				<lb facs='#facs_1_line_1615381663319_1973' n='N001'/>Kiss József Urnak
+			</p>
+			<p facs='#facs_1_region_1615381668194_1978'>
+				<lb facs='#facs_1_line_1615381668237_1981' n='N001'/>a „Hét” szerkesztője
+			</p>
+			<p facs='#facs_1_region_1615381676270_1986'>
+				<lb facs='#facs_1_line_1615381676315_1989' n='N001'/><hi rend='underlined:true; fontSize:0.0; kerning:0;'>Budapest</hi>
+			</p>
+			<p facs='#facs_1_region_1615381680960_1994'>
+				<lb facs='#facs_1_line_1615381681004_1997' n='N001'/>József Körút
+			</p>
+			<pb facs='#facs_2' n='2'/>
+			<pb facs='#facs_3' n='3'/>
+			<p facs='#facs_3_region_1615381906420_2037'>
+				<lb facs='#facs_3_line_1615382015922_2050' n='N001'/>Mélyen tisztelt Uram, fogadja
+				<lb facs='#facs_3_line_1615382023473_2055' n='N002'/>legmelegebb köszönetemet szíves figyel¬
+				<lb facs='#facs_3_line_1615382029792_2060' n='N003'/>méért. Igen jól esett megemlékezése
+				<lb facs='#facs_3_line_1615382035879_2065' n='N004'/>s élvezettel olvasom szép költemé¬
+				<lb facs='#facs_3_line_1615382041596_2070' n='N005'/>nyeit.
+			</p>
+			<p facs='#facs_3_region_1615381915868_2040'>
+				<lb facs='#facs_3_line_1615382046902_2075' n='N001'/>Őszinte igaz tisztelője
+			</p>
+			<p facs='#facs_3_region_1615381925789_2043'>
+				<lb facs='#facs_3_line_1615382053769_2080' n='N001'/>Hazai Samuné
+			</p>
+		</body>
+	</text>
+</TEI>

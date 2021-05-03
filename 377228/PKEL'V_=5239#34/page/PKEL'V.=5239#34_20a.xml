@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-29T10:54:41.731+02:00</Created>
+        <LastChange>2020-07-15T16:22:11.665+02:00</LastChange>
+        <TranskribusMetadata docId="377228" pageId="14767946" pageNr="45" tsid="34503468" status="IN_PROGRESS" userId="56520" imgUrl="https://files.transkribus.eu/Get?id=BDSYCVMONDCVCPIIEVHWCPXV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WSVDNVVGGQJIYRTJAEYDFZDH" imageId="10707785"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#34_20a.tif" imageWidth="3272" imageHeight="2200">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424058290" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1594557703334_585"/>
+                <RegionRefIndexed index="1" regionRef="region_1594557708464_593"/>
+                <RegionRefIndexed index="2" regionRef="region_1594557716325_601"/>
+                <RegionRefIndexed index="3" regionRef="region_1594557724897_609"/>
+                <RegionRefIndexed index="4" regionRef="region_1594557732948_617"/>
+                <RegionRefIndexed index="5" regionRef="region_1594557758286_625"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1594557703334_585" custom="readingOrder {index:0;}">
+            <Coords points="2984,101 2984,242 3141,242 3141,101"/>
+            <TextLine id="line_1594557703365_588" custom="readingOrder {index:0;}">
+                <Coords points="2998,104 3131,118 3127,242 2984,200"/>
+                <Baseline points="2985,195 3128,237"/>
+                <TextEquiv>
+                    <Unicode>84.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>84.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1594557708464_593" custom="readingOrder {index:1;}">
+            <Coords points="441,198 438,302 847,302 850,198"/>
+            <TextLine id="line_1594557708495_596" custom="readingOrder {index:0;}">
+                <Coords points="439,201 847,207 846,302 438,296"/>
+                <Baseline points="438,291 846,297"/>
+                <TextEquiv>
+                    <Unicode>A Hét</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>A Hét</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1594557716325_601" custom="readingOrder {index:2;}">
+            <Coords points="247,338 247,394 1025,394 1025,338"/>
+            <TextLine id="line_1594557716356_604" custom="readingOrder {index:0;}">
+                <Coords points="247,338 1025,344 1025,394 247,388"/>
+                <Baseline points="247,383 1025,389"/>
+                <TextEquiv>
+                    <Unicode>VIII., Népszinház-utca 22.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>VIII., Népszinház-utca 22.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1594557724897_609" custom="readingOrder {index:3;}">
+            <Coords points="414,407 414,463 862,463 862,407"/>
+            <TextLine id="line_1594557724928_612" custom="readingOrder {index:0;}">
+                <Coords points="415,407 862,413 861,463 414,457"/>
+                <Baseline points="414,452 861,458"/>
+                <TextEquiv>
+                    <Unicode>Telefon 61—38.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Telefon 61—38.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1594557732948_617" custom="readingOrder {index:4;}">
+            <Coords points="1693,314 1693,433 2230,433 2230,314"/>
+            <TextLine id="line_1594557732995_620" custom="readingOrder {index:0;}">
+                <Coords points="1693,326 2230,323 2230,430 1693,433"/>
+                <Baseline points="1693,407 2230,404"/>
+                <TextEquiv>
+                    <Unicode>Budapest, 19…</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Budapest, 19…</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1594557758286_625" custom="readingOrder {index:5;}">
+            <Coords points="98,475 3208,475 3208,2095 98,2095"/>
+            <TextLine id="line_1594557773110_628" custom="readingOrder {index:0;} sic {offset:23; length:8;}">
+                <Coords points="341,495 1422,531 3155,511 3158,764 1413,821 334,792"/>
+                <Baseline points="331,750 1413,786 3158,729"/>
+                <TextEquiv>
+                    <Unicode>Édes barátom! Ön engem alaposam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1594557787769_633" custom="readingOrder {index:1;}">
+                <Coords points="154,773 1019,868 3026,857 3029,1089 1002,1131 128,1042"/>
+                <Baseline points="134,968 1002,1063 3029,1021"/>
+                <TextEquiv>
+                    <Unicode>félreértett. Én nem úgy gondoltam,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1594557799471_638" custom="readingOrder {index:2;}">
+                <Coords points="192,1083 1135,1170 1275,1108 2197,1181 3190,1096 3194,1274 2180,1447 1265,1373 1101,1435 146,1349"/>
+                <Baseline points="164,1269 1118,1355 1243,1302 2159,1376 3193,1269"/>
+                <TextEquiv>
+                    <Unicode>hogy ezentúl már felém se nézzen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1594557809486_643" custom="readingOrder {index:3;}">
+                <Coords points="159,1384 1155,1467 2973,1439 2967,1695 1121,1772 116,1680"/>
+                <Baseline points="122,1576 1121,1659 2967,1582"/>
+                <TextEquiv>
+                    <Unicode>hisz az elképzelhetlen, hanem hogy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1594557818765_648" custom="readingOrder {index:4;}">
+                <Coords points="159,1676 666,1751 2185,1791 2370,1773 3047,1755 3044,2014 2330,2023 2178,2095 638,2059 125,1990"/>
+                <Baseline points="128,1868 638,1943 2177,1979 2329,1934 3044,1925"/>
+                <TextEquiv>
+                    <Unicode>egyelőre passív szemlélője legyen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Édes barátom! Ön engem alaposam&#xD;
+félreértett. Én nem úgy gondoltam,&#xD;
+hogy ezentúl már felém se nézzen&#xD;
+hisz az elképzelhetlen, hanem hogy&#xD;
+egyelőre passív szemlélője legyen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

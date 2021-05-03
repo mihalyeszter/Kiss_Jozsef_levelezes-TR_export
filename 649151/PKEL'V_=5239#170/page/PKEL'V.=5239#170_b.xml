@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2021-04-08T10:57:20.445+02:00</Created>
+        <LastChange>2021-04-13T07:32:37.717+02:00</LastChange>
+        <TranskribusMetadata docId="649151" pageId="25213462" pageNr="2" tsid="56270408" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=JHOUCERMLXGVSLGUPQKVHBML&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FIAGBHOEWKXUGZGSEPJCSVVY" imageId="19444370"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#170_b.tif" imageWidth="3618" imageHeight="4585">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424988536" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1617970370060_134"/>
+                <RegionRefIndexed index="1" regionRef="region_1617970377147_137"/>
+                <RegionRefIndexed index="2" regionRef="region_1617970383148_140"/>
+                <RegionRefIndexed index="3" regionRef="region_1617970387798_143"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1617970370060_134" custom="readingOrder {index:0;}">
+            <Coords points="447,623 3450,623 3482,1397 1276,1415 1258,1600 447,1593"/>
+            <TextLine id="line_1617970427131_150" custom="readingOrder {index:0;}">
+                <Coords points="602,673 3428,667 3440,918 614,924"/>
+                <Baseline points="632,880 3434,880"/>
+                <TextEquiv>
+                    <Unicode>ványt közöl belőle – Vasárnap –</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617970430648_155" custom="readingOrder {index:1;}">
+                <Coords points="596,935 3398,938 3382,1196 573,1192"/>
+                <Baseline points="590,1122 3392,1125"/>
+                <TextEquiv>
+                    <Unicode>a fűzött példányban kijelöl¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617970435701_160" custom="readingOrder {index:2;}">
+                <Coords points="579,1167 3408,1179 3420,1407 591,1395"/>
+                <Baseline points="582,1367 3411,1379"/>
+                <TextEquiv>
+                    <Unicode>tem egy jelenetet, a mely alkal¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617970439100_165" custom="readingOrder {index:3;}">
+                <Coords points="650,1464 1193,1452 1191,1571 648,1583"/>
+                <Baseline points="648,1578 1191,1566"/>
+                <TextEquiv>
+                    <Unicode>mas. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ványt közöl belőle – Vasárnap –&#xD;
+a fűzött példányban kijelöl¬&#xD;
+tem egy jelenetet, a mely alkal¬&#xD;
+mas. </Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1617970377147_137" custom="readingOrder {index:1;}">
+            <Coords points="1377,1415 3305,1415 3305,1820 1377,1820"/>
+            <TextLine id="line_1617970443265_170" custom="readingOrder {index:0;}">
+                <Coords points="1477,1440 3213,1436 3195,1804 1459,1808"/>
+                <Baseline points="1468,1785 3204,1781"/>
+                <TextEquiv>
+                    <Unicode>Szívből üdvözli</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Szívből üdvözli</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1617970383148_140" custom="readingOrder {index:2;}">
+            <Coords points="1987,2264 3119,2264 3119,1828 1987,1828"/>
+            <TextLine id="line_1617970445907_175" custom="readingOrder {index:0;}">
+                <Coords points="2097,1842 3018,1838 3003,2247 2082,2251"/>
+                <Baseline points="2088,2117 3009,2113"/>
+                <TextEquiv>
+                    <Unicode>Ivánfi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ivánfi</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1617970387798_143" custom="readingOrder {index:3;}">
+            <Coords points="1457,4201 1728,4201 1728,4392 1457,4392"/>
+            <TextLine id="line_1617970451871_180" custom="readingOrder {index:0;}">
+                <Coords points="1530,4240 1666,4240 1662,4338 1526,4338"/>
+                <Baseline points="1526,4333 1662,4333"/>
+                <TextEquiv>
+                    <Unicode>2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>2</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

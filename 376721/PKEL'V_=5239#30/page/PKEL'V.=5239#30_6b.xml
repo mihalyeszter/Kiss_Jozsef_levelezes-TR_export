@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-28T11:43:40.931+02:00</Created>
+        <LastChange>2020-11-23T16:26:28.238+01:00</LastChange>
+        <TranskribusMetadata docId="376721" pageId="14728721" pageNr="9" tsid="49498453" status="IN_PROGRESS" userId="56520" imgUrl="https://files.transkribus.eu/Get?id=DKXJXPRGCQCQSBRNRQYBMFEY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DXGZVJFYKOZMNGHCRLHNQGAC" imageId="10669768"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#30_6b.tif" imageWidth="4143" imageHeight="2342">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424073530" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1590498600580_1508"/>
+                <RegionRefIndexed index="1" regionRef="region_1590498852045_1561"/>
+                <RegionRefIndexed index="2" regionRef="region_1590498615884_1511"/>
+                <RegionRefIndexed index="3" regionRef="region_1590498630231_1514"/>
+                <RegionRefIndexed index="4" regionRef="region_1590498640015_1517"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1590498600580_1508" custom="readingOrder {index:0;}">
+            <Coords points="533,903 3968,622 3961,181 537,214"/>
+            <TextLine id="line_1590498893391_1566" custom="readingOrder {index:0;} abbrev {offset:12; length:2;}">
+                <Coords points="587,389 3501,185 3490,634 573,893"/>
+                <Baseline points="576,833 3490,629"/>
+                <TextEquiv>
+                    <Unicode>Convex 1.25 D.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Convex 1.25 D.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1590498852045_1561" custom="readingOrder {index:1;}">
+            <Coords points="692,1450 3971,1146 3958,603 711,886"/>
+            <TextLine id="line_1590498899893_1571" custom="readingOrder {index:0;} abbrev {offset:14; length:5;} gap {offset:23; length:0;}">
+                <Coords points="707,905 3917,599 3934,1118 724,1424"/>
+                <Baseline points="715,1268 3925,962"/>
+                <TextEquiv>
+                    <Unicode>férfipápaszem, p.f.= 60</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>férfipápaszem, p.f.= 60</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1590498615884_1511" custom="readingOrder {index:2;}">
+            <Coords points="2821,1786 4027,1786 4027,1102 2821,1102"/>
+            <TextLine id="line_1590498909320_1576" custom="readingOrder {index:0;} gap {offset:0; length:0;}">
+                <Coords points="2848,1115 3995,1108 3991,1768 2844,1775"/>
+                <Baseline points="2844,1651 3991,1644"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1590498630231_1514" custom="readingOrder {index:3;}">
+            <Coords points="217,1904 2389,1707 2395,1403 227,1440"/>
+            <TextLine id="line_1590498917718_1581" custom="readingOrder {index:0;} abbrev {offset:0; length:5;}">
+                <Coords points="257,1443 2375,1410 2369,1672 237,1895"/>
+                <Baseline points="240,1825 2369,1667"/>
+                <TextEquiv>
+                    <Unicode>Bpest, 920. VI. 2.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Bpest, 920. VI. 2.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1590498640015_1517" custom="readingOrder {index:4;}">
+            <Coords points="1394,2178 2784,2178 2784,1799 1394,1799"/>
+            <TextLine id="line_1590498924594_1586" custom="readingOrder {index:0;}">
+                <Coords points="1395,1828 2766,1821 2772,2138 1401,2145"/>
+                <Baseline points="1407,2056 2778,2049"/>
+                <TextEquiv>
+                    <Unicode>Egyszerű keret</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Egyszerű keret</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

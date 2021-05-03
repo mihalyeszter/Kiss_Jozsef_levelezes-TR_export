@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-05T12:43:25.715+02:00</Created>
+        <LastChange>2020-11-25T13:11:56.168+01:00</LastChange>
+        <TranskribusMetadata docId="403481" pageId="15584681" pageNr="5" tsid="49606914" status="IN_PROGRESS" userId="56520" imgUrl="https://files.transkribus.eu/Get?id=IBBVJURTGYLOYXRCIREWBEUQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VPUEPUAMWURCQKQCPTOBSVKF" imageId="11409305"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#97_3b.tif" imageWidth="2610" imageHeight="1578">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424322130" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1597323801649_2756"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1597323760983_2745"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1597323801649_2756" custom="readingOrder {index:0;}">
+            <Coords points="147,77 2520,77 2520,1093 2508,1093 982,1090 977,1267 147,1286"/>
+            <TextLine id="line_1597323731445_2728" custom="readingOrder {index:0;} sic {offset:8; length:7;}">
+                <Coords points="153,90 2514,73 2520,244 159,261"/>
+                <Baseline points="159,236 184,232 209,230 235,228 260,227 286,225 311,225 336,225 362,225 387,225 413,225 438,225 463,225 489,224 514,224 540,224 565,222 591,219 609,203 704,198 800,194 895,191 991,189 1086,188 1182,188 1277,189 1373,189 1468,192 1564,194 1660,197 1755,200 1851,203 1946,206 2042,209 2137,212 2233,214 2328,216 2424,218 2520,219"/>
+                <TextEquiv>
+                    <Unicode>Igen t. baratom. Hetvenötödik születés¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+                <Coords points="147,387 2358,379 2367,252 156,260"/>
+                <Baseline points="147,362 257,357 368,354 478,351 589,348 699,347 810,345 920,342 1031,342 1141,341 1252,341 1363,339 1473,339 1584,341 1694,341 1805,342 1915,344 2026,347 2136,348 2247,351 2358,354"/>
+                <TextEquiv>
+                    <Unicode>napja alkalmából szívből kívánom,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+                <Coords points="180,535 2465,493 2468,359 183,401"/>
+                <Baseline points="180,510 294,503 408,496 522,490 637,485 751,480 865,476 979,473 1094,470 1208,467 1322,465 1436,464 1551,464 1665,464 1779,464 1893,464 2008,464 2122,465 2236,465 2350,467 2465,468"/>
+                <TextEquiv>
+                    <Unicode>hogy mint patriárka korban élő bárd</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="198,648 2408,612 2411,506 201,542"/>
+                <Baseline points="198,623 308,623 419,623 529,622 640,620 750,618 861,616 971,613 1082,610 1192,607 1303,603 1413,600 1524,597 1634,594 1745,591 1855,590 1966,588 2076,587 2187,585 2297,585 2408,587"/>
+                <TextEquiv>
+                    <Unicode>még sokáig zengjen, testi épségben és</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;} sic {offset:9; length:11;}">
+                <Coords points="210,784 2513,768 2516,624 213,640"/>
+                <Baseline points="210,759 325,754 440,750 555,747 670,744 785,743 900,741 1016,740 1131,740 1246,738 1361,738 1476,738 1591,740 1706,740 1822,740 1937,741 2052,741 2167,742 2282,743 2397,743 2513,743"/>
+                <TextEquiv>
+                    <Unicode>szellemi friseségben, halhatatlan dalokat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597323940615_2792" custom="readingOrder {index:5;}">
+                <Coords points="284,799 2432,770 2436,890 288,919"/>
+                <Baseline points="288,914 2436,885"/>
+                <TextEquiv>
+                    <Unicode>Önnek kedvtelésére, mindnyájunk</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:6;} sic {offset:11; length:2;}">
+                <Coords points="240,1081 2411,1047 2393,917 222,951"/>
+                <Baseline points="240,1056 348,1052 457,1049 565,1046 674,1043 782,1040 891,1038 999,1036 1108,1034 1216,1034 1325,1032 1434,1031 1542,1031 1651,1029 1759,1028 1868,1028 1976,1026 2085,1025 2193,1025 2302,1023 2411,1022"/>
+                <TextEquiv>
+                    <Unicode>gyönyörére es a magyar költészet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:7;}">
+                <Coords points="221,1248 932,1209 917,1085 206,1124"/>
+                <Baseline points="221,1223 256,1223 292,1221 327,1220 363,1218 398,1216 434,1214 469,1211 505,1209 540,1205 576,1202 612,1199 647,1197 683,1194 718,1191 754,1189 789,1187 825,1186 860,1185 896,1184 932,1184"/>
+                <TextEquiv>
+                    <Unicode>dicsőségére.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Igen t. baratom. Hetvenötödik születés¬&#xD;
+napja alkalmából szívből kívánom,&#xD;
+hogy mint patriárka korban élő bárd&#xD;
+még sokáig zengjen, testi épségben és&#xD;
+szellemi friseségben, halhatatlan dalokat&#xD;
+Önnek kedvtelésére, mindnyájunk&#xD;
+gyönyörére es a magyar költészet&#xD;
+dicsőségére.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1597323760983_2745" custom="readingOrder {index:1;}">
+            <Coords points="1154,1074 2363,1086 2366,1354 1141,1354"/>
+            <TextLine id="r1l11" custom="readingOrder {index:0;}">
+                <Coords points="1230,1354 1675,1320 2312,1337 2279,1113 1431,1098 1201,1169"/>
+                <Baseline points="1230,1329 1285,1322 1341,1316 1397,1311 1452,1306 1508,1302 1564,1299 1620,1298 1675,1295 1731,1295 1787,1295 1843,1295 1898,1296 1954,1297 2010,1299 2066,1302 2121,1304 2177,1308 2233,1311 2289,1314"/>
+                <TextEquiv>
+                    <Unicode>Donath Gyula</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Donath Gyula</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

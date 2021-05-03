@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.4.2
+TRP</Creator>
+        <Created>2019-09-11T12:00:47.605+02:00</Created>
+        <LastChange>2020-11-23T15:57:16.690+01:00</LastChange>
+        <TranskribusMetadata docId="208859" pageId="8946230" pageNr="2" tsid="49494719" status="IN_PROGRESS" userId="56520" imgUrl="https://files.transkribus.eu/Get?id=BFWIUXOTOFAYIWSWJMGFJMZM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GHHBKGBUOGNWWIHZENKZMXLE" imageId="5787710"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#3_b.tif" imageWidth="5194" imageHeight="8277">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619423861674" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1568635496781_19"/>
+                <RegionRefIndexed index="1" regionRef="region_1568635533266_24"/>
+                <RegionRefIndexed index="2" regionRef="region_1568635574882_37"/>
+                <RegionRefIndexed index="3" regionRef="region_1568635588738_41"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1568635496781_19" custom="readingOrder {index:0;}">
+            <Coords points="1653,2242 2604,2242 2604,2436 1653,2436"/>
+            <TextLine id="line_1568635616346_48" custom="readingOrder {index:0;}">
+                <Coords points="1681,2208 2549,2241 2543,2438 1675,2405"/>
+                <Baseline points="1686,2363 2554,2396"/>
+                <TextEquiv>
+                    <Unicode>Kedves Uram!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kedves Uram!</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1568635533266_24" custom="readingOrder {index:1;}">
+            <Coords points="318,2838 4734,2842 4734,5532 318,5528"/>
+            <TextLine id="line_1568635634360_53" custom="readingOrder {index:0;}">
+                <Coords points="1365,2856 4502,2864 4502,3022 1365,3014"/>
+                <Baseline points="1365,3009 4426,3021"/>
+                <TextEquiv>
+                    <Unicode>Puky István ur átnyujtotta nekem azt a százezer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1568635641145_58" custom="readingOrder {index:1;} add {offset:1; length:1;place:above;}">
+                <Coords points="398,3054 4492,3062 4492,3244 398,3236"/>
+                <Baseline points="398,3219 4492,3227"/>
+                <TextEquiv>
+                    <Unicode>koronáról szóló csekket, amelyet az Ön vezetése alatt álló asz¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1568635821760_63" custom="readingOrder {index:2;}">
+                <Coords points="390,3255 4413,3276 4401,3474 378,3453"/>
+                <Baseline points="414,3412 4401,3437"/>
+                <TextEquiv>
+                    <Unicode>taltársaság küldött nekem előlegképen egy Amerikában kiadandó</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1568635830632_68" custom="readingOrder {index:3;} textStyle {offset:63; length:1;strikethrough:true; fontSize:0.0; kerning:0;} add {offset:64; length:2;place:inline;}">
+                <Coords points="410,3472 4594,3493 4582,3667 398,3646"/>
+                <Baseline points="402,3613 4586,3634"/>
+                <TextEquiv>
+                    <Unicode>verskötet tiszteletdíjára. Őszintén megvallom, hogy ez az előke-lő</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1568635835905_73" custom="readingOrder {index:4;}">
+                <Coords points="366,3691 4541,3707 4541,3897 366,3881"/>
+                <Baseline points="410,3832 4541,3856"/>
+                <TextEquiv>
+                    <Unicode>formában nyujtott segítség sohasem érkezhetett jobb időpontban,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1568635842129_78" custom="readingOrder {index:5;} textStyle {offset:52; length:2;strikethrough:true; fontSize:0.0; kerning:0;} add {offset:54; length:2;place:inline;}">
+                <Coords points="394,3892 4578,3905 4574,4083 390,4070"/>
+                <Baseline points="390,4041 4574,4054"/>
+                <TextEquiv>
+                    <Unicode>mert ha eddig sem éltem valami rózsás viszonyok közözztt, nem igen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1568635849259_83" custom="readingOrder {index:6;} add {offset:11; length:1;place:above;} sic {offset:17; length:5;} sic {offset:54; length:8;} sic {offset:65; length:1;}">
+                <Coords points="410,4069 4656,4107 4644,4289 398,4251"/>
+                <Baseline points="398,4226 4644,4264"/>
+                <TextEquiv>
+                    <Unicode>tudom, e küldött öszeg nélkül miképen vergődtem volna kersztül a n</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1568635855633_88" custom="readingOrder {index:7;}">
+                <Coords points="375,4283 4533,4312 4529,4522 371,4493"/>
+                <Baseline points="423,4424 4529,4453"/>
+                <TextEquiv>
+                    <Unicode>nehéz téli hónapokon. Kérem tolmácsolja az egész társaság előtt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1568635863481_93" custom="readingOrder {index:8;}">
+                <Coords points="371,4509 4528,4534 4524,4716 367,4691"/>
+                <Baseline points="419,4646 4496,4671"/>
+                <TextEquiv>
+                    <Unicode>legmelegebb hálámat és köszönetemet. A puszta szó nagyon szerény</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1568635886499_99" custom="readingOrder {index:9;}">
+                <Coords points="367,4685 4664,4710 4656,4908 359,4883"/>
+                <Baseline points="399,4842 4628,4863"/>
+                <TextEquiv>
+                    <Unicode>honorárium ugyan, de a póéta embernek ez az egyetlen valutája, és</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1568635891515_104" custom="readingOrder {index:10;}">
+                <Coords points="407,4892 4451,4904 4439,5106 395,5094"/>
+                <Baseline points="395,5065 4439,5077"/>
+                <TextEquiv>
+                    <Unicode>ha egyéb földi javakban nem is bővelkedem, arra az egyre büszke</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1568635897326_109" custom="readingOrder {index:11;}">
+                <Coords points="411,5085 4558,5110 4554,5324 407,5299"/>
+                <Baseline points="411,5258 4558,5283"/>
+                <TextEquiv>
+                    <Unicode>vagyok, hogy ez a fizetési eszközöm jó és becsületes, és a ki¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1568635903179_114" custom="readingOrder {index:12;}">
+                <Coords points="399,5315 2941,5315 2933,5521 391,5521"/>
+                <Baseline points="391,5484 2933,5484"/>
+                <TextEquiv>
+                    <Unicode>fejezett gondolatok őszinték és igazak.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Puky István ur átnyujtotta nekem azt a százezer&#xD;
+koronáról szóló csekket, amelyet az Ön vezetése alatt álló asz¬&#xD;
+taltársaság küldött nekem előlegképen egy Amerikában kiadandó&#xD;
+verskötet tiszteletdíjára. Őszintén megvallom, hogy ez az előke-lő&#xD;
+formában nyujtott segítség sohasem érkezhetett jobb időpontban,&#xD;
+mert ha eddig sem éltem valami rózsás viszonyok közözztt, nem igen&#xD;
+tudom, e küldött öszeg nélkül miképen vergődtem volna kersztül a n&#xD;
+nehéz téli hónapokon. Kérem tolmácsolja az egész társaság előtt&#xD;
+legmelegebb hálámat és köszönetemet. A puszta szó nagyon szerény&#xD;
+honorárium ugyan, de a póéta embernek ez az egyetlen valutája, és&#xD;
+ha egyéb földi javakban nem is bővelkedem, arra az egyre büszke&#xD;
+vagyok, hogy ez a fizetési eszközöm jó és becsületes, és a ki¬&#xD;
+fejezett gondolatok őszinték és igazak.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1568635574882_37" custom="readingOrder {index:2;}">
+            <Coords points="320,5536 4781,5536 4781,7310 320,7310"/>
+            <TextLine id="line_1568635908283_119" custom="readingOrder {index:0;}">
+                <Coords points="1378,5520 4567,5553 4571,5731 1382,5698"/>
+                <Baseline points="1382,5653 4571,5686"/>
+                <TextEquiv>
+                    <Unicode>Ami az ajánlott könyvkiadási ötletet illeti azt a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1568635913492_124" custom="readingOrder {index:1;} comment {offset:55; length:1;comment:átírva\u0020tollal\u0020(mindenhol?);} textStyle {offset:63; length:2;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="387,5722 4604,5763 4604,5961 387,5920"/>
+                <Baseline points="387,5863 4604,5904"/>
+                <TextEquiv>
+                    <Unicode>legnagyobb örömmel fogadom, s készséggel adom beleegyezésemet, ha</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1568635921768_129" custom="readingOrder {index:2;}">
+                <Coords points="415,5924 4645,5965 4633,6151 403,6110"/>
+                <Baseline points="403,6073 4633,6114"/>
+                <TextEquiv>
+                    <Unicode>hogy egy kötet költeményemet társaságuk kiadja, s hogy honorárium</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1568635927957_134" custom="readingOrder {index:3;}">
+                <Coords points="399,6134 4620,6159 4624,6365 403,6340"/>
+                <Baseline points="399,6299 4620,6324"/>
+                <TextEquiv>
+                    <Unicode>fejében az összes költségek és a most folyósitott 100;000.- koro¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1568635934068_139" custom="readingOrder {index:4;} sic {offset:57; length:9;} supplied {offset:66; length:1;}">
+                <Coords points="395,6347 4637,6380 4637,6574 395,6541"/>
+                <Baseline points="391,6496 4633,6529"/>
+                <TextEquiv>
+                    <Unicode>na levonása után fennmaradó összeg jusson nekem. Az Önök tervezeté¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1568635943092_144" custom="readingOrder {index:5;} supplied {offset:65; length:1;}">
+                <Coords points="403,6533 4645,6570 4641,6764 399,6727"/>
+                <Baseline points="399,6698 4641,6735"/>
+                <TextEquiv>
+                    <Unicode>vel szemben csupán egy pontban volna külön véleményem. Nevezetesen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1568635955042_150" custom="readingOrder {index:6;} sic {offset:56; length:7;}">
+                <Coords points="404,6750 4535,6778 4531,6985 400,6957"/>
+                <Baseline points="400,6912 4531,6940"/>
+                <TextEquiv>
+                    <Unicode>azt ajánlanám, hogy ne ujabb még meg nem jelent verseim kiadást</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1568635966938_155" custom="readingOrder {index:7;} comment {offset:40; length:14;comment:Kiss\u0020József\u0020háborús\u0020versei\u0020‒\u0020A\u0020Hét,\u0020Budapest,\u00201915.\u002071\u0020p.;}">
+                <Coords points="392,6964 4613,6989 4617,7187 396,7162"/>
+                <Baseline points="396,7125 4617,7150"/>
+                <TextEquiv>
+                    <Unicode>vállalják, hanem a háboru alatt kiadott Háborus versek cimü gyűj¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ami az ajánlott könyvkiadási ötletet illeti azt a&#xD;
+legnagyobb örömmel fogadom, s készséggel adom beleegyezésemet, ha&#xD;
+hogy egy kötet költeményemet társaságuk kiadja, s hogy honorárium&#xD;
+fejében az összes költségek és a most folyósitott 100;000.- koro¬&#xD;
+na levonása után fennmaradó összeg jusson nekem. Az Önök tervezeté¬&#xD;
+vel szemben csupán egy pontban volna külön véleményem. Nevezetesen&#xD;
+azt ajánlanám, hogy ne ujabb még meg nem jelent verseim kiadást&#xD;
+vállalják, hanem a háboru alatt kiadott Háborus versek cimü gyűj¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1568635588738_41" custom="readingOrder {index:3;}">
+            <Coords points="2352,7882 2551,7882 2551,8051 2352,8051"/>
+            <TextLine id="line_1568637385178_324" custom="readingOrder {index:0;}">
+                <Coords points="2378,7881 2518,7886 2516,8020 2376,8015"/>
+                <Baseline points="2376,8010 2516,8015"/>
+                <TextEquiv>
+                    <Unicode>2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>2</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

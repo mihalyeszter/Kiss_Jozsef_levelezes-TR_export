@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-05-25T17:02:14.076+02:00</Created>
+        <LastChange>2020-11-24T11:27:40.597+01:00</LastChange>
+        <TranskribusMetadata docId="392551" pageId="15216874" pageNr="2" tsid="49519840" status="IN_PROGRESS" userId="56520" imgUrl="https://files.transkribus.eu/Get?id=KCISWOJTDSOATVQDLJJWENVA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DZFTFJWTZVVYYXWJFCVJFFGG" imageId="11076238"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#40_1b.tif" imageWidth="2302" imageHeight="1523">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424436929" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1591815595273_1401"/>
+                <RegionRefIndexed index="1" regionRef="region_1591815604037_1404"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1591815595273_1401" custom="readingOrder {index:0;}">
+            <Coords points="2211,84 123,84 123,795 2211,795"/>
+            <TextLine id="line_1591815632511_1407" custom="readingOrder {index:0;} supplied {offset:33; length:1;}">
+                <Coords points="235,84 1964,91 2203,170 2197,432 1944,272 229,267"/>
+                <Baseline points="229,262 1945,267 2200,428"/>
+                <TextEquiv>
+                    <Unicode>Altai Margit mélyen érzett, őszin¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1591815639942_1412" custom="readingOrder {index:1;} supplied {offset:22; length:1;}">
+                <Coords points="125,279 1858,282 2157,371 2170,556 1838,571 143,467"/>
+                <Baseline points="143,462 1870,465 2171,551"/>
+                <TextEquiv>
+                    <Unicode>te részvétének ad kife¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1591815644323_1417" custom="readingOrder {index:2;} sic {offset:0; length:6;}">
+                <Coords points="143,528 722,523 722,743 143,748"/>
+                <Baseline points="146,683 725,678"/>
+                <TextEquiv>
+                    <Unicode>jézést</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Altai Margit mélyen érzett, őszin¬&#xD;
+te részvétének ad kife¬&#xD;
+jézést</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1591815604037_1404" custom="readingOrder {index:1;}">
+            <Coords points="295,1059 2059,1059 2059,1378 295,1378"/>
+            <TextLine id="line_1591815650271_1422" custom="readingOrder {index:0;}">
+                <Coords points="310,1072 1661,1068 1985,1366 312,1240"/>
+                <Baseline points="312,1208 1661,1226"/>
+                <TextEquiv>
+                    <Unicode>1921. dec. 14 én</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1921. dec. 14 én</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

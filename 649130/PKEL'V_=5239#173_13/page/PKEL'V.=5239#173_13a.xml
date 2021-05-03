@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2021-04-08T10:44:42.378+02:00</Created>
+        <LastChange>2021-04-19T11:10:59.403+02:00</LastChange>
+        <TranskribusMetadata docId="649130" pageId="25213418" pageNr="1" tsid="56757223" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=EHXGIVLSEEBGZHUFKGCGQMVR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NPSYPVJWDAEWSNIZNVBVOOGY" imageId="19444339"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#173_13a.tif" imageWidth="2817" imageHeight="2533">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424945317" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1617959626569_534"/>
+                <RegionRefIndexed index="1" regionRef="region_1617959632609_537"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1617959626569_534" custom="readingOrder {index:0;}">
+            <Coords points="2518,121 2678,121 2678,241 2518,241"/>
+            <TextLine id="line_1617959641981_540" custom="readingOrder {index:0;}">
+                <Coords points="2567,132 2656,132 2658,225 2569,225"/>
+                <Baseline points="2569,220 2658,220"/>
+                <TextEquiv>
+                    <Unicode>1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1617959632609_537" custom="readingOrder {index:1;}">
+            <Coords points="123,534 2682,534 2676,2434 117,2434"/>
+            <TextLine id="line_1617959655742_547" custom="readingOrder {index:0;}">
+                <Coords points="425,595 2564,608 2568,767 429,754"/>
+                <Baseline points="429,749 2568,762"/>
+                <TextEquiv>
+                    <Unicode>Édes szerkesztő úr, ez a dolog elég hosz¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617959659491_552" custom="readingOrder {index:1;} textStyle {offset:16; length:19;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="281,890 2574,876 2570,1033 277,1047"/>
+                <Baseline points="277,1042 2570,1028"/>
+                <TextEquiv>
+                    <Unicode>szúra sikerült, de sem kihagyni nem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617959663707_557" custom="readingOrder {index:2;} textStyle {offset:0; length:12;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="272,1176 2604,1153 2600,1290 268,1313"/>
+                <Baseline points="268,1308 2600,1285"/>
+                <TextEquiv>
+                    <Unicode>lehet belőle, sem másnak, mint</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617959670272_562" custom="readingOrder {index:3;} textStyle {offset:0; length:8;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="302,1437 2613,1396 2620,1567 309,1608"/>
+                <Baseline points="309,1603 2620,1562"/>
+                <TextEquiv>
+                    <Unicode>Irodalomnak adni. Viszont így adhat¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617959674813_567" custom="readingOrder {index:4;} gap {offset:0; length:0;} gap {offset:17; length:0;}">
+                <Coords points="676,1650 2647,1629 2626,1836 655,1857"/>
+                <Baseline points="655,1852 2626,1831"/>
+                <TextEquiv>
+                    <Unicode>gon. zentül, ami </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617960797738_593" custom="readingOrder {index:5;} gap {offset:0; length:0;} gap {offset:6; length:0;}">
+                <Coords points="664,1940 1476,1913 2106,1925 2646,1977 2633,2120 668,2106"/>
+                <Baseline points="704,2098 1480,2074 2093,2063 2633,2115"/>
+                <TextEquiv>
+                    <Unicode> meg.  is nagyon</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617960828636_602" custom="readingOrder {index:6;} gap {offset:0; length:0;}">
+                <Coords points="875,2241 1258,2235 1262,2358 879,2364"/>
+                <Baseline points="879,2359 1262,2353"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Édes szerkesztő úr, ez a dolog elég hosz¬&#xD;
+szúra sikerült, de sem kihagyni nem&#xD;
+lehet belőle, sem másnak, mint&#xD;
+Irodalomnak adni. Viszont így adhat¬&#xD;
+gon. zentül, ami &#xD;
+ meg.  is nagyon&#xD;
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

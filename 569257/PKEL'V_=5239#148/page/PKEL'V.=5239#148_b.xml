@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2021-01-11T16:29:50.964+01:00</Created>
+        <LastChange>2021-01-19T17:27:03.977+01:00</LastChange>
+        <TranskribusMetadata docId="569257" pageId="23183163" pageNr="2" tsid="51464649" status="IN_PROGRESS" userId="56520" imgUrl="https://files.transkribus.eu/Get?id=TQFILYCCFONRGYOOYGAPDZYL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AJFWSLVKXRSWXFJBTKXOKHXB" imageId="18091392"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#148_b.tif" imageWidth="4382" imageHeight="4220">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424856046" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1611047205492_368"/>
+                <RegionRefIndexed index="1" regionRef="region_1611047207996_371"/>
+                <RegionRefIndexed index="2" regionRef="region_1611047209900_374"/>
+                <RegionRefIndexed index="3" regionRef="region_1611047212924_377"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="region_1611047205492_368" custom="readingOrder {index:0;}">
+            <Coords points="214,134 4071,134 4071,545 214,545"/>
+            <TextLine id="line_1611047373525_384" custom="readingOrder {index:0;} textStyle {offset:0; length:6;underlined:true; fontSize:0.0; kerning:0;} textStyle {offset:9; length:1;fontSize:0.0; kerning:0; superscript:true;}">
+                <Coords points="235,160 921,151 3968,253 3968,509 1263,494 257,438"/>
+                <Baseline points="330,354 359,354 389,354 418,355 448,356 477,356 507,356 536,355 566,354 595,354 625,354 655,354 684,354 714,354 743,354 773,354 802,354 832,356 861,356 891,357 921,357 1239,423 1375,426 1511,429 1648,432 1784,434 1921,436 2057,438 2194,440 2330,441 2467,443 2603,444 2739,444 2876,446 3012,447 3149,449 3285,450 3422,452 3558,453 3695,455 3831,458 3968,459"/>
+                <TextEquiv>
+                    <Unicode>Feladó. Dr Halmos Dezső főorvos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Feladó. Dr Halmos Dezső főorvos</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1611047207996_371" custom="readingOrder {index:1;}">
+            <Coords points="852,478 4012,478 4012,818 852,818"/>
+            <TextLine id="region_1611047207996_371l1" custom="readingOrder {index:0;} abbrev {offset:0; length:21;}">
+                <Coords points="866,751 3902,812 3902,563 866,502"/>
+                <Baseline points="866,701 1017,699 1169,699 1321,701 1473,702 1625,705 1776,708 1928,711 2080,716 2232,720 2384,724 2535,729 2687,734 2839,738 2991,743 3143,747 3294,751 3446,755 3598,758 3750,760 3902,762"/>
+                <TextEquiv>
+                    <Unicode>M. kir. 1. honv. táb. ágyúsezred</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>M. kir. 1. honv. táb. ágyúsezred</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1611047209900_374" custom="readingOrder {index:2;}">
+            <Coords points="1830,738 2472,738 2472,1019 1830,1019"/>
+            <TextLine id="region_1611047209900_374l1" custom="readingOrder {index:0;}">
+                <Coords points="1925,1009 2441,1045 2441,796 1925,760"/>
+                <Baseline points="1925,917 1950,917 1976,920 2002,921 2028,923 2054,926 2079,927 2105,931 2131,933 2157,935 2183,938 2208,941 2234,944 2260,945 2286,947 2312,950 2337,950 2363,951 2389,953 2415,953 2441,953"/>
+                <TextEquiv>
+                    <Unicode>4 üteg</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>4 üteg</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1611047212924_377" custom="readingOrder {index:3;}">
+            <Coords points="1339,948 3844,948 3844,1464 1339,1464"/>
+            <TextLine id="line_1611047416860_390" custom="readingOrder {index:0;} textStyle {offset:0; length:19;underlined:true; fontSize:0.0; kerning:0;} abbrev {offset:3; length:2;}">
+                <Coords points="1592,968 3770,997 3780,1397 1838,1349 1631,1221 1604,1211"/>
+                <Baseline points="1604,1161 1631,1171 1659,1171 1686,1169 1714,1170 1742,1178 1838,1206 1929,1206 2020,1206 2111,1206 2202,1208 2294,1209 2385,1211 2476,1212 2567,1215 2658,1217 2750,1220 2841,1223 2932,1227 3023,1229 3114,1233 3206,1236 3297,1240 3388,1244 3479,1248 3570,1251 3662,1254"/>
+                <TextEquiv>
+                    <Unicode>84 sz. tábori pósta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>84 sz. tábori pósta</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

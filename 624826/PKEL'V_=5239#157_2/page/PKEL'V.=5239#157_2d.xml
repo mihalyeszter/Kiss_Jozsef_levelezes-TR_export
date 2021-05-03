@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2021-03-08T11:25:05.861+01:00</Created>
+        <LastChange>2021-03-16T13:48:30.460+01:00</LastChange>
+        <TranskribusMetadata docId="624826" pageId="24630576" pageNr="4" tsid="53768882" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=UOZRKITQLCAUOBUMFYCEQTBC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ETNAISIFYXGIGASVPPWAZJFG" imageId="18974932"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#157_2d.tif" imageWidth="3741" imageHeight="5769">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424860070" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1615392025010_4017"/>
+                <RegionRefIndexed index="1" regionRef="region_1615392049690_4041"/>
+                <RegionRefIndexed index="2" regionRef="region_1615392032300_4025"/>
+                <RegionRefIndexed index="3" regionRef="region_1615392036240_4033"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1615392025010_4017" custom="readingOrder {index:0;}">
+            <Coords points="514,760 520,1005 2585,1005 2579,760"/>
+            <TextLine id="line_1615392025020_4020" custom="readingOrder {index:0;} sic {offset:4; length:7;}">
+                <Coords points="508,769 2573,772 2582,990 517,987"/>
+                <Baseline points="514,916 2579,919"/>
+                <TextEquiv>
+                    <Unicode>már füreden lennétek.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>már füreden lennétek.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1615392049690_4041" custom="readingOrder {index:1;}">
+            <Coords points="592,1001 3511,1001 3511,1309 1249,1315 1239,1403 595,1409 592,1309"/>
+            <TextLine id="line_1615392093180_4046" custom="readingOrder {index:0;}">
+                <Coords points="985,1010 3511,1010 3514,1234 3489,1296 1261,1293 1252,1238 988,1234"/>
+                <Baseline points="979,1202 3505,1202"/>
+                <TextEquiv>
+                    <Unicode>Továbbra is teljes jó egészséget</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615392098542_4051" custom="readingOrder {index:1;}">
+                <Coords points="603,1266 1205,1254 1206,1382 604,1394"/>
+                <Baseline points="604,1389 1206,1377"/>
+                <TextEquiv>
+                    <Unicode>kíván</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Továbbra is teljes jó egészséget&#xD;
+kíván</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1615392032300_4025" custom="readingOrder {index:2;}">
+            <Coords points="1693,1334 1687,1528 3329,1528 3335,1334"/>
+            <TextLine id="line_1615392032320_4028" custom="readingOrder {index:0;}">
+                <Coords points="1690,1346 3332,1349 3329,1519 1687,1516"/>
+                <Baseline points="1687,1484 3329,1487"/>
+                <TextEquiv>
+                    <Unicode>tisztelő barátod</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>tisztelő barátod</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1615392036240_4033" custom="readingOrder {index:3;}">
+            <Coords points="1964,1583 1970,2321 3036,2321 3030,1583"/>
+            <TextLine id="line_1615392036250_4036" custom="readingOrder {index:0;}">
+                <Coords points="1971,1592 3018,1598 3032,2318 1980,2309"/>
+                <Baseline points="1968,1799 3027,1944"/>
+                <TextEquiv>
+                    <Unicode>Samu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Samu</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

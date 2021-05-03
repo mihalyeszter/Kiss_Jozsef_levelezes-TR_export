@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2021-02-03T14:34:47.810+01:00</Created>
+        <LastChange>2021-02-11T11:56:34.482+01:00</LastChange>
+        <TranskribusMetadata docId="599985" pageId="23869559" pageNr="4" tsid="52487125" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=AJWEXRUOWRJEWJVPUVDHVCAF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FASEZJWRFYVHRXEECKYFDOWE" imageId="18321225"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#116_d.tif" imageWidth="2731" imageHeight="4353">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424767885" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1612542816544_2021"/>
+                <RegionRefIndexed index="1" regionRef="region_1612542826191_2024"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1612542867776_2032"/>
+                <RegionRefIndexed index="3" regionRef="TextRegion_1612542867776_2031"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1612542816544_2021" custom="readingOrder {index:0;}">
+            <Coords points="166,411 2599,411 2599,2918 166,2918"/>
+            <TextLine id="line_1612542903411_2037" custom="readingOrder {index:0;}">
+                <Coords points="627,453 2300,444 2300,659 627,668"/>
+                <Baseline points="627,635 2300,626"/>
+                <TextEquiv>
+                    <Unicode>Ezen felül, következő</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1612542911360_2042" custom="readingOrder {index:1;} supplied {offset:27; length:1;}">
+                <Coords points="179,672 2539,677 2541,887 181,882"/>
+                <Baseline points="181,849 2541,854"/>
+                <TextEquiv>
+                    <Unicode>kérésekkel szeretném Önt mo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1612542918322_2047" custom="readingOrder {index:2;}">
+                <Coords points="218,899 2510,901 2508,1108 216,1106"/>
+                <Baseline points="216,1055 2508,1057"/>
+                <TextEquiv>
+                    <Unicode>lesztálni: először is, egy ingyen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1612542923197_2052" custom="readingOrder {index:3;} supplied {offset:27; length:1;}">
+                <Coords points="230,1116 2467,1112 2455,1294 222,1276"/>
+                <Baseline points="222,1271 2459,1267"/>
+                <TextEquiv>
+                    <Unicode>jegyre volna szükségem, Fiu¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1612542929106_2057" custom="readingOrder {index:4;} add {offset:19; length:1;} gap {offset:19; length:0;} supplied {offset:29; length:1;}">
+                <Coords points="251,1292 2461,1292 2461,1525 251,1525"/>
+                <Baseline points="253,1481 2463,1481"/>
+                <TextEquiv>
+                    <Unicode>méba. Azután, egy 40-60 percz¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1612542935733_2062" custom="readingOrder {index:5;}">
+                <Coords points="241,1537 2444,1559 2455,1759 249,1707"/>
+                <Baseline points="249,1702 2452,1724"/>
+                <TextEquiv>
+                    <Unicode>entes árkedvezményű jegyre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1612542943512_2067" custom="readingOrder {index:6;} add {offset:18; length:1;} gap {offset:18; length:0;}">
+                <Coords points="247,1753 1722,1738 2549,1801 2524,1991 1719,1969 253,1977"/>
+                <Baseline points="249,1907 1722,1892 2527,1974"/>
+                <TextEquiv>
+                    <Unicode>Olaszországban, Velenczétől</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1612542954976_2072" custom="readingOrder {index:7;}">
+                <Coords points="251,1985 1790,1965 2534,2044 2543,2238 1792,2210 253,2228"/>
+                <Baseline points="256,2161 1792,2141 2543,2201"/>
+                <TextEquiv>
+                    <Unicode>Nápolyig és vissza, Roma és</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1612542960896_2077" custom="readingOrder {index:8;}">
+                <Coords points="242,2234 2535,2242 2532,2422 251,2481"/>
+                <Baseline points="251,2448 2532,2389"/>
+                <TextEquiv>
+                    <Unicode>Firenze érintésével. Majd</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1612542966177_2082" custom="readingOrder {index:9;} supplied {offset:25; length:1;}">
+                <Coords points="299,2501 2532,2430 2519,2688 291,2688"/>
+                <Baseline points="295,2645 2523,2645"/>
+                <TextEquiv>
+                    <Unicode>ingyen fürdőjegyekre jogo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1612542973997_2087" custom="readingOrder {index:10;} add {offset:17; length:2;} gap {offset:17; length:0;}">
+                <Coords points="297,2711 2476,2680 2474,2903 302,2905"/>
+                <Baseline points="302,2890 2481,2859"/>
+                <TextEquiv>
+                    <Unicode>sító utalványra, a Lidón.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ezen felül, következő&#xD;
+kérésekkel szeretném Önt mo¬&#xD;
+lesztálni: először is, egy ingyen&#xD;
+jegyre volna szükségem, Fiu¬&#xD;
+méba. Azután, egy 40-60 percz¬&#xD;
+entes árkedvezményű jegyre&#xD;
+Olaszországban, Velenczétől&#xD;
+Nápolyig és vissza, Roma és&#xD;
+Firenze érintésével. Majd&#xD;
+ingyen fürdőjegyekre jogo¬&#xD;
+sító utalványra, a Lidón.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1612542826191_2024" custom="readingOrder {index:1;}">
+            <Coords points="2599,2918 176,2918 176,3900 2599,3900"/>
+            <TextLine id="line_1612542980284_2092" custom="readingOrder {index:0;}">
+                <Coords points="908,2920 2472,2924 2461,3101 911,3079"/>
+                <Baseline points="911,3060 2461,3082"/>
+                <TextEquiv>
+                    <Unicode>Mit szól ehhez? Nem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1612542985708_2097" custom="readingOrder {index:1;}">
+                <Coords points="212,3083 2481,3125 2474,3306 205,3264"/>
+                <Baseline points="205,3241 2474,3283"/>
+                <TextEquiv>
+                    <Unicode>olyan vagyok, mint egy orthodox</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1612542992472_2102" custom="readingOrder {index:2;} add {offset:27; length:1;} gap {offset:27; length:0;}">
+                <Coords points="201,3262 2587,3321 2576,3535 190,3476"/>
+                <Baseline points="192,3453 2578,3512"/>
+                <TextEquiv>
+                    <Unicode>hitközség rabbinusa, a kinek egyik</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1612542999988_2107" custom="readingOrder {index:3;} supplied {offset:28; length:1;}">
+                <Coords points="241,3493 2532,3526 2525,3736 234,3703"/>
+                <Baseline points="236,3669 2527,3702"/>
+                <TextEquiv>
+                    <Unicode>kérése burjánzik a másik nyo¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1612543022448_2112" custom="readingOrder {index:4;}">
+                <Coords points="226,3732 803,3734 799,3881 222,3879"/>
+                <Baseline points="222,3874 799,3876"/>
+                <TextEquiv>
+                    <Unicode>mán?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Mit szól ehhez? Nem&#xD;
+olyan vagyok, mint egy orthodox&#xD;
+hitközség rabbinusa, a kinek egyik&#xD;
+kérése burjánzik a másik nyo¬&#xD;
+mán?</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="TextRegion_1612542867776_2032" custom="readingOrder {index:2;}">
+            <Coords points="176,3900 2589,3900 2589,4172 1279,4172 1280,4168 1282,4082 1125,4079 1125,4170 1125,4172 176,4172"/>
+            <TextLine id="line_1612543032820_2117" custom="readingOrder {index:0;}">
+                <Coords points="240,3907 2574,3909 2574,4062 362,4079 346,4163 242,4159 240,4060"/>
+                <Baseline points="240,4055 2574,4057"/>
+                <TextEquiv>
+                    <Unicode>Gerő Ödön tanított ki, hogy ezek</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Gerő Ödön tanított ki, hogy ezek</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="TextRegion_1612542867776_2031" custom="readingOrder {index:3;}">
+            <Coords points="1125,4079 1282,4082 1280,4168 1279,4204 1125,4204 1125,4170"/>
+            <TextLine id="line_1612543037634_2122" custom="readingOrder {index:0;}">
+                <Coords points="1137,4085 1266,4088 1265,4186 1136,4183"/>
+                <Baseline points="1136,4178 1265,4181"/>
+                <TextEquiv>
+                    <Unicode>2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>2</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-02-03T14:39:38.135+01:00</Created>
+        <LastChange>2021-03-30T09:42:57.401+02:00</LastChange>
+        <TranskribusMetadata docId="599996" pageId="23869583" pageNr="1" tsid="54738823" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=HRQIUVRQLHTJJHYXEIQPMQJB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UUERYDWLNUGCFWXHVNTJGRWT" imageId="18321241"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#122_1a.tif" imageWidth="3110" imageHeight="4170">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424749504" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1616422912645_181"/>
+                <RegionRefIndexed index="1" regionRef="region_1616073856080_1778"/>
+                <RegionRefIndexed index="2" regionRef="region_1616073858549_1781"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1616422912645_181" custom="readingOrder {index:0;}">
+            <Coords points="432,362 1224,362 1224,798 432,798"/>
+            <TextLine id="line_1616422920378_185" custom="readingOrder {index:0;}">
+                <Coords points="501,389 1166,385 1168,771 503,775"/>
+                <Baseline points="503,770 1168,766"/>
+                <TextEquiv>
+                    <Unicode>F E.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>F E.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1616073856080_1778" custom="readingOrder {index:1;}">
+            <Coords points="216,923 2905,917 2905,3838 216,3844"/>
+            <TextLine id="region_1616073856080_1778l1" custom="readingOrder {index:0;} sic {offset:17; length:5; continued:true;}">
+                <Coords points="555,1153 956,1150 1003,1181 1094,1140 2823,1133 2831,946 563,966"/>
+                <Baseline points="555,1103 668,1103 781,1104 895,1103 1008,1101 1122,1100 1235,1097 1348,1094 1462,1091 1575,1088 1689,1085 1802,1081 1915,1079 2029,1076 2142,1074 2256,1073 2369,1073 2482,1073 2596,1075 2709,1079 2823,1083"/>
+                <TextEquiv>
+                    <Unicode>milyen szürke és akar¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1616073856080_1778l2" custom="readingOrder {index:1;} sic {offset:0; length:6; continued:true;}">
+                <Coords points="435,1294 904,1290 925,1323 1008,1323 1043,1290 2720,1272 2724,1126 439,1148"/>
+                <Baseline points="435,1260 549,1260 663,1262 777,1260 892,1260 1006,1259 1120,1257 1234,1254 1349,1253 1463,1250 1577,1248 1691,1245 1806,1243 1920,1241 2034,1239 2148,1238 2263,1236 2377,1236 2491,1235 2605,1236 2720,1238"/>
+                <TextEquiv>
+                    <Unicode>milyen állat valaki,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1616073856080_1778l3" custom="readingOrder {index:2;}">
+                <Coords points="431,1449 795,1453 842,1478 890,1474 906,1443 2799,1411 2799,1277 431,1315"/>
+                <Baseline points="431,1415 546,1415 662,1413 778,1413 894,1412 1010,1410 1125,1409 1241,1407 1357,1406 1473,1403 1589,1401 1704,1400 1820,1397 1936,1395 2052,1392 2168,1390 2283,1388 2399,1385 2515,1383 2631,1380 2786,1378"/>
+                <TextEquiv>
+                    <Unicode>mégis csak „hord szívé¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1616073856080_1778l4" custom="readingOrder {index:3;}">
+                <Coords points="500,1603 1105,1593 1166,1624 1267,1626 1362,1571 1536,1579 1563,1608 1659,1579 1820,1581 1822,1604 1907,1600 1917,1577 2132,1587 2281,1600 2318,1558 2826,1563 2822,1428 496,1468"/>
+                <Baseline points="500,1569 613,1569 727,1568 841,1568 955,1566 1069,1565 1183,1564 1297,1562 1411,1560 1525,1557 1639,1556 1752,1553 1866,1551 1980,1548 2094,1545 2208,1542 2322,1539 2436,1536 2550,1533 2664,1531 2778,1529 2793,1529"/>
+                <TextEquiv>
+                    <Unicode>ben egy képet, egy nő¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1616073856080_1778l5" custom="readingOrder {index:4;}">
+                <Coords points="423,1739 2743,1694 2747,1575 427,1620"/>
+                <Baseline points="423,1706 538,1707 654,1707 770,1707 885,1707 1001,1706 1117,1704 1233,1703 1348,1700 1464,1698 1580,1695 1696,1692 1811,1689 1927,1686 2043,1683 2159,1679 2274,1676 2390,1673 2506,1669 2622,1665 2718,1668"/>
+                <TextEquiv>
+                    <Unicode>ről, ki minden nő¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1616073856080_1778l6" custom="readingOrder {index:5;}">
+                <Coords points="429,1883 2718,1842 2718,1692 429,1733"/>
+                <Baseline points="429,1850 543,1848 657,1847 772,1845 886,1844 1001,1842 1115,1839 1230,1836 1344,1835 1459,1832 1573,1829 1687,1826 1802,1823 1916,1821 2031,1818 2145,1815 2260,1814 2374,1812 2489,1811 2603,1811 2718,1809"/>
+                <TextEquiv>
+                    <Unicode>nél fehérebb.” És ha ez</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1616073856080_1778l7" custom="readingOrder {index:6;}">
+                <Coords points="411,2039 2639,2009 2681,2037 2759,2004 2905,2011 2905,1864 411,1892"/>
+                <Baseline points="411,2007 531,2006 651,2003 772,2001 892,1998 1013,1997 1133,1994 1254,1992 1374,1991 1495,1988 1615,1986 1735,1985 1856,1983 1976,1982 2097,1980 2217,1979 2338,1979 2458,1979 2579,1977 2699,1977 2820,1979 2878,1985"/>
+                <TextEquiv>
+                    <Unicode>a nő, az édes édesany¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1616073856080_1778l8" custom="readingOrder {index:7;}">
+                <Coords points="408,2176 414,2171 444,2211 502,2187 562,2161 1138,2159 1186,2193 1268,2187 1290,2139 2826,2143 2822,2003 404,2036"/>
+                <Baseline points="408,2144 521,2140 635,2136 748,2133 862,2130 976,2127 1089,2125 1203,2123 1317,2120 1430,2117 1544,2115 1658,2114 1771,2112 1885,2111 1999,2109 2112,2109 2226,2108 2340,2108 2453,2109 2567,2109 2681,2111 2793,2113"/>
+                <TextEquiv>
+                    <Unicode>ja beteg az embernek,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1616073856080_1778l9" custom="readingOrder {index:8;}">
+                <Coords points="389,2338 382,2359 438,2375 482,2335 715,2341 843,2335 943,2307 1873,2285 1919,2327 1987,2291 2801,2291 2809,2149 397,2196"/>
+                <Baseline points="393,2300 499,2297 605,2294 711,2291 817,2289 924,2287 1030,2285 1136,2283 1242,2280 1348,2279 1455,2277 1561,2274 1667,2273 1773,2271 1879,2268 1986,2267 2092,2264 2198,2261 2304,2259 2410,2256 2517,2253 2707,2263 2796,2263"/>
+                <TextEquiv>
+                    <Unicode>(hogy ne mondjak is¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1616073856080_1778l10" custom="readingOrder {index:9;}">
+                <Coords points="408,2496 1542,2471 1559,2506 1716,2521 1796,2471 2483,2456 2520,2498 2622,2464 2635,2439 2721,2456 2713,2297 400,2337"/>
+                <Baseline points="408,2462 518,2459 629,2457 739,2456 850,2453 960,2451 1071,2451 1181,2450 1292,2448 1402,2448 1513,2447 1623,2446 1734,2445 1844,2444 1955,2442 2065,2441 2176,2439 2286,2438 2397,2436 2507,2433 2686,2430"/>
+                <TextEquiv>
+                    <Unicode>mét állatot!) a mint</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1616073856080_1778l11" custom="readingOrder {index:10;}">
+                <Coords points="384,2638 2673,2606 2673,2478 384,2510"/>
+                <Baseline points="384,2606 498,2604 612,2603 727,2603 841,2601 956,2601 1070,2600 1185,2600 1299,2600 1414,2598 1528,2598 1642,2597 1757,2595 1871,2594 1986,2592 2100,2591 2215,2588 2329,2586 2444,2582 2558,2579 2673,2574"/>
+                <TextEquiv>
+                    <Unicode>ez az én esetemben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1616073856080_1778l12" custom="readingOrder {index:11;}">
+                <Coords points="383,2770 713,2774 742,2820 853,2796 896,2765 1772,2759 1807,2816 1865,2810 1900,2763 2674,2750 2678,2620 387,2640"/>
+                <Baseline points="383,2738 494,2741 605,2745 717,2748 828,2750 939,2751 1051,2753 1162,2753 1273,2753 1385,2751 1496,2750 1607,2747 1719,2745 1830,2742 1941,2739 2053,2736 2164,2733 2275,2729 2387,2726 2498,2721 2610,2718"/>
+                <TextEquiv>
+                    <Unicode>volt, akkor még azzal</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1616073856080_1778l13" custom="readingOrder {index:12;}">
+                <Coords points="386,2940 1805,2909 1815,2948 1983,2944 2060,2895 2563,2891 2745,2885 2737,2752 378,2807"/>
+                <Baseline points="386,2906 500,2904 615,2904 729,2904 844,2903 959,2903 1073,2903 1188,2901 1302,2901 1417,2900 1532,2898 1646,2897 1761,2894 1875,2891 1990,2888 2105,2883 2219,2879 2334,2871 2448,2865 2563,2857 2678,2847"/>
+                <TextEquiv>
+                    <Unicode>az isteni dologgal se</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1616073856080_1778l14" custom="readingOrder {index:13;}">
+                <Coords points="357,3112 2737,3069 2737,2916 357,2959"/>
+                <Baseline points="359,3054 478,3056 597,3057 716,3059 835,3059 954,3059 1073,3057 1192,3056 1311,3054 1430,3051 1549,3050 1668,3047 1787,3043 1906,3039 2025,3035 2144,3032 2263,3027 2382,3024 2501,3019 2620,3015 2739,3011"/>
+                <TextEquiv>
+                    <Unicode>lehet törődnie, a mely</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1616073856080_1778l15" custom="readingOrder {index:14;}">
+                <Coords points="360,3233 1542,3229 1566,3239 1669,3241 1715,3209 2678,3219 2670,3095 352,3109"/>
+                <Baseline points="360,3203 475,3206 591,3209 707,3210 823,3212 939,3210 1055,3210 1171,3209 1287,3206 1403,3204 1519,3201 1634,3198 1750,3195 1866,3192 1982,3190 2098,3188 2214,3186 2330,3186 2446,3186 2562,3188 2678,3189"/>
+                <TextEquiv>
+                    <Unicode>talán az egyedüli, a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1616073856080_1778l16" custom="readingOrder {index:15;} gap {offset:15; length:0;}">
+                <Coords points="345,3380 1012,3375 1046,3395 1112,3379 1150,3398 1243,3355 2883,3330 2879,3190 341,3240"/>
+                <Baseline points="345,3350 462,3345 580,3341 698,3338 816,3336 934,3333 1052,3332 1170,3332 1288,3330 1406,3330 1524,3330 1641,3330 1759,3329 1877,3329 1995,3327 2113,3326 2231,3323 2349,3320 2467,3316 2585,3311 2849,3305"/>
+                <TextEquiv>
+                    <Unicode>mi széppé teszi az é¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1616073856080_1778l17" custom="readingOrder {index:16;}">
+                <Coords points="318,3516 702,3508 748,3548 815,3546 837,3498 1665,3492 1715,3530 1801,3502 1900,3486 2062,3520 2221,3480 2729,3478 2721,3331 310,3369"/>
+                <Baseline points="318,3482 435,3482 553,3482 671,3483 789,3483 907,3483 1025,3483 1142,3483 1260,3483 1378,3482 1496,3482 1614,3480 1732,3479 1850,3476 1967,3473 2085,3471 2203,3467 2321,3462 2439,3458 2557,3452 2675,3446"/>
+                <TextEquiv>
+                    <Unicode>letet és a mit a földi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1616073856080_1778l18" custom="readingOrder {index:17;}">
+                <Coords points="311,3659 2670,3641 2666,3475 307,3493"/>
+                <Baseline points="311,3626 435,3624 559,3622 683,3621 807,3620 931,3620 1055,3618 1180,3618 1304,3618 1428,3618 1552,3618 1676,3618 1800,3618 1925,3617 2049,3617 2173,3615 2297,3614 2421,3612 2545,3611 2670,3608"/>
+                <TextEquiv>
+                    <Unicode>halandók poézisnek</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1616074354917_1829" custom="readingOrder {index:18;}">
+                <Coords points="328,3636 1995,3657 2730,3637 2729,3807 1999,3798 332,3777"/>
+                <Baseline points="332,3744 390,3749 448,3752 506,3755 564,3756 622,3756 680,3756 738,3755 796,3754 854,3753 913,3751 971,3749 1029,3749 1087,3747 1145,3747 1203,3747 1261,3749 1319,3749 1377,3753 1435,3757 1494,3762 2088,3756 2120,3759 2152,3761 2184,3763 2216,3764 2248,3765 2280,3765 2312,3765 2344,3765 2376,3765 2408,3765 2440,3765 2472,3765 2504,3765 2536,3765 2568,3765 2600,3766 2632,3767 2664,3768 2696,3770 2729,3773"/>
+                <TextEquiv>
+                    <Unicode>neveznek. – Sőt mi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>milyen szürke és akar¬&#xD;
+milyen állat valaki,&#xD;
+mégis csak „hord szívé¬&#xD;
+ben egy képet, egy nő¬&#xD;
+ről, ki minden nő¬&#xD;
+nél fehérebb.” És ha ez&#xD;
+a nő, az édes édesany¬&#xD;
+ja beteg az embernek,&#xD;
+(hogy ne mondjak is¬&#xD;
+mét állatot!) a mint&#xD;
+ez az én esetemben&#xD;
+volt, akkor még azzal&#xD;
+az isteni dologgal se&#xD;
+lehet törődnie, a mely&#xD;
+talán az egyedüli, a&#xD;
+mi széppé teszi az é¬&#xD;
+letet és a mit a földi&#xD;
+halandók poézisnek&#xD;
+neveznek. – Sőt mi</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1616073858549_1781" custom="readingOrder {index:2;}">
+            <Coords points="1296,3875 1574,3875 1574,4020 1296,4020"/>
+            <TextLine id="region_1616073858549_1781l1" custom="readingOrder {index:0;}">
+                <Coords points="1314,4045 1531,4045 1531,3895 1314,3895"/>
+                <Baseline points="1347,3990 1389,3995 1416,3995 1483,3997"/>
+                <TextEquiv>
+                    <Unicode>1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

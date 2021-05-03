@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-06-09T18:36:27.585+02:00</Created>
+        <LastChange>2020-12-01T10:17:05.662+01:00</LastChange>
+        <TranskribusMetadata docId="406184" pageId="15980907" pageNr="4" tsid="49746367" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=HSFSSSSZWIREHVRTGOKURQAW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KMLJXTMSQTYZEZEHTVNMBOJY" imageId="11795774"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#127_2b.tif" imageWidth="2945" imageHeight="1503">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424510937" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1597669947677_2509"/>
+                <RegionRefIndexed index="1" regionRef="region_1597669950547_2512"/>
+                <RegionRefIndexed index="2" regionRef="region_1597669952829_2515"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1597669947677_2509" custom="readingOrder {index:0;}">
+            <Coords points="595,429 2448,429 2448,851 595,851"/>
+            <TextLine id="line_1597669962695_2519" custom="readingOrder {index:0;}">
+                <Coords points="623,528 1134,536 1132,447 2171,520 2184,773 1101,796 1093,713 615,718"/>
+                <Baseline points="615,713 1096,709 1104,792 2184,768"/>
+                <TextEquiv>
+                    <Unicode>Herzlichen Glückwunsch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Herzlichen Glückwunsch</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1597669950547_2512" custom="readingOrder {index:1;}">
+            <Coords points="1442,843 2866,843 2866,1052 1442,1052"/>
+            <TextLine id="line_1597669967931_2525" custom="readingOrder {index:0;} unclear {offset:20; length:6;}">
+                <Coords points="1444,848 2388,829 2828,916 2798,1053 2330,982 1439,958"/>
+                <Baseline points="1439,953 2330,977 2799,1048"/>
+                <TextEquiv>
+                    <Unicode>zum neuen Jahre und Grüsen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>zum neuen Jahre und Grüsen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1597669952829_2515" custom="readingOrder {index:2;}">
+            <Coords points="1620,1056 2866,1056 2866,1340 1620,1340"/>
+            <TextLine id="line_1597669971463_2531" custom="readingOrder {index:0;}">
+                <Coords points="1653,1064 2875,1084 2870,1282 1648,1262"/>
+                <Baseline points="1648,1257 2870,1277"/>
+                <TextEquiv>
+                    <Unicode>Fränkel u. Frau.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Fränkel u. Frau.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-28T12:11:32.671+02:00</Created>
+        <LastChange>2020-12-01T16:50:16.906+01:00</LastChange>
+        <TranskribusMetadata docId="376744" pageId="14729589" pageNr="30" tsid="49756683" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=EVIUULFXDOKNLJKFSQHDRIKQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LSEFLGBDVJNHCYTMHYWOCXKF" imageId="10670624"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#32_11b.tif" imageWidth="3487" imageHeight="2327">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619423980565" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1591277069802_990"/>
+                <RegionRefIndexed index="1" regionRef="region_1591277314778_994"/>
+                <RegionRefIndexed index="2" regionRef="region_1591277325449_997"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1591277069802_990" custom="readingOrder {index:0;}">
+            <Coords points="227,160 3394,160 3394,1215 227,1215"/>
+            <TextLine id="line_1591277655618_1002" custom="readingOrder {index:0;}">
+                <Coords points="301,173 3272,194 3287,451 316,430"/>
+                <Baseline points="316,380 3287,401"/>
+                <TextEquiv>
+                    <Unicode>A fogorvos kijelentette, hogy egy-két napig</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1591277662349_1007" custom="readingOrder {index:1;}">
+                <Coords points="225,371 3373,392 3379,590 233,532"/>
+                <Baseline points="233,527 3379,585"/>
+                <TextEquiv>
+                    <Unicode>tovább kell maradnom, hogy lássa, hogy tudom</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1591277670322_1012" custom="readingOrder {index:2;}">
+                <Coords points="244,523 3348,564 3345,740 243,645"/>
+                <Baseline points="243,640 3345,735"/>
+                <TextEquiv>
+                    <Unicode>-e használni a fogakat. Innen tehát csak pénte¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1591277678837_1017" custom="readingOrder {index:3;}">
+                <Coords points="234,676 3235,729 3220,893 233,810"/>
+                <Baseline points="233,805 3220,888"/>
+                <TextEquiv>
+                    <Unicode>ken fogok elutazhatni, szerda helyett tehát</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1591277688723_1022" custom="readingOrder {index:4;} textStyle {offset:0; length:16;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="244,827 3373,848 3370,1055 243,1000"/>
+                <Baseline points="249,977 3376,1032"/>
+                <TextEquiv>
+                    <Unicode>jöjj csütörtökön; esetleg a pénteki napot Bécs¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1591277695091_1027" custom="readingOrder {index:5;} textStyle {offset:7; length:1;strikethrough:true; fontSize:0.0; kerning:0;} add {offset:8; length:1;}">
+                <Coords points="250,972 2079,1000 2072,1207 243,1179"/>
+                <Baseline points="249,1123 2078,1151"/>
+                <TextEquiv>
+                    <Unicode>ben foggjuk tölteni. Öllelek</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>A fogorvos kijelentette, hogy egy-két napig&#xD;
+tovább kell maradnom, hogy lássa, hogy tudom&#xD;
+-e használni a fogakat. Innen tehát csak pénte¬&#xD;
+ken fogok elutazhatni, szerda helyett tehát&#xD;
+jöjj csütörtökön; esetleg a pénteki napot Bécs¬&#xD;
+ben foggjuk tölteni. Öllelek</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1591277314778_994" custom="readingOrder {index:1;}">
+            <Coords points="2571,1356 2972,1356 2972,1139 2571,1139"/>
+            <TextLine id="line_1591277709775_1032" custom="readingOrder {index:0;}">
+                <Coords points="2597,1151 2944,1154 2938,1333 2589,1321"/>
+                <Baseline points="2589,1316 2938,1328"/>
+                <TextEquiv>
+                    <Unicode>Józsi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Józsi</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1591277325449_997" custom="readingOrder {index:2;}">
+            <Coords points="558,1393 1846,1393 1846,1139 558,1139"/>
+            <TextLine id="line_1591277720923_1037" custom="readingOrder {index:0;} textStyle {offset:0; length:15;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="576,1157 1707,1151 1705,1368 573,1379"/>
+                <Baseline points="576,1341 1711,1313"/>
+                <TextEquiv>
+                    <Unicode>Szombat délután</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Szombat délután</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

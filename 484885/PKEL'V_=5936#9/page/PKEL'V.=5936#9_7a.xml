@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-09-21T14:08:06.360+02:00</Created>
+        <LastChange>2020-11-20T16:03:25.312+01:00</LastChange>
+        <TranskribusMetadata docId="484885" pageId="19998732" pageNr="10" tsid="49366461" status="IN_PROGRESS" userId="63384" imgUrl="https://files.transkribus.eu/Get?id=HCAJIANYCWRHYTBAIXDPRZMX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TMRYAYGXTQVEVVWSNJOQQAFQ" imageId="15414183"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5936#9_7a.tif" imageWidth="2692" imageHeight="1655">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424617534" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1603981761399_1161"/>
+                <RegionRefIndexed index="1" regionRef="region_1603981729767_1148"/>
+                <RegionRefIndexed index="2" regionRef="region_1603981726436_1142"/>
+                <RegionRefIndexed index="3" regionRef="region_1603981728056_1145"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1603981761399_1161" custom="readingOrder {index:0;}">
+            <Coords points="237,153 2584,153 2584,595 736,572 733,740 387,740 385,373 237,373"/>
+            <TextLine id="TextRegion_1603981761399_1161l1" custom="readingOrder {index:0;} textStyle {offset:8; length:1;fontSize:0.0; kerning:0; superscript:true;}">
+                <Coords points="285,364 2560,334 2566,165 291,195"/>
+                <Baseline points="285,335 394,330 504,327 614,323 724,320 833,317 943,315 1053,312 1163,311 1272,309 1382,309 1492,308 1602,306 1711,306 1821,306 1931,306 2041,305 2150,305 2260,305 2370,305 2519,300"/>
+                <TextEquiv>
+                    <Unicode>Kedves Dr ur! Erős bélgörcsöm van, írjon egy kís</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1603981761399_1161l2" custom="readingOrder {index:1;}">
+                <Coords points="405,477 2411,456 2413,334 407,355"/>
+                <Baseline points="405,449 505,443 605,437 705,434 806,431 906,429 1006,429 1107,429 1207,430 1307,431 1408,432 1508,434 1608,435 1708,437 1809,437 1909,438 2009,438 2110,437 2210,435 2310,432 2411,428"/>
+                <TextEquiv>
+                    <Unicode>opiumot. Elfogyott. Az egész ház szinházakba</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1603981761399_1161l3" custom="readingOrder {index:2;}">
+                <Coords points="389,602 2475,608 2479,464 393,458"/>
+                <Baseline points="389,573 493,570 597,569 701,567 806,567 910,567 1014,567 1119,569 1223,570 1327,572 1432,575 1536,576 1640,578 1744,579 1849,581 1953,582 2057,582 2162,584 2266,582 2370,581 2475,579"/>
+                <TextEquiv>
+                    <Unicode>és operába költözött. Nebich, egész magamba</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1603981860520_1202" custom="readingOrder {index:3;}">
+                <Coords points="405,616 725,613 724,700 396,700"/>
+                <Baseline points="396,695 428,696 461,696 494,698 527,698 560,696 593,696 625,696 658,695 691,694 724,693"/>
+                <TextEquiv>
+                    <Unicode>vagyok.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kedves Dr ur! Erős bélgörcsöm van, írjon egy kís&#xD;
+opiumot. Elfogyott. Az egész ház szinházakba&#xD;
+és operába költözött. Nebich, egész magamba&#xD;
+vagyok.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1603981729767_1148" custom="readingOrder {index:1;}">
+            <Coords points="752,580 1122,580 1122,746 752,746"/>
+            <TextLine id="line_1603981838438_1182" custom="readingOrder {index:0;}">
+                <Coords points="763,588 1057,588 1053,722 765,722"/>
+                <Baseline points="779,690 823,690 855,690 888,689 921,689 954,690 987,690 1020,692 1053,693"/>
+                <TextEquiv>
+                    <Unicode>Üdvözli</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Üdvözli</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1603981726436_1142" custom="readingOrder {index:2;}">
+            <Coords points="1784,638 2023,638 2025,800 1786,800"/>
+            <TextLine id="region_1603981726436_1142l1" custom="readingOrder {index:0;}">
+                <Coords points="1799,796 1973,796 1975,660 1801,660"/>
+                <Baseline points="1799,746 1828,747 1857,747 1886,746 1915,744 1944,743 1973,746"/>
+                <TextEquiv>
+                    <Unicode>híve</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>híve</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1603981728056_1145" custom="readingOrder {index:3;}">
+            <Coords points="1842,812 2337,812 2335,1179 1840,1179"/>
+            <TextLine id="region_1603981728056_1145l1" custom="readingOrder {index:0;}">
+                <Coords points="1884,1120 2311,1112 2317,826 1890,834"/>
+                <Baseline points="1884,1070 1909,1073 1934,1074 1959,1074 1984,1073 2009,1071 2034,1070 2059,1068 2084,1066 2109,1064 2134,1064 2303,1060"/>
+                <TextEquiv>
+                    <Unicode>Kiss</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kiss</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

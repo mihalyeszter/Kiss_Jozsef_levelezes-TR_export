@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=kj_keze_osszes_3(htr_id=27544)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2021-02-01T13:40:32.422+01:00</Created>
+        <LastChange>2021-03-23T14:26:07.897+01:00</LastChange>
+        <TranskribusMetadata docId="597824" pageId="23826492" pageNr="1" tsid="54090944" status="GT" userId="63384" imgUrl="https://files.transkribus.eu/Get?id=ZNIFJYSNLYBNOUZTWVFYVCNQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ODKKAXVAGQCPYFPUJJFSNZTI" imageId="18286194"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#440_1b.tif" imageWidth="3234" imageHeight="5026">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424790001" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1612189126315_895"/>
+                <RegionRefIndexed index="1" regionRef="region_1612189128381_898"/>
+                <RegionRefIndexed index="2" regionRef="region_1612189133460_901"/>
+                <RegionRefIndexed index="3" regionRef="region_1612189135133_904"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="region_1612189126315_895" custom="readingOrder {index:0;}">
+            <Coords points="564,1731 2775,1731 2775,2345 564,2345"/>
+            <TextLine id="region_1612189126315_895l1" custom="readingOrder {index:0;}">
+                <Coords points="824,1985 2628,1987 2628,1869 824,1867"/>
+                <Baseline points="824,1946 914,1944 1004,1944 1094,1946 1184,1946 1275,1946 1365,1946 1455,1948 1545,1948 1635,1948 1726,1950 1816,1950 1906,1950 1996,1951 2086,1952 2177,1952 2267,1952 2357,1950 2447,1950 2537,1949 2628,1948"/>
+                <TextEquiv>
+                    <Unicode>Hetvenedik születésnapom alkalmából</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1612189126315_895l2" custom="readingOrder {index:1;}">
+                <Coords points="658,2145 2606,2145 2606,2028 658,2028"/>
+                <Baseline points="658,2106 755,2106 852,2106 950,2106 1047,2106 1145,2106 1242,2108 1339,2108 1437,2108 1534,2110 1632,2110 1729,2110 1826,2112 1924,2112 2021,2112 2119,2112 2216,2110 2313,2110 2411,2108 2508,2108 2606,2106"/>
+                <TextEquiv>
+                    <Unicode>hozzám intézett kegyes megemlékezéseért</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1612189126315_895l3" custom="readingOrder {index:2;}">
+                <Coords points="662,2315 2222,2309 2222,2191 662,2197"/>
+                <Baseline points="662,2276 740,2274 818,2272 896,2270 974,2270 1052,2270 1130,2268 1208,2268 1286,2268 1364,2268 1442,2268 1520,2268 1598,2270 1676,2270 1754,2270 1832,2270 1910,2270 1988,2271 2066,2272 2144,2272 2222,2270"/>
+                <TextEquiv>
+                    <Unicode>fogadja bensőséges mély hálámat.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Hetvenedik születésnapom alkalmából&#xD;
+hozzám intézett kegyes megemlékezéseért&#xD;
+fogadja bensőséges mély hálámat.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1612189128381_898" custom="readingOrder {index:1;}">
+            <Coords points="740,2338 2130,2338 2130,2606 740,2606"/>
+            <TextLine id="region_1612189128381_898l1" custom="readingOrder {index:0;}">
+                <Coords points="820,2528 2028,2538 2028,2388 820,2378"/>
+                <Baseline points="820,2478 880,2480 940,2480 1001,2482 1061,2482 1122,2482 1182,2484 1242,2484 1303,2484 1363,2484 1424,2482 1484,2482 1544,2482 1605,2482 1665,2482 1726,2482 1786,2484 1846,2484 1907,2484 1967,2486 2028,2488"/>
+                <TextEquiv>
+                    <Unicode>Budapest, 1913 deczember.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Budapest, 1913 deczember.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1612189133460_901" custom="readingOrder {index:2;}">
+            <Coords points="1608,2737 2873,2737 2873,3385 1608,3385"/>
+            <TextLine id="region_1612189133460_901l1" custom="readingOrder {index:0;}">
+                <Coords points="1730,3121 2643,3112 2633,2789 1720,2798"/>
+                <Baseline points="1796,3068 1835,3068 1875,3068 1915,3067 1955,3066 1995,3064 2035,3062 2075,3062 2115,3060 2155,3057 2195,3056 2234,3054 2274,3052 2314,3050 2354,3050 2394,3050 2434,3050 2474,3050 2514,3052 2554,3053 2594,3056"/>
+                <TextEquiv>
+                    <Unicode>Kiss József</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kiss József</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1612189135133_904" custom="readingOrder {index:3;}">
+            <Coords points="1304,4609 1960,4609 1960,4873 1304,4873"/>
+            <TextLine id="region_1612189135133_904l1" custom="readingOrder {index:0;}">
+                <Coords points="1480,4834 1872,4830 1872,4680 1480,4684"/>
+                <Baseline points="1480,4784 1506,4784 1532,4784 1558,4786 1584,4786 1610,4786 1636,4787 1662,4788 1689,4788 1715,4786 1741,4786 1767,4786 1793,4785 1819,4784 1845,4783 1872,4780"/>
+                <TextEquiv>
+                    <Unicode>Posner Budapest</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Posner Budapest</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

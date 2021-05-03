@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>PKEL'V.=5239#17</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: eszter.mihaly@gmail.com</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile xml:id='facs_1'>
+		<surface ulx='0' uly='0' lrx='5259' lry='5384'>
+			<graphic url='PKEL'V.=5239#17_a.tif' width='5259px' height='5384px'/>
+			<zone ulx='1378' uly='1114' lrx='3985' lry='1563' rendition='TextRegion' xml:id='facs_1_region_1574247666561_68'>
+				<zone ulx='1416' uly='1115' lrx='3952' lry='1498' rendition='Line' xml:id='facs_1_line_1574247722300_83'/>
+			</zone>
+			<zone ulx='3980' uly='1361' lrx='4768' lry='1739' rendition='TextRegion' xml:id='facs_1_region_1574247671296_71'>
+				<zone ulx='3985' uly='1353' lrx='4747' lry='1752' rendition='Line' xml:id='facs_1_line_1574247725520_88'/>
+			</zone>
+			<zone ulx='976' uly='1470' lrx='4508' lry='2857' rendition='TextRegion' xml:id='facs_1_region_1574247693540_74'>
+				<zone ulx='1020' uly='1416' lrx='4136' lry='1989' rendition='Line' xml:id='facs_1_line_1574247730502_93'/>
+				<zone ulx='1032' uly='1711' lrx='4515' lry='2302' rendition='Line' xml:id='facs_1_line_1574247735145_98'/>
+				<zone ulx='978' uly='1988' lrx='4327' lry='2557' rendition='Line' xml:id='facs_1_line_1574247739313_103'/>
+				<zone ulx='1014' uly='2219' lrx='4504' lry='2868' rendition='Line' xml:id='facs_1_line_1574247748211_108'/>
+				<zone ulx='1012' uly='2477' lrx='1972' lry='2941' rendition='Line' xml:id='facs_1_line_1574247753171_113'/>
+			</zone>
+			<zone ulx='2568' uly='2711' lrx='4450' lry='3197' rendition='TextRegion' xml:id='facs_1_region_1574247699041_77'>
+				<zone ulx='2514' uly='2586' lrx='4453' lry='3212' rendition='Line' xml:id='facs_1_line_1574247757731_118'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<pb facs='#facs_1' n='1'/>
+			<p facs='#facs_1_region_1574247666561_68'>
+				<lb facs='#facs_1_line_1574247722300_83' n='N001'/>Pester Lloyd <sic>szerkesztősege</sic>
+			</p>
+			<p facs='#facs_1_region_1574247671296_71'>
+				<lb facs='#facs_1_line_1574247725520_88' n='N001'/><hi rend='underlined:true; fontSize:0.0; kerning:0;'>helyben</hi>
+			</p>
+			<p facs='#facs_1_region_1574247693540_74'>
+				<lb facs='#facs_1_line_1574247730502_93' n='N001'/>Adják át kérem meleg üdvözletemet
+				<lb facs='#facs_1_line_1574247735145_98' n='N002'/>Lorschi Ernő<note>Lorsy Ernő: https://hu.wikipedia.org/wiki/Lorsy_Ern%C5%91</note>nek és El<hi rend='strikethrough:true; fontSize:0.0; kerning:0;'>s</hi><add>z</add>a Stefániá<note>https://hu.wikipedia.org/wiki/Stephani_Elza</note>nak.
+				<lb facs='#facs_1_line_1574247739313_103' n='N003'/>Kívánok nekik minden elképzelhető
+				<lb facs='#facs_1_line_1574247748211_108' n='N004'/><hi rend='strikethrough:true; fontSize:0.0; kerning:0;'>boldogságot és</hi> örömet, zavartalan tartós
+				<lb facs='#facs_1_line_1574247753171_113' n='N005'/>boldogságot
+			</p>
+			<p facs='#facs_1_region_1574247699041_77'>
+				<lb facs='#facs_1_line_1574247757731_118' n='N001'/>A beteg Kiss József
+			</p>
+		</body>
+	</text>
+</TEI>

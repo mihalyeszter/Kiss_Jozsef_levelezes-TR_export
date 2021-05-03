@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-28T13:02:33.791+02:00</Created>
+        <LastChange>2020-11-19T15:27:19.141+01:00</LastChange>
+        <TranskribusMetadata docId="376795" pageId="14734340" pageNr="25" tsid="49198502" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=MOWADPNBLGKAAKIRWUFKGNME&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AIZWTQCVXMWTRFJQCRYYNHEE" imageId="10675362"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#33_12a.tif" imageWidth="2249" imageHeight="3473">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424130465" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1597140752941_1912"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1597140752941_1912" custom="readingOrder {index:0;}">
+            <Coords points="187,2773 2123,2773 2123,3265 187,3265"/>
+            <TextLine id="line_1597140757178_1915" custom="readingOrder {index:0;}">
+                <Coords points="256,2802 2053,2766 2057,2918 260,2954"/>
+                <Baseline points="260,2949 2057,2913"/>
+                <TextEquiv>
+                    <Unicode>Ez Janó és Hanka. A háttérben én, de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597140759713_1920" custom="readingOrder {index:1;} textStyle {offset:20; length:1;strikethrough:true; fontSize:0.0; kerning:0;} add {offset:21; length:1;}">
+                <Coords points="224,2944 2093,2941 2093,3051 224,3054"/>
+                <Baseline points="272,3052 2093,3046"/>
+                <TextEquiv>
+                    <Unicode>engemet nem látni. Váasárnap. Mindnyá¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597140762562_1925" custom="readingOrder {index:2;}">
+                <Coords points="241,3066 1328,3054 1322,3197 235,3209"/>
+                <Baseline points="235,3204 1322,3192"/>
+                <TextEquiv>
+                    <Unicode>jan csizmát huztunk.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ez Janó és Hanka. A háttérben én, de&#xD;
+engemet nem látni. Váasárnap. Mindnyá¬&#xD;
+jan csizmát huztunk.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

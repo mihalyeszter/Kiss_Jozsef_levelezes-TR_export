@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-09-21T14:11:30.492+02:00</Created>
+        <LastChange>2020-11-06T11:59:53.403+01:00</LastChange>
+        <TranskribusMetadata docId="533318" pageId="22542124" pageNr="2" tsid="47803560" status="IN_PROGRESS" userId="56520" imgUrl="https://files.transkribus.eu/Get?id=XNPWNLXHPIECHHDMBBOEUVFD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CSNVANPFOVPVNYGRQMYOJCVA" imageId="17546007"/>
+    </Metadata>
+    <Page imageFilename="PKEL'2019.8.76._b.tif" imageWidth="3815" imageHeight="2626">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424635554" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1604592593881_1027"/>
+                <RegionRefIndexed index="1" regionRef="region_1604592595336_1030"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1604592593881_1027" custom="readingOrder {index:0;}">
+            <Coords points="807,383 3480,383 3480,1297 807,1297"/>
+            <TextLine id="line_1604592604732_1034" custom="readingOrder {index:0;}">
+                <Coords points="994,450 1377,445 1917,536 2403,520 2953,468 3458,493 3428,1225 2919,1200 2430,1110 1803,1152 1272,1061 1012,1185"/>
+                <Baseline points="1010,1180 1271,1056 1803,1147 2430,1105 2920,1195 3428,1220"/>
+                <TextEquiv>
+                    <Unicode>Kiss József</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kiss József</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1604592595336_1030" custom="readingOrder {index:1;}">
+            <Coords points="1388,1143 2926,1143 2926,1784 1388,1784"/>
+            <TextLine id="line_1604592623725_1040" custom="readingOrder {index:0;}">
+                <Coords points="1691,1260 2619,1261 2727,1612 2800,1595 2811,1644 2728,1662 2510,1623 1672,1638"/>
+                <Baseline points="1672,1633 2510,1618 2728,1657 2810,1639"/>
+                <TextEquiv>
+                    <Unicode>levele</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>levele</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

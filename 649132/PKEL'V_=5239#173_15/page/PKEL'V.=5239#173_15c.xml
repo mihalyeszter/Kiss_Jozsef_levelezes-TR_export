@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2021-04-08T10:44:56.000+02:00</Created>
+        <LastChange>2021-04-19T09:20:16.623+02:00</LastChange>
+        <TranskribusMetadata docId="649132" pageId="25213435" pageNr="3" tsid="56738228" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=UZHETFWTTOCJHQWSZXFDBDPX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QZROHUQWBNEZHHXCDAFOOQWV" imageId="19444356"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#173_15c.tif" imageWidth="3591" imageHeight="4582">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424948237" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1617958666481_170"/>
+                <RegionRefIndexed index="1" regionRef="region_1617958675545_173"/>
+                <RegionRefIndexed index="2" regionRef="region_1617958728713_184"/>
+                <RegionRefIndexed index="3" regionRef="region_1617958757320_190"/>
+                <RegionRefIndexed index="4" regionRef="region_1617958801247_200"/>
+                <RegionRefIndexed index="5" regionRef="region_1617959013670_275"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1617958666481_170" custom="readingOrder {index:0;}">
+            <Coords points="304,576 3359,576 3359,1272 304,1272"/>
+            <TextLine id="line_1617958807822_203" custom="readingOrder {index:0;}">
+                <Coords points="319,768 3288,585 3339,790 346,1058"/>
+                <Baseline points="362,985 3331,802"/>
+                <TextEquiv>
+                    <Unicode>fon útján értesítem. Tégy meg öregem,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617958810815_208" custom="readingOrder {index:1;}">
+                <Coords points="347,1065 3022,847 3022,1080 362,1263"/>
+                <Baseline points="362,1258 3022,1075"/>
+                <TextEquiv>
+                    <Unicode>amit lehet ebben a históriában.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>fon útján értesítem. Tégy meg öregem,&#xD;
+amit lehet ebben a históriában.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1617958675545_173" custom="readingOrder {index:1;}">
+            <Coords points="296,1288 3392,1272 3388,1617 2045,1853 300,2085"/>
+            <TextLine id="line_1617958813949_213" custom="readingOrder {index:0;} add {offset:1; length:2;} gap {offset:1; length:0;}">
+                <Coords points="960,1327 3197,1270 3194,1405 907,1750"/>
+                <Baseline points="956,1673 3193,1400"/>
+                <TextEquiv>
+                    <Unicode>Egyéb kézirataim majd a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617958816538_218" custom="readingOrder {index:1;}">
+                <Coords points="536,1817 1956,1646 1982,1836 561,2031"/>
+                <Baseline points="561,1986 1981,1815"/>
+                <TextEquiv>
+                    <Unicode>nyomdába mennek.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Egyéb kézirataim majd a&#xD;
+nyomdába mennek.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1617958728713_184" custom="readingOrder {index:2;}">
+            <Coords points="1065,1998 3152,1701 3169,1949 1053,2291"/>
+            <TextLine id="line_1617958819741_223" custom="readingOrder {index:0;} gap {offset:15; length:0;}">
+                <Coords points="1116,2017 3077,1744 3080,1954 1119,2227"/>
+                <Baseline points="1118,2214 3079,1941"/>
+                <TextEquiv>
+                    <Unicode>Értesítést kér </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Értesítést kér </Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1617958757320_190" custom="readingOrder {index:3;}">
+            <Coords points="2013,2201 2656,2108 2705,2356 1997,2474"/>
+            <TextLine id="line_1617958823283_228" custom="readingOrder {index:0;}">
+                <Coords points="2037,2257 2606,2147 2624,2324 2055,2434"/>
+                <Baseline points="2054,2429 2623,2319"/>
+                <TextEquiv>
+                    <Unicode>hű híved</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>hű híved</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1617958801247_200" custom="readingOrder {index:4;}">
+            <Coords points="2095,2539 2709,2539 2709,2881 2095,2881"/>
+            <TextLine id="line_1617958825929_233" custom="readingOrder {index:0;}">
+                <Coords points="2139,2567 2595,2559 2633,2695 2153,2829"/>
+                <Baseline points="2152,2824 2632,2690"/>
+                <TextEquiv>
+                    <Unicode>V.H.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>V.H.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1617959013670_275" custom="readingOrder {index:5;}">
+            <Coords points="1473,4275 1701,4275 1701,4425 1473,4425"/>
+            <TextLine id="line_1617959572050_516" custom="readingOrder {index:0;}">
+                <Coords points="1530,4309 1665,4310 1669,4399 1534,4398"/>
+                <Baseline points="1534,4393 1669,4394"/>
+                <TextEquiv>
+                    <Unicode>2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>2</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

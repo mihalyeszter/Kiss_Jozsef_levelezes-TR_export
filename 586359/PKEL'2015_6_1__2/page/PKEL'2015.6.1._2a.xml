@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=kj_keze_osszes_3(htr_id=27544)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-01-22T16:23:37.166+01:00</Created>
+        <LastChange>2021-02-09T12:59:25.165+01:00</LastChange>
+        <TranskribusMetadata docId="586359" pageId="23714986" pageNr="1" tsid="52263849" status="GT" userId="63384" imgUrl="https://files.transkribus.eu/Get?id=UKZWVVKSWREAPNSHIJFGQAUL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JMLZTWGTZJYIXHURSZCGJKAN" imageId="18213478"/>
+    </Metadata>
+    <Page imageFilename="PKEL'2015.6.1._2a.tif" imageWidth="3598" imageHeight="5603">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424810182" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1611663737757_548"/>
+                <RegionRefIndexed index="1" regionRef="region_1611663761316_556"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1611663737757_548" custom="readingOrder {index:0;}">
+            <Coords points="645,810 645,1232 2056,1232 2056,810"/>
+            <TextLine id="line_1611663737773_551" custom="readingOrder {index:0;}">
+                <Coords points="666,839 2062,830 2047,1208 651,1217"/>
+                <Baseline points="663,1140 2059,1131"/>
+                <TextEquiv>
+                    <Unicode>Kedves Mama!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kedves Mama!</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1611663761316_556" custom="readingOrder {index:1;}">
+            <Coords points="369,1245 3343,1245 3343,5391 369,5391"/>
+            <TextLine id="line_1611663771372_559" custom="readingOrder {index:0;}">
+                <Coords points="517,1260 3321,1277 3318,1585 514,1568"/>
+                <Baseline points="520,1512 3324,1529"/>
+                <TextEquiv>
+                    <Unicode>Már alig várom hogy lássalak.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1611663776825_564" custom="readingOrder {index:1;}">
+                <Coords points="425,1554 3223,1595 3213,1830 415,1789"/>
+                <Baseline points="421,1727 3219,1768"/>
+                <TextEquiv>
+                    <Unicode>Hogy lenne ha Géza helyett te</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1611663782625_569" custom="readingOrder {index:2;}">
+                <Coords points="428,1767 3011,1836 3007,2097 424,2028"/>
+                <Baseline points="427,1972 3010,2041"/>
+                <TextEquiv>
+                    <Unicode>jönnél el és itt maradnál</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1611663787652_574" custom="readingOrder {index:3;}">
+                <Coords points="470,2012 3256,2105 3251,2356 465,2263"/>
+                <Baseline points="468,2204 3254,2297"/>
+                <TextEquiv>
+                    <Unicode>míg Hajdu eljön értünk, lega¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1611663793652_579" custom="readingOrder {index:4;}">
+                <Coords points="469,2282 3226,2335 3222,2601 465,2548"/>
+                <Baseline points="468,2483 3225,2536"/>
+                <TextEquiv>
+                    <Unicode>lább agyon nem dolgoznád ma¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1611663800989_584" custom="readingOrder {index:5;}">
+                <Coords points="469,2514 3218,2589 3211,2855 462,2780"/>
+                <Baseline points="465,2712 3214,2787"/>
+                <TextEquiv>
+                    <Unicode>gadat, mert nagyon félek, hogy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1611663806327_589" custom="readingOrder {index:6;}">
+                <Coords points="462,2751 3254,2853 3237,3095 445,2993"/>
+                <Baseline points="445,2970 3237,3072"/>
+                <TextEquiv>
+                    <Unicode>a sok pakolás már is megár¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1611663812885_594" custom="readingOrder {index:7;}">
+                <Coords points="463,2997 3311,3090 3307,3338 459,3245"/>
+                <Baseline points="459,3180 3307,3273"/>
+                <TextEquiv>
+                    <Unicode>tott. Ha egy hétig itt kipihennéd</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1611663819715_599" custom="readingOrder {index:8;}">
+                <Coords points="531,3250 3236,3361 3231,3582 526,3471"/>
+                <Baseline points="526,3427 3231,3538"/>
+                <TextEquiv>
+                    <Unicode>magadat, az is sokat lendítene</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1611663825773_604" custom="readingOrder {index:9;} sic {offset:8; length:12;}">
+                <Coords points="536,3474 3066,3546 3062,3779 532,3707"/>
+                <Baseline points="535,3663 3065,3735"/>
+                <TextEquiv>
+                    <Unicode>rajtad. Csütörtöknel tovább</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1611663832846_609" custom="readingOrder {index:10;}">
+                <Coords points="556,3721 3308,3797 3298,4018 546,3942"/>
+                <Baseline points="546,3901 3298,3977"/>
+                <TextEquiv>
+                    <Unicode>nem maradok, akkor jöjjön el</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1611663839510_614" custom="readingOrder {index:11;}">
+                <Coords points="559,3964 2933,4007 2920,4236 546,4193"/>
+                <Baseline points="549,4146 2923,4189"/>
+                <TextEquiv>
+                    <Unicode>Hajdu. Ha Géza nem jön,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1611663844992_619" custom="readingOrder {index:12;}">
+                <Coords points="533,4186 3296,4221 3310,4444 532,4398"/>
+                <Baseline points="532,4378 3295,4413"/>
+                <TextEquiv>
+                    <Unicode>írja meg, hogy papirosaim, hogy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1611663851190_624" custom="readingOrder {index:13;} supplied {offset:7; length:1;}">
+                <Coords points="585,4400 3218,4467 3208,4718 575,4651"/>
+                <Baseline points="575,4625 3208,4692"/>
+                <TextEquiv>
+                    <Unicode>állanak. Csókollak mindnyá¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1611663857469_629" custom="readingOrder {index:14;}">
+                <Coords points="556,4659 3046,4697 3036,4924 546,4886"/>
+                <Baseline points="546,4851 3036,4889"/>
+                <TextEquiv>
+                    <Unicode>jotokat, első sorban Évikét.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1611663862882_634" custom="readingOrder {index:15;}">
+                <Coords points="639,4880 3143,4967 3105,5324 601,5237"/>
+                <Baseline points="616,5058 3120,5145"/>
+                <TextEquiv>
+                    <Unicode>Mondjátok meg neki, hogy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Már alig várom hogy lássalak.&#xD;
+Hogy lenne ha Géza helyett te&#xD;
+jönnél el és itt maradnál&#xD;
+míg Hajdu eljön értünk, lega¬&#xD;
+lább agyon nem dolgoznád ma¬&#xD;
+gadat, mert nagyon félek, hogy&#xD;
+a sok pakolás már is megár¬&#xD;
+tott. Ha egy hétig itt kipihennéd&#xD;
+magadat, az is sokat lendítene&#xD;
+rajtad. Csütörtöknel tovább&#xD;
+nem maradok, akkor jöjjön el&#xD;
+Hajdu. Ha Géza nem jön,&#xD;
+írja meg, hogy papirosaim, hogy&#xD;
+állanak. Csókollak mindnyá¬&#xD;
+jotokat, első sorban Évikét.&#xD;
+Mondjátok meg neki, hogy</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

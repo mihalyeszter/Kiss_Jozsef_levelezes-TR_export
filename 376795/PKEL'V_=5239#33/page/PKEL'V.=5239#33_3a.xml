@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-28T13:02:31.928+02:00</Created>
+        <LastChange>2020-11-19T15:11:42.404+01:00</LastChange>
+        <TranskribusMetadata docId="376795" pageId="14734172" pageNr="5" tsid="49193748" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=HSXGUQQDXLMPBGGIRHSCCZHF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MZVZXXXJRXGNIFRVGYSRVNRV" imageId="10675194"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#33_3a.tif" imageWidth="3546" imageHeight="2355">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424125185" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1597319939098_1090"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="TextRegion_1597319939098_1090" custom="readingOrder {index:0;}">
+            <Coords points="1671,1705 3442,1705 3442,2229 1671,2229"/>
+            <TextLine id="line_1597133918449_821" custom="readingOrder {index:0;}">
+                <Coords points="1755,1755 2899,1726 3433,1689 3417,1843 2885,1871 1756,1879"/>
+                <Baseline points="1756,1874 2885,1866 3417,1838"/>
+                <TextEquiv>
+                    <Unicode>Itt van csak meleg, Zsuzska!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597133922498_826" custom="readingOrder {index:1;}">
+                <Coords points="1697,1897 2644,1902 3304,1851 3305,1988 2647,2021 1699,2016"/>
+                <Baseline points="1699,2011 2647,2016 3305,1983"/>
+                <TextEquiv>
+                    <Unicode>Ma rákot ettem, azok már</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597319942127_1094" custom="readingOrder {index:2;}">
+                <Coords points="1720,2032 3240,1982 3405,1982 3405,2129 2502,2170 1719,2170"/>
+                <Baseline points="1719,2165 2502,2165 3184,2132 3240,2124 3405,2124"/>
+                <TextEquiv>
+                    <Unicode>a folyó vízben is megfőttek. Pá</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Itt van csak meleg, Zsuzska!&#xD;
+Ma rákot ettem, azok már&#xD;
+a folyó vízben is megfőttek. Pá</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

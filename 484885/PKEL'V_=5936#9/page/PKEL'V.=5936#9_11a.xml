@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-09-21T14:08:08.377+02:00</Created>
+        <LastChange>2020-11-20T16:06:22.615+01:00</LastChange>
+        <TranskribusMetadata docId="484885" pageId="19998766" pageNr="15" tsid="49366741" status="IN_PROGRESS" userId="63384" imgUrl="https://files.transkribus.eu/Get?id=SQTRVLRISLTHGTTKOGQHPEOK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SIIGETEOBVHTGVBJNBOYNOGZ" imageId="15414217"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5936#9_11a.tif" imageWidth="5252" imageHeight="8316">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424618937" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1603982668491_1530"/>
+                <RegionRefIndexed index="1" regionRef="region_1603982672275_1533"/>
+                <RegionRefIndexed index="2" regionRef="region_1603982675502_1536"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="region_1603982668491_1530" custom="readingOrder {index:0;}">
+            <Coords points="386,831 2989,831 2920,1045 2637,1057 2184,1057 1870,1062 1526,1069 1486,1128 388,1127"/>
+            <TextLine id="line_1604332446770_8" custom="readingOrder {index:0;}">
+                <Coords points="503,938 1797,876 1821,904 1789,942 1778,980 1748,1071 480,1121"/>
+                <Baseline points="480,1100 599,1092 718,1085 837,1078 957,1071 1076,1064 1195,1059 1315,1054 1434,1048 1553,1044 1673,1040 1748,1036"/>
+                <TextEquiv>
+                    <Unicode>A Kassai Kazinczy-Kör</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1603982668491_1530l1" custom="readingOrder {index:1;} add {offset:0; length:3;}">
+                <Coords points="1838,910 1802,910 1806,965 2046,947 2046,831 1954,836"/>
+                <Baseline points="1816,946 1844,944 1872,942 1900,939 1928,938 2032,929"/>
+                <TextEquiv>
+                    <Unicode>nek</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1604332446770_7" custom="readingOrder {index:2;} textStyle {offset:0; length:16;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="1782,970 2029,957 2136,849 2202,840 2156,895 2290,886 2365,889 2465,839 2597,820 2705,849 2784,851 2889,844 2866,1027 1748,1071"/>
+                <Baseline points="1748,1036 1792,1035 1911,1032 2030,1028 2150,1024 2269,1022 2388,1018 2508,1014 2627,1012 2746,1008 2866,1006"/>
+                <TextEquiv>
+                    <Unicode>nek Könyvtárának</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>A Kassai Kazinczy-Kör&#xD;
+nek&#xD;
+nek Könyvtárának</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1603982672275_1533" custom="readingOrder {index:1;}">
+            <Coords points="396,1250 404,1122 2761,1066 2777,1217 2762,1222 2102,1229 2033,1302 1989,1314 1998,1217 1883,1224 1312,1233 986,1243 970,1295 873,1304 904,1233 393,1293"/>
+            <TextLine id="region_1603982672275_1533l1" custom="readingOrder {index:0;}">
+                <Coords points="428,1292 881,1277 897,1297 954,1292 982,1272 2015,1215 1997,1307 2032,1288 2082,1218 2698,1244 2698,1094 428,1142"/>
+                <Baseline points="428,1242 541,1234 655,1228 768,1222 882,1218 995,1214 1109,1210 1222,1208 1336,1206 1449,1204 1563,1203 1676,1202 1790,1202 1903,1200 2017,1200 2130,1200 2244,1198 2357,1198 2471,1198 2584,1196 2698,1194"/>
+                <TextEquiv>
+                    <Unicode>a vendéglátó szíves házigazdának.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>a vendéglátó szíves házigazdának.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1603982675502_1536" custom="readingOrder {index:2;}">
+            <Coords points="699,1246 3769,1189 3766,1447 699,1447"/>
+            <TextLine id="region_1603982675502_1536l1" custom="readingOrder {index:0;} textStyle {offset:0; length:8;strikethrough:true; fontSize:0.0; kerning:0;} gap {offset:6; length:0;}">
+                <Coords points="784,1440 3771,1395 3771,1245 3736,1248 3740,1200 3687,1195 3617,1251 2835,1226 2739,1226 784,1290"/>
+                <Baseline points="784,1390 926,1388 1069,1386 1212,1384 1354,1380 1497,1378 1640,1374 1782,1372 1925,1368 2068,1366 2211,1363 2353,1360 2496,1358 2639,1356 2781,1352 2924,1350 3067,1348 3209,1346 3352,1344 3495,1344 3638,1342"/>
+                <TextEquiv>
+                    <Unicode>a hálá a hálája jeléül a kitüntetett vendég</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>a hálá a hálája jeléül a kitüntetett vendég</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

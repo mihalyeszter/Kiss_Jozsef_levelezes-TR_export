@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>PKEL'V.=5239#121</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: eszter.mihaly@gmail.com</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile xml:id='facs_1'>
+		<surface ulx='0' uly='0' lrx='2904' lry='1996'>
+			<graphic url='PKEL'V.=5239#121_a.tif' width='2904px' height='1996px'/>
+			<zone ulx='284' uly='302' lrx='706' lry='607' rendition='TextRegion' xml:id='facs_1_region_1597663065518_669'>
+				<zone ulx='314' uly='340' lrx='678' lry='541' rendition='Line' xml:id='facs_1_line_1597663094919_690'/>
+			</zone>
+			<zone ulx='479' uly='634' lrx='1518' lry='1001' rendition='TextRegion' xml:id='facs_1_region_1597663069454_672'>
+				<zone ulx='541' uly='660' lrx='1502' lry='924' rendition='Line' xml:id='facs_1_line_1597663099280_696'/>
+			</zone>
+			<zone ulx='1065' uly='958' lrx='2448' lry='1243' rendition='TextRegion' xml:id='facs_1_region_1597663073001_675'>
+				<zone ulx='1098' uly='966' lrx='2389' lry='1198' rendition='Line' xml:id='facs_1_line_1597663103439_702'/>
+			</zone>
+			<zone ulx='1577' uly='1177' lrx='2073' lry='1431' rendition='TextRegion' xml:id='facs_1_region_1597663075650_678'>
+				<zone ulx='1620' uly='1188' lrx='2059' lry='1397' rendition='Line' xml:id='facs_1_line_1597663107789_708'/>
+			</zone>
+			<zone ulx='690' uly='1349' lrx='2616' lry='1677' rendition='TextRegion' xml:id='facs_1_region_1597663086838_686'>
+				<zone ulx='710' uly='1370' lrx='2601' lry='1644' rendition='Line' xml:id='facs_1_line_1597663112752_714'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id='facs_2'>
+		<surface ulx='0' uly='0' lrx='2899' lry='1999'>
+			<graphic url='PKEL'V.=5239#121_b.tif' width='2899px' height='1999px'/>
+			<zone ulx='464' uly='331' lrx='1695' lry='484' rendition='TextRegion' xml:id='facs_2_region_1597663210234_732'>
+				<zone ulx='546' uly='317' lrx='1652' lry='495' rendition='Line' xml:id='facs_2_line_1597663236803_741'/>
+			</zone>
+			<zone ulx='1132' uly='392' lrx='2240' lry='602' rendition='TextRegion' xml:id='facs_2_region_1597663212651_735'>
+				<zone ulx='1137' uly='397' lrx='2230' lry='600' rendition='Line' xml:id='facs_2_line_1597663241723_747'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id='facs_3'>
+		<surface ulx='0' uly='0' lrx='2553' lry='1570'>
+			<graphic url='PKEL'V.=5239#121_c.tif' width='2553px' height='1570px'/>
+			<zone ulx='735' uly='586' lrx='1844' lry='891' rendition='TextRegion' xml:id='facs_3_region_1597663280869_759'>
+				<zone ulx='748' uly='600' lrx='1812' lry='849' rendition='Line' xml:id='facs_3_line_1597663291989_766'/>
+			</zone>
+			<zone ulx='1811' uly='1278' lrx='2204' lry='1480' rendition='TextRegion' xml:id='facs_3_region_1597663282507_762'>
+				<zone ulx='1844' uly='1295' lrx='2188' lry='1448' rendition='Line' xml:id='facs_3_line_1597663300374_772'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<pb facs='#facs_1' n='1'/>
+			<p facs='#facs_1_region_1597663065518_669'>
+				<lb facs='#facs_1_line_1597663094919_690' n='N001'/><hi rend='underlined:true; fontSize:0.0; kerning:0;'><choice><expan></expan><abbr>Ngs</abbr></choice></hi>
+			</p>
+			<p facs='#facs_1_region_1597663069454_672'>
+				<lb facs='#facs_1_line_1597663099280_696' n='N001'/>Kiss József
+			</p>
+			<p facs='#facs_1_region_1597663073001_675'>
+				<lb facs='#facs_1_line_1597663103439_702' n='N001'/>főszerkesztő úrnak
+			</p>
+			<p facs='#facs_1_region_1597663075650_678'>
+				<lb facs='#facs_1_line_1597663107789_708' n='N001'/><hi rend='underlined:true; fontSize:0.0; kerning:0;'><unclear>Hb</unclear></hi>
+			</p>
+			<p facs='#facs_1_region_1597663086838_686'>
+				<lb facs='#facs_1_line_1597663112752_714' n='N001'/>VIII Népszínház u. 22
+			</p>
+			<pb facs='#facs_2' n='2'/>
+			<p facs='#facs_2_region_1597663210234_732'>
+				<lb facs='#facs_2_line_1597663236803_741' n='N001'/>Fischer Emil
+			</p>
+			<p facs='#facs_2_region_1597663212651_735'>
+				<lb facs='#facs_2_line_1597663241723_747' n='N001'/><hi rend='underlined:true; fontSize:0.0; kerning:0;'>V</hi>. Hold u 8 I/2
+			</p>
+			<pb facs='#facs_3' n='3'/>
+			<p facs='#facs_3_region_1597663280869_759'>
+				<lb facs='#facs_3_line_1597663291989_766' n='N001'/>Fischer Emil
+			</p>
+			<p facs='#facs_3_region_1597663282507_762'>
+				<lb facs='#facs_3_line_1597663300374_772' n='N001'/>p. c.
+			</p>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-06-09T14:55:54.256+02:00</Created>
+        <LastChange>2020-11-20T12:07:36.743+01:00</LastChange>
+        <TranskribusMetadata docId="406003" pageId="15891514" pageNr="1" tsid="49340490" status="IN_PROGRESS" userId="58915" imgUrl="https://files.transkribus.eu/Get?id=VNEWTRQUDPTPQDTNKYYLMCEL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UOLKXWPECWVGONCQGXECZCLJ" imageId="11708365"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#102_a.tif" imageWidth="3791" imageHeight="5021">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424458288" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1595791345151_1112"/>
+                <RegionRefIndexed index="1" regionRef="region_1595791334170_1096"/>
+                <RegionRefIndexed index="2" regionRef="region_1595791338634_1104"/>
+                <RegionRefIndexed index="3" regionRef="region_1595791360881_1120"/>
+                <RegionRefIndexed index="4" regionRef="region_1595791374394_1123"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1595791345151_1112" custom="readingOrder {index:0;}">
+            <Coords points="1953,4706 1953,4831 2087,4831 2087,4706"/>
+            <TextLine id="line_1595791345167_1115" custom="readingOrder {index:0;}">
+                <Coords points="1953,4724 2085,4718 2087,4825 1955,4831"/>
+                <Baseline points="1955,4826 2087,4820"/>
+                <TextEquiv>
+                    <Unicode>1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1595791334170_1096" custom="readingOrder {index:1;}">
+            <Coords points="2338,134 2341,328 3545,328 3542,134"/>
+            <TextLine id="line_1595791334185_1099" custom="readingOrder {index:0;}">
+                <Coords points="2332,146 3536,146 3542,310 2338,310"/>
+                <Baseline points="2341,263 3545,263"/>
+                <TextEquiv>
+                    <Unicode>Nagyvárad 914. juli. 14.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Nagyvárad 914. juli. 14.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1595791338634_1104" custom="readingOrder {index:2;}">
+            <Coords points="504,534 510,809 2117,809 2111,534"/>
+            <TextLine id="line_1595791338650_1107" custom="readingOrder {index:0;}">
+                <Coords points="496,545 2101,549 2114,773 508,809"/>
+                <Baseline points="511,747 2117,711"/>
+                <TextEquiv>
+                    <Unicode>Méltóságos Uram!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Méltóságos Uram!</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1595791360881_1120" custom="readingOrder {index:3;}">
+            <Coords points="3643,868 303,868 303,2685 3643,2685"/>
+            <TextLine id="line_1595791386996_1126" custom="readingOrder {index:0;}">
+                <Coords points="1031,932 3410,895 3417,1101 1038,1138"/>
+                <Baseline points="1035,1094 3414,1057"/>
+                <TextEquiv>
+                    <Unicode>Az első levél nagyon fájt, mert</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1595791393515_1131" custom="readingOrder {index:1;}">
+                <Coords points="375,1131 3449,1082 3447,1303 373,1352"/>
+                <Baseline points="370,1293 3444,1244"/>
+                <TextEquiv>
+                    <Unicode>érdemtelenül és igaztalanul bántott. Én</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1595791398544_1136" custom="readingOrder {index:2;}">
+                <Coords points="330,1354 3486,1299 3496,1488 340,1543"/>
+                <Baseline points="340,1505 3496,1450"/>
+                <TextEquiv>
+                    <Unicode>a cikkel azt akartam elérni, hogy lokális</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1595791403291_1141" custom="readingOrder {index:3;}">
+                <Coords points="340,1539 3548,1511 3545,1711 337,1739"/>
+                <Baseline points="337,1695 3545,1667"/>
+                <TextEquiv>
+                    <Unicode>érdeklődést keltsek a Legendák iránt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1595791408518_1146" custom="readingOrder {index:4;}">
+                <Coords points="311,1759 3578,1704 3579,1923 312,1978"/>
+                <Baseline points="312,1928 3579,1873"/>
+                <TextEquiv>
+                    <Unicode>Tudtam, hogy annak, amit a Nagyváradi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1595791414248_1151" custom="readingOrder {index:5;}">
+                <Coords points="320,2005 3535,1922 3548,2122 333,2205"/>
+                <Baseline points="321,2161 3536,2078"/>
+                <TextEquiv>
+                    <Unicode>Naplóba írok, Budapesten nincs jelentő¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1595791420111_1156" custom="readingOrder {index:6;}">
+                <Coords points="342,2204 3569,2137 3564,2382 337,2449"/>
+                <Baseline points="337,2366 3564,2299"/>
+                <TextEquiv>
+                    <Unicode>sége. Hogy a célom sikerült, adatokkal</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1595791426949_1161" custom="readingOrder {index:7;}">
+                <Coords points="343,2447 3619,2367 3623,2591 347,2671"/>
+                <Baseline points="334,2605 3610,2525"/>
+                <TextEquiv>
+                    <Unicode>szolgáltak a nagyváradi könyvkereskedők.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Az első levél nagyon fájt, mert&#xD;
+érdemtelenül és igaztalanul bántott. Én&#xD;
+a cikkel azt akartam elérni, hogy lokális&#xD;
+érdeklődést keltsek a Legendák iránt.&#xD;
+Tudtam, hogy annak, amit a Nagyváradi&#xD;
+Naplóba írok, Budapesten nincs jelentő¬&#xD;
+sége. Hogy a célom sikerült, adatokkal&#xD;
+szolgáltak a nagyváradi könyvkereskedők.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1595791374394_1123" custom="readingOrder {index:4;}">
+            <Coords points="248,4406 3668,4406 3668,2619 248,2619"/>
+            <TextLine id="line_1595791432061_1166" custom="readingOrder {index:0;}">
+                <Coords points="912,2652 3605,2619 3597,2822 904,2855"/>
+                <Baseline points="907,2817 3600,2784"/>
+                <TextEquiv>
+                    <Unicode>Nem akartam emlékeim közt meg¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1595791436586_1171" custom="readingOrder {index:1;}">
+                <Coords points="357,2864 3676,2827 3665,3027 346,3064"/>
+                <Baseline points="346,3023 3665,2986"/>
+                <TextEquiv>
+                    <Unicode>őrizni a három indulatszót és három mon¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1595791441945_1176" custom="readingOrder {index:2;}">
+                <Coords points="327,3106 3480,3014 3487,3223 334,3315"/>
+                <Baseline points="334,3256 3487,3164"/>
+                <TextEquiv>
+                    <Unicode>datot, ami élesebb volt a békeidők¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1595791446642_1181" custom="readingOrder {index:3;}">
+                <Coords points="292,3317 3516,3204 3533,3380 309,3493"/>
+                <Baseline points="300,3461 3524,3348"/>
+                <TextEquiv>
+                    <Unicode>ben használatos kardok és taglók é¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1595791451672_1186" custom="readingOrder {index:4;}">
+                <Coords points="309,3510 3479,3408 3484,3572 291,3732"/>
+                <Baseline points="291,3691 3484,3531"/>
+                <TextEquiv>
+                    <Unicode>lességénél: válaszomat Méltóságos Ur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1595791457352_1191" custom="readingOrder {index:5;}">
+                <Coords points="355,3752 3496,3572 3493,3781 352,3961"/>
+                <Baseline points="352,3905 3493,3725"/>
+                <TextEquiv>
+                    <Unicode>első levelének hátlapjára írtam. Fel¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1595791462332_1196" custom="readingOrder {index:6;}">
+                <Coords points="367,3972 3435,3776 3414,3996 346,4192"/>
+                <Baseline points="349,4129 3417,3933"/>
+                <TextEquiv>
+                    <Unicode>bontatlanul jött vissza. A tisztelet és</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1595791475390_1208" custom="readingOrder {index:7;}">
+                <Coords points="266,4188 3542,4001 3548,4219 272,4406"/>
+                <Baseline points="269,4331 3551,4169"/>
+                <TextEquiv>
+                    <Unicode>önuralom hangján bár, de mégis in¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Nem akartam emlékeim közt meg¬&#xD;
+őrizni a három indulatszót és három mon¬&#xD;
+datot, ami élesebb volt a békeidők¬&#xD;
+ben használatos kardok és taglók é¬&#xD;
+lességénél: válaszomat Méltóságos Ur&#xD;
+első levelének hátlapjára írtam. Fel¬&#xD;
+bontatlanul jött vissza. A tisztelet és&#xD;
+önuralom hangján bár, de mégis in¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

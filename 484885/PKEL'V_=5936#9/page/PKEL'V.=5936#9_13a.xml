@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-09-21T14:08:09.255+02:00</Created>
+        <LastChange>2020-11-02T13:24:20.086+01:00</LastChange>
+        <TranskribusMetadata docId="484885" pageId="19998788" pageNr="17" tsid="47651395" status="IN_PROGRESS" userId="56520" imgUrl="https://files.transkribus.eu/Get?id=WPYQBSPZTWAAIBYZYPXATBEE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NFLLBZRWCZTMLZUXQVLXFEWP" imageId="15414239"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5936#9_13a.tif" imageWidth="5159" imageHeight="1368">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424619509" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1603983295759_1677"/>
+                <RegionRefIndexed index="1" regionRef="region_1603983297632_1680"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="region_1603983295759_1677" custom="readingOrder {index:0;}">
+            <Coords points="1061,356 5052,356 5052,909 1061,909"/>
+            <TextLine id="line_1603983334201_1687" custom="readingOrder {index:0;}">
+                <Coords points="1081,496 2630,412 2805,500 3128,535 3221,532 3351,490 5057,352 5045,841 4363,822 4334,824 1384,912 1086,908"/>
+                <Baseline points="1139,894 1236,879 1289,864 1340,858 1384,862 1600,846 1628,846 1816,848 1842,832 1869,835 1896,832 1984,834 2077,824 2170,813 2263,804 2356,796 2449,788 2542,781 2635,774 2728,770 2821,765 2914,761 3007,758 3100,756 3193,754 3286,754 3379,755 3472,756 3565,759 3658,763 3751,768 3844,772 4088,766 4136,766 4276,768 4305,773 4334,774 4363,772 4392,766 4516,809 4724,802 4808,802 5019,822"/>
+                <TextEquiv>
+                    <Unicode>Vészi József úrnak és családjának</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Vészi József úrnak és családjának</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1603983297632_1680" custom="readingOrder {index:1;}">
+            <Coords points="2569,803 3118,803 3118,1171 2569,1171"/>
+            <TextLine id="region_1603983297632_1680l1" custom="readingOrder {index:0;} sic {offset:0; length:3;}">
+                <Coords points="2560,1135 2770,1142 2799,1140 2828,1140 2856,1139 2885,1138 3004,1136 3062,849 2943,851 2937,855 2909,856 2908,850 2793,849 2583,842"/>
+                <Baseline points="2590,1084 2633,1107 2689,1115 2742,1094 2770,1092 2799,1090 2828,1090 2856,1089 2885,1088 2914,1086 2969,1092"/>
+                <TextEquiv>
+                    <Unicode>hel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>hel</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

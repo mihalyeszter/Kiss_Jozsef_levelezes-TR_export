@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>PKEL'V.=4324#131</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: eszter.mihaly@gmail.com</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile xml:id='facs_1'>
+		<surface ulx='0' uly='0' lrx='4199' lry='3091'>
+			<graphic url='PKEL'V.=4324#131_a.tif' width='4199px' height='3091px'/>
+			<zone ulx='941' uly='877' lrx='1665' lry='1151' rendition='TextRegion' xml:id='facs_1_region_1605169737281_3'>
+				<zone ulx='1004' uly='929' lrx='1587' lry='1115' rendition='Line' xml:id='facs_1_region_1605169737281_3l1'/>
+			</zone>
+			<zone ulx='1275' uly='1478' lrx='3531' lry='1688' rendition='TextRegion' xml:id='facs_1_region_1605169795126_9'>
+				<zone ulx='1300' uly='1501' lrx='3473' lry='1679' rendition='Line' xml:id='facs_1_region_1605169795126_9l1'/>
+			</zone>
+			<zone ulx='1575' uly='1658' lrx='2012' lry='1872' rendition='TextRegion' xml:id='facs_1_region_1605169798351_12'>
+				<zone ulx='1607' uly='1682' lrx='1970' lry='1835' rendition='Line' xml:id='facs_1_region_1605169798351_12l1'/>
+			</zone>
+			<zone ulx='2185' uly='2131' lrx='3524' lry='2401' rendition='TextRegion' xml:id='facs_1_region_1605169824161_20'>
+				<zone ulx='2331' uly='2152' lrx='3394' lry='2370' rendition='Line' xml:id='facs_1_region_1605169824161_20l1'/>
+			</zone>
+			<zone ulx='2062' uly='2426' lrx='3858' lry='2707' rendition='TextRegion' xml:id='facs_1_region_1605169826901_23'>
+				<zone ulx='2106' uly='2455' lrx='3804' lry='2659' rendition='Line' xml:id='facs_1_region_1605169826901_23l1'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id='facs_2'>
+		<surface ulx='0' uly='0' lrx='4186' lry='3094'>
+			<graphic url='PKEL'V.=4324#131_b.tif' width='4186px' height='3094px'/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id='facs_3'>
+		<surface ulx='0' uly='0' lrx='4047' lry='5484'>
+			<graphic url='PKEL'V.=4324#131_c.tif' width='4047px' height='5484px'/>
+			<zone ulx='1695' uly='892' lrx='2854' lry='1171' rendition='TextRegion' xml:id='facs_3_region_1605169986920_49'>
+			</zone>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<pb facs='#facs_1' n='1'/>
+			<p facs='#facs_1_region_1605169737281_3'>
+				<lb facs='#facs_1_region_1605169737281_3l1' n='N001'/>
+			</p>
+			<p facs='#facs_1_region_1605169795126_9'>
+				<lb facs='#facs_1_region_1605169795126_9l1' n='N001'/>
+			</p>
+			<p facs='#facs_1_region_1605169798351_12'>
+				<lb facs='#facs_1_region_1605169798351_12l1' n='N001'/>
+			</p>
+			<p facs='#facs_1_region_1605169824161_20'>
+				<lb facs='#facs_1_region_1605169824161_20l1' n='N001'/>
+			</p>
+			<p facs='#facs_1_region_1605169826901_23'>
+				<lb facs='#facs_1_region_1605169826901_23l1' n='N001'/>
+			</p>
+			<pb facs='#facs_2' n='2'/>
+			<pb facs='#facs_3' n='3'/>
+		</body>
+	</text>
+</TEI>

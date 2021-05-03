@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-06-05T12:43:16.250+02:00</Created>
+        <LastChange>2020-11-25T10:24:13.720+01:00</LastChange>
+        <TranskribusMetadata docId="403479" pageId="15584656" pageNr="2" tsid="49593024" status="IN_PROGRESS" userId="58915" imgUrl="https://files.transkribus.eu/Get?id=MHXDSBDQQCDYWIYNCPCOMIBJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZYIZWZVVRRAUOWHWMIRPVIAL" imageId="11409284"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#95_b.tif" imageWidth="3416" imageHeight="2353">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424366138" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1595525744815_380"/>
+                <RegionRefIndexed index="1" regionRef="region_1595525751921_388"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1595525744815_380" custom="readingOrder {index:0;}">
+            <Coords points="475,122 475,283 1830,283 1830,122"/>
+            <TextLine id="line_1595525744846_383" custom="readingOrder {index:0;}">
+                <Coords points="473,135 1832,126 1830,258 476,283"/>
+                <Baseline points="476,278 1830,253"/>
+                <TextEquiv>
+                    <Unicode>Feladó: Deseő Tibor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Feladó: Deseő Tibor</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1595525751921_388" custom="readingOrder {index:1;}">
+            <Coords points="923,285 920,478 2072,478 2075,285"/>
+            <TextLine id="line_1595525751953_391" custom="readingOrder {index:0;}">
+                <Coords points="923,297 2074,283 2069,454 918,468"/>
+                <Baseline points="924,397 2075,383"/>
+                <TextEquiv>
+                    <Unicode>Nagykikindán. –</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Nagykikindán. –</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-28T11:34:38.642+02:00</Created>
+        <LastChange>2020-11-25T11:07:28.099+01:00</LastChange>
+        <TranskribusMetadata docId="376697" pageId="14727285" pageNr="2" tsid="49597832" status="IN_PROGRESS" userId="56520" imgUrl="https://files.transkribus.eu/Get?id=HGGHEYDIIRQNSUNMPEDVFXSZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RIFVSIYBRHHDEQLZXEZGNJQZ" imageId="10668346"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#27_1c.tif" imageWidth="3484" imageHeight="3680">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424078690" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1590399694404_169"/>
+                <RegionRefIndexed index="1" regionRef="region_1590399730542_172"/>
+                <RegionRefIndexed index="2" regionRef="region_1590399742723_175"/>
+                <RegionRefIndexed index="3" regionRef="region_1590399671198_166"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1590399694404_169" custom="readingOrder {index:0;}">
+            <Coords points="817,1999 2564,1999 2564,2569 817,2569"/>
+            <TextLine id="line_1590399998112_188" custom="readingOrder {index:0;}">
+                <Coords points="875,2024 2553,2023 2548,2229 851,2345"/>
+                <Baseline points="866,2334 2536,2227"/>
+                <TextEquiv>
+                    <Unicode>Szirmay Oszkárné urnő</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1590400004860_193" custom="readingOrder {index:1;} abbrev {offset:2; length:7;}">
+                <Coords points="1458,2307 2191,2247 2180,2557 1463,2555"/>
+                <Baseline points="1464,2466 2179,2418"/>
+                <TextEquiv>
+                    <Unicode>ő Nsgának</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Szirmay Oszkárné urnő&#xD;
+ő Nsgának</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1590399730542_172" custom="readingOrder {index:1;}">
+            <Coords points="3164,2711 2077,2711 2077,3102 3164,3102"/>
+            <TextLine id="line_1590400039271_203" custom="readingOrder {index:0;} textStyle {offset:0; length:10;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="2109,2736 3134,2741 3139,3072 2095,3109"/>
+                <Baseline points="2101,3018 2959,2979"/>
+                <TextEquiv>
+                    <Unicode>Budapesten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Budapesten</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1590399742723_175" custom="readingOrder {index:2;}">
+            <Coords points="2051,3310 3267,3310 3267,3107 2051,3107"/>
+            <TextLine id="line_1590400046571_208" custom="readingOrder {index:0;}">
+                <Coords points="2078,3124 3248,3111 3246,3252 2060,3290"/>
+                <Baseline points="2066,3281 3246,3247"/>
+                <TextEquiv>
+                    <Unicode>Perczel Mór utcza 4</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Perczel Mór utcza 4</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1590399671198_166" custom="readingOrder {index:3;}">
+            <Coords points="299,1196 607,1196 607,1372 299,1372"/>
+            <TextLine id="line_1590399905902_181" custom="readingOrder {index:0;}">
+                <Coords points="313,1215 594,1218 584,1366 312,1355"/>
+                <Baseline points="325,1342 559,1357"/>
+                <TextEquiv>
+                    <Unicode>107.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>107.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

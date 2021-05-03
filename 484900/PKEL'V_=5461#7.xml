@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>PKEL'V.=5461#7</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: eszter.mihaly@gmail.com</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile xml:id='facs_1'>
+		<surface ulx='0' uly='0' lrx='3327' lry='2191'>
+			<graphic url='PKEL'V.=5461#7_1a.tif' width='3327px' height='2191px'/>
+			<zone ulx='691' uly='515' lrx='2397' lry='929' rendition='TextRegion' xml:id='facs_1_region_1603801301516_399'>
+				<zone ulx='879' uly='639' lrx='2300' lry='914' rendition='Line' xml:id='facs_1_region_1603801301516_399l1'/>
+			</zone>
+			<zone ulx='1213' uly='881' lrx='2398' lry='1100' rendition='TextRegion' xml:id='facs_1_region_1603801303461_402'>
+				<zone ulx='1281' uly='895' lrx='2304' lry='1090' rendition='Line' xml:id='facs_1_region_1603801303461_402l1'/>
+			</zone>
+			<zone ulx='1817' uly='1328' lrx='2940' lry='1762' rendition='TextRegion' xml:id='facs_1_region_1603801305066_405'>
+				<zone ulx='1975' uly='1401' lrx='2893' lry='1706' rendition='Line' xml:id='facs_1_region_1603801305066_405l1'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id='facs_2'>
+		<surface ulx='0' uly='0' lrx='3331' lry='2180'>
+			<graphic url='PKEL'V.=5461#7_1b.tif' width='3331px' height='2180px'/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id='facs_3'>
+		<surface ulx='0' uly='0' lrx='2607' lry='1551'>
+			<graphic url='PKEL'V.=5461#7_2a.tif' width='2607px' height='1551px'/>
+			<zone ulx='723' uly='500' lrx='1863' lry='806' rendition='TextRegion' xml:id='facs_3_region_1603801476343_426'>
+				<zone ulx='758' uly='512' lrx='1832' lry='785' rendition='Line' xml:id='facs_3_region_1603801476343_426l1'/>
+			</zone>
+			<zone ulx='652' uly='761' lrx='1822' lry='952' rendition='TextRegion' xml:id='facs_3_region_1603801478811_429'>
+				<zone ulx='710' uly='789' lrx='1800' lry='968' rendition='Line' xml:id='facs_3_region_1603801478811_429l1'/>
+			</zone>
+			<zone ulx='424' uly='858' lrx='2319' lry='1146' rendition='TextRegion' xml:id='facs_3_region_1603801481896_432'>
+				<zone ulx='470' uly='923' lrx='2320' lry='1091' rendition='Line' xml:id='facs_3_region_1603801481896_432l1'/>
+			</zone>
+			<zone ulx='1317' uly='1270' lrx='2484' lry='1468' rendition='TextRegion' xml:id='facs_3_region_1603801484733_435'>
+				<zone ulx='1379' uly='1307' lrx='2400' lry='1466' rendition='Line' xml:id='facs_3_region_1603801484733_435l1'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<pb facs='#facs_1' n='1'/>
+			<p facs='#facs_1_region_1603801301516_399'>
+				<lb facs='#facs_1_region_1603801301516_399l1' n='N001'/>Grünwald Berta urhölgy
+			</p>
+			<p facs='#facs_1_region_1603801303461_402'>
+				<lb facs='#facs_1_region_1603801303461_402l1' n='N001'/>Ő <sic>Nagyságanak</sic>
+			</p>
+			<p facs='#facs_1_region_1603801305066_405'>
+				<lb facs='#facs_1_region_1603801305066_405l1' n='N001'/>Zala-Egerszegen
+			</p>
+			<pb facs='#facs_2' n='2'/>
+			<pb facs='#facs_3' n='3'/>
+			<p facs='#facs_3_region_1603801476343_426'>
+				<lb facs='#facs_3_region_1603801476343_426l1' n='N001'/>Kiss József
+			</p>
+			<p facs='#facs_3_region_1603801478811_429'>
+				<lb facs='#facs_3_region_1603801478811_429l1' n='N001'/>A „Hét” szerkesztője
+			</p>
+			<p facs='#facs_3_region_1603801481896_432'>
+				<lb facs='#facs_3_region_1603801481896_432l1' n='N001'/>hálásan köszöni a kedves <sic>megemlékezest</sic>.
+			</p>
+			<p facs='#facs_3_region_1603801484733_435'>
+				<lb facs='#facs_3_region_1603801484733_435l1' n='N001'/>VIII. Rökk Szilárd-u. 18.
+			</p>
+		</body>
+	</text>
+</TEI>

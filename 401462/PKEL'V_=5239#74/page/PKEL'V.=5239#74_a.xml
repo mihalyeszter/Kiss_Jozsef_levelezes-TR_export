@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-06-03T17:41:41.840+02:00</Created>
+        <LastChange>2020-11-24T15:51:35.676+01:00</LastChange>
+        <TranskribusMetadata docId="401462" pageId="15532405" pageNr="1" tsid="49527364" status="IN_PROGRESS" userId="56520" imgUrl="https://files.transkribus.eu/Get?id=JMAGJUUXEKGDAGOJBDARXSAC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IUSGHQAGYVYQKECJZTENGJPO" imageId="11360224"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#74_a.tif" imageWidth="2820" imageHeight="2212">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424490998" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1593369646563_3"/>
+                <RegionRefIndexed index="1" regionRef="region_1593369658239_6"/>
+                <RegionRefIndexed index="2" regionRef="region_1593369679856_9"/>
+                <RegionRefIndexed index="3" regionRef="region_1593369690769_12"/>
+                <RegionRefIndexed index="4" regionRef="region_1593369697284_15"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1593369646563_3" custom="readingOrder {index:0;}">
+            <Coords points="179,149 2221,149 2221,339 179,339"/>
+            <TextLine id="line_1593369715248_18" custom="readingOrder {index:0;} abbrev {offset:18; length:5;} abbrev {offset:29; length:6;} textStyle {offset:37; length:1;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="202,169 2202,161 2204,329 206,324"/>
+                <Baseline points="204,299 2204,291"/>
+                <TextEquiv>
+                    <Unicode>Berzeviczy Albert Bpest 899. decemb. 9 10 én.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Berzeviczy Albert Bpest 899. decemb. 9 10 én.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1593369658239_6" custom="readingOrder {index:1;}">
+            <Coords points="493,393 2348,393 2348,603 493,603"/>
+            <TextLine id="line_1593369722103_23" custom="readingOrder {index:0;}">
+                <Coords points="493,411 2316,399 2325,580 502,592"/>
+                <Baseline points="500,555 2323,543"/>
+                <TextEquiv>
+                    <Unicode>Nagyon tisztelt Szerkesztő Úr!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Nagyon tisztelt Szerkesztő Úr!</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1593369679856_9" custom="readingOrder {index:2;}">
+            <Coords points="2742,600 176,600 176,1761 2742,1761"/>
+            <TextLine id="line_1593369737629_28" custom="readingOrder {index:0;}">
+                <Coords points="298,636 2654,609 2663,794 307,821"/>
+                <Baseline points="301,789 2657,762"/>
+                <TextEquiv>
+                    <Unicode>Miután még eddig a beküldött tárczacikk</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1593369744309_33" custom="readingOrder {index:1;}">
+                <Coords points="208,844 2659,791 2664,950 213,1003"/>
+                <Baseline points="209,974 2660,921"/>
+                <TextEquiv>
+                    <Unicode>nyomdai revísióját meg nem kaptam, sejtem,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1593369751599_38" custom="readingOrder {index:2;}">
+                <Coords points="208,1008 2701,956 2704,1110 211,1162"/>
+                <Baseline points="211,1143 2704,1091"/>
+                <TextEquiv>
+                    <Unicode>hogy talán nehézségek merültek föl a hossza</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1593369759237_43" custom="readingOrder {index:3;} textStyle {offset:7; length:16;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="202,1175 2722,1113 2732,1283 204,1305"/>
+                <Baseline points="204,1300 2732,1278"/>
+                <TextEquiv>
+                    <Unicode>miatt. Ebben az esetben kérném, (mint már e¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1593369770019_48" custom="readingOrder {index:4;}">
+                <Coords points="176,1322 2704,1298 2706,1461 178,1485"/>
+                <Baseline points="176,1454 2704,1430"/>
+                <TextEquiv>
+                    <Unicode>lőbbi levelemben is kifejeztem kérésemet) szíves¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1593369779540_53" custom="readingOrder {index:5;} textStyle {offset:11; length:25;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="193,1474 2641,1454 2653,1605 205,1625"/>
+                <Baseline points="199,1594 2647,1574"/>
+                <TextEquiv>
+                    <Unicode>kednék ezt a kéziratot visszaküldeni s majd</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1593369788280_58" custom="readingOrder {index:6;}">
+                <Coords points="180,1637 2643,1613 2647,1747 184,1771"/>
+                <Baseline points="184,1733 2647,1709"/>
+                <TextEquiv>
+                    <Unicode>inkább valami rövid kis dolgot küldök helyette.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Miután még eddig a beküldött tárczacikk&#xD;
+nyomdai revísióját meg nem kaptam, sejtem,&#xD;
+hogy talán nehézségek merültek föl a hossza&#xD;
+miatt. Ebben az esetben kérném, (mint már e¬&#xD;
+lőbbi levelemben is kifejeztem kérésemet) szíves¬&#xD;
+kednék ezt a kéziratot visszaküldeni s majd&#xD;
+inkább valami rövid kis dolgot küldök helyette.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1593369690769_12" custom="readingOrder {index:3;}">
+            <Coords points="846,1858 1927,1858 1927,1721 846,1721"/>
+            <TextLine id="line_1593369796483_63" custom="readingOrder {index:0;}">
+                <Coords points="852,1734 1916,1736 1920,1853 856,1851"/>
+                <Baseline points="856,1846 1920,1848"/>
+                <TextEquiv>
+                    <Unicode>Őszinte tisztelettel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Őszinte tisztelettel</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1593369697284_15" custom="readingOrder {index:4;}">
+            <Coords points="1467,1878 2505,1878 2505,2095 1467,2095"/>
+            <TextLine id="line_1593369801610_68" custom="readingOrder {index:0;}">
+                <Coords points="1483,1899 2494,1894 2497,2080 1486,2085"/>
+                <Baseline points="1482,2032 2493,2027"/>
+                <TextEquiv>
+                    <Unicode>Berzeviczy Albert</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Berzeviczy Albert</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

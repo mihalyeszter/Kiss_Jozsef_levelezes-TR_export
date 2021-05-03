@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2019-11-04T14:32:43.679+01:00</Created>
+        <LastChange>2020-11-24T16:47:09.453+01:00</LastChange>
+        <TranskribusMetadata docId="239495" pageId="10755116" pageNr="1" tsid="49529356" status="IN_PROGRESS" userId="58915" imgUrl="https://files.transkribus.eu/Get?id=LBOUJBWRTCAPKNUJZHUOOGQO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GOLOSTGJESQJBEJEUZSYDAOP" imageId="7256073"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#7_a.tif" imageWidth="4919" imageHeight="5413">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619423850119" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1572875287751_60"/>
+                <RegionRefIndexed index="1" regionRef="region_1572875304499_63"/>
+                <RegionRefIndexed index="2" regionRef="region_1572875339299_68"/>
+                <RegionRefIndexed index="3" regionRef="region_1572875358899_73"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1572875287751_60" custom="readingOrder {index:0;}">
+            <Coords points="1154,207 4687,207 4687,643 1154,643"/>
+            <TextLine id="line_1572875395538_81" custom="readingOrder {index:0;} comment {offset:0; length:13;comment:1918\u0020–\u00201919\u0020között\u0020az\u0020Országos\u0020Lakásügyi\u0020Tanács\u0020elnöke.;}">
+                <Coords points="1217,167 4696,305 4655,685 1176,547"/>
+                <Baseline points="1230,463 4661,601"/>
+                <TextEquiv>
+                    <Unicode>Garbai Sándor lakásügyi kormány biztos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Garbai Sándor lakásügyi kormány biztos</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1572875304499_63" custom="readingOrder {index:1;}">
+            <Coords points="787,913 2566,910 2566,1241 787,1244"/>
+            <TextLine id="line_1572875434745_87" custom="readingOrder {index:0;}">
+                <Coords points="836,903 2531,890 2528,1147 833,1160"/>
+                <Baseline points="833,1155 2528,1142"/>
+                <TextEquiv>
+                    <Unicode>Igen tisztelt Uram,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Igen tisztelt Uram,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1572875339299_68" custom="readingOrder {index:2;}">
+            <Coords points="574,1219 4489,1219 4492,4231 577,4231"/>
+            <TextLine id="line_1572875440378_92" custom="readingOrder {index:0;}">
+                <Coords points="637,1278 4273,1262 4279,1534 639,1484"/>
+                <Baseline points="639,1452 4279,1502"/>
+                <TextEquiv>
+                    <Unicode>Hetvenötéves multam, közel másfélév óta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1572876312275_310" custom="readingOrder {index:1;} textStyle {offset:4; length:3;strikethrough:true; fontSize:0.0; kerning:0;} add {offset:7; length:3;place:above;}">
+                <Coords points="615,1453 1208,1473 4525,1590 4508,1782 598,1645"/>
+                <Baseline points="598,1640 1208,1661 4508,1777"/>
+                <TextEquiv>
+                    <Unicode>részintben az ágyat, részben a szobát kell őriznem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1572875465130_102" custom="readingOrder {index:2;}">
+                <Coords points="667,1661 2131,1704 2106,1860 642,1817"/>
+                <Baseline points="642,1812 2106,1855"/>
+                <TextEquiv>
+                    <Unicode>ugy hogy egész télen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1572875470732_107" custom="readingOrder {index:3;} add {offset:0; length:2;}">
+                <Coords points="2076,1678 2198,1672 2200,1767 2078,1773"/>
+                <Baseline points="2078,1768 2200,1762"/>
+                <TextEquiv>
+                    <Unicode>át</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1572875476507_112" custom="readingOrder {index:4;}">
+                <Coords points="2226,1687 4268,1791 4254,1991 2212,1887"/>
+                <Baseline points="2212,1855 4254,1959"/>
+                <TextEquiv>
+                    <Unicode>nem jutottam egy kis levegő¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1572875491634_118" custom="readingOrder {index:5;} textStyle {offset:16; length:2;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="675,1829 2086,1835 2074,2035 663,2029"/>
+                <Baseline points="663,2024 2074,2030"/>
+                <TextEquiv>
+                    <Unicode>höz. Életszükségem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1572875495418_123" custom="readingOrder {index:6;} add {offset:0; length:5;place:above;}">
+                <Coords points="1948,1837 2235,1865 2217,1963 1930,1935"/>
+                <Baseline points="1949,1930 2218,1958"/>
+                <TextEquiv>
+                    <Unicode>nekem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1572875501026_128" custom="readingOrder {index:7;}">
+                <Coords points="2227,1817 4322,2001 4288,2234 2193,2050"/>
+                <Baseline points="2193,2021 4288,2205"/>
+                <TextEquiv>
+                    <Unicode>egy három szobás nyári lakás,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1572875520677_133" custom="readingOrder {index:8;} textStyle {offset:27; length:2;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="696,1983 3873,2120 3850,2332 673,2195"/>
+                <Baseline points="673,2190 3850,2327"/>
+                <TextEquiv>
+                    <Unicode>akár a hűvösvölgyben, akár Bu Budán és</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1572875526648_138" custom="readingOrder {index:9;}">
+                <Coords points="714,2182 4242,2314 4210,2564 682,2432"/>
+                <Baseline points="682,2427 4210,2559"/>
+                <TextEquiv>
+                    <Unicode>Garbai Sándor kollegám mély hálára kötelezne,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1572875533880_143" custom="readingOrder {index:10;}">
+                <Coords points="765,2400 4405,2538 4388,2767 748,2629"/>
+                <Baseline points="748,2624 4388,2762"/>
+                <TextEquiv>
+                    <Unicode>ha segédkezet nyújtana, hogy ezt megkaphassam.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1572875541734_148" custom="readingOrder {index:11;} comment {offset:12; length:5;comment:Tűzek\u0020(1861);} comment {offset:27; length:14;comment:Kiss\u0020József\u003a\u0020A\u0020Knyáz\u0020Potemkin,\u0020A\u0020hét\u00201906.\u0020XVII.\u0020évfolyam\u00203\u0020828.\u0020szám.\u0020Budapest,\u0020január\u0020hó\u002021.;}">
+                <Coords points="815,2583 4396,2762 4379,2980 798,2801"/>
+                <Baseline points="798,2796 4379,2975"/>
+                <TextEquiv>
+                    <Unicode>Én írtam a „Tüzeket” és a „Knyaz Potemkint”</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1572875548846_153" custom="readingOrder {index:12;}">
+                <Coords points="818,2816 4305,2998 4282,3199 795,3017"/>
+                <Baseline points="795,3012 4282,3194"/>
+                <TextEquiv>
+                    <Unicode>tehát egy hajóban evezünk. Igen kérem fogadjon</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1572875554349_158" custom="readingOrder {index:13;}">
+                <Coords points="805,3034 4077,3165 4057,3392 785,3261"/>
+                <Baseline points="785,3256 4057,3387"/>
+                <TextEquiv>
+                    <Unicode>engem védőszárnyai alá. Ha nyári lakást</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1572875562020_163" custom="readingOrder {index:14;}">
+                <Coords points="859,3233 4074,3396 4054,3596 839,3433"/>
+                <Baseline points="839,3428 4054,3591"/>
+                <TextEquiv>
+                    <Unicode>nem kaphatok, ki kell vándorolnom akár</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1572875568331_168" custom="readingOrder {index:15;}">
+                <Coords points="868,3448 4196,3608 4176,3836 848,3676"/>
+                <Baseline points="848,3647 4176,3807"/>
+                <TextEquiv>
+                    <Unicode>Szibériába, mert a nyáron át Budapesten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1572875577728_174" custom="readingOrder {index:16;}">
+                <Coords points="928,3654 4203,3823 4162,4031 887,3862"/>
+                <Baseline points="887,3857 4162,4026"/>
+                <TextEquiv>
+                    <Unicode>nem maradhatok és a lakások már többnyire</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1572875583494_179" custom="readingOrder {index:17;}">
+                <Coords points="917,3865 3847,3978 3830,4191 900,4078"/>
+                <Baseline points="900,4073 3830,4186"/>
+                <TextEquiv>
+                    <Unicode>le vannak foglalva. Híve és kollegája</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Hetvenötéves multam, közel másfélév óta&#xD;
+részintben az ágyat, részben a szobát kell őriznem&#xD;
+ugy hogy egész télen&#xD;
+át&#xD;
+nem jutottam egy kis levegő¬&#xD;
+höz. Életszükségem&#xD;
+nekem&#xD;
+egy három szobás nyári lakás,&#xD;
+akár a hűvösvölgyben, akár Bu Budán és&#xD;
+Garbai Sándor kollegám mély hálára kötelezne,&#xD;
+ha segédkezet nyújtana, hogy ezt megkaphassam.&#xD;
+Én írtam a „Tüzeket” és a „Knyaz Potemkint”&#xD;
+tehát egy hajóban evezünk. Igen kérem fogadjon&#xD;
+engem védőszárnyai alá. Ha nyári lakást&#xD;
+nem kaphatok, ki kell vándorolnom akár&#xD;
+Szibériába, mert a nyáron át Budapesten&#xD;
+nem maradhatok és a lakások már többnyire&#xD;
+le vannak foglalva. Híve és kollegája</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1572875358899_73" custom="readingOrder {index:3;}">
+            <Coords points="2976,4195 4167,4195 4167,4580 2976,4580"/>
+            <TextLine id="line_1572875587470_184" custom="readingOrder {index:0;}">
+                <Coords points="2963,4194 4042,4235 4046,4466 2967,4425"/>
+                <Baseline points="2967,4420 4046,4461"/>
+                <TextEquiv>
+                    <Unicode>Kiss Jozsef</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kiss Jozsef</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

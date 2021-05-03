@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2021-03-17T09:57:52.978+01:00</Created>
+        <LastChange>2021-03-30T10:25:31.280+02:00</LastChange>
+        <TranskribusMetadata docId="632465" pageId="24787322" pageNr="1" tsid="54741193" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=KSJFASDSSOJYFSGBEOFKUWFN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LPHEUWEFDTIZUXGSJXJXDOIY" imageId="19116122"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#164_a.tif" imageWidth="7191" imageHeight="6299">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424909813" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1616421512146_291"/>
+                <RegionRefIndexed index="1" regionRef="region_1616421518303_294"/>
+                <RegionRefIndexed index="2" regionRef="region_1616421525946_297"/>
+                <RegionRefIndexed index="3" regionRef="region_1616421528761_300"/>
+                <RegionRefIndexed index="4" regionRef="region_1616426011101_729"/>
+                <RegionRefIndexed index="5" regionRef="region_1616670591792_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1616421512146_291" custom="readingOrder {index:0;}">
+            <Coords points="917,2122 1621,2122 1621,2433 917,2433"/>
+            <TextLine id="line_1616421663137_306" custom="readingOrder {index:0;}">
+                <Coords points="965,2152 1568,2145 1574,2406 971,2413"/>
+                <Baseline points="963,2354 1566,2347"/>
+                <TextEquiv>
+                    <Unicode>Nagyságos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Nagyságos</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1616421518303_294" custom="readingOrder {index:1;}">
+            <Coords points="1490,2454 2362,2454 2362,2908 1490,2908"/>
+            <TextLine id="line_1616421665673_311" custom="readingOrder {index:0;}">
+                <Coords points="1528,2495 2360,2504 2357,2731 1509,2739"/>
+                <Baseline points="1518,2692 2280,2689"/>
+                <TextEquiv>
+                    <Unicode>Kiss József</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1616421667618_316" custom="readingOrder {index:1;}">
+                <Coords points="1705,2742 2052,2742 2050,2900 1703,2900"/>
+                <Baseline points="1707,2887 2054,2887"/>
+                <TextEquiv>
+                    <Unicode>úrnak</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kiss József&#xD;
+úrnak</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1616421525946_297" custom="readingOrder {index:2;}">
+            <Coords points="2149,2921 3396,2930 3396,3329 2149,3320"/>
+            <TextLine id="line_1616421672380_321" custom="readingOrder {index:0;} textStyle {offset:0; length:11;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="2228,2948 3212,2975 3205,3286 2221,3259"/>
+                <Baseline points="2213,3198 3197,3225"/>
+                <TextEquiv>
+                    <Unicode>Purkersdorf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Purkersdorf</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1616421528761_300" custom="readingOrder {index:3;}">
+            <Coords points="2033,3335 3637,3335 3637,3610 2033,3610"/>
+            <TextLine id="line_1616421675626_326" custom="readingOrder {index:0;}">
+                <Coords points="2049,3352 3612,3365 3610,3569 2039,3550"/>
+                <Baseline points="2053,3514 3007,3535 3053,3508 3594,3552"/>
+                <TextEquiv>
+                    <Unicode>Sanatorium – Kurhaus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Sanatorium – Kurhaus</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1616426011101_729" custom="readingOrder {index:4;}">
+            <Coords points="5083,5976 5244,5976 5244,6105 5083,6105"/>
+            <TextLine id="line_1616426015579_732" custom="readingOrder {index:0;}">
+                <Coords points="5123,5991 5218,5991 5219,6084 5124,6084"/>
+                <Baseline points="5124,6079 5219,6079"/>
+                <TextEquiv>
+                    <Unicode>1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1616670591792_3" custom="readingOrder {index:5;}">
+            <Coords points="531,1286 704,1286 704,1600 531,1600"/>
+            <TextLine id="line_1616670599725_6" custom="readingOrder {index:0;}">
+                <Coords points="568,1591 532,1301 655,1291 691,1581"/>
+                <Baseline points="686,1582 650,1292"/>
+                <TextEquiv>
+                    <Unicode>222.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>222.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

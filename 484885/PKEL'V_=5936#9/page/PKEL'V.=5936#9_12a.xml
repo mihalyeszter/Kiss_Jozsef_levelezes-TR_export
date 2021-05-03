@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-09-21T14:08:08.742+02:00</Created>
+        <LastChange>2020-11-20T16:08:10.630+01:00</LastChange>
+        <TranskribusMetadata docId="484885" pageId="19998778" pageNr="16" tsid="49366909" status="IN_PROGRESS" userId="63384" imgUrl="https://files.transkribus.eu/Get?id=HSOSKPKQFPOHWOHQDQBNGMYG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CDUATSEBJMBMWUATMBWHUKAA" imageId="15414229"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5936#9_12a.tif" imageWidth="4299" imageHeight="5256">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424619227" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1603983047307_1604"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1603983266479_1665"/>
+                <RegionRefIndexed index="2" regionRef="region_1603983054036_1610"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="region_1603983047307_1604" custom="readingOrder {index:0;}">
+            <Coords points="888,777 4122,777 4122,1343 888,1343"/>
+            <TextLine id="line_1603983121410_1617" custom="readingOrder {index:0;} unclear {offset:2; length:8;}">
+                <Coords points="966,828 4122,812 4122,1304 966,1320"/>
+                <Baseline points="954,1192 1012,1189 1071,1184 1129,1182 1188,1180 1246,1178 1305,1176 1363,1176 1422,1176 1480,1174 1539,1174 1597,1174 1656,1174 1714,1176 1773,1176 1831,1176 1890,1178 1948,1178 2007,1178 2065,1179 2124,1180 2256,1140 2338,1145 2421,1149 2503,1154 2586,1156 2668,1158 2751,1160 2833,1162 2916,1164 2998,1164 3081,1166 3163,1166 3246,1166 3328,1168 3411,1168 3493,1168 3576,1170 3658,1172 3741,1172 3823,1174 4072,1193"/>
+                <TextEquiv>
+                    <Unicode>A Pantheon Igazgatóságának.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>A Pantheon Igazgatóságának.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1603983266479_1665" custom="readingOrder {index:1;}">
+            <Coords points="221,1373 4063,1373 4063,2654 2709,2646 2409,2700 2028,2691 2023,2876 221,2876"/>
+            <TextLine id="region_1603983052246_1607l1" custom="readingOrder {index:0;}">
+                <Coords points="562,1748 3880,1764 3895,1443 577,1427"/>
+                <Baseline points="562,1698 727,1686 893,1678 1059,1671 1225,1668 1391,1668 1557,1670 1723,1673 1889,1678 2055,1684 2221,1691 2386,1698 2552,1705 2718,1711 2884,1717 3050,1722 3216,1724 3382,1726 3548,1724 3714,1721 3880,1714"/>
+                <TextEquiv>
+                    <Unicode>A most hirdetett Esteledik-Alko¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1603983052246_1607l2" custom="readingOrder {index:1;} add {offset:7; length:1;} gap {offset:7; length:0;} textStyle {offset:20; length:9;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="428,2010 3566,2046 3566,1784 428,1748"/>
+                <Baseline points="428,1960 579,1956 730,1956 881,1954 1032,1954 1184,1956 1335,1958 1486,1960 1637,1964 1788,1966 1940,1970 2091,1974 2242,1978 2393,1982 2544,1985 2696,1988 2847,1990 2998,1993 3149,1994 3300,1996 3452,1996"/>
+                <TextEquiv>
+                    <Unicode>nyodik 50 példányát atveszik.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1603983052246_1607l3" custom="readingOrder {index:2;}">
+                <Coords points="390,2338 3784,2358 3799,2059 405,2039"/>
+                <Baseline points="390,2288 559,2280 729,2276 899,2272 1068,2270 1238,2270 1408,2270 1577,2270 1747,2272 1917,2276 2087,2278 2256,2282 2426,2286 2596,2290 2765,2294 2935,2298 3105,2300 3274,2304 3444,2306 3614,2308 3784,2308"/>
+                <TextEquiv>
+                    <Unicode>Átveszem és azonnal kifizetem. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1603983052246_1607l4" custom="readingOrder {index:3;} textStyle {offset:8; length:12;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="350,2586 1202,2580 1280,2580 1795,2661 2117,2669 2655,2609 3796,2610 3806,2339 360,2315"/>
+                <Baseline points="350,2536 522,2528 694,2522 866,2520 1039,2518 1211,2516 1383,2518 1556,2518 1728,2520 1900,2524 2073,2528 2245,2532 2417,2536 2589,2540 2762,2544 2934,2548 3106,2552 3279,2554 3451,2557 3623,2558 3796,2560"/>
+                <TextEquiv>
+                    <Unicode>A díjat utánvétellel is küldhe¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1603983052246_1607l5" custom="readingOrder {index:4;}">
+                <Coords points="374,2844 1954,2838 1894,2684 1801,2663 1695,2660 1518,2644 1369,2619 1229,2582 389,2574"/>
+                <Baseline points="374,2794 453,2789 532,2784 611,2780 690,2778 769,2775 848,2774 927,2772 1006,2770 1085,2770 1164,2770 1243,2770 1322,2770 1401,2772 1480,2774 1559,2774 1638,2776 1717,2780 1796,2782 1875,2785 1954,2788"/>
+                <TextEquiv>
+                    <Unicode>tik. Tisztelettel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>A most hirdetett Esteledik-Alko¬&#xD;
+nyodik 50 példányát atveszik.&#xD;
+Átveszem és azonnal kifizetem. &#xD;
+A díjat utánvétellel is küldhe¬&#xD;
+tik. Tisztelettel</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1603983054036_1610" custom="readingOrder {index:2;}">
+            <Coords points="2305,2742 3957,2742 3961,3319 2309,3319"/>
+            <TextLine id="line_1603983203596_1634" custom="readingOrder {index:0;}">
+                <Coords points="2387,2806 2581,2796 3840,2798 3850,3088 2618,3176 2354,3164"/>
+                <Baseline points="2354,3154 2380,3152 2406,3150 2433,3151 2459,3154 2486,3157 2512,3161 2538,3164 2565,3167 2591,3168 2618,3166 2678,3136 2743,3131 2808,3128 2873,3123 2938,3118 3003,3115 3068,3110 3133,3106 3199,3102 3264,3099 3329,3095 3394,3092 3459,3089 3524,3086 3589,3084 3654,3082 3719,3080 3784,3080 3850,3078"/>
+                <TextEquiv>
+                    <Unicode>Kiss József</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kiss József</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

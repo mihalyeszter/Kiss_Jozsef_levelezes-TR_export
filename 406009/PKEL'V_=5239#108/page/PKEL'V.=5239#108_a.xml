@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-09T14:56:09.937+02:00</Created>
+        <LastChange>2020-11-20T13:00:37.326+01:00</LastChange>
+        <TranskribusMetadata docId="406009" pageId="15891595" pageNr="1" tsid="49346556" status="IN_PROGRESS" userId="63384" imgUrl="https://files.transkribus.eu/Get?id=KRARPOCYRXHNGWBXQQVDJFGB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZJCYEYGHWYLALKYFGZVVDZSS" imageId="11708446"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#108_a.tif" imageWidth="3686" imageHeight="5709">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424463869" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1595949843313_1049"/>
+                <RegionRefIndexed index="1" regionRef="region_1595949821883_1040"/>
+                <RegionRefIndexed index="2" regionRef="region_1595949825981_1043"/>
+                <RegionRefIndexed index="3" regionRef="r2"/>
+                <RegionRefIndexed index="4" regionRef="region_1595949834537_1046"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1595949843313_1049" custom="readingOrder {index:0;}">
+            <Coords points="1773,5339 1767,5455 1890,5455 1896,5339"/>
+            <TextLine id="line_1595949843382_1052" custom="readingOrder {index:0;}">
+                <Coords points="1770,5363 1887,5351 1890,5443 1773,5455"/>
+                <Baseline points="1772,5450 1889,5438"/>
+                <TextEquiv>
+                    <Unicode>1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1595949821883_1040" custom="readingOrder {index:1;}">
+            <Coords points="1673,332 220,332 220,535 1673,535"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="250,506 1652,500 1652,350 250,356"/>
+                <Baseline points="250,456 320,456 390,456 460,456 530,454 600,454 670,454 740,454 810,454 880,454 951,454 1021,454 1091,454 1161,454 1231,454 1301,453 1371,452 1441,452 1511,452 1581,450 1652,450"/>
+                <TextEquiv>
+                    <Unicode>Erdélyi Irodalmi Társaság.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Erdélyi Irodalmi Társaság.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1595949825981_1043" custom="readingOrder {index:2;}">
+            <Coords points="2769,1348 749,1348 749,1718 2769,1718"/>
+            <TextLine id="r2l2" custom="readingOrder {index:0;}">
+                <Coords points="804,1712 2750,1716 2750,1365 804,1361"/>
+                <Baseline points="804,1590 896,1594 988,1598 1080,1600 1172,1602 1265,1603 1357,1604 1449,1604 1541,1604 1633,1604 1726,1602 1818,1602 1910,1600 2002,1600 2094,1598 2187,1598 2279,1598 2371,1598 2463,1598 2555,1598 2726,1606"/>
+                <TextEquiv>
+                    <Unicode>Igen Tisztelt Tanár Úr!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Igen Tisztelt Tanár Úr!</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:3;}">
+            <Coords points="250,1856 250,4258 3498,4258 3498,1856"/>
+            <TextLine id="r2l3" custom="readingOrder {index:0;} abbrev {offset:18; length:1;}">
+                <Coords points="442,2176 3396,2148 3396,1914 442,1942"/>
+                <Baseline points="442,2096 589,2093 737,2089 885,2086 1032,2082 1180,2078 1328,2074 1475,2071 1623,2068 1771,2065 1919,2062 2066,2060 2214,2058 2362,2058 2509,2056 2657,2056 2805,2058 2952,2058 3100,2061 3248,2064 3396,2068"/>
+                <TextEquiv>
+                    <Unicode>A Petőfi-Társaság f. hó 15-iki Kiss-József-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:1;}">
+                <Coords points="454,2390 3396,2390 3396,2183 454,2183"/>
+                <Baseline points="454,2310 599,2313 745,2314 891,2316 1037,2316 1183,2316 1329,2316 1475,2316 1621,2314 1767,2314 1913,2312 2058,2312 2204,2310 2350,2310 2496,2308 2642,2308 2788,2308 2934,2308 3080,2308 3226,2308 3388,2309"/>
+                <TextEquiv>
+                    <Unicode>ünnepére meghívta Társaságunkat is.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:2;}">
+                <Coords points="501,2630 3169,2612 3160,2396 492,2414"/>
+                <Baseline points="498,2550 631,2550 764,2550 898,2550 1031,2550 1165,2550 1298,2550 1431,2550 1565,2550 1698,2550 1832,2550 1965,2548 2098,2548 2232,2548 2365,2546 2499,2544 2632,2542 2765,2540 2899,2538 3032,2536 3166,2532"/>
+                <TextEquiv>
+                    <Unicode>Tísztelettel és bizalommal kérjük</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:3;}">
+                <Coords points="515,2881 3403,2847 3400,2622 512,2656"/>
+                <Baseline points="512,2786 655,2782 798,2780 941,2778 1084,2777 1228,2776 1371,2776 1514,2776 1657,2778 1800,2778 1944,2778 2087,2778 2230,2778 2373,2778 2516,2778 2660,2776 2803,2773 2946,2770 3089,2764 3232,2759 3396,2754"/>
+                <TextEquiv>
+                    <Unicode>tisztelt Tagtárs Urat, sziveskedjék Tár¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:4;}">
+                <Coords points="518,3109 3336,3089 3336,2870 518,2890"/>
+                <Baseline points="518,3032 658,3030 799,3028 940,3026 1081,3026 1222,3024 1363,3022 1504,3020 1645,3018 1786,3017 1927,3016 2067,3014 2208,3014 2349,3012 2490,3012 2631,3010 2772,3010 2913,3010 3054,3010 3195,3010 3336,3012"/>
+                <TextEquiv>
+                    <Unicode>saságunkat az ünnepen képviselni</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:5;}">
+                <Coords points="526,3341 3376,3331 3373,3112 523,3122"/>
+                <Baseline points="526,3252 668,3254 811,3254 953,3256 1096,3256 1238,3256 1381,3254 1523,3254 1666,3253 1808,3252 1951,3250 2093,3250 2236,3248 2378,3248 2521,3246 2663,3244 2806,3244 2948,3242 3091,3242 3233,3242 3376,3242"/>
+                <TextEquiv>
+                    <Unicode>s ha az alkalmat megfelelőnek ta¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:6;}">
+                <Coords points="535,3574 3351,3556 3348,3349 532,3367"/>
+                <Baseline points="532,3494 672,3498 813,3500 954,3502 1095,3502 1236,3502 1376,3502 1517,3502 1658,3500 1799,3498 1940,3496 2080,3494 2221,3492 2362,3489 2503,3486 2644,3484 2784,3482 2925,3480 3066,3478 3207,3476 3348,3476"/>
+                <TextEquiv>
+                    <Unicode>lálja, az ünnepelt költőnek szíves¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:7;}">
+                <Coords points="576,3836 3398,3817 3398,3580 576,3599"/>
+                <Baseline points="576,3738 715,3738 855,3736 994,3735 1134,3732 1274,3730 1413,3728 1553,3726 1692,3724 1832,3722 1972,3720 2111,3718 2251,3716 2390,3714 2530,3714 2670,3712 2809,3712 2949,3712 3088,3712 3228,3714 3385,3713"/>
+                <TextEquiv>
+                    <Unicode>kedjék tiszteletünket és nagyrabecsű¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:8;}">
+                <Coords points="604,4020 3454,4006 3454,3832 604,3846"/>
+                <Baseline points="604,3970 746,3968 889,3968 1031,3966 1174,3966 1316,3964 1459,3964 1601,3964 1744,3962 1886,3962 2029,3960 2171,3960 2314,3960 2456,3958 2599,3958 2741,3958 2884,3958 3026,3956 3169,3956 3311,3956 3454,3956"/>
+                <TextEquiv>
+                    <Unicode>lésünket valamint szerencse-kivá¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:9;}">
+                <Coords points="624,4252 2932,4244 2932,4067 624,4075"/>
+                <Baseline points="624,4202 739,4204 854,4204 970,4204 1085,4204 1201,4204 1316,4202 1431,4202 1547,4200 1662,4198 1778,4196 1893,4194 2008,4192 2124,4191 2239,4190 2355,4190 2470,4188 2585,4190 2701,4190 2816,4192 2932,4194"/>
+                <TextEquiv>
+                    <Unicode>natainkat tudomására hozni</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>A Petőfi-Társaság f. hó 15-iki Kiss-József-&#xD;
+ünnepére meghívta Társaságunkat is.&#xD;
+Tísztelettel és bizalommal kérjük&#xD;
+tisztelt Tagtárs Urat, sziveskedjék Tár¬&#xD;
+saságunkat az ünnepen képviselni&#xD;
+s ha az alkalmat megfelelőnek ta¬&#xD;
+lálja, az ünnepelt költőnek szíves¬&#xD;
+kedjék tiszteletünket és nagyrabecsű¬&#xD;
+lésünket valamint szerencse-kivá¬&#xD;
+natainkat tudomására hozni</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1595949834537_1046" custom="readingOrder {index:4;}">
+            <Coords points="3533,4267 651,4267 651,4748 3533,4748"/>
+            <TextLine id="r2l13" custom="readingOrder {index:0;}">
+                <Coords points="902,4511 3454,4517 3454,4277 902,4271"/>
+                <Baseline points="902,4422 1029,4422 1157,4423 1284,4424 1412,4424 1540,4424 1667,4424 1795,4424 1922,4424 2050,4424 2178,4424 2305,4424 2433,4424 2560,4424 2688,4424 2816,4424 2943,4424 3071,4426 3198,4426 3326,4426 3454,4428"/>
+                <TextEquiv>
+                    <Unicode>Fogadja tisztelt Tagtárs Úr, fára¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:1;}">
+                <Coords points="688,4722 3525,4708 3525,4534 688,4548"/>
+                <Baseline points="688,4672 828,4672 969,4674 1109,4674 1250,4674 1390,4674 1531,4672 1671,4672 1812,4671 1952,4670 2093,4669 2233,4668 2374,4666 2514,4666 2655,4664 2795,4662 2936,4662 3076,4660 3217,4660 3357,4658 3519,4654"/>
+                <TextEquiv>
+                    <Unicode>dozásáért előre is hálás köszönetünket.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Fogadja tisztelt Tagtárs Úr, fára¬&#xD;
+dozásáért előre is hálás köszönetünket.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

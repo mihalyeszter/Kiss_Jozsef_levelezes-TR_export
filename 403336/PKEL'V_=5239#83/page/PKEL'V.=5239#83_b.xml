@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-05T11:05:10.460+02:00</Created>
+        <LastChange>2020-11-24T18:05:07.977+01:00</LastChange>
+        <TranskribusMetadata docId="403336" pageId="15583889" pageNr="2" tsid="49534097" status="IN_PROGRESS" userId="58915" imgUrl="https://files.transkribus.eu/Get?id=VTMWSWGVIYPNEJVAFEKOZEQQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CXHJFBPYXOTXPPCUDKXABKIT" imageId="11408531"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#83_b.tif" imageWidth="5893" imageHeight="7493">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424163054" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1593629422896_850"/>
+                <RegionRefIndexed index="1" regionRef="region_1593629437256_854"/>
+                <RegionRefIndexed index="2" regionRef="region_1593629444538_857"/>
+                <RegionRefIndexed index="3" regionRef="region_1593629449965_860"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1593629422896_850" custom="readingOrder {index:0;}">
+            <Coords points="580,997 5569,997 5569,2390 580,2390"/>
+            <TextLine id="line_1593629463032_863" custom="readingOrder {index:0;}">
+                <Coords points="672,961 5398,961 5403,1292 677,1292"/>
+                <Baseline points="676,1276 5402,1276"/>
+                <TextEquiv>
+                    <Unicode>a hol is kitűnő hegyi levegő van, mely ked¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1593629468179_868" custom="readingOrder {index:1;}">
+                <Coords points="648,1306 5478,1292 5473,1552 643,1566"/>
+                <Baseline points="643,1486 5473,1472"/>
+                <TextEquiv>
+                    <Unicode>ves fiának kétség kívül jól fog esni. Kérem Nagy¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1593629473576_873" custom="readingOrder {index:2;}">
+                <Coords points="653,1534 5536,1524 5526,1760 643,1770"/>
+                <Baseline points="643,1705 5526,1695"/>
+                <TextEquiv>
+                    <Unicode>ságos Uramat tekintse meg személyesen lakásunkat,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1593629478643_878" custom="readingOrder {index:3;}">
+                <Coords points="652,1736 5383,1741 5393,2000 662,1995"/>
+                <Baseline points="652,1891 5383,1896"/>
+                <TextEquiv>
+                    <Unicode>a hol – remélem – mindennel meg lesz elégedve.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1593629484372_883" custom="readingOrder {index:4;}">
+                <Coords points="647,1912 5278,1945 5288,2224 657,2191"/>
+                <Baseline points="647,2091 5278,2124"/>
+                <TextEquiv>
+                    <Unicode>Becses válaszát elvárva maradok nagyságos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1593629490469_888" custom="readingOrder {index:5;} add {offset:10; length:1;} gap {offset:10; length:0;}">
+                <Coords points="671,2116 3744,2140 3744,2384 671,2360"/>
+                <Baseline points="671,2305 3744,2329"/>
+                <TextEquiv>
+                    <Unicode>Uramnak kiváló tisztelettel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>a hol is kitűnő hegyi levegő van, mely ked¬&#xD;
+ves fiának kétség kívül jól fog esni. Kérem Nagy¬&#xD;
+ságos Uramat tekintse meg személyesen lakásunkat,&#xD;
+a hol – remélem – mindennel meg lesz elégedve.&#xD;
+Becses válaszát elvárva maradok nagyságos&#xD;
+Uramnak kiváló tisztelettel</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1593629437256_854" custom="readingOrder {index:1;}">
+            <Coords points="3384,2478 4873,2478 4873,2865 3384,2865"/>
+            <TextLine id="line_1593629495714_893" custom="readingOrder {index:0;}">
+                <Coords points="3411,2494 4860,2523 4864,2863 3415,2834"/>
+                <Baseline points="3410,2734 4859,2763"/>
+                <TextEquiv>
+                    <Unicode>Kész szolgája</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kész szolgája</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1593629444538_857" custom="readingOrder {index:2;}">
+            <Coords points="2822,3443 4896,3443 4896,2826 2822,2826"/>
+            <TextLine id="line_1593629502263_898" custom="readingOrder {index:0;}">
+                <Coords points="3148,2832 4874,2833 4878,3408 2844,3418"/>
+                <Baseline points="3182,3229 4878,3067"/>
+                <TextEquiv>
+                    <Unicode>Brüll Ignátz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Brüll Ignátz</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1593629449965_860" custom="readingOrder {index:3;}">
+            <Coords points="2917,6951 3123,6951 3123,7156 2917,7156"/>
+            <TextLine id="line_1593629511747_903" custom="readingOrder {index:0;}">
+                <Coords points="2942,6981 3085,6977 3091,7112 2948,7116"/>
+                <Baseline points="2948,7111 3091,7107"/>
+                <TextEquiv>
+                    <Unicode>2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>2</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

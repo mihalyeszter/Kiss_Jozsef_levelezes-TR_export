@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-11-12T12:29:16.985+01:00</Created>
+        <LastChange>2020-11-12T16:28:37.845+01:00</LastChange>
+        <TranskribusMetadata docId="536914" pageId="22637364" pageNr="1" tsid="48610040" status="IN_PROGRESS" userId="56520" imgUrl="https://files.transkribus.eu/Get?id=WXIWEJYXPSPVWXQXMDWANGCR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YLNGOIQPYILEFAKFOXPPJAIY" imageId="17624949"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5936#3_a.tif" imageWidth="3738" imageHeight="3229">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424665519" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1605186840210_5"/>
+                <RegionRefIndexed index="1" regionRef="region_1605186846290_13"/>
+                <RegionRefIndexed index="2" regionRef="region_1605186851890_21"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1605186840210_5" custom="readingOrder {index:0;}">
+            <Coords points="664,907 670,1284 1461,1284 1455,907"/>
+            <TextLine id="line_1605186840288_8" custom="readingOrder {index:0;}">
+                <Coords points="661,925 1451,916 1461,1272 671,1281"/>
+                <Baseline points="668,1129 1458,1120"/>
+                <TextEquiv>
+                    <Unicode>Méltóságos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Méltóságos</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1605186846290_13" custom="readingOrder {index:1;}">
+            <Coords points="950,1239 947,1562 3286,1562 3289,1239"/>
+            <TextLine id="line_1605186846343_16" custom="readingOrder {index:0;}">
+                <Coords points="947,1260 3286,1248 3286,1541 947,1553"/>
+                <Baseline points="947,1476 3286,1464"/>
+                <TextEquiv>
+                    <Unicode>Berczik Árpád min. tanácsos úrnak</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Berczik Árpád min. tanácsos úrnak</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1605186851890_21" custom="readingOrder {index:2;}">
+            <Coords points="2088,2003 2082,2437 2971,2446 2977,2012"/>
+            <TextLine id="line_1605186851943_24" custom="readingOrder {index:0;}">
+                <Coords points="2086,2063 2966,2021 2956,2421 2079,2437"/>
+                <Baseline points="2091,2270 2971,2228"/>
+                <TextEquiv>
+                    <Unicode>Budapesten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Budapesten</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

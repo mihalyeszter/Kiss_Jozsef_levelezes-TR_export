@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-28T11:43:40.499+02:00</Created>
+        <LastChange>2020-11-23T16:17:46.692+01:00</LastChange>
+        <TranskribusMetadata docId="376721" pageId="14728682" pageNr="2" tsid="49497348" status="IN_PROGRESS" userId="56520" imgUrl="https://files.transkribus.eu/Get?id=CWXSFFBAHBEOTMYNRBKQZZFE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UEOQRFVJQKLZOMBLOOATLDOP" imageId="10669729"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#30_1b.tif" imageWidth="6718" imageHeight="4356">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424071471" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1590493511499_564"/>
+                <RegionRefIndexed index="1" regionRef="region_1590493525866_567"/>
+                <RegionRefIndexed index="2" regionRef="region_1590493536518_570"/>
+                <RegionRefIndexed index="3" regionRef="region_1590493549107_573"/>
+                <RegionRefIndexed index="4" regionRef="region_1590493573714_577"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1590493511499_564" custom="readingOrder {index:0;}">
+            <Coords points="5075,583 6369,583 6369,768 5075,768"/>
+            <TextLine id="line_1590493795173_634" custom="readingOrder {index:0;} abbrev {offset:15; length:4;}">
+                <Coords points="5107,606 6330,601 6333,726 5110,731"/>
+                <Baseline points="5110,726 6333,721"/>
+                <TextEquiv>
+                    <Unicode>Budapest, 1907 decz 13.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Budapest, 1907 decz 13.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1590493525866_567" custom="readingOrder {index:1;}">
+            <Coords points="3683,834 4791,834 4791,953 3683,953"/>
+            <TextLine id="line_1590493803367_639" custom="readingOrder {index:0;} gap {offset:2; length:0;}">
+                <Coords points="3729,843 4733,838 4736,918 3732,923"/>
+                <Baseline points="3732,918 4736,913"/>
+                <TextEquiv>
+                    <Unicode>Te</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Te</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1590493536518_570" custom="readingOrder {index:2;}">
+            <Coords points="5016,1178 3746,1178 3746,1446 5016,1446"/>
+            <TextLine id="line_1590493809786_644" custom="readingOrder {index:0;} gap {offset:0; length:0;}">
+                <Coords points="4988,1427 3834,1422 3834,1196 4991,1182"/>
+                <Baseline points="4961,1340 3834,1335"/>
+                <TextEquiv>
+                    <Unicode>agos Uram!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>agos Uram!</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1590493549107_573" custom="readingOrder {index:3;}">
+            <Coords points="6455,1476 3551,1476 3551,2164 6455,2164"/>
+            <TextLine id="line_1590493832035_649" custom="readingOrder {index:0;}">
+                <Coords points="3701,1494 6439,1497 6440,1623 3706,1666"/>
+                <Baseline points="3706,1661 6440,1618"/>
+                <TextEquiv>
+                    <Unicode>Önhöz mint a család fejéhez fordulok, hogy szere¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1590493837409_654" custom="readingOrder {index:1;}">
+                <Coords points="3628,1671 6400,1630 6387,1773 3631,1789"/>
+                <Baseline points="3631,1784 6387,1768"/>
+                <TextEquiv>
+                    <Unicode>tett testvérük elhalálozása alkalmából kifejezést</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1590493843494_659" custom="readingOrder {index:2;}">
+                <Coords points="3628,1798 6405,1782 6405,1929 3628,1945"/>
+                <Baseline points="3631,1922 6408,1906"/>
+                <TextEquiv>
+                    <Unicode>adjak őszinte és igaz részvétemnek. Az Önök neve</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1590493850336_664" custom="readingOrder {index:3;}">
+                <Coords points="3598,1940 6284,1924 6290,2110 3604,2126"/>
+                <Baseline points="3604,2061 6290,2045"/>
+                <TextEquiv>
+                    <Unicode>úgy él a köztudatban, mint a polgári erények,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Önhöz mint a család fejéhez fordulok, hogy szere¬&#xD;
+tett testvérük elhalálozása alkalmából kifejezést&#xD;
+adjak őszinte és igaz részvétemnek. Az Önök neve&#xD;
+úgy él a köztudatban, mint a polgári erények,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1590493573714_577" custom="readingOrder {index:4;}">
+            <Coords points="4895,3989 5050,3989 5050,4144 4895,4144"/>
+            <TextLine id="line_1590493858302_669" custom="readingOrder {index:0;}">
+                <Coords points="4913,3998 5014,3998 5014,4122 4913,4122"/>
+                <Baseline points="4913,4117 5014,4117"/>
+                <TextEquiv>
+                    <Unicode>1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

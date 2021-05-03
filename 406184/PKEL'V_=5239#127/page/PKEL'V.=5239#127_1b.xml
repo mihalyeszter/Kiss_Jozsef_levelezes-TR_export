@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-06-09T18:36:26.790+02:00</Created>
+        <LastChange>2020-12-01T10:10:31.209+01:00</LastChange>
+        <TranskribusMetadata docId="406184" pageId="15980876" pageNr="2" tsid="49745891" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=DATSOIAECIDGLBIXFVPKJGUV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TAGOKWMHLULBUEVKTWHJTTBP" imageId="11795743"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#127_1b.tif" imageWidth="2610" imageHeight="1617">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424510326" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1597669656674_2334"/>
+                <RegionRefIndexed index="1" regionRef="region_1597669674991_2345"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1597669656674_2334" custom="readingOrder {index:0;}">
+            <Coords points="775,677 2257,677 2257,898 775,898"/>
+            <TextLine id="line_1597669663742_2338" custom="readingOrder {index:0;}">
+                <Coords points="807,692 2215,689 2212,828 804,831"/>
+                <Baseline points="804,826 2212,823"/>
+                <TextEquiv>
+                    <Unicode>Dr. Med. Frankl Samu és neje</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Dr. Med. Frankl Samu és neje</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1597669674991_2345" custom="readingOrder {index:1;}">
+            <Coords points="164,1035 580,1035 580,1389 164,1389"/>
+            <TextLine id="line_1597669678577_2349" custom="readingOrder {index:0;}">
+                <Coords points="204,1051 555,1057 554,1345 203,1339"/>
+                <Baseline points="203,1334 554,1340"/>
+                <TextEquiv>
+                    <Unicode>P. c.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>P. c.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

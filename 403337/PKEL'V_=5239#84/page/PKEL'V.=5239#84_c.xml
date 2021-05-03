@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-05T11:05:11.412+02:00</Created>
+        <LastChange>2021-03-30T10:43:15.099+02:00</LastChange>
+        <TranskribusMetadata docId="403337" pageId="15583891" pageNr="3" tsid="54742823" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=CUPGHTHLCMKVNTNAFCQOCPTS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SJGXHHQWPPVGPCMLXHKIZFVJ" imageId="11408533"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#84_c.tif" imageWidth="2878" imageHeight="4405">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424382491" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1595177592040_450"/>
+                <RegionRefIndexed index="1" regionRef="region_1595177615056_460"/>
+                <RegionRefIndexed index="2" regionRef="r1"/>
+                <RegionRefIndexed index="3" regionRef="region_1595177621982_463"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1595177592040_450" custom="readingOrder {index:0;}">
+            <Coords points="655,266 655,557 2667,557 2667,266"/>
+            <TextLine id="line_1595177592194_453" custom="readingOrder {index:0;}">
+                <Coords points="660,281 2672,276 2667,544 655,549"/>
+                <Baseline points="655,446 2667,441"/>
+                <TextEquiv>
+                    <Unicode>Bruges le 26 nov: 1907.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Bruges le 26 nov: 1907.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1595177615056_460" custom="readingOrder {index:1;}">
+            <Coords points="775,799 1621,799 1621,1045 775,1045"/>
+            <TextLine id="r1l3" custom="readingOrder {index:0;}">
+                <Coords points="800,1031 1580,1030 1580,825 800,826"/>
+                <Baseline points="800,987 839,989 878,989 917,990 956,990 995,990 1034,990 1073,990 1112,990 1151,990 1190,990 1229,989 1268,989 1307,988 1346,987 1385,987 1424,987 1463,986 1502,986 1541,986 1580,986"/>
+                <TextEquiv>
+                    <Unicode>Monsieur.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Monsieur.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:2;}">
+            <Coords points="445,1109 420,3937 2736,3952 2761,1124"/>
+            <TextLine id="r1l4" custom="readingOrder {index:0;}">
+                <Coords points="560,1416 2615,1402 2615,1202 560,1216"/>
+                <Baseline points="560,1373 662,1370 765,1367 868,1364 971,1362 1073,1361 1176,1361 1279,1359 1382,1359 1484,1359 1587,1359 1690,1361 1793,1361 1895,1361 1998,1361 2101,1362 2204,1362 2306,1362 2409,1361 2512,1361 2615,1359"/>
+                <TextEquiv>
+                    <Unicode>Tout en vous adressant mes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:1;}">
+                <Coords points="469,1617 2681,1626 2663,1428 548,1423"/>
+                <Baseline points="548,1545 653,1545 759,1546 865,1547 971,1547 1076,1548 1182,1548 1288,1550 1394,1550 1499,1551 1605,1551 1711,1551 1817,1553 1922,1553 2028,1553 2134,1553 2240,1553 2345,1553 2451,1551 2557,1550 2663,1550"/>
+                <TextEquiv>
+                    <Unicode>plus vives félicitations je suis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:2;}">
+                <Coords points="468,1769 2742,1775 2742,1632 468,1626"/>
+                <Baseline points="478,1728 617,1728 732,1731 847,1733 961,1734 1076,1735 1191,1736 1305,1736 1420,1736 1535,1736 1649,1735 1764,1734 1879,1734 1993,1733 2108,1733 2223,1731 2337,1731 2452,1731 2567,1731 2736,1733"/>
+                <TextEquiv>
+                    <Unicode>très honoré de vous accorder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:3;}">
+                <Coords points="510,1969 2761,1973 2761,1786 510,1782"/>
+                <Baseline points="510,1925 621,1925 732,1923 843,1923 955,1922 1066,1920 1177,1920 1289,1919 1400,1919 1511,1917 1623,1917 1734,1916 1845,1916 1956,1916 2068,1917 2179,1917 2290,1919 2402,1922 2513,1923 2624,1926 2736,1929"/>
+                <TextEquiv>
+                    <Unicode>l’autorisation de reproduire</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:4;}">
+                <Coords points="507,2152 2591,2122 2591,1979 501,1970"/>
+                <Baseline points="507,2108 611,2106 715,2105 819,2105 923,2105 1028,2105 1132,2105 1236,2105 1340,2105 1444,2105 1549,2105 1653,2105 1757,2103 1861,2103 1965,2102 2070,2099 2174,2096 2278,2093 2382,2089 2486,2084 2591,2078"/>
+                <TextEquiv>
+                    <Unicode>mon tableau „Pluie d’or”</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:5;}">
+                <Coords points="492,2339 2664,2305 2664,2172 492,2206"/>
+                <Baseline points="492,2295 597,2292 703,2289 808,2288 914,2286 1020,2286 1125,2286 1231,2286 1336,2286 1442,2286 1548,2288 1653,2288 1759,2288 1864,2286 1970,2286 2076,2283 2181,2282 2287,2277 2392,2274 2498,2267 2639,2262"/>
+                <TextEquiv>
+                    <Unicode>appartenant au musée de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:6;}">
+                <Coords points="485,2523 2714,2503 2714,2339 485,2359"/>
+                <Baseline points="485,2480 596,2478 707,2475 819,2474 930,2472 1042,2472 1153,2471 1265,2470 1376,2469 1488,2469 1599,2468 1710,2468 1822,2468 1933,2468 2045,2466 2156,2466 2268,2465 2379,2465 2491,2463 2602,2462 2714,2460"/>
+                <TextEquiv>
+                    <Unicode>Buda Pest, pour votre receuil</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:7;} unclear {offset:21; length:8;} comment {offset:21; length:8; continued:true;comment:Kiss\u0020József\u003a\u0020Levelek\u0020hullása,\u0020Falus\u0020Elek\u0020rajzaival\u0020(Bp.,\u0020Singer\u0020és\u0020Wolfner,\u00201908).;}">
+                <Coords points="480,2697 2541,2685 2546,2520 485,2532"/>
+                <Baseline points="480,2654 583,2651 686,2648 789,2646 892,2645 995,2645 1098,2645 1201,2645 1304,2646 1407,2648 1510,2649 1613,2650 1716,2651 1819,2652 1922,2652 2025,2652 2128,2652 2231,2651 2334,2648 2437,2646 2541,2642"/>
+                <TextEquiv>
+                    <Unicode>de Poésies intitulé „Feuilles</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:8;} comment {offset:0; length:9; continued:true;comment:Kiss\u0020József\u003a\u0020Levelek\u0020hullása,\u0020Falus\u0020Elek\u0020rajzaival\u0020(Bp.,\u0020Singer\u0020és\u0020Wolfner,\u00201908).;}">
+                <Coords points="497,2890 2645,2881 2645,2704 497,2713"/>
+                <Baseline points="497,2846 604,2844 711,2841 819,2841 926,2840 1034,2840 1141,2838 1248,2838 1356,2838 1463,2838 1571,2838 1678,2840 1785,2840 1893,2840 2000,2840 2108,2840 2215,2840 2322,2840 2430,2840 2537,2838 2645,2837"/>
+                <TextEquiv>
+                    <Unicode>d’automne”. Inutile de vous</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:9;}">
+                <Coords points="509,3065 2618,3062 2618,2899 509,2902"/>
+                <Baseline points="509,3021 614,3020 719,3020 825,3020 930,3020 1036,3020 1141,3021 1247,3021 1352,3023 1458,3024 1563,3024 1668,3026 1774,3026 1879,3027 1985,3027 2090,3027 2196,3026 2301,3025 2407,3023 2512,3021 2618,3018"/>
+                <TextEquiv>
+                    <Unicode>dire combien il me serait</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:10;}">
+                <Coords points="512,3256 2611,3247 2611,3079 512,3088"/>
+                <Baseline points="512,3212 615,3210 718,3209 821,3207 924,3207 1028,3207 1131,3207 1234,3207 1337,3207 1440,3207 1544,3207 1647,3207 1750,3207 1853,3207 1956,3207 2060,3207 2163,3207 2266,3206 2369,3206 2472,3204 2597,3206"/>
+                <TextEquiv>
+                    <Unicode>agréable d’en recevoir un</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:11;}">
+                <Coords points="567,3448 2709,3442 2709,3264 567,3270"/>
+                <Baseline points="567,3404 674,3399 781,3396 888,3392 995,3390 1102,3389 1209,3388 1316,3387 1423,3387 1530,3389 1638,3390 1745,3390 1852,3392 1959,3393 2066,3395 2173,3396 2280,3396 2387,3398 2494,3398 2601,3398 2709,3398"/>
+                <TextEquiv>
+                    <Unicode>exemplaire. Vous remerciant</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:12;}">
+                <Coords points="512,3659 2706,3665 2711,3452 517,3446"/>
+                <Baseline points="512,3585 621,3585 731,3585 841,3585 950,3584 1060,3584 1170,3582 1279,3582 1389,3581 1499,3581 1609,3579 1718,3579 1828,3579 1938,3579 2047,3579 2157,3581 2267,3581 2376,3582 2486,3585 2596,3587 2706,3591"/>
+                <TextEquiv>
+                    <Unicode>d’avance, agréez avec toute</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:13;}">
+                <Coords points="546,3848 2446,3862 2451,3664 551,3650"/>
+                <Baseline points="551,3774 646,3773 741,3771 836,3770 931,3770 1026,3768 1121,3768 1216,3768 1311,3768 1406,3768 1501,3769 1596,3770 1691,3771 1786,3772 1881,3773 1976,3776 2071,3777 2166,3780 2261,3782 2356,3785 2451,3788"/>
+                <TextEquiv>
+                    <Unicode>mon admiration pour</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Tout en vous adressant mes&#xD;
+plus vives félicitations je suis&#xD;
+très honoré de vous accorder&#xD;
+l’autorisation de reproduire&#xD;
+mon tableau „Pluie d’or”&#xD;
+appartenant au musée de&#xD;
+Buda Pest, pour votre receuil&#xD;
+de Poésies intitulé „Feuilles&#xD;
+d’automne”. Inutile de vous&#xD;
+dire combien il me serait&#xD;
+agréable d’en recevoir un&#xD;
+exemplaire. Vous remerciant&#xD;
+d’avance, agréez avec toute&#xD;
+mon admiration pour</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1595177621982_463" custom="readingOrder {index:3;}">
+            <Coords points="1249,4033 1407,4033 1407,4233 1249,4233"/>
+            <TextLine id="r1l19" custom="readingOrder {index:0;}">
+                <Coords points="1260,4207 1374,4207 1374,4074 1260,4074"/>
+                <Baseline points="1275,4163 1303,4162 1331,4164 1359,4163"/>
+                <TextEquiv>
+                    <Unicode>1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

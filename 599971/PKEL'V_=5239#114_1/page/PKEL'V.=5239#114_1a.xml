@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2021-02-03T14:12:42.537+01:00</Created>
+        <LastChange>2021-02-10T12:17:20.713+01:00</LastChange>
+        <TranskribusMetadata docId="599971" pageId="23869217" pageNr="1" tsid="52335624" status="IN_PROGRESS" userId="56520" imgUrl="https://files.transkribus.eu/Get?id=HTBGMKAPWDOIRXFMBUKKGEKZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QCYEPTHYNPVNITNUXERVAXPP" imageId="18320887"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#114_1a.tif" imageWidth="3659" imageHeight="2473">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424733350" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1612534016685_612"/>
+                <RegionRefIndexed index="1" regionRef="region_1612534022496_620"/>
+                <RegionRefIndexed index="2" regionRef="region_1612534027839_628"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1612534016685_612" custom="readingOrder {index:0;}">
+            <Coords points="1682,119 1670,1001 3159,1001 3171,119"/>
+            <TextLine id="line_1612534016716_615" custom="readingOrder {index:0;}">
+                <Coords points="1674,134 3170,126 3156,1001 1668,987"/>
+                <Baseline points="1674,658 3162,616"/>
+                <TextEquiv>
+                    <Unicode>Nagyságos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Nagyságos</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1612534022496_620" custom="readingOrder {index:1;}">
+            <Coords points="1647,1010 1653,448 269,424 257,1010 248,1657 3182,1657 3191,1010"/>
+            <TextLine id="line_1612534022543_623" custom="readingOrder {index:0;}">
+                <Coords points="254,1041 278,433 1626,460 1626,1027 3188,1015 3191,1637 260,1647"/>
+                <Baseline points="263,1400 3197,1374"/>
+                <TextEquiv>
+                    <Unicode>Kiss József urnak</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kiss József urnak</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1612534027839_628" custom="readingOrder {index:2;}">
+            <Coords points="319,1691 325,2377 3056,2377 3050,1691"/>
+            <TextLine id="line_1612534027870_631" custom="readingOrder {index:0;}">
+                <Coords points="323,1711 3037,1726 3058,2377 334,2323"/>
+                <Baseline points="328,2208 3058,2288"/>
+                <TextEquiv>
+                    <Unicode>A „Hét” szerkesztőségében</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>A „Hét” szerkesztőségében</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

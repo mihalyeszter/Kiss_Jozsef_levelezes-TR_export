@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-06-09T18:36:20.090+02:00</Created>
+        <LastChange>2020-11-23T11:03:34.676+01:00</LastChange>
+        <TranskribusMetadata docId="406180" pageId="15980848" pageNr="2" tsid="49477392" status="IN_PROGRESS" userId="56520" imgUrl="https://files.transkribus.eu/Get?id=TKSMZOWOUPNKUWUEWNWGALZL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NQNNDUJIQCSLVQGADXAIEPZB" imageId="11795715"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#123_b.tif" imageWidth="2603" imageHeight="1564">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424388671" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1597663466869_835"/>
+                <RegionRefIndexed index="1" regionRef="region_1597663469002_838"/>
+                <RegionRefIndexed index="2" regionRef="region_1597663470640_841"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1597663466869_835" custom="readingOrder {index:0;}">
+            <Coords points="959,669 1648,669 1648,785 959,785"/>
+            <TextLine id="line_1597663475653_845" custom="readingOrder {index:0;}">
+                <Coords points="989,681 1633,681 1629,767 985,767"/>
+                <Baseline points="985,762 1629,762"/>
+                <TextEquiv>
+                    <Unicode>Fischl Géza</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Fischl Géza</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1597663469002_838" custom="readingOrder {index:1;}">
+            <Coords points="342,781 2310,781 2310,915 342,915"/>
+            <TextLine id="line_1597663480615_851" custom="readingOrder {index:0;}">
+                <Coords points="364,798 2303,794 2299,887 360,891"/>
+                <Baseline points="360,870 2299,866"/>
+                <TextEquiv>
+                    <Unicode>A Magyar-Franczia Biztosító Részvénytársaság vezértitkára</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>A Magyar-Franczia Biztosító Részvénytársaság vezértitkára</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1597663470640_841" custom="readingOrder {index:2;}">
+            <Coords points="2012,1350 2474,1350 2474,1458 2012,1458"/>
+            <TextLine id="line_1597663484668_857" custom="readingOrder {index:0;}">
+                <Coords points="2027,1367 2451,1370 2451,1444 2027,1441"/>
+                <Baseline points="2027,1436 2451,1439"/>
+                <TextEquiv>
+                    <Unicode>Vigadó-tér 1.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Vigadó-tér 1.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

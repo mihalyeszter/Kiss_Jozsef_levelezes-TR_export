@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-28T13:02:38.816+02:00</Created>
+        <LastChange>2020-11-19T16:40:33.000+01:00</LastChange>
+        <TranskribusMetadata docId="376795" pageId="14734753" pageNr="72" tsid="49225201" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=CSQYACXOHIWQOOYXGJBMEWBJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HWYGWZBDLWBWNQYOTFRXBOTO" imageId="10675775"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#33_32a.tif" imageWidth="3543" imageHeight="2353">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424143198" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1597316010887_1741"/>
+                <RegionRefIndexed index="1" regionRef="region_1597316012682_1744"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1597316010887_1741" custom="readingOrder {index:0;}">
+            <Coords points="667,1607 2144,1607 2144,1990 667,1990"/>
+            <TextLine id="line_1597316018137_1747" custom="readingOrder {index:0;}">
+                <Coords points="781,1635 2127,1641 2121,1841 775,1835"/>
+                <Baseline points="775,1830 2121,1836"/>
+                <TextEquiv>
+                    <Unicode>Sohse lesz már jó idő,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597316020518_1752" custom="readingOrder {index:1;}">
+                <Coords points="783,1847 2080,1838 2082,1953 785,1962"/>
+                <Baseline points="785,1957 2082,1948"/>
+                <TextEquiv>
+                    <Unicode>Mindig esik az eső!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Sohse lesz már jó idő,&#xD;
+Mindig esik az eső!</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1597316012682_1744" custom="readingOrder {index:1;}">
+            <Coords points="2042,1934 2471,1934 2471,2183 2042,2183"/>
+            <TextLine id="line_1597316022459_1757" custom="readingOrder {index:0;} textStyle {offset:0; length:7;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="2092,1971 2452,1978 2445,2120 2085,2113"/>
+                <Baseline points="2085,2108 2445,2115"/>
+                <TextEquiv>
+                    <Unicode>népdal.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>népdal.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

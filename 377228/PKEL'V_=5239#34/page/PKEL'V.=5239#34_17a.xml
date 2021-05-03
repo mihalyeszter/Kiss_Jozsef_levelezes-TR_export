@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-29T10:54:41.414+02:00</Created>
+        <LastChange>2020-11-24T10:51:07.233+01:00</LastChange>
+        <TranskribusMetadata docId="377228" pageId="14767916" pageNr="41" tsid="49518627" status="IN_PROGRESS" userId="56520" imgUrl="https://files.transkribus.eu/Get?id=QBCGXNTXSDXLZXXWBJVUJDPL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YDGQNVIAWWKFYCDAZOQOWTCB" imageId="10707755"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#34_17a.tif" imageWidth="3709" imageHeight="2632">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424057168" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1594555610518_7"/>
+                <RegionRefIndexed index="1" regionRef="region_1594555619808_15"/>
+                <RegionRefIndexed index="2" regionRef="region_1594555627010_23"/>
+                <RegionRefIndexed index="3" regionRef="region_1594555669642_36"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1594555610518_7" custom="readingOrder {index:0;}">
+            <Coords points="3035,2099 3032,2179 3309,2179 3312,2099"/>
+            <TextLine id="line_1594555610612_10" custom="readingOrder {index:0;}">
+                <Coords points="3032,2105 3309,2108 3309,2179 3032,2176"/>
+                <Baseline points="3032,2171 3309,2174"/>
+                <TextEquiv>
+                    <Unicode>A Hét</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>A Hét</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1594555619808_15" custom="readingOrder {index:1;}">
+            <Coords points="2862,2216 2862,2269 3465,2269 3465,2216"/>
+            <TextLine id="line_1594555619855_18" custom="readingOrder {index:0;}">
+                <Coords points="2862,2219 3465,2216 3465,2266 2862,2269"/>
+                <Baseline points="2862,2264 3465,2261"/>
+                <TextEquiv>
+                    <Unicode>VIII., Népszinház-u. 22.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>VIII., Népszinház-u. 22.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1594555627010_23" custom="readingOrder {index:2;}">
+            <Coords points="2870,2298 2870,2363 3470,2363 3470,2298"/>
+            <TextLine id="line_1594555627057_26" custom="readingOrder {index:0;}">
+                <Coords points="2867,2307 3467,2307 3470,2363 2870,2363"/>
+                <Baseline points="2870,2358 3470,2358"/>
+                <TextEquiv>
+                    <Unicode>Telefon József 5-27.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Telefon József 5-27.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1594555669642_36" custom="readingOrder {index:3;}">
+            <Coords points="212,187 3589,187 3589,2393 212,2393"/>
+            <TextLine id="line_1594555686453_39" custom="readingOrder {index:0;}">
+                <Coords points="846,216 3515,258 3499,554 830,512"/>
+                <Baseline points="827,459 3496,501"/>
+                <TextEquiv>
+                    <Unicode>Kedves Sándorkám! Egy új plajbászt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1594555691850_44" custom="readingOrder {index:1;}">
+                <Coords points="847,525 3448,573 3433,776 839,674"/>
+                <Baseline points="842,636 3436,738"/>
+                <TextEquiv>
+                    <Unicode>hegyeztem meg a te tiszteletedre.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1594555700362_49" custom="readingOrder {index:2;}">
+                <Coords points="831,684 3560,774 3553,984 818,872"/>
+                <Baseline points="821,840 3550,930"/>
+                <TextEquiv>
+                    <Unicode>Ha az ócska embert is úgy lehetne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1594555728452_61" custom="readingOrder {index:3;}">
+                <Coords points="254,837 1910,939 2015,921 3060,970 3151,966 3579,1008 3564,1151 3149,1109 3053,1181 2002,1133 1882,1139 221,1037"/>
+                <Baseline points="233,981 1894,1083 2008,1065 3058,1113 3148,1080 3565,1122"/>
+                <TextEquiv>
+                    <Unicode>megújítani, hogy frissen fogjon, mindjárt elmen¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1594555750276_66" custom="readingOrder {index:4;}">
+                <Coords points="257,1053 1972,1149 2050,1143 2786,1191 2914,1140 3397,1167 3394,1385 2917,1358 2773,1358 2042,1310 1967,1325 242,1229"/>
+                <Baseline points="242,1194 1966,1290 2044,1263 2776,1311 2917,1287 3394,1314"/>
+                <TextEquiv>
+                    <Unicode>nék Pozsonyba, hogy rendbe hozzalak, de még</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1594555760353_71" custom="readingOrder {index:5;}">
+                <Coords points="247,1245 2926,1374 3484,1392 3477,1607 2914,1547 233,1455"/>
+                <Baseline points="233,1398 2914,1491 3478,1551"/>
+                <TextEquiv>
+                    <Unicode>inkább, hogy te hozzál rendbe engemet, mert én</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1594555775078_76" custom="readingOrder {index:6;} sic {offset:0; length:4;}">
+                <Coords points="233,1446 965,1467 2557,1539 3469,1620 3460,1820 2545,1799 938,1659 239,1598"/>
+                <Baseline points="239,1593 950,1608 2545,1755 3460,1776"/>
+                <TextEquiv>
+                    <Unicode>rosz bőrbe vagyok. Érelmeszesedés a szó leg¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1594555788624_81" custom="readingOrder {index:7;}">
+                <Coords points="236,1623 3587,1887 3577,2099 227,1802"/>
+                <Baseline points="227,1767 3577,2064"/>
+                <TextEquiv>
+                    <Unicode>komiszabb értelmében. Erős szív nyomás, fájás</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1594555798789_86" custom="readingOrder {index:8;}">
+                <Coords points="255,1806 3125,2087 3091,2383 221,2102"/>
+                <Baseline points="230,1977 3100,2258"/>
+                <TextEquiv>
+                    <Unicode>a bordámban, örökös krákogás; szorongás</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kedves Sándorkám! Egy új plajbászt&#xD;
+hegyeztem meg a te tiszteletedre.&#xD;
+Ha az ócska embert is úgy lehetne&#xD;
+megújítani, hogy frissen fogjon, mindjárt elmen¬&#xD;
+nék Pozsonyba, hogy rendbe hozzalak, de még&#xD;
+inkább, hogy te hozzál rendbe engemet, mert én&#xD;
+rosz bőrbe vagyok. Érelmeszesedés a szó leg¬&#xD;
+komiszabb értelmében. Erős szív nyomás, fájás&#xD;
+a bordámban, örökös krákogás; szorongás</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

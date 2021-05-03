@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-10-06T10:46:56.016+02:00</Created>
+        <LastChange>2020-10-09T11:16:17.557+02:00</LastChange>
+        <TranskribusMetadata docId="505779" pageId="20976446" pageNr="1" tsid="43594436" status="IN_PROGRESS" userId="56520" imgUrl="https://files.transkribus.eu/Get?id=KOILSEKWPSQZAHUHOCJERHFC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YWLDBFLCFOBEPUCDKGYNOIIY" imageId="16117046"/>
+    </Metadata>
+    <Page imageFilename="PKEL'M.=100#1053_a.tif" imageWidth="3446" imageHeight="2350">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424717545" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1602157584337_183"/>
+                <RegionRefIndexed index="1" regionRef="region_1602157587037_186"/>
+                <RegionRefIndexed index="2" regionRef="region_1602157588867_189"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1602157584337_183" custom="readingOrder {index:0;}">
+            <Coords points="1042,776 359,776 359,283 1042,283"/>
+            <TextLine id="line_1602157597296_193" custom="readingOrder {index:0;} abbrev {offset:0; length:4;}">
+                <Coords points="405,321 1001,321 1001,665 405,665"/>
+                <Baseline points="405,660 1001,660"/>
+                <TextEquiv>
+                    <Unicode>Ngos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ngos</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1602157587037_186" custom="readingOrder {index:1;}">
+            <Coords points="532,810 2895,810 2895,1314 532,1314"/>
+            <TextLine id="line_1602157607717_202" custom="readingOrder {index:0;}">
+                <Coords points="559,866 2806,831 2813,1253 566,1288"/>
+                <Baseline points="566,1283 2813,1248"/>
+                <TextEquiv>
+                    <Unicode>Moricz Zsigmond</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Moricz Zsigmond</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1602157588867_189" custom="readingOrder {index:2;}">
+            <Coords points="1077,1297 2316,1297 2316,1696 1077,1696"/>
+            <TextLine id="line_1602157630736_212" custom="readingOrder {index:0;}">
+                <Coords points="1158,1317 2223,1329 2222,1589 1157,1577"/>
+                <Baseline points="1157,1572 2222,1584"/>
+                <TextEquiv>
+                    <Unicode>urnak</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>urnak</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

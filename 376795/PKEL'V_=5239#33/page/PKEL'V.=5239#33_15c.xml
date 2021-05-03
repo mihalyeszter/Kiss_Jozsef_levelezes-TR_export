@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-28T13:02:34.662+02:00</Created>
+        <LastChange>2020-11-19T15:42:56.557+01:00</LastChange>
+        <TranskribusMetadata docId="376795" pageId="14734415" pageNr="35" tsid="49204448" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=KVHCTOQBNUZLKDTBQWETKWXK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JNBKMBEHHCKBYAYYACRUMWFM" imageId="10675437"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#33_15c.tif" imageWidth="3322" imageHeight="2645">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424133165" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1597228733724_606"/>
+                <RegionRefIndexed index="1" regionRef="region_1597228735793_609"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1597318820869_251"/>
+                <RegionRefIndexed index="3" regionRef="TextRegion_1597318826568_258"/>
+                <RegionRefIndexed index="4" regionRef="TextRegion_1597318826568_257"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1597228733724_606" custom="readingOrder {index:0;}">
+            <Coords points="330,363 1332,363 1332,651 330,651"/>
+            <TextLine id="line_1597228741481_615" custom="readingOrder {index:0;}">
+                <Coords points="379,433 1290,408 1303,570 392,595"/>
+                <Baseline points="392,590 1303,565"/>
+                <TextEquiv>
+                    <Unicode>Hochwolgeboren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Hochwolgeboren</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1597228735793_609" custom="readingOrder {index:1;}">
+            <Coords points="697,829 2913,829 2913,1184 697,1184"/>
+            <TextLine id="line_1597228743676_620" custom="readingOrder {index:0;}">
+                <Coords points="738,900 2866,842 2867,1069 739,1127"/>
+                <Baseline points="775,1126 2867,1064"/>
+                <TextEquiv>
+                    <Unicode>Frau Julius Bauer, Majorsgattin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Frau Julius Bauer, Majorsgattin</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="TextRegion_1597318820869_251" custom="readingOrder {index:2;}">
+            <Coords points="1736,1705 2930,1708 2930,2005 1736,2002"/>
+            <TextLine id="line_1597228746176_625" custom="readingOrder {index:0;} textStyle {offset:0; length:11;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="1810,1796 2872,1763 2873,1973 1811,2006"/>
+                <Baseline points="1811,2001 2801,1968"/>
+                <TextEquiv>
+                    <Unicode>Franzenzbad</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Franzenzbad</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="TextRegion_1597318826568_258" custom="readingOrder {index:3;}">
+            <Coords points="1485,2009 2898,1985 2898,2143 1485,2167"/>
+            <TextLine id="line_1597318820869_253" custom="readingOrder {index:0;}">
+                <Coords points="1543,2009 2862,2009 2859,2154 1539,2167"/>
+                <Baseline points="1539,2162 2859,2149"/>
+                <TextEquiv>
+                    <Unicode>Militär badeheil austallt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Militär badeheil austallt</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="TextRegion_1597318826568_257" custom="readingOrder {index:4;}">
+            <Coords points="1729,2171 2909,2137 2909,2383 1729,2417"/>
+            <TextLine id="line_1597318826568_260" custom="readingOrder {index:0;}">
+                <Coords points="1764,2194 2380,2167 2882,2167 2884,2299 1766,2348"/>
+                <Baseline points="1766,2343 2884,2294"/>
+                <TextEquiv>
+                    <Unicode>Kaiserin Elisabeth</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kaiserin Elisabeth</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

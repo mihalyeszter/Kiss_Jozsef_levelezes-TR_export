@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>PKEL'V.=5239#10_3</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: szucs.kata.agnes@gmail.com</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile xml:id='facs_1'>
+		<surface ulx='0' uly='0' lrx='3435' lry='4542'>
+			<graphic url='PKEL'V.=5239#10_3a.tif' width='3435px' height='4542px'/>
+			<zone ulx='332' uly='707' lrx='3217' lry='1362' rendition='TextRegion' xml:id='facs_1_region_1573575527946_892'>
+				<zone ulx='626' uly='734' lrx='3095' lry='1050' rendition='Line' xml:id='facs_1_line_1573575621125_900'/>
+				<zone ulx='332' uly='880' lrx='3106' lry='1266' rendition='Line' xml:id='facs_1_line_1573575625517_905'/>
+			</zone>
+			<zone ulx='1569' uly='4218' lrx='1728' lry='4377' rendition='TextRegion' xml:id='facs_1_region_1573575541656_896'>
+				<zone ulx='1585' uly='4222' lrx='1724' lry='4381' rendition='Line' xml:id='facs_1_line_1573575636104_911'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<pb facs='#facs_1' n='1'/>
+			<p facs='#facs_1_region_1573575527946_892'>
+				<lb facs='#facs_1_line_1573575621125_900' n='N001'/>Kedves Gyula vagy Julius, ahogy neked jobban
+				<lb facs='#facs_1_line_1573575625517_905' n='N002'/>esik. Nem tudom, emlékezel-e még Kiss Józsefre
+			</p>
+			<p facs='#facs_1_region_1573575541656_896'>
+				<lb facs='#facs_1_line_1573575636104_911' n='N001'/>1
+			</p>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2019-10-14T13:54:46.539+02:00</Created>
+        <LastChange>2021-02-25T12:48:04.416+01:00</LastChange>
+        <TranskribusMetadata docId="227997" pageId="9836815" pageNr="3" tsid="53062127" status="IN_PROGRESS" userId="63384" imgUrl="https://files.transkribus.eu/Get?id=YZXTENKIHLNNHAQZLLUOSYIE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FLEWAJJQUSRHBNMUOQZXNPGT" imageId="6405150"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#4_1c.tif" imageWidth="3842" imageHeight="2701">
+        <PrintSpace>
+            <Coords points="1611,1072 2282,1072 2282,1342 1611,1342"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619423855892" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1573467850431_314"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1573467850430_313"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1573467881951_322"/>
+                <RegionRefIndexed index="3" regionRef="TextRegion_1573467881950_321"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="TextRegion_1573467850431_314" custom="readingOrder {index:0;}">
+            <Coords points="1551,1059 2306,1059 2306,1211 1551,1211"/>
+            <TextLine id="line_1571131301127_113" custom="readingOrder {index:0;}">
+                <Coords points="1803,1112 2072,1112 2072,1205 1803,1205"/>
+                <Baseline points="1803,1192 2053,1192"/>
+                <TextEquiv>
+                    <Unicode>A Hét</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>A Hét</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="TextRegion_1573467850430_313" custom="readingOrder {index:1;}">
+            <Coords points="1551,1211 2306,1211 2306,1361 1551,1361"/>
+            <TextLine id="line_1571131305612_118" custom="readingOrder {index:0;}">
+                <Coords points="1624,1233 2255,1229 2256,1305 1625,1309"/>
+                <Baseline points="1625,1296 2232,1289"/>
+                <TextEquiv>
+                    <Unicode>VIII., Népszinház–u. 22.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>VIII., Népszinház–u. 22.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="TextRegion_1573467881951_322" custom="readingOrder {index:2;}">
+            <Coords points="176,1370 350,1370 350,2127 176,2127"/>
+            <TextLine id="line_1571059043339_912" custom="readingOrder {index:0;}">
+                <Coords points="194,2056 202,1415 336,1411 328,2052"/>
+                <Baseline points="319,2020 323,1411"/>
+                <TextEquiv>
+                    <Unicode>Kraus Jolán</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kraus Jolán</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="TextRegion_1573467881950_321" custom="readingOrder {index:3;}">
+            <Coords points="350,1370 540,1370 540,2127 350,2127"/>
+            <TextLine id="line_1614253635006_166" custom="readingOrder {index:0;} unclear {offset:3; length:1;} unclear {offset:6; length:5;}">
+                <Coords points="346,2109 346,1463 472,1475 472,2121"/>
+                <Baseline points="462,2119 462,1473"/>
+                <TextEquiv>
+                    <Unicode>Kapos Cseng</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kapos Cseng</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

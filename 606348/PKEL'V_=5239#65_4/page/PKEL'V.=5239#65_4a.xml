@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2021-02-10T14:27:05.441+01:00</Created>
+        <LastChange>2021-02-23T14:09:50.357+01:00</LastChange>
+        <TranskribusMetadata docId="606348" pageId="24089697" pageNr="1" tsid="52964961" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=ZYWXRXHXROFPKSEGDIMFXNEM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GZTJSILERELFKPNKEXMEBIQN" imageId="18508514"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#65_4a.tif" imageWidth="3422" imageHeight="2284">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424721567" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1613644195552_2069"/>
+                <RegionRefIndexed index="1" regionRef="region_1613643774578_1962"/>
+                <RegionRefIndexed index="2" regionRef="region_1613643779989_1970"/>
+                <RegionRefIndexed index="3" regionRef="region_1613643785286_1978"/>
+                <RegionRefIndexed index="4" regionRef="region_1613643790351_1986"/>
+                <RegionRefIndexed index="5" regionRef="region_1613643797366_1994"/>
+                <RegionRefIndexed index="6" regionRef="region_1613643802244_2002"/>
+                <RegionRefIndexed index="7" regionRef="region_1613643806574_2010"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="TextRegion_1613644195552_2069" custom="readingOrder {index:0;}">
+            <Coords points="118,202 1001,202 1001,775 739,1082 275,1084 257,891 111,880"/>
+            <TextLine id="line_1613643976185_2027" custom="readingOrder {index:0;}">
+                <Coords points="475,254 725,257 943,446 979,720 888,941 699,1054 531,1068 329,988 210,877 174,637 246,426 370,327 409,405 316,490 265,640 288,834 373,898 545,975 672,953 803,872 877,702 845,498 706,368 475,368"/>
+                <Baseline points="475,363 708,363 849,496 882,703 807,875 674,958 544,980 370,902 284,836 260,639 312,487 406,401"/>
+                <TextEquiv>
+                    <Unicode>K. und k. Infanterieregiment Erzherzog Albrecht Nr. 44</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>K. und k. Infanterieregiment Erzherzog Albrecht Nr. 44</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1613643774578_1962" custom="readingOrder {index:1;}">
+            <Coords points="1091,649 887,1011 2901,1011 3105,649"/>
+            <TextLine id="line_1613643774616_1965" custom="readingOrder {index:0;} sic {offset:13; length:1;}">
+                <Coords points="1073,668 3087,649 2886,986 872,1005"/>
+                <Baseline points="890,952 2904,933"/>
+                <TextEquiv>
+                    <Unicode>Nagys. Kiss Jozsef</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Nagys. Kiss Jozsef</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1613643779989_1970" custom="readingOrder {index:2;}">
+            <Coords points="1199,1021 1184,1280 2677,1280 2692,1021"/>
+            <TextLine id="line_1613643780026_1973" custom="readingOrder {index:0;}">
+                <Coords points="1193,1041 2686,1027 2677,1242 1184,1256"/>
+                <Baseline points="1184,1251 2677,1237"/>
+                <TextEquiv>
+                    <Unicode>szerkesztő Urnak</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>szerkesztő Urnak</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1613643785286_1978" custom="readingOrder {index:3;}">
+            <Coords points="1642,1311 1631,1680 3031,1680 3042,1311"/>
+            <TextLine id="line_1613643785323_1981" custom="readingOrder {index:0;}">
+                <Coords points="1639,1335 3038,1310 3034,1649 1635,1674"/>
+                <Baseline points="1632,1630 3031,1605"/>
+                <TextEquiv>
+                    <Unicode>Budapest</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Budapest</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1613643790351_1986" custom="readingOrder {index:4;}">
+            <Coords points="1266,1693 1263,1921 3092,1921 3095,1693"/>
+            <TextLine id="line_1613643790398_1989" custom="readingOrder {index:0;}">
+                <Coords points="1263,1740 3091,1709 3089,1887 1261,1918"/>
+                <Baseline points="1264,1904 3092,1873"/>
+                <TextEquiv>
+                    <Unicode>VIII. Népszínház u. 22. III. 8.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>VIII. Népszínház u. 22. III. 8.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1613643797366_1994" custom="readingOrder {index:5;}">
+            <Coords points="120,893 120,2166 328,2175 265,902"/>
+            <TextLine id="line_1613643797413_1997" custom="readingOrder {index:0;}">
+                <Coords points="135,2169 128,908 256,902 328,2172"/>
+                <Baseline points="323,2172 251,902"/>
+                <TextEquiv>
+                    <Unicode>Bauer alezredes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Bauer alezredes</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1613643802244_2002" custom="readingOrder {index:6;}">
+            <Coords points="318,1154 318,2062 491,2062 491,1154"/>
+            <TextLine id="line_1613643802291_2005" custom="readingOrder {index:0;} abbrev {offset:4; length:9;}">
+                <Coords points="334,2045 326,1159 473,1162 482,2039"/>
+                <Baseline points="459,2039 428,1154"/>
+                <TextEquiv>
+                    <Unicode>44. gy. ezred</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>44. gy. ezred</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1613643806574_2010" custom="readingOrder {index:7;}">
+            <Coords points="503,1170 503,2127 717,2130 717,1173"/>
+            <TextLine id="line_1613643806621_2013" custom="readingOrder {index:0;}">
+                <Coords points="517,2136 508,1175 699,1176 699,2128"/>
+                <Baseline points="694,2128 652,1173"/>
+                <TextEquiv>
+                    <Unicode>tábori posta 90</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>tábori posta 90</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

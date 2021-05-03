@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-06-09T14:55:54.142+02:00</Created>
+        <LastChange>2020-11-20T10:27:35.307+01:00</LastChange>
+        <TranskribusMetadata docId="406001" pageId="15891519" pageNr="1" tsid="49333665" status="IN_PROGRESS" userId="58915" imgUrl="https://files.transkribus.eu/Get?id=ZCUCDHNAAESELMNEFRAPFDNQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KYDHZMTQLTJXGVOSSHPTNVME" imageId="11708370"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#100_a.tif" imageWidth="5418" imageHeight="8457">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424324584" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1595787237391_27"/>
+                <RegionRefIndexed index="1" regionRef="region_1595787220302_18"/>
+                <RegionRefIndexed index="2" regionRef="region_1595787227968_21"/>
+                <RegionRefIndexed index="3" regionRef="region_1595787232902_24"/>
+                <RegionRefIndexed index="4" regionRef="region_1595787160768_3"/>
+                <RegionRefIndexed index="5" regionRef="region_1595787169355_6"/>
+                <RegionRefIndexed index="6" regionRef="region_1595787183000_9"/>
+                <RegionRefIndexed index="7" regionRef="region_1595787200441_12"/>
+                <RegionRefIndexed index="8" regionRef="region_1595787211283_15"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1595787237391_27" custom="readingOrder {index:0;}">
+            <Coords points="2833,8002 2693,8002 2693,8146 2833,8146"/>
+            <TextLine id="line_1595787471983_171" custom="readingOrder {index:0;}">
+                <Coords points="2698,8019 2817,8019 2825,8137 2706,8137"/>
+                <Baseline points="2706,8132 2825,8132"/>
+                <TextEquiv>
+                    <Unicode>1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1595787220302_18" custom="readingOrder {index:1;}">
+            <Coords points="1493,7126 2470,7126 2470,7533 1493,7533"/>
+            <TextLine id="line_1595787455047_156" custom="readingOrder {index:0;}">
+                <Coords points="1514,7160 2456,7151 2448,7504 1506,7513"/>
+                <Baseline points="1506,7440 2448,7431"/>
+                <TextEquiv>
+                    <Unicode>Nagyságos </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Nagyságos </Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1595787227968_21" custom="readingOrder {index:2;}">
+            <Coords points="4235,7423 1769,7423 1769,7892 4235,7892"/>
+            <TextLine id="line_1595787459684_161" custom="readingOrder {index:0;}">
+                <Coords points="1795,7462 4178,7440 4199,7815 1782,7859"/>
+                <Baseline points="1778,7773 4195,7729"/>
+                <TextEquiv>
+                    <Unicode>Kiss József úrnak</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kiss József úrnak</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1595787232902_24" custom="readingOrder {index:3;}">
+            <Coords points="4848,7818 3179,7818 3179,8194 4848,8194"/>
+            <TextLine id="line_1595787466649_166" custom="readingOrder {index:0;} textStyle {offset:0; length:11;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="3184,7857 4818,7817 4835,8100 3201,8140"/>
+                <Baseline points="3197,8088 4831,8048"/>
+                <TextEquiv>
+                    <Unicode>Budapesten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Budapesten.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1595787160768_3" custom="readingOrder {index:4;}">
+            <Coords points="643,289 3666,289 3666,792 643,792"/>
+            <TextLine id="line_1595787305211_39" custom="readingOrder {index:0;} textStyle {offset:0; length:27;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="670,321 3587,317 3583,771 666,775"/>
+                <Baseline points="670,608 3587,604"/>
+                <TextEquiv>
+                    <Unicode>A Dugonics Társaság Elnöke.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>A Dugonics Társaság Elnöke.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1595787169355_6" custom="readingOrder {index:5;}">
+            <Coords points="648,1789 4174,1789 4174,2651 648,2651"/>
+            <TextLine id="line_1595787331685_54" custom="readingOrder {index:0;}">
+                <Coords points="707,1819 3978,1827 3967,2635 696,2627"/>
+                <Baseline points="692,2422 3963,2430"/>
+                <TextEquiv>
+                    <Unicode>Nagyrabecsült Uram!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Nagyrabecsült Uram!</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1595787183000_9" custom="readingOrder {index:6;}">
+            <Coords points="5203,3106 919,3106 919,4293 5203,4293"/>
+            <TextLine id="line_1595787337013_59" custom="readingOrder {index:0;}">
+                <Coords points="1692,3226 5029,3151 5032,3451 1695,3526"/>
+                <Baseline points="1695,3505 5032,3430"/>
+                <TextEquiv>
+                    <Unicode>A magyar irodalmi világ öröm¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1595787342595_64" custom="readingOrder {index:1;}">
+                <Coords points="966,3557 4904,3465 4905,3626 967,3718"/>
+                <Baseline points="967,3693 4905,3601"/>
+                <TextEquiv>
+                    <Unicode>napot ül most, amikor nagyrabecsült</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1595787348856_69" custom="readingOrder {index:2;}">
+                <Coords points="963,3746 5032,3624 5041,3784 972,3906"/>
+                <Baseline points="972,3881 5041,3759"/>
+                <TextEquiv>
+                    <Unicode>és tisztelt Uram gazdag költői mun¬ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1595787355069_74" custom="readingOrder {index:3;}">
+                <Coords points="984,3898 5189,3797 5190,3973 985,4074"/>
+                <Baseline points="985,4057 5190,3956"/>
+                <TextEquiv>
+                    <Unicode>kálkodásának negyvenesztendős jubileumát</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1595787360820_79" custom="readingOrder {index:4;}">
+                <Coords points="965,4107 1784,4055 1861,4278 972,4301"/>
+                <Baseline points="972,4249 1791,4197"/>
+                <TextEquiv>
+                    <Unicode>ünnepli.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>A magyar irodalmi világ öröm¬&#xD;
+napot ül most, amikor nagyrabecsült&#xD;
+és tisztelt Uram gazdag költői mun¬ &#xD;
+kálkodásának negyvenesztendős jubileumát&#xD;
+ünnepli.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1595787200441_12" custom="readingOrder {index:7;}">
+            <Coords points="875,6310 5142,6310 5142,4102 875,4102"/>
+            <TextLine id="line_1595787365293_84" custom="readingOrder {index:0;}">
+                <Coords points="1914,4117 4879,4167 4892,4338 1743,4408"/>
+                <Baseline points="1743,4403 4892,4333"/>
+                <TextEquiv>
+                    <Unicode>Üdvözlő tisztelői sorából a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1595787370473_89" custom="readingOrder {index:1;} sic {offset:9; length:8;}">
+                <Coords points="946,4410 4843,4374 4852,4543 959,4644"/>
+                <Baseline points="959,4639 4852,4538"/>
+                <TextEquiv>
+                    <Unicode>Dugonics Tarsaság sem maradhat el</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1595787375029_94" custom="readingOrder {index:2;}">
+                <Coords points="985,4669 4940,4559 4949,4750 994,4860"/>
+                <Baseline points="994,4819 4949,4709"/>
+                <TextEquiv>
+                    <Unicode>és meleg szeretettel köszönti a költő¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1595787381182_99" custom="readingOrder {index:3;}">
+                <Coords points="977,4858 4884,4726 4914,4937 1007,5069"/>
+                <Baseline points="1007,5016 4914,4884"/>
+                <TextEquiv>
+                    <Unicode>művészt, aki négy évtized munkája</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1595787394151_111" custom="readingOrder {index:4;}">
+                <Coords points="975,5069 4899,4929 4905,5124 981,5264"/>
+                <Baseline points="981,5235 4905,5095"/>
+                <TextEquiv>
+                    <Unicode>során át el nem muló értékű iro¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1595787400649_116" custom="readingOrder {index:5;}">
+                <Coords points="957,5270 5087,5117 5093,5337 963,5490"/>
+                <Baseline points="959,5436 5089,5283"/>
+                <TextEquiv>
+                    <Unicode>dalmi alkotásokkal gyarapította nem¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1595787406978_121" custom="readingOrder {index:6;} add {offset:24; length:1;} gap {offset:24; length:0;}">
+                <Coords points="923,5439 4904,5343 4913,5590 932,5686"/>
+                <Baseline points="928,5629 4909,5533"/>
+                <TextEquiv>
+                    <Unicode>zeti irodalmunkat annak berkeiben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1595787415699_126" custom="readingOrder {index:7;}">
+                <Coords points="915,5681 5084,5576 5093,5758 924,5863"/>
+                <Baseline points="924,5830 5093,5725"/>
+                <TextEquiv>
+                    <Unicode>sudár és magas, örökké virágzó fákat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1595787422131_131" custom="readingOrder {index:8;}">
+                <Coords points="928,5872 5071,5753 5080,5947 937,6066"/>
+                <Baseline points="937,6041 5080,5922"/>
+                <TextEquiv>
+                    <Unicode>nevelt és szívéből való kincseket vitt a </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1595787430496_136" custom="readingOrder {index:9;}">
+                <Coords points="914,6072 4904,5967 4905,6162 915,6267"/>
+                <Baseline points="915,6242 4905,6137"/>
+                <TextEquiv>
+                    <Unicode>nemes költészetet szerető lelkek elé.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Üdvözlő tisztelői sorából a&#xD;
+Dugonics Tarsaság sem maradhat el&#xD;
+és meleg szeretettel köszönti a költő¬&#xD;
+művészt, aki négy évtized munkája&#xD;
+során át el nem muló értékű iro¬&#xD;
+dalmi alkotásokkal gyarapította nem¬&#xD;
+zeti irodalmunkat annak berkeiben&#xD;
+sudár és magas, örökké virágzó fákat&#xD;
+nevelt és szívéből való kincseket vitt a &#xD;
+nemes költészetet szerető lelkek elé.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1595787211283_15" custom="readingOrder {index:8;}">
+            <Coords points="814,7045 5058,7045 5058,6191 814,6191"/>
+            <TextLine id="line_1595787436680_141" custom="readingOrder {index:0;}">
+                <Coords points="1459,6247 4752,6138 4765,6374 1472,6483"/>
+                <Baseline points="1454,6461 4747,6352"/>
+                <TextEquiv>
+                    <Unicode>A Dugonics Társaság örömmel és</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1595787443351_146" custom="readingOrder {index:1;}">
+                <Coords points="832,6477 4980,6354 4993,6577 845,6700"/>
+                <Baseline points="849,6658 4997,6535"/>
+                <TextEquiv>
+                    <Unicode>tisztelettel köszönti a költőt. És tol¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1595787448743_151" custom="readingOrder {index:2;}">
+                <Coords points="979,6700 4745,6569 4751,6902 985,7033"/>
+                <Baseline points="981,6868 4747,6737"/>
+                <TextEquiv>
+                    <Unicode>mácsolja ezen sorok által azt az</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>A Dugonics Társaság örömmel és&#xD;
+tisztelettel köszönti a költőt. És tol¬&#xD;
+mácsolja ezen sorok által azt az</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

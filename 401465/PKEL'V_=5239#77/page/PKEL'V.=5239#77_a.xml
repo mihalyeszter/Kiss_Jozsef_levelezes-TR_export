@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-06-03T17:41:51.146+02:00</Created>
+        <LastChange>2020-11-24T16:19:20.316+01:00</LastChange>
+        <TranskribusMetadata docId="401465" pageId="15532414" pageNr="1" tsid="49528563" status="IN_PROGRESS" userId="56520" imgUrl="https://files.transkribus.eu/Get?id=QDBRUPXIHSJWEFFOVKWMIZTH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QRWDMQGJFUUXDZQBOBDTUGDM" imageId="11360233"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#77_a.tif" imageWidth="2562" imageHeight="1411">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424385083" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1593370986325_351"/>
+                <RegionRefIndexed index="1" regionRef="region_1593370998406_354"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1593370986325_351" custom="readingOrder {index:0;}">
+            <Coords points="107,89 2480,89 2480,877 107,877"/>
+            <TextLine id="line_1593371008966_357" custom="readingOrder {index:0;}">
+                <Coords points="110,123 2474,97 2474,239 110,265"/>
+                <Baseline points="112,256 2476,230"/>
+                <TextEquiv>
+                    <Unicode>Hetvenedik születés napom al¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1593371018575_362" custom="readingOrder {index:1;} sic {offset:16; length:11;}">
+                <Coords points="110,284 2375,245 2374,457 109,496"/>
+                <Baseline points="109,427 2374,388"/>
+                <TextEquiv>
+                    <Unicode>kalmából jóleső figyelmeért,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1593371026395_367" custom="readingOrder {index:2;}">
+                <Coords points="124,423 2319,431 2325,597 130,589"/>
+                <Baseline points="130,572 2325,580"/>
+                <TextEquiv>
+                    <Unicode>hálás köszönetét küldi,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1593371032077_372" custom="readingOrder {index:3;}">
+                <Coords points="151,638 1243,602 1256,855 158,872"/>
+                <Baseline points="154,775 1246,739"/>
+                <TextEquiv>
+                    <Unicode>régi jó híve</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Hetvenedik születés napom al¬&#xD;
+kalmából jóleső figyelmeért,&#xD;
+hálás köszönetét küldi,&#xD;
+régi jó híve</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1593370998406_354" custom="readingOrder {index:1;}">
+            <Coords points="2305,1289 837,1289 837,729 2305,729"/>
+            <TextLine id="line_1593371038477_377" custom="readingOrder {index:0;}">
+                <Coords points="848,769 2265,729 2264,1237 847,1277"/>
+                <Baseline points="849,995 2266,955"/>
+                <TextEquiv>
+                    <Unicode>Blaha Lujza</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Blaha Lujza</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-29T10:54:38.353+02:00</Created>
+        <LastChange>2020-07-13T13:22:01.944+02:00</LastChange>
+        <TranskribusMetadata docId="377228" pageId="14767633" pageNr="10" tsid="34292518" status="IN_PROGRESS" userId="56520" imgUrl="https://files.transkribus.eu/Get?id=MFDQDIUWQVKYHHXADMKCPSWR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LDRBQVWHNTHXYOMCGOWGHFGA" imageId="10707472"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#34_4d.tif" imageWidth="3952" imageHeight="3159">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424048294" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1594317136892_1401"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1594317136892_1401" custom="readingOrder {index:0;}">
+            <Coords points="3383,265 3383,409 3609,409 3609,265"/>
+            <TextLine id="line_1594317136939_1404" custom="readingOrder {index:0;}">
+                <Coords points="3383,287 3609,287 3609,409 3383,409"/>
+                <Baseline points="3383,404 3609,404"/>
+                <TextEquiv>
+                    <Unicode>98.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>98.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

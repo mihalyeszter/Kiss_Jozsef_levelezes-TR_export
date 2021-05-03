@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-12-14T11:02:38.765+01:00</Created>
+        <LastChange>2021-01-05T09:52:37.503+01:00</LastChange>
+        <TranskribusMetadata docId="555480" pageId="22976860" pageNr="1" tsid="50688814" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=FDGVMXSUYXOPHIXZQFUWAVEF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EFKUBWGRUVKASHOMYMMZNBOU" imageId="17928538"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#140_a.tif" imageWidth="2990" imageHeight="3508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619423902923" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1608035551317_1630"/>
+                <RegionRefIndexed index="1" regionRef="region_1608035556551_1638"/>
+                <RegionRefIndexed index="2" regionRef="region_1608035561207_1646"/>
+                <RegionRefIndexed index="3" regionRef="region_1608035567217_1654"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1608035551317_1630" custom="readingOrder {index:0;}">
+            <Coords points="332,1636 332,2077 971,2077 971,1636"/>
+            <TextLine id="line_1608035551355_1633" custom="readingOrder {index:0;}">
+                <Coords points="328,1658 966,1643 975,2043 337,2058"/>
+                <Baseline points="333,1966 971,1951"/>
+                <TextEquiv>
+                    <Unicode>Nagyságos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Nagyságos</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1608035556551_1638" custom="readingOrder {index:1;}">
+            <Coords points="494,2231 494,2647 2683,2647 2683,2231"/>
+            <TextLine id="line_1608035556582_1641" custom="readingOrder {index:0;} sic {offset:0; length:3;} abbrev {offset:20; length:2;}">
+                <Coords points="487,2261 2675,2260 2677,2604 489,2652"/>
+                <Baseline points="495,2517 2683,2469"/>
+                <TextEquiv>
+                    <Unicode>Kis József urnak és k. családjának</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kis József urnak és k. családjának</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1608035561207_1646" custom="readingOrder {index:2;}">
+            <Coords points="1619,2670 1615,3040 2484,3040 2488,2670"/>
+            <TextLine id="line_1608035561245_1649" custom="readingOrder {index:0;} textStyle {offset:0; length:8;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="1621,2683 2488,2676 2479,3036 1617,3035"/>
+                <Baseline points="1617,2930 2484,2896"/>
+                <TextEquiv>
+                    <Unicode>Budapest</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Budapest</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1608035567217_1654" custom="readingOrder {index:3;}">
+            <Coords points="713,2985 713,3218 2096,3218 2102,3040"/>
+            <TextLine id="line_1608035567270_1657" custom="readingOrder {index:0;}">
+                <Coords points="725,2989 2096,3048 2098,3217 715,3208"/>
+                <Baseline points="715,3165 2098,3174"/>
+                <TextEquiv>
+                    <Unicode>VIII. Népszínház utca 22</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>VIII. Népszínház utca 22</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

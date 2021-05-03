@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2021-02-03T13:59:46.118+01:00</Created>
+        <LastChange>2021-02-16T17:04:26.395+01:00</LastChange>
+        <TranskribusMetadata docId="599949" pageId="23868937" pageNr="4" tsid="52756822" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=ULMDKOZKCKKJVMRYTAOZHSLO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=COUELFMOTQDQQRVGKGTJGYYL" imageId="18320617"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=4290_e.tif" imageWidth="2448" imageHeight="3930">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424747236" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1612457298130_259"/>
+                <RegionRefIndexed index="1" regionRef="region_1612457309734_267"/>
+                <RegionRefIndexed index="2" regionRef="region_1612457319082_270"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1612457298130_259" custom="readingOrder {index:0;}">
+            <Coords points="627,321 623,579 2295,579 2299,321"/>
+            <TextLine id="line_1612457298146_262" custom="readingOrder {index:0;}">
+                <Coords points="620,338 2294,333 2287,570 624,575"/>
+                <Baseline points="624,538 2295,486"/>
+                <TextEquiv>
+                    <Unicode>Kiss József, magyar író</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kiss József, magyar író</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1612457309734_267" custom="readingOrder {index:1;}">
+            <Coords points="760,582 2291,582 2291,867 760,867"/>
+            <TextLine id="line_1612457327481_273" custom="readingOrder {index:0;} sic {offset:15; length:3;}">
+                <Coords points="768,597 2283,581 2283,687 768,703"/>
+                <Baseline points="768,690 2283,674"/>
+                <TextEquiv>
+                    <Unicode>(Budapest VII, dob utcza 53 sz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1612457332637_278" custom="readingOrder {index:1;} textStyle {offset:0; length:2;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="855,718 1825,705 1826,855 840,859"/>
+                <Baseline points="856,815 1826,802"/>
+                <TextEquiv>
+                    <Unicode>II emel. 16 ajtó)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>(Budapest VII, dob utcza 53 sz&#xD;
+II emel. 16 ajtó)</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1612457319082_270" custom="readingOrder {index:2;}">
+            <Coords points="275,1849 2411,1849 2411,2654 275,2654"/>
+            <TextLine id="line_1612457338937_283" custom="readingOrder {index:0;}">
+                <Coords points="378,1920 2374,1892 2379,2058 383,2086"/>
+                <Baseline points="383,2049 2379,2021"/>
+                <TextEquiv>
+                    <Unicode>legközelebb megjelenő költeményeit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1612457345585_288" custom="readingOrder {index:1;}">
+                <Coords points="327,2104 2383,2077 2391,2238 327,2250"/>
+                <Baseline points="327,2217 2391,2205"/>
+                <TextEquiv>
+                    <Unicode>Ő Cs. Kir. Fenségének ohajtja aján¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1612457351311_293" custom="readingOrder {index:2;}">
+                <Coords points="303,2253 2403,2273 2403,2399 303,2379"/>
+                <Baseline points="303,2362 2403,2382"/>
+                <TextEquiv>
+                    <Unicode>lani és erre nézve a legmaga¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1612457356000_298" custom="readingOrder {index:3;}">
+                <Coords points="299,2393 1626,2405 1614,2631 287,2619"/>
+                <Baseline points="299,2510 1626,2522"/>
+                <TextEquiv>
+                    <Unicode>sabb engedélyt kéri.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>legközelebb megjelenő költeményeit&#xD;
+Ő Cs. Kir. Fenségének ohajtja aján¬&#xD;
+lani és erre nézve a legmaga¬&#xD;
+sabb engedélyt kéri.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

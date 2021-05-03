@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-11-09T16:24:22.186+01:00</Created>
+        <LastChange>2020-11-24T18:38:04.512+01:00</LastChange>
+        <TranskribusMetadata docId="534948" pageId="22589358" pageNr="6" tsid="49535766" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=RDWIDZJFUHUCUXNMRBTRZJLB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SHKVDBRVTAKIFKMRALRPCVQX" imageId="17588480"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=3181#61_3d.tif" imageWidth="6550" imageHeight="4322">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424640772" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1605085220461_130"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1605085239761_134"/>
+                <RegionRefIndexed index="2" regionRef="region_1605001932790_679"/>
+                <RegionRefIndexed index="3" regionRef="region_1605001934711_682"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="TextRegion_1605085220461_130" custom="readingOrder {index:0;}">
+            <Coords points="350,386 642,198 1577,198 1888,386 1888,851 350,851"/>
+            <TextLine id="region_1605001862324_667l1" custom="readingOrder {index:0;}">
+                <Coords points="704,471 1444,490 1440,249 700,230"/>
+                <Baseline points="768,428 801,431 835,434 869,435 903,436 937,436 970,436 1004,436 1038,436 1072,436 1106,436 1139,436 1173,436 1207,436 1241,436 1274,436 1308,436 1342,437 1376,438 1410,439 1444,440"/>
+                <TextEquiv>
+                    <Unicode>Terminus:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1605001864995_670l1" custom="readingOrder {index:1;} textStyle {offset:0; length:17;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="474,804 1728,816 1736,484 482,472"/>
+                <Baseline points="478,664 538,665 598,668 659,670 719,672 780,674 840,676 900,679 961,681 1021,683 1082,684 1142,685 1202,686 1263,686 1323,686 1384,685 1444,683 1504,682 1565,678 1625,676 1686,672"/>
+                <TextEquiv>
+                    <Unicode>Csütörtök reggel.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Terminus:&#xD;
+Csütörtök reggel.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1605085239761_134" custom="readingOrder {index:1;}">
+            <Coords points="600,1020 609,762 3067,762 3067,1109 2045,1121 2043,1274 430,1274 430,1039"/>
+            <TextLine id="region_1605001869275_673l1" custom="readingOrder {index:0;}">
+                <Coords points="694,1020 1087,1032 1104,1099 1161,1039 1397,1042 1401,1102 1464,1053 2894,1060 2902,863 2799,799 2072,816 2068,746 1959,742 1945,855 702,823"/>
+                <Baseline points="694,970 804,976 914,980 1024,983 1134,984 1244,986 1354,986 1464,986 1574,984 1684,984 1794,984 1904,982 2014,982 2124,982 2234,982 2344,984 2454,986 2564,990 2674,994 2784,1002 2894,1010"/>
+                <TextEquiv>
+                    <Unicode>Esetleg még Molnár Ferenczről</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1605001928825_676l1" custom="readingOrder {index:1;} add {offset:3; length:1;} gap {offset:3; length:0;}">
+                <Coords points="494,1240 1888,1272 1984,1215 1969,1155 1920,1106 1888,1122 1539,1056 1383,1120 1246,1070 1072,1120 1048,1067 1002,1056 970,1102 494,1090"/>
+                <Baseline points="494,1190 563,1195 633,1200 703,1204 772,1206 842,1209 912,1211 981,1212 1051,1213 1121,1214 1191,1214 1260,1214 1330,1214 1400,1214 1469,1214 1539,1214 1609,1214 1678,1216 1748,1218 1818,1218 1888,1222"/>
+                <TextEquiv>
+                    <Unicode>szeretném, ha írna.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Esetleg még Molnár Ferenczről&#xD;
+szeretném, ha írna.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1605001932790_679" custom="readingOrder {index:2;}">
+            <Coords points="680,1222 2715,1222 2715,1589 680,1589"/>
+            <TextLine id="region_1605001932790_679l1" custom="readingOrder {index:0;}">
+                <Coords points="704,1484 1492,1493 1551,1641 1641,1635 1698,1495 2482,1502 2588,1501 2612,1484 2612,1413 2609,1332 2577,1251 2499,1173 2418,1159 2362,1275 2100,1254 1906,1251 1821,1304 1168,1272 917,1261 797,1240 733,1286 704,1334"/>
+                <Baseline points="704,1434 792,1436 881,1436 970,1438 1059,1438 1148,1438 1237,1439 1326,1440 1415,1440 1504,1440 1593,1440 1681,1440 1770,1442 1859,1442 1948,1442 2037,1444 2126,1444 2215,1446 2304,1448 2393,1450 2482,1452"/>
+                <TextEquiv>
+                    <Unicode>Öleli és látogatását kéri</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Öleli és látogatását kéri</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1605001934711_682" custom="readingOrder {index:3;}">
+            <Coords points="1700,1504 3016,1504 3016,2266 1700,2266"/>
+            <TextLine id="region_1605001934711_682l1" custom="readingOrder {index:0;}">
+                <Coords points="1775,2221 2843,2252 2951,1595 1827,1550"/>
+                <Baseline points="1830,1900 1859,1900 1888,1900 1917,1900 1946,1902 1975,1902 2004,1903 2033,1904 2062,1904 2091,1906 2121,1906 2150,1908 2179,1908 2208,1909 2237,1910 2266,1910 2295,1911 2324,1912 2353,1912 2382,1912 2412,1912 2495,1925 2547,1925 2621,1928 2684,1932"/>
+                <TextEquiv>
+                    <Unicode>Kiss</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kiss</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2021-02-03T13:59:46.149+01:00</Created>
+        <LastChange>2021-03-02T16:55:48.170+01:00</LastChange>
+        <TranskribusMetadata docId="599949" pageId="23868939" pageNr="5" tsid="53230829" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=GBKSDLDIAQIEQRIVTVIONWKX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KXIGSHSXAWTGGQBSCXBGNZTH" imageId="18320619"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=4290_f.tif" imageWidth="2466" imageHeight="3806">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424747510" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1612457528063_349"/>
+                <RegionRefIndexed index="1" regionRef="region_1612457533354_352"/>
+                <RegionRefIndexed index="2" regionRef="region_1612457544335_355"/>
+                <RegionRefIndexed index="3" regionRef="region_1612457551977_358"/>
+                <RegionRefIndexed index="4" regionRef="region_1612457557468_361"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1612457528063_349" custom="readingOrder {index:0;}">
+            <Coords points="75,474 2456,474 2456,1500 75,1532"/>
+            <TextLine id="line_1612457591788_367" custom="readingOrder {index:0;}">
+                <Coords points="103,501 2339,525 2351,783 115,759"/>
+                <Baseline points="115,710 2351,734"/>
+                <TextEquiv>
+                    <Unicode>Ő császári és királyi fen¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1612457599040_372" custom="readingOrder {index:1;}">
+                <Coords points="119,774 2243,774 2247,960 123,960"/>
+                <Baseline points="123,927 2247,927"/>
+                <TextEquiv>
+                    <Unicode>sége ily nemű kérelmek¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1612457605430_377" custom="readingOrder {index:2;}">
+                <Coords points="111,966 2287,978 2295,1140 119,1128"/>
+                <Baseline points="119,1123 2295,1135"/>
+                <TextEquiv>
+                    <Unicode>kel való túlhalmozása</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1612457610856_382" custom="readingOrder {index:3;}">
+                <Coords points="91,1163 2371,1167 2375,1365 95,1361"/>
+                <Baseline points="95,1312 2375,1316"/>
+                <TextEquiv>
+                    <Unicode>végett a bentírt kérelmet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1612457617299_387" custom="readingOrder {index:4;}">
+                <Coords points="87,1371 1449,1375 1445,1509 83,1505"/>
+                <Baseline points="83,1500 1445,1504"/>
+                <TextEquiv>
+                    <Unicode>nem teljesíti.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ő császári és királyi fen¬&#xD;
+sége ily nemű kérelmek¬&#xD;
+kel való túlhalmozása&#xD;
+végett a bentírt kérelmet&#xD;
+nem teljesíti.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1612457533354_352" custom="readingOrder {index:1;}">
+            <Coords points="2444,1508 42,1532 42,1809 2456,1809"/>
+            <TextLine id="line_1612457625526_392" custom="readingOrder {index:0;} textStyle {offset:25; length:1;underlined:true; fontSize:0.0; kerning:0; superscript:true;}">
+                <Coords points="59,1539 2371,1516 2359,1757 59,1741"/>
+                <Baseline points="59,1680 2359,1696"/>
+                <TextEquiv>
+                    <Unicode>Budapest, 1876 Április 18k</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Budapest, 1876 Április 18k</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1612457544335_355" custom="readingOrder {index:2;}">
+            <Coords points="527,1829 2379,1829 2379,2314 527,2314"/>
+            <TextLine id="line_1612457630974_397" custom="readingOrder {index:0;}">
+                <Coords points="553,1844 2352,1872 2355,2298 544,2294"/>
+                <Baseline points="556,2069 2355,2097"/>
+                <TextEquiv>
+                    <Unicode>Legfelsőbb meghagyásbol:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Legfelsőbb meghagyásbol:</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1612457551977_358" custom="readingOrder {index:3;}">
+            <Coords points="2379,2314 1025,2314 1025,2907 2379,2907"/>
+            <TextLine id="line_1612457635616_402" custom="readingOrder {index:0;}">
+                <Coords points="1004,2257 2242,2261 2242,2819 1004,2815"/>
+                <Baseline points="1061,2727 2299,2731"/>
+                <TextEquiv>
+                    <Unicode>Nyáry</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Nyáry</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1612457557468_361" custom="readingOrder {index:4;}">
+            <Coords points="1530,2915 2135,2915 2135,3204 1530,3204"/>
+            <TextLine id="line_1612457641910_407" custom="readingOrder {index:0;} gap {offset:2; length:0;}">
+                <Coords points="1542,2915 2123,2923 2122,3176 1542,3155"/>
+                <Baseline points="1534,3059 2123,3171"/>
+                <TextEquiv>
+                    <Unicode>Ez</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ez</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>PKEL'V.=5239#122_levirany</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: eszter.mihaly@gmail.com</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile xml:id='facs_1'>
+		<surface ulx='0' uly='0' lrx='3110' lry='4170'>
+			<graphic url='PKEL'V.=5239#122_1a.tif' width='3110px' height='4170px'/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id='facs_2'>
+		<surface ulx='0' uly='0' lrx='6081' lry='4196'>
+			<graphic url='PKEL'V.=5239#122_1b.tif' width='6081px' height='4196px'/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id='facs_3'>
+		<surface ulx='0' uly='0' lrx='6381' lry='4250'>
+			<graphic url='PKEL'V.=5239#122_2a.tif' width='6381px' height='4250px'/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id='facs_4'>
+		<surface ulx='0' uly='0' lrx='6402' lry='4218'>
+			<graphic url='PKEL'V.=5239#122_2b.tif' width='6402px' height='4218px'/>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<pb facs='#facs_1' n='1'/>
+			<pb facs='#facs_2' n='2'/>
+			<pb facs='#facs_3' n='3'/>
+			<pb facs='#facs_4' n='4'/>
+		</body>
+	</text>
+</TEI>

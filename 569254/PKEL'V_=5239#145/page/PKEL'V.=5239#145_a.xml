@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2021-01-11T16:28:48.133+01:00</Created>
+        <LastChange>2021-01-26T14:59:01.677+01:00</LastChange>
+        <TranskribusMetadata docId="569254" pageId="23182178" pageNr="1" tsid="51673238" status="IN_PROGRESS" userId="58915" imgUrl="https://files.transkribus.eu/Get?id=BZTUERVOMRSJKYCQBBVRVLRS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YQUSHEGPQEVQEARVIZYRYGPI" imageId="18091334"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#145_a.tif" imageWidth="3143" imageHeight="4955">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619423918508" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1611043426470_3"/>
+                <RegionRefIndexed index="1" regionRef="region_1611043444028_6"/>
+                <RegionRefIndexed index="2" regionRef="region_1611043446805_9"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="region_1611043426470_3" custom="readingOrder {index:0;}">
+            <Coords points="888,205 2832,205 2832,579 888,579"/>
+            <TextLine id="region_1611043426470_3l1" custom="readingOrder {index:0;} abbrev {offset:0; length:8;} abbrev {offset:9; length:4;}">
+                <Coords points="964,545 2705,471 2681,200 940,274"/>
+                <Baseline points="948,460 1030,460 1113,460 1195,458 1278,458 1360,458 1443,457 1525,456 1608,454 1690,452 1773,448 1855,446 1938,442 2020,437 2103,432 2185,427 2268,420 2350,412 2433,404 2515,395 2598,386"/>
+                <TextEquiv>
+                    <Unicode>B.Hunyad oct 18 890</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>B.Hunyad oct 18 890</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1611043444028_6" custom="readingOrder {index:1;}">
+            <Coords points="111,944 3029,944 3029,4560 111,4560"/>
+            <TextLine id="region_1611043444028_6l1" custom="readingOrder {index:0;}">
+                <Coords points="1112,1161 2755,1238 2767,1030 1124,953"/>
+                <Baseline points="1134,1128 1208,1131 1283,1134 1357,1137 1432,1140 1506,1142 1581,1145 1655,1148 1730,1150 1804,1152 1879,1156 1953,1158 2028,1161 2102,1164 2177,1168 2251,1172 2326,1176 2400,1182 2475,1188 2549,1195 2732,1217"/>
+                <TextEquiv>
+                    <Unicode>lt Szerkesztő ur!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1611668410244_91" custom="readingOrder {index:1;} gap {offset:3; length:0;}">
+                <Coords points="142,1191 2970,1229 2960,1440 132,1402"/>
+                <Baseline points="132,1397 2960,1435"/>
+                <TextEquiv>
+                    <Unicode>Az  szerénységet megle¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1611043444028_6l4" custom="readingOrder {index:2;} gap {offset:0; length:0;}">
+                <Coords points="1502,1612 2962,1676 2962,1469 1502,1405"/>
+                <Baseline points="1502,1568 1575,1567 1648,1566 1721,1566 1794,1566 1867,1566 1940,1566 2013,1567 2086,1569 2159,1571 2232,1574 2305,1577 2378,1581 2451,1585 2524,1590 2597,1596 2670,1602 2743,1608 2816,1615 2889,1624 2962,1632"/>
+                <TextEquiv>
+                    <Unicode>őzve útra indítom</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1611043444028_6l5" custom="readingOrder {index:3;} gap {offset:0; length:0;}">
+                <Coords points="1586,1790 2972,1852 2963,1661 1577,1599"/>
+                <Baseline points="1586,1746 1652,1746 1719,1748 1785,1748 1852,1750 1919,1750 1985,1752 2052,1753 2118,1754 2185,1756 2252,1758 2318,1762 2385,1765 2451,1768 2518,1771 2584,1776 2651,1781 2718,1786 2784,1793 2851,1800 2918,1808"/>
+                <TextEquiv>
+                    <Unicode>ra jött fényképet.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1611043444028_6l6" custom="readingOrder {index:4;} supplied {offset:0; length:3;}">
+                <Coords points="446,2016 2212,1988 3011,2072 3003,1857 2465,1831 446,1845"/>
+                <Baseline points="446,1972 572,1974 698,1974 824,1973 950,1970 1077,1966 1203,1962 1329,1958 1455,1952 1581,1948 1708,1944 1834,1942 1960,1940 2086,1942 2212,1944 2339,1950 2465,1958 2591,1969 2717,1984 2843,2003 2970,2028"/>
+                <TextEquiv>
+                    <Unicode>A Vasárnapi Ujságot pedig azért</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1611043444028_6l7" custom="readingOrder {index:5;}">
+                <Coords points="658,2216 2992,2220 2992,2087 2633,2012 650,2035"/>
+                <Baseline points="658,2172 774,2171 891,2169 1008,2166 1124,2163 1241,2160 1358,2156 1474,2152 1591,2148 1708,2144 1825,2142 1941,2140 2058,2138 2175,2138 2291,2138 2408,2140 2525,2144 2641,2149 2758,2156 2875,2165 2992,2176"/>
+                <TextEquiv>
+                    <Unicode>mellékelem hogy életrajzi adatokat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1611043444028_6l8" custom="readingOrder {index:6;}">
+                <Coords points="664,2402 2940,2426 2940,2284 2606,2226 664,2202"/>
+                <Baseline points="664,2358 777,2364 891,2366 1005,2368 1119,2368 1233,2366 1346,2364 1460,2362 1574,2358 1688,2354 1802,2352 1915,2349 2029,2346 2143,2346 2257,2346 2371,2346 2484,2350 2598,2354 2712,2362 2826,2370 2940,2382"/>
+                <TextEquiv>
+                    <Unicode>már mégsem írok magamról –</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1611043444028_6l9" custom="readingOrder {index:7;}">
+                <Coords points="724,2572 2307,2570 2986,2642 2983,2453 2646,2406 724,2390"/>
+                <Baseline points="724,2528 837,2540 950,2548 1063,2553 1176,2556 1289,2555 1402,2553 1515,2550 1628,2546 1741,2540 1855,2536 1968,2532 2081,2528 2194,2526 2307,2526 2420,2530 2533,2534 2646,2544 2759,2558 2872,2574 2986,2598"/>
+                <TextEquiv>
+                    <Unicode>idáig még nem jutottam, de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1611043444028_6l10" custom="readingOrder {index:8;}">
+                <Coords points="708,2766 2886,2808 2886,2648 708,2606"/>
+                <Baseline points="708,2722 816,2730 925,2735 1034,2738 1143,2740 1252,2742 1361,2742 1470,2742 1579,2742 1688,2742 1797,2740 1905,2740 2014,2738 2123,2738 2232,2738 2341,2740 2450,2742 2559,2746 2668,2750 2777,2757 2886,2764"/>
+                <TextEquiv>
+                    <Unicode>ha így haladok még ez is meg</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1611043444028_6l11" custom="readingOrder {index:9;}">
+                <Coords points="722,2975 2854,2975 2854,2793 722,2793"/>
+                <Baseline points="722,2932 828,2930 935,2928 1041,2926 1148,2926 1255,2926 1361,2924 1468,2924 1574,2924 1681,2926 1788,2926 1894,2926 2001,2926 2107,2928 2214,2928 2321,2930 2427,2930 2534,2931 2640,2932 2747,2932 2854,2932"/>
+                <TextEquiv>
+                    <Unicode>jöhet egyszer! – Ezt Nagy Miklós</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1611043444028_6l12" custom="readingOrder {index:10;}">
+                <Coords points="662,3169 3014,3179 3014,3050 2778,2969 662,2977"/>
+                <Baseline points="662,3126 779,3124 897,3120 1014,3116 1132,3113 1250,3110 1367,3107 1485,3104 1602,3102 1720,3100 1838,3099 1955,3098 2073,3098 2190,3100 2308,3102 2426,3104 2543,3108 2661,3112 2778,3118 2896,3127 3014,3136"/>
+                <TextEquiv>
+                    <Unicode>Balázs Sándortól és Kolozsvárt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1611043444028_6l13" custom="readingOrder {index:11;}">
+                <Coords points="610,3378 1901,3316 3013,3356 3012,3196 1901,3131 610,3193"/>
+                <Baseline points="610,3336 727,3328 844,3318 962,3311 1079,3303 1197,3297 1314,3291 1431,3286 1549,3282 1666,3278 1784,3276 1901,3274 2018,3274 2136,3274 2253,3276 2371,3280 2488,3284 2605,3289 2723,3296 2840,3305 2958,3314"/>
+                <TextEquiv>
+                    <Unicode>szedte volt össze a mint ké¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1611043444028_6l14" custom="readingOrder {index:12;}">
+                <Coords points="696,3564 2171,3488 3012,3536 3011,3368 2169,3317 694,3393"/>
+                <Baseline points="696,3522 809,3518 923,3513 1036,3507 1150,3502 1263,3494 1377,3487 1490,3479 1604,3471 1717,3464 1831,3458 1944,3454 2058,3450 2171,3446 2285,3446 2398,3447 2512,3450 2625,3455 2739,3464 2852,3475 2966,3490"/>
+                <TextEquiv>
+                    <Unicode>sőbb aztán nekem be vallotta.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1611043444028_6l15" custom="readingOrder {index:13;}">
+                <Coords points="650,3764 2923,3742 2915,3537 642,3559"/>
+                <Baseline points="650,3720 761,3718 872,3716 983,3714 1094,3712 1205,3708 1316,3705 1427,3700 1538,3696 1649,3694 1761,3690 1872,3686 1983,3684 2094,3682 2205,3682 2316,3682 2427,3682 2538,3684 2649,3686 2760,3692 2872,3698"/>
+                <TextEquiv>
+                    <Unicode>Az eleje nincsen ott; de abban</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1611043444028_6l16" custom="readingOrder {index:14;}">
+                <Coords points="614,3978 2968,3958 2964,3759 610,3779"/>
+                <Baseline points="614,3934 729,3936 844,3934 959,3932 1074,3930 1189,3927 1304,3923 1419,3918 1534,3914 1649,3910 1765,3905 1880,3902 1995,3898 2110,3896 2225,3894 2340,3894 2455,3894 2570,3896 2685,3900 2800,3906 2916,3914"/>
+                <TextEquiv>
+                    <Unicode>érdemesebb egyénről is van szó</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1611043444028_6l17" custom="readingOrder {index:15;}">
+                <Coords points="602,4180 2896,4174 2876,3975 582,3981"/>
+                <Baseline points="602,4136 716,4136 831,4134 946,4132 1060,4130 1175,4126 1290,4122 1404,4118 1519,4114 1634,4110 1749,4106 1863,4104 1978,4102 2093,4100 2207,4100 2322,4100 2437,4103 2551,4108 2666,4112 2781,4121 2896,4130"/>
+                <TextEquiv>
+                    <Unicode>mint saját magam: az én</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1611043444028_6l18" custom="readingOrder {index:16;}">
+                <Coords points="634,4463 3025,4495 3020,4212 2716,4209 630,4197"/>
+                <Baseline points="630,4364 745,4368 861,4372 977,4374 1093,4374 1209,4374 1325,4374 1441,4372 1557,4370 1673,4368 1789,4365 1904,4363 2020,4362 2136,4362 2252,4362 2368,4362 2484,4366 2600,4370 2716,4376 2832,4385 2948,4396"/>
+                <TextEquiv>
+                    <Unicode>nagy műveltségű, áldott ke¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>lt Szerkesztő ur!&#xD;
+Az  szerénységet megle¬&#xD;
+őzve útra indítom&#xD;
+ra jött fényképet.&#xD;
+A Vasárnapi Ujságot pedig azért&#xD;
+mellékelem hogy életrajzi adatokat&#xD;
+már mégsem írok magamról –&#xD;
+idáig még nem jutottam, de&#xD;
+ha így haladok még ez is meg&#xD;
+jöhet egyszer! – Ezt Nagy Miklós&#xD;
+Balázs Sándortól és Kolozsvárt&#xD;
+szedte volt össze a mint ké¬&#xD;
+sőbb aztán nekem be vallotta.&#xD;
+Az eleje nincsen ott; de abban&#xD;
+érdemesebb egyénről is van szó&#xD;
+mint saját magam: az én&#xD;
+nagy műveltségű, áldott ke¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1611043446805_9" custom="readingOrder {index:2;}">
+            <Coords points="1325,4584 1712,4584 1712,4773 1325,4773"/>
+            <TextLine id="line_1611043767937_52" custom="readingOrder {index:0;}">
+                <Coords points="1378,4604 1592,4602 1602,4763 1388,4765"/>
+                <Baseline points="1388,4760 1602,4758"/>
+                <TextEquiv>
+                    <Unicode>1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

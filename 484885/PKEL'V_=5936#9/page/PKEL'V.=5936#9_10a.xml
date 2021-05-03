@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-09-21T14:08:08.013+02:00</Created>
+        <LastChange>2020-11-20T16:05:39.878+01:00</LastChange>
+        <TranskribusMetadata docId="484885" pageId="19998759" pageNr="14" tsid="49366674" status="IN_PROGRESS" userId="63384" imgUrl="https://files.transkribus.eu/Get?id=TNZWAEXJEVXMXXGGLHOBZRJN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GIKIZVOSMYHTAOTQIFRPXJLB" imageId="15414210"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5936#9_10a.tif" imageWidth="3589" imageHeight="4703">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424618654" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1603982515884_1499"/>
+                <RegionRefIndexed index="1" regionRef="region_1603982517287_1502"/>
+                <RegionRefIndexed index="2" regionRef="region_1603982518672_1505"/>
+                <RegionRefIndexed index="3" regionRef="region_1603982520616_1508"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="region_1603982515884_1499" custom="readingOrder {index:0;}">
+            <Coords points="922,712 2584,712 2584,991 922,991"/>
+            <TextLine id="region_1603982515884_1499l1" custom="readingOrder {index:0;}">
+                <Coords points="1007,991 2537,976 2549,727 1019,742"/>
+                <Baseline points="1007,941 1083,941 1160,939 1236,939 1313,939 1389,938 1466,936 1542,936 1619,935 1695,933 1772,932 1848,930 1925,930 2001,929 2078,927 2154,927 2231,926 2307,926 2384,926 2460,926 2537,926"/>
+                <TextEquiv>
+                    <Unicode>A Kazinczy-kör tekintetes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>A Kazinczy-kör tekintetes</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1603982517287_1502" custom="readingOrder {index:1;}">
+            <Coords points="1391,958 2294,958 2294,1177 1391,1177"/>
+            <TextLine id="region_1603982517287_1502l1" custom="readingOrder {index:0;}">
+                <Coords points="1404,1154 2282,1169 2282,981 1404,966"/>
+                <Baseline points="1404,1104 1447,1108 1491,1113 1535,1116 1579,1119 1623,1120 1667,1121 1711,1122 1755,1122 1799,1122 1843,1122 1886,1121 1930,1121 1974,1120 2018,1119 2062,1119 2106,1118 2150,1118 2194,1118 2238,1119 2282,1119"/>
+                <TextEquiv>
+                    <Unicode>Elnökségének</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Elnökségének</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1603982518672_1505" custom="readingOrder {index:2;}">
+            <Coords points="2253,1143 2781,1143 2777,1407 2249,1407"/>
+            <TextLine id="region_1603982518672_1505l1" custom="readingOrder {index:0;}">
+                <Coords points="2273,1388 2730,1405 2750,1173 2293,1156"/>
+                <Baseline points="2273,1338 2298,1341 2323,1341 2349,1343 2374,1344 2399,1344 2425,1346 2450,1346 2476,1347 2501,1347 2526,1347 2552,1348 2577,1349 2603,1350 2628,1350 2653,1352 2679,1352 2704,1353 2730,1355"/>
+                <TextEquiv>
+                    <Unicode>Kassa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kassa</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1603982520616_1508" custom="readingOrder {index:3;}">
+            <Coords points="450,1426 3446,1426 3446,1853 450,1853"/>
+            <TextLine id="line_1603982589749_1520" custom="readingOrder {index:0;}">
+                <Coords points="578,1463 2786,1503 3397,1521 3405,1748 578,1693"/>
+                <Baseline points="578,1643 688,1646 798,1649 909,1652 1019,1653 1130,1655 1240,1656 1350,1658 1461,1658 1571,1659 1682,1659 1792,1661 1902,1661 2013,1662 2123,1664 2234,1665 2344,1668 2454,1671 2565,1674 2675,1679 2786,1683 2816,1665 2845,1667 2874,1668 2904,1671 2933,1671 2963,1674 2992,1675 3022,1677 3051,1679 3081,1680 3110,1682 3139,1683 3169,1686 3198,1687 3228,1689 3257,1691 3287,1692 3316,1694 3346,1695 3375,1697 3405,1698"/>
+                <TextEquiv>
+                    <Unicode>Folyó hó 4-ikéről kelt nagybecsű átíratára,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Folyó hó 4-ikéről kelt nagybecsű átíratára,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

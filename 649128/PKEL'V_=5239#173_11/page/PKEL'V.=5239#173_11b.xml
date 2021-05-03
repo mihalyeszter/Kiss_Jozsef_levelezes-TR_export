@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2021-04-08T10:44:44.150+02:00</Created>
+        <LastChange>2021-04-13T08:11:26.194+02:00</LastChange>
+        <TranskribusMetadata docId="649128" pageId="25213425" pageNr="2" tsid="56273448" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=QXXDCWBYCRNJEGLYWWIUKZLP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=URWWENHDRTFLZICASFFKZINW" imageId="19444346"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#173_11b.tif" imageWidth="3455" imageHeight="2663">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424966706" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1617970630319_222"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1617970630319_222" custom="readingOrder {index:0;}">
+            <Coords points="218,371 3305,371 3305,2358 218,2358"/>
+            <TextLine id="line_1617970637232_225" custom="readingOrder {index:0;}">
+                <Coords points="358,495 3035,405 3285,551 3234,676 3011,595 347,681"/>
+                <Baseline points="347,676 3011,590 3238,641"/>
+                <TextEquiv>
+                    <Unicode>Kedves öregem, méltányolom helyzetedet, de legyen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617970641037_230" custom="readingOrder {index:1;}">
+                <Coords points="378,774 3069,704 3054,870 363,940"/>
+                <Baseline points="363,895 3054,825"/>
+                <TextEquiv>
+                    <Unicode>én velem is egy kis átlátásod: nekem ma</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617970644295_235" custom="readingOrder {index:2;}">
+                <Coords points="256,1042 3174,945 3175,1143 257,1240"/>
+                <Baseline points="257,1235 3175,1138"/>
+                <TextEquiv>
+                    <Unicode>este írnom kell, hasonlóképp holnap reg¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617970647745_240" custom="readingOrder {index:3;}">
+                <Coords points="334,1285 3124,1214 3117,1448 327,1519"/>
+                <Baseline points="327,1486 3117,1415"/>
+                <TextEquiv>
+                    <Unicode>gel is, még pedig épp olyan Kossúth-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617970650927_245" custom="readingOrder {index:4;}">
+                <Coords points="392,1559 3134,1461 3124,1699 382,1797"/>
+                <Baseline points="390,1756 3132,1658"/>
+                <TextEquiv>
+                    <Unicode>czikket, mint amilyen neked kell. Érke¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617970654453_250" custom="readingOrder {index:5;}">
+                <Coords points="385,1829 3273,1782 3270,1948 382,1995"/>
+                <Baseline points="382,1990 3226,1943"/>
+                <TextEquiv>
+                    <Unicode>zésem tehát egyáltalában nincs, ezenfelül</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617970657742_255" custom="readingOrder {index:6;}">
+                <Coords points="377,2087 3139,2037 3144,2215 382,2265"/>
+                <Baseline points="382,2260 3144,2210"/>
+                <TextEquiv>
+                    <Unicode>pedig én, ki egy dologról egyszer végképp</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kedves öregem, méltányolom helyzetedet, de legyen&#xD;
+én velem is egy kis átlátásod: nekem ma&#xD;
+este írnom kell, hasonlóképp holnap reg¬&#xD;
+gel is, még pedig épp olyan Kossúth-&#xD;
+czikket, mint amilyen neked kell. Érke¬&#xD;
+zésem tehát egyáltalában nincs, ezenfelül&#xD;
+pedig én, ki egy dologról egyszer végképp</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-28T13:02:38.049+02:00</Created>
+        <LastChange>2020-11-19T16:30:05.931+01:00</LastChange>
+        <TranskribusMetadata docId="376795" pageId="14734693" pageNr="63" tsid="49221542" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=CZNHBLAJJGRDYLUNAGOAFOLR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZYYYZTWHESONNZYDSFJIMLWL" imageId="10675715"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#33_27b.tif" imageWidth="3523" imageHeight="2315">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424140708" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1597395994969_1514"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1597396004289_1525"/>
+                <RegionRefIndexed index="2" regionRef="region_1597313754914_1001"/>
+                <RegionRefIndexed index="3" regionRef="region_1597313762335_1004"/>
+                <RegionRefIndexed index="4" regionRef="region_1597395975523_1495"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="TextRegion_1597395994969_1514" custom="readingOrder {index:0;}">
+            <Coords points="1788,981 2627,983 2627,1196 1788,1196"/>
+            <TextLine id="line_1597313781284_1010" custom="readingOrder {index:0;}">
+                <Coords points="1815,1046 2593,1038 2593,1184 1815,1192"/>
+                <Baseline points="1815,1187 2593,1179"/>
+                <TextEquiv>
+                    <Unicode>Madmoiselle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Madmoiselle</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="TextRegion_1597396004289_1525" custom="readingOrder {index:1;}">
+            <Coords points="1943,1196 3027,1196 3027,1423 1943,1423"/>
+            <TextLine id="line_1597395988056_1503" custom="readingOrder {index:0;}">
+                <Coords points="1979,1196 3029,1196 3011,1383 1961,1387"/>
+                <Baseline points="1961,1382 3011,1378"/>
+                <TextEquiv>
+                    <Unicode>Erzsike Kiss</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Erzsike Kiss</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1597313754914_1001" custom="readingOrder {index:2;}">
+            <Coords points="2092,1564 2846,1568 2846,1791 2092,1787"/>
+            <TextLine id="line_1597313788051_1025" custom="readingOrder {index:0;} textStyle {offset:0; length:4;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="2224,1614 2780,1618 2780,1780 2224,1776"/>
+                <Baseline points="2224,1771 2780,1775"/>
+                <TextEquiv>
+                    <Unicode>Nice</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Nice</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1597313762335_1004" custom="readingOrder {index:3;}">
+            <Coords points="1641,1706 3055,1706 3055,2002 1641,2002"/>
+            <TextLine id="line_1597313786113_1020" custom="readingOrder {index:0;}">
+                <Coords points="1726,1716 3018,1724 2994,1922 1702,1914"/>
+                <Baseline points="1702,1909 2994,1917"/>
+                <TextEquiv>
+                    <Unicode>Hôtel des princes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Hôtel des princes</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1597395975523_1495" custom="readingOrder {index:4;}">
+            <Coords points="2564,245 3192,245 3192,826 2564,826"/>
+            <TextLine id="line_1597396017236_1544" custom="readingOrder {index:0;}">
+                <Coords points="2606,273 3169,275 3157,698 2588,762"/>
+                <Baseline points="2587,757 3156,693"/>
+                <TextEquiv>
+                    <Unicode>20</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>20</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

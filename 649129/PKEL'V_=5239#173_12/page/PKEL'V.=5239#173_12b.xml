@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2021-04-08T10:44:43.743+02:00</Created>
+        <LastChange>2021-04-19T08:30:42.606+02:00</LastChange>
+        <TranskribusMetadata docId="649129" pageId="25213423" pageNr="2" tsid="56734951" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=YSTGYOJGEOUDONEOXYXCKQSP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BVHYKOHCSCCNPMSDOWHBEMRC" imageId="19444344"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#173_12b.tif" imageWidth="2857" imageHeight="2549">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424919052" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1617961128703_680"/>
+                <RegionRefIndexed index="1" regionRef="region_1617961133655_683"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1617961128703_680" custom="readingOrder {index:0;}">
+            <Coords points="2510,142 2672,142 2672,265 2510,265"/>
+            <TextLine id="line_1617961141532_686" custom="readingOrder {index:0;}">
+                <Coords points="2533,156 2648,156 2649,244 2534,244"/>
+                <Baseline points="2534,239 2649,239"/>
+                <TextEquiv>
+                    <Unicode>1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1617961133655_683" custom="readingOrder {index:1;}">
+            <Coords points="220,658 2653,658 2653,2405 220,2405"/>
+            <TextLine id="line_1617961161124_693" custom="readingOrder {index:0;}">
+                <Coords points="368,742 2566,763 2551,991 353,970"/>
+                <Baseline points="359,931 2557,952"/>
+                <TextEquiv>
+                    <Unicode>Édes öregem, a krónikámnak így</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617961163631_698" custom="readingOrder {index:1;}">
+                <Coords points="248,1060 2548,1042 2556,1248 256,1266"/>
+                <Baseline points="254,1219 2554,1201"/>
+                <TextEquiv>
+                    <Unicode>értelme nincs. Ha muszáj mégis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617961166733_703" custom="readingOrder {index:2;}">
+                <Coords points="284,1300 2602,1295 2596,1533 278,1538"/>
+                <Baseline points="280,1491 2598,1486"/>
+                <TextEquiv>
+                    <Unicode>kiadnotok, hagyjátok meg alatta az</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617961169580_708" custom="readingOrder {index:3;} supplied {offset:9; length:4;} supplied {offset:18; length:6;}">
+                <Coords points="294,1615 2597,1582 2592,1784 289,1817"/>
+                <Baseline points="289,1812 2592,1779"/>
+                <TextEquiv>
+                    <Unicode>álnevet, mert nem akarom, hogy túd¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617961173183_713" custom="readingOrder {index:4;} gap {offset:13; length:0;} supplied {offset:14; length:5;}">
+                <Coords points="282,1874 2638,1888 2624,2082 268,2068"/>
+                <Baseline points="268,2063 2624,2077"/>
+                <TextEquiv>
+                    <Unicode>ják, hogy én  írtam volna,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1617961175942_718" custom="readingOrder {index:5;} gap {offset:7; length:0;}">
+                <Coords points="277,2182 2619,2191 2615,2352 273,2343"/>
+                <Baseline points="273,2316 2615,2325"/>
+                <TextEquiv>
+                    <Unicode>ha nem  írni, köte¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Édes öregem, a krónikámnak így&#xD;
+értelme nincs. Ha muszáj mégis&#xD;
+kiadnotok, hagyjátok meg alatta az&#xD;
+álnevet, mert nem akarom, hogy túd¬&#xD;
+ják, hogy én  írtam volna,&#xD;
+ha nem  írni, köte¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

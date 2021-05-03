@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2021-03-08T10:16:14.142+01:00</Created>
+        <LastChange>2021-03-10T14:30:49.992+01:00</LastChange>
+        <TranskribusMetadata docId="624775" pageId="24629124" pageNr="2" tsid="53520545" status="IN_PROGRESS" userId="56520" imgUrl="https://files.transkribus.eu/Get?id=WRWLFBSNVRLZITZASCBJPXMR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZFGSWJMAIHPPIYPBTZEEXUXB" imageId="18973507"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#152_b.tif" imageWidth="3390" imageHeight="2366">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424950370" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1615370456770_89"/>
+                <RegionRefIndexed index="1" regionRef="region_1615370481165_97"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1615371089347_148"/>
+                <RegionRefIndexed index="3" regionRef="region_1615370503142_103"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1615370456770_89" custom="readingOrder {index:0;}">
+            <Coords points="304,342 301,717 2214,717 2217,342"/>
+            <TextLine id="line_1615370456808_92" custom="readingOrder {index:0;}">
+                <Coords points="310,374 2223,355 2208,693 295,712"/>
+                <Baseline points="298,631 2211,612"/>
+                <TextEquiv>
+                    <Unicode>megtisztelt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>megtisztelt.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1615370481165_97" custom="readingOrder {index:1;}">
+            <Coords points="3259,728 206,728 206,1867 3259,1867"/>
+            <TextLine id="line_1615370549650_111" custom="readingOrder {index:0;}">
+                <Coords points="594,782 3122,771 3111,988 515,1009"/>
+                <Baseline points="518,977 3114,956"/>
+                <TextEquiv>
+                    <Unicode>A képet signáltam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615370561814_116" custom="readingOrder {index:1;}">
+                <Coords points="273,1037 2957,986 3189,1031 3291,1125 3261,1297 3103,1198 2928,1168 265,1203"/>
+                <Baseline points="265,1198 2944,1147 3100,1176 3261,1276"/>
+                <TextEquiv>
+                    <Unicode>(ámbár rendesen nem szoktam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615370570053_121" custom="readingOrder {index:2;}">
+                <Coords points="247,1229 2944,1208 2933,1410 236,1431"/>
+                <Baseline points="239,1375 2936,1354"/>
+                <TextEquiv>
+                    <Unicode>mert oly szemtelen vagyok</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615370577261_126" custom="readingOrder {index:3;}">
+                <Coords points="249,1457 3264,1406 3259,1585 244,1636"/>
+                <Baseline points="244,1601 3259,1550"/>
+                <TextEquiv>
+                    <Unicode>hogy nem tartom képeimet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615370585616_131" custom="readingOrder {index:4;}">
+                <Coords points="245,1670 2781,1608 2788,1747 252,1852"/>
+                <Baseline points="252,1786 2788,1724"/>
+                <TextEquiv>
+                    <Unicode>magamhoz méltóknak)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>A képet signáltam&#xD;
+(ámbár rendesen nem szoktam&#xD;
+mert oly szemtelen vagyok&#xD;
+hogy nem tartom képeimet&#xD;
+magamhoz méltóknak)</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="TextRegion_1615371089347_148" custom="readingOrder {index:2;}">
+            <Coords points="206,1867 3272,1727 3269,2068 2477,2087 2461,2084 2230,2041 2076,2096 832,2127 795,2205 204,2213 204,2133"/>
+            <TextLine id="line_1615371116877_155" custom="readingOrder {index:0;}">
+                <Coords points="487,1856 2818,1756 3130,1780 3272,1858 3261,2038 3194,2056 3137,1964 3025,1909 2802,1916 488,1992"/>
+                <Baseline points="488,1963 2802,1887 3041,1895 3156,1952 3199,2054"/>
+                <TextEquiv>
+                    <Unicode>Köszönettel és mély tisztelettel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615371129119_160" custom="readingOrder {index:1;}">
+                <Coords points="345,2000 2044,1944 2251,1928 3041,1946 3030,2065 2228,2046 2061,2089 354,2102"/>
+                <Baseline points="354,2097 2060,2084 2230,2035 3033,2054"/>
+                <TextEquiv>
+                    <Unicode>vagyok igen tisztelt Uramnak</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Köszönettel és mély tisztelettel&#xD;
+vagyok igen tisztelt Uramnak</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1615370503142_103" custom="readingOrder {index:3;}">
+            <Coords points="819,2235 3259,2235 3259,2082 2428,2084 2238,2050 2111,2095 827,2127"/>
+            <TextLine id="line_1615371143844_165" custom="readingOrder {index:0;}">
+                <Coords points="831,2130 2125,2100 2238,2051 2453,2086 3057,2078 3232,2102 3291,2161 3277,2250 3186,2215 3068,2208 832,2243"/>
+                <Baseline points="832,2199 3068,2164 3202,2178 3242,2223"/>
+                <TextEquiv>
+                    <Unicode>mindenkor híve Hatvany Ferenc</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>mindenkor híve Hatvany Ferenc</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

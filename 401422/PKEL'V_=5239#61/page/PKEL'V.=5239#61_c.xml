@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-06-03T17:22:19.422+02:00</Created>
+        <LastChange>2020-08-02T17:46:45.830+02:00</LastChange>
+        <TranskribusMetadata docId="401422" pageId="15532064" pageNr="3" tsid="35924012" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=HUICBVWLFHDFKUIWLOIEDYBT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NOKMMSGQUTJZZUXREOUGSKJK" imageId="11359891"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#61_c.tif" imageWidth="3426" imageHeight="5260">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424484204" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1593020912334_283"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1593020912334_283" custom="readingOrder {index:0;}">
+            <Coords points="420,1093 3309,1093 3309,2391 420,2391"/>
+            <TextLine id="line_1593020919640_286" custom="readingOrder {index:0;} add {offset:25; length:1;} gap {offset:25; length:0;}">
+                <Coords points="439,1151 3167,1146 3165,1398 437,1403"/>
+                <Baseline points="437,1398 3165,1393"/>
+                <TextEquiv>
+                    <Unicode>Ha Rothhauser nem vállalná</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1593020924819_291" custom="readingOrder {index:1;}">
+                <Coords points="439,1421 3273,1415 3270,1772 436,1778"/>
+                <Baseline points="442,1670 3276,1664"/>
+                <TextEquiv>
+                    <Unicode>a verset, tán a „Journal”-nál</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1593020930805_296" custom="readingOrder {index:2;} gap {offset:13; length:0;}">
+                <Coords points="437,1731 3304,1731 3295,2023 428,2023"/>
+                <Baseline points="431,1969 3298,1969"/>
+                <TextEquiv>
+                    <Unicode>s esetleg a „ Tagblatt”-nál</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1593020936104_301" custom="readingOrder {index:3;}">
+                <Coords points="419,2014 2333,2003 2336,2307 422,2318"/>
+                <Baseline points="425,2247 2339,2236"/>
+                <TextEquiv>
+                    <Unicode>el lehetne helyezni.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ha Rothhauser nem vállalná&#xD;
+a verset, tán a „Journal”-nál&#xD;
+s esetleg a „ Tagblatt”-nál&#xD;
+el lehetne helyezni.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

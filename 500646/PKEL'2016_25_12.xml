@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>PKEL'2016.25.12</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: eszter.mihaly@gmail.com</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile xml:id='facs_1'>
+		<surface ulx='0' uly='0' lrx='3748' lry='5280'>
+			<graphic url='PKEL'2016.25.12._a.tif' width='3748px' height='5280px'/>
+			<zone ulx='678' uly='1892' lrx='2999' lry='2567' rendition='TextRegion' xml:id='facs_1_TextRegion_1602578868211_85'>
+				<zone ulx='754' uly='1876' lrx='2886' lry='2107' rendition='Line' xml:id='facs_1_r1l1'/>
+				<zone ulx='714' uly='2071' lrx='2910' lry='2249' rendition='Line' xml:id='facs_1_r1l2'/>
+				<zone ulx='706' uly='2201' lrx='2946' lry='2471' rendition='Line' xml:id='facs_1_r1l3'/>
+				<zone ulx='688' uly='2407' lrx='1548' lry='2559' rendition='Line' xml:id='facs_1_r1l4'/>
+			</zone>
+			<zone ulx='873' uly='2567' lrx='1452' lry='2745' rendition='TextRegion' xml:id='facs_1_TextRegion_1602246983501_1431'>
+				<zone ulx='902' uly='2578' lrx='1392' lry='2697' rendition='Line' xml:id='facs_1_r1l5'/>
+			</zone>
+			<zone ulx='1815' uly='2439' lrx='2914' lry='2886' rendition='TextRegion' xml:id='facs_1_TextRegion_1602246968075_1423'>
+				<zone ulx='1856' uly='2477' lrx='2802' lry='2840' rendition='Line' xml:id='facs_1_r1l6'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<pb facs='#facs_1' n='1'/>
+			<p facs='#facs_1_TextRegion_1602578868211_85'>
+				<lb facs='#facs_1_r1l1' n='N001'/>írói pályám negyvenedik évfordulóján
+				<lb facs='#facs_1_r1l2' n='N002'/>személyem iránt tanusított rokonszenves
+				<lb facs='#facs_1_r1l3' n='N003'/><sic>megemlékezéseért</sic> fogadja mély hálámat,
+				<lb facs='#facs_1_r1l4' n='N004'/>köszönetemet.
+			</p>
+			<p facs='#facs_1_TextRegion_1602246983501_1431'>
+				<lb facs='#facs_1_r1l5' n='N001'/>1907 decz.
+			</p>
+			<p facs='#facs_1_TextRegion_1602246968075_1423'>
+				<lb facs='#facs_1_r1l6' n='N001'/>Kiss József
+			</p>
+		</body>
+	</text>
+</TEI>

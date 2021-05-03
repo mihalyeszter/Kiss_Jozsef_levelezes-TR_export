@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-09-21T14:10:52.587+02:00</Created>
+        <LastChange>2021-02-24T14:56:48.680+01:00</LastChange>
+        <TranskribusMetadata docId="533482" pageId="24460099" pageNr="1" tsid="53003749" status="IN_PROGRESS" userId="63384" imgUrl="https://files.transkribus.eu/Get?id=JKQQHKTFLFFVVLDNCCDFWWAQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VVRTYQDJWGLTXDUXKEPYXBEK" imageId="18831623"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=1346_a.tif" imageWidth="3644" imageHeight="2407">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424643178" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1604652424987_40"/>
+                <RegionRefIndexed index="1" regionRef="region_1604652427803_43"/>
+                <RegionRefIndexed index="2" regionRef="region_1604652432385_46"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="region_1604652424987_40" custom="readingOrder {index:0;}">
+            <Coords points="509,367 1565,367 1565,900 509,900"/>
+            <TextLine id="region_1604652424987_40l1" custom="readingOrder {index:0;}">
+                <Coords points="567,808 821,807 837,954 905,964 985,969 1058,909 1089,778 1204,778 1163,953 1237,948 1253,915 1299,860 1337,833 1421,832 1524,796 1521,433 564,445"/>
+                <Baseline points="651,755 687,755 724,756 760,755 797,755 834,754 870,753 907,750 943,749 980,747 1017,746 1053,744 1090,741 1126,741 1163,740 1200,738 1236,738 1273,738 1309,738 1346,740 1383,743"/>
+                <TextEquiv>
+                    <Unicode>Nagyságos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Nagyságos</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1604652427803_43" custom="readingOrder {index:1;}">
+            <Coords points="790,862 3441,862 3441,1316 790,1316"/>
+            <TextLine id="region_1604652427803_43l1" custom="readingOrder {index:0;}">
+                <Coords points="841,1279 1850,1251 1765,1533 1856,1527 2069,1251 3423,1222 3411,889 829,946"/>
+                <Baseline points="869,1249 916,1249 966,1239 995,1226 1110,1227 1226,1229 1342,1227 1457,1226 1573,1223 1689,1220 1804,1216 1920,1211 2036,1206 2152,1200 2267,1196 2383,1190 2499,1185 2614,1179 2730,1175 2846,1170 2961,1167 3077,1163 3212,1184 3251,1208 3327,1217 3365,1205 3408,1187"/>
+                <TextEquiv>
+                    <Unicode>Kún József tanár úrnak</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kún József tanár úrnak</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1604652432385_46" custom="readingOrder {index:2;}">
+            <Coords points="1908,1431 3051,1410 3102,2041 1815,2041"/>
+            <TextLine id="region_1604652432385_46l1" custom="readingOrder {index:0;} textStyle {offset:0; length:7;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="2001,1976 2366,2009 2389,2063 2496,2063 2603,1997 3026,1990 3032,1462 2007,1448"/>
+                <Baseline points="2082,1878 2116,1883 2151,1887 2186,1890 2221,1892 2255,1893 2290,1895 2325,1895 2360,1896 2394,1895 2429,1895 2464,1895 2499,1894 2533,1893 2568,1893 2603,1893 2638,1893 2672,1895 2707,1895 2742,1898 2777,1901 2838,1899 2931,1887 2968,1878"/>
+                <TextEquiv>
+                    <Unicode>Szeged.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Szeged.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

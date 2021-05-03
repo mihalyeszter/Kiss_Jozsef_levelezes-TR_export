@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-29T10:54:39.308+02:00</Created>
+        <LastChange>2020-11-24T10:24:40.669+01:00</LastChange>
+        <TranskribusMetadata docId="377228" pageId="14767722" pageNr="21" tsid="49517949" status="IN_PROGRESS" userId="56520" imgUrl="https://files.transkribus.eu/Get?id=UGTQWQNWVSLVQHFHBYULAYYV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GOYBSJOMXREMSZCIFMUQGWCE" imageId="10707561"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#34_8a.tif" imageWidth="3185" imageHeight="2433">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424051473" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1594323215856_569"/>
+                <RegionRefIndexed index="1" regionRef="region_1594323224432_577"/>
+                <RegionRefIndexed index="2" regionRef="region_1594323234916_585"/>
+                <RegionRefIndexed index="3" regionRef="TextRegion_1594323345162_606"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1594323215856_569" custom="readingOrder {index:0;}">
+            <Coords points="2234,2004 2234,2056 2878,2056 2878,2004"/>
+            <TextLine id="line_1594323215887_572" custom="readingOrder {index:0;}">
+                <Coords points="2234,2004 2878,2006 2878,2056 2234,2054"/>
+                <Baseline points="2234,2049 2878,2051"/>
+                <TextEquiv>
+                    <Unicode>VIII., Népszinház-u. 22.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>VIII., Népszinház-u. 22.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1594323224432_577" custom="readingOrder {index:1;}">
+            <Coords points="2229,2092 2229,2142 2875,2142 2875,2092"/>
+            <TextLine id="line_1594323224463_580" custom="readingOrder {index:0;}">
+                <Coords points="2229,2092 2875,2092 2875,2142 2229,2142"/>
+                <Baseline points="2229,2137 2875,2137"/>
+                <TextEquiv>
+                    <Unicode>Telefon József 5-27.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Telefon József 5-27.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1594323234916_585" custom="readingOrder {index:2;}">
+            <Coords points="1629,141 1626,380 3075,380 3078,141"/>
+            <TextLine id="line_1594323234963_588" custom="readingOrder {index:0;} textStyle {offset:0; length:13;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="1623,163 3071,132 3075,353 1627,384"/>
+                <Baseline points="1627,313 3075,282"/>
+                <TextEquiv>
+                    <Unicode>Margit sziget 1916 jul 18</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Margit sziget 1916 jul 18</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="TextRegion_1594323345162_606" custom="readingOrder {index:3;}">
+            <Coords points="238,386 3088,386 3091,2187 2879,2187 2880,2182 2886,2001 2209,2001 2207,2179 2206,2187 241,2187"/>
+            <TextLine id="line_1594323384944_617" custom="readingOrder {index:0;}">
+                <Coords points="717,401 3063,390 3072,620 726,631"/>
+                <Baseline points="720,596 3066,585"/>
+                <TextEquiv>
+                    <Unicode>Kedves Sándorkám! Örömmel vettem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1594323390915_622" custom="readingOrder {index:1;}">
+                <Coords points="271,643 3082,634 3083,795 274,862"/>
+                <Baseline points="274,815 3083,748"/>
+                <TextEquiv>
+                    <Unicode>és olvastam leveledet, melyben Teplicz di¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1594323395492_627" custom="readingOrder {index:2;}">
+                <Coords points="279,885 3024,799 3025,998 280,1084"/>
+                <Baseline points="280,1034 3025,948"/>
+                <TextEquiv>
+                    <Unicode>csőségét mérsékelten zenged. Előre tud¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1594323402679_632" custom="readingOrder {index:3;} textStyle {offset:18; length:1;strikethrough:true; fontSize:0.0; kerning:0;} add {offset:19; length:1;} add {offset:21; length:1;} gap {offset:21; length:0;}">
+                <Coords points="310,1073 2924,1001 2922,1183 308,1255"/>
+                <Baseline points="305,1214 2919,1142"/>
+                <TextEquiv>
+                    <Unicode>tam, hogy az a penzsio nem neked</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1594323408693_637" custom="readingOrder {index:4;}">
+                <Coords points="284,1260 3037,1205 3041,1389 288,1444"/>
+                <Baseline points="288,1394 3041,1339"/>
+                <TextEquiv>
+                    <Unicode>való kocsma. Egyszer én is próbáltam,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1594323415067_642" custom="readingOrder {index:5;}">
+                <Coords points="287,1452 2988,1391 2989,1568 288,1629"/>
+                <Baseline points="288,1591 2989,1530"/>
+                <TextEquiv>
+                    <Unicode>de csak egyetlen egyszer, aztán abba</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1594323422228_647" custom="readingOrder {index:6;}">
+                <Coords points="301,1631 2876,1570 2880,1739 305,1800"/>
+                <Baseline points="305,1780 2880,1719"/>
+                <TextEquiv>
+                    <Unicode>hagytam. – Egészben véve tűrhetően</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1594323428320_652" custom="readingOrder {index:7;}">
+                <Coords points="300,1797 2851,1736 2853,1929 307,1974"/>
+                <Baseline points="307,1957 2858,1896"/>
+                <TextEquiv>
+                    <Unicode>élek itt a Duna közepén, de tegnap</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1594323435947_657" custom="readingOrder {index:8;}">
+                <Coords points="312,1970 2170,1945 2168,2150 310,2175"/>
+                <Baseline points="313,2126 2171,2101"/>
+                <TextEquiv>
+                    <Unicode>óta ágyba estem. A szívem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kedves Sándorkám! Örömmel vettem&#xD;
+és olvastam leveledet, melyben Teplicz di¬&#xD;
+csőségét mérsékelten zenged. Előre tud¬&#xD;
+tam, hogy az a penzsio nem neked&#xD;
+való kocsma. Egyszer én is próbáltam,&#xD;
+de csak egyetlen egyszer, aztán abba&#xD;
+hagytam. – Egészben véve tűrhetően&#xD;
+élek itt a Duna közepén, de tegnap&#xD;
+óta ágyba estem. A szívem</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

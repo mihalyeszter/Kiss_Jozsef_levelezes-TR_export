@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-28T11:41:45.421+02:00</Created>
+        <LastChange>2020-11-23T13:18:23.454+01:00</LastChange>
+        <TranskribusMetadata docId="376710" pageId="14727315" pageNr="1" tsid="49483304" status="IN_PROGRESS" userId="56520" imgUrl="https://files.transkribus.eu/Get?id=REWVQDRYEZHSIMHWDYEAYXKL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UYTCYKNVTHKKRBFTUIKDWQPX" imageId="10668370"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#29_a.tif" imageWidth="6630" imageHeight="4582">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424023999" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1590407707150_1057"/>
+                <RegionRefIndexed index="1" regionRef="region_1590407711278_1060"/>
+                <RegionRefIndexed index="2" regionRef="region_1590407720659_1063"/>
+                <RegionRefIndexed index="3" regionRef="region_1590407729788_1066"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1590407707150_1057" custom="readingOrder {index:0;}">
+            <Coords points="4959,390 6398,390 6398,616 4959,616"/>
+            <TextLine id="line_1590407783448_1073" custom="readingOrder {index:0;}">
+                <Coords points="4988,428 6342,428 6350,578 4996,578"/>
+                <Baseline points="4996,553 6350,553"/>
+                <TextEquiv>
+                    <Unicode>Budapest 1920 III. 4.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Budapest 1920 III. 4.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1590407711278_1060" custom="readingOrder {index:1;}">
+            <Coords points="4095,1275 5549,1275 5549,1523 4095,1523"/>
+            <TextLine id="line_1590407796460_1078" custom="readingOrder {index:0;}">
+                <Coords points="4127,1318 5477,1329 5477,1495 4127,1484"/>
+                <Baseline points="4131,1459 5481,1470"/>
+                <TextEquiv>
+                    <Unicode>Kedves Wolfner Uram!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kedves Wolfner Uram!</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1590407720659_1063" custom="readingOrder {index:2;}">
+            <Coords points="3590,1834 6435,1834 6435,4337 3584,4268"/>
+            <TextLine id="line_1590407802743_1083" custom="readingOrder {index:0;} sic {offset:0; length:8;}">
+                <Coords points="4145,1913 6375,1944 6382,2102 4152,2071"/>
+                <Baseline points="4152,2050 6382,2081"/>
+                <TextEquiv>
+                    <Unicode>CSaládom körében ismét járványsze¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1590407807382_1088" custom="readingOrder {index:1;} textStyle {offset:26; length:1;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="3628,2108 6310,2150 6313,2292 3631,2250"/>
+                <Baseline points="3631,2245 6313,2287"/>
+                <TextEquiv>
+                    <Unicode>rűen dühöng a cipőínség. AA família nagykoru</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1590407813027_1093" custom="readingOrder {index:2;}">
+                <Coords points="3640,2292 6380,2334 6371,2492 3631,2450"/>
+                <Baseline points="3631,2445 6371,2487"/>
+                <TextEquiv>
+                    <Unicode>tagjai még bírják valahogyan ezt az álla¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1590407817713_1098" custom="readingOrder {index:3;} sic {offset:7; length:1;}">
+                <Coords points="3624,2504 6333,2552 6340,2698 3631,2650"/>
+                <Baseline points="3631,2645 6340,2693"/>
+                <TextEquiv>
+                    <Unicode>potot. s elkészültek arra, hogy a legvégső</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1590407821582_1103" custom="readingOrder {index:4;} sic {offset:0; length:6;}">
+                <Coords points="3626,2702 6309,2744 6308,2882 3625,2840"/>
+                <Baseline points="3625,2835 6308,2877"/>
+                <TextEquiv>
+                    <Unicode>estben néhai Kneipp páter követői sorába</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1590407826342_1108" custom="readingOrder {index:5;} sic {offset:22; length:14;}">
+                <Coords points="3622,2890 6387,2949 6390,3099 3625,3040"/>
+                <Baseline points="3625,3035 6366,3098"/>
+                <TextEquiv>
+                    <Unicode>állanak, de három kis unokámatnagyon féltem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1590407831383_1113" custom="readingOrder {index:6;}">
+                <Coords points="3612,3081 6300,3144 6303,3298 3615,3235"/>
+                <Baseline points="3615,3230 6303,3293"/>
+                <TextEquiv>
+                    <Unicode>ettől a kísérlettől. A kicsikéknek nagyon</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1590407837258_1118" custom="readingOrder {index:7;}">
+                <Coords points="3625,3255 6366,3345 6361,3499 3620,3409"/>
+                <Baseline points="3620,3404 6361,3494"/>
+                <TextEquiv>
+                    <Unicode>szép lábacskáik vannak, s hölgyekről lévén</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1590407842869_1123" custom="readingOrder {index:8;} sic {offset:0; length:6;}">
+                <Coords points="3611,3462 6209,3546 6208,3704 3610,3620"/>
+                <Baseline points="3610,3615 6208,3699"/>
+                <TextEquiv>
+                    <Unicode>estleg egész jövőjüket kockáztatják egy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1590407851950_1128" custom="readingOrder {index:9;}">
+                <Coords points="3593,3660 6255,3739 6266,3889 3604,3810"/>
+                <Baseline points="3604,3805 6266,3884"/>
+                <TextEquiv>
+                    <Unicode>szerencsétlen kimenetelü experimentum ál¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1590407889669_1133" custom="readingOrder {index:10;} textStyle {offset:5; length:2;strikethrough:true; fontSize:0.0; kerning:0;} sic {offset:7; length:4;} add {offset:7; length:1;}">
+                <Coords points="3593,3816 6329,3905 6340,4115 3604,4026"/>
+                <Baseline points="3604,4021 6340,4110"/>
+                <TextEquiv>
+                    <Unicode>tal. séEpen ezért azzal a kéréssel fordulok</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1590407897578_1138" custom="readingOrder {index:11;} textStyle {offset:11; length:1;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="3633,4047 6384,4157 6382,4331 3631,4221"/>
+                <Baseline points="3631,4216 6382,4326"/>
+                <TextEquiv>
+                    <Unicode>Önhöz ejtsee módját annak, hogy kis unokáim</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>CSaládom körében ismét járványsze¬&#xD;
+rűen dühöng a cipőínség. AA família nagykoru&#xD;
+tagjai még bírják valahogyan ezt az álla¬&#xD;
+potot. s elkészültek arra, hogy a legvégső&#xD;
+estben néhai Kneipp páter követői sorába&#xD;
+állanak, de három kis unokámatnagyon féltem&#xD;
+ettől a kísérlettől. A kicsikéknek nagyon&#xD;
+szép lábacskáik vannak, s hölgyekről lévén&#xD;
+estleg egész jövőjüket kockáztatják egy&#xD;
+szerencsétlen kimenetelü experimentum ál¬&#xD;
+tal. séEpen ezért azzal a kéréssel fordulok&#xD;
+Önhöz ejtsee módját annak, hogy kis unokáim</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1590407729788_1066" custom="readingOrder {index:3;}">
+            <Coords points="4938,4437 4827,4437 4827,4332 4938,4332"/>
+            <TextLine id="line_1590407904612_1143" custom="readingOrder {index:0;}">
+                <Coords points="4840,4336 4914,4331 4917,4421 4843,4426"/>
+                <Baseline points="4843,4421 4917,4416"/>
+                <TextEquiv>
+                    <Unicode>1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

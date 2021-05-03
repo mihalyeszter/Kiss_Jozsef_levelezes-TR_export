@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-12-11T08:15:30.410+01:00</Created>
+        <LastChange>2020-12-11T15:55:48.192+01:00</LastChange>
+        <TranskribusMetadata docId="554372" pageId="22965022" pageNr="1" tsid="50268029" status="IN_PROGRESS" userId="58915" imgUrl="https://files.transkribus.eu/Get?id=TJAWGFHVUHGELHASNGARREAV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TIMSIEVDYMUKEUPQIFGUPEIM" imageId="17918499"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#131_a.tif" imageWidth="2548" imageHeight="1675">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424911618" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1607681150439_417"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1607681226900_433"/>
+                <RegionRefIndexed index="2" regionRef="region_1607681262914_443"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1607681150439_417" custom="readingOrder {index:0;}">
+            <Coords points="676,771 676,859 1857,859 1857,771"/>
+            <TextLine id="line_1607681150470_420" custom="readingOrder {index:0;}">
+                <Coords points="682,781 1857,777 1857,847 676,859"/>
+                <Baseline points="676,854 1857,842"/>
+                <TextEquiv>
+                    <Unicode>Gara-Grünbaum-Miksa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Gara-Grünbaum-Miksa</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="TextRegion_1607681226900_433" custom="readingOrder {index:1;}">
+            <Coords points="141,787 666,787 666,791 664,864 1865,866 1863,789 1862,787 2363,787 2363,1425 141,1425"/>
+            <TextLine id="line_1607681296293_456" custom="readingOrder {index:0;}">
+                <Coords points="395,903 1806,858 1869,793 1964,795 2032,866 2033,954 396,991"/>
+                <Baseline points="396,970 2033,933"/>
+                <TextEquiv>
+                    <Unicode>nagyrabecsüléssel ama tisztelői közé</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1607681303816_461" custom="readingOrder {index:1;} add {offset:2; length:1;} gap {offset:2; length:0;}">
+                <Coords points="253,990 2091,952 2084,1068 234,1122"/>
+                <Baseline points="234,1105 2084,1051"/>
+                <TextEquiv>
+                    <Unicode>kíván sorakozni, ki születésnapja al¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1607681310665_466" custom="readingOrder {index:2;}">
+                <Coords points="246,1132 2051,1069 2094,984 2171,984 2233,1067 2234,1165 247,1230"/>
+                <Baseline points="247,1225 2234,1160"/>
+                <TextEquiv>
+                    <Unicode>kalmából legőszintébb gratuláczióját ki¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1607681318897_471" custom="readingOrder {index:3;}">
+                <Coords points="225,1231 2347,1164 2343,1274 226,1321"/>
+                <Baseline points="226,1306 2343,1259"/>
+                <TextEquiv>
+                    <Unicode>fejezi ama hő kívánsággal, hogy a Minden¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1607681325466_476" custom="readingOrder {index:4;}">
+                <Coords points="170,1314 2347,1292 2343,1404 166,1426"/>
+                <Baseline points="170,1397 2347,1375"/>
+                <TextEquiv>
+                    <Unicode>ható még sokáig jó egészségben megtartsa. –</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>nagyrabecsüléssel ama tisztelői közé&#xD;
+kíván sorakozni, ki születésnapja al¬&#xD;
+kalmából legőszintébb gratuláczióját ki¬&#xD;
+fejezi ama hő kívánsággal, hogy a Minden¬&#xD;
+ható még sokáig jó egészségben megtartsa. –</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1607681262914_443" custom="readingOrder {index:2;}">
+            <Coords points="115,1430 111,1570 958,1570 962,1430"/>
+            <TextLine id="line_1607681262952_446" custom="readingOrder {index:0;}">
+                <Coords points="117,1434 958,1438 958,1570 111,1568"/>
+                <Baseline points="111,1563 958,1565"/>
+                <TextEquiv>
+                    <Unicode>Budapest 1913 1/XII</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Budapest 1913 1/XII</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

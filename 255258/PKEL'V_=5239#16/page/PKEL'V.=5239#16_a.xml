@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2019-11-19T15:12:52.388+01:00</Created>
+        <LastChange>2020-06-08T11:09:53.423+02:00</LastChange>
+        <TranskribusMetadata docId="255258" pageId="11135591" pageNr="1" tsid="30834687" status="IN_PROGRESS" userId="56520" imgUrl="https://files.transkribus.eu/Get?id=HHOXDYZUHOZCKMKLYOKWXBBQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OHEPHGEDMTYXUPXGGDTZAYAT" imageId="7600307"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#16_a.tif" imageWidth="2490" imageHeight="1584">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619423905309" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1574172920170_252"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1574172920170_252" custom="readingOrder {index:0;}">
+            <Coords points="171,270 2421,282 2421,1485 171,1473"/>
+            <TextLine id="line_1574172960156_257" custom="readingOrder {index:0;}">
+                <Coords points="294,271 2387,277 2391,613 298,607"/>
+                <Baseline points="328,542 2291,550"/>
+                <TextEquiv>
+                    <Unicode>Kedves barátom! Ha teheted</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1574172968572_262" custom="readingOrder {index:1;}">
+                <Coords points="275,539 2388,588 2373,858 260,809"/>
+                <Baseline points="270,748 2383,797"/>
+                <TextEquiv>
+                    <Unicode>nézz el hozzám. Azt hiszem,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1574172974637_267" custom="readingOrder {index:2;}">
+                <Coords points="270,765 2350,796 2349,1085 269,1054"/>
+                <Baseline points="293,991 2317,1020"/>
+                <TextEquiv>
+                    <Unicode>hogy megfulok, de értem nem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1574172978645_272" custom="readingOrder {index:3;}">
+                <Coords points="282,1011 2164,1009 2134,1270 252,1272"/>
+                <Baseline points="264,1201 2146,1199"/>
+                <TextEquiv>
+                    <Unicode>kár. Te aki új gégét raksz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1574172988853_277" custom="readingOrder {index:4;}">
+                <Coords points="259,1193 2205,1215 2192,1455 246,1433"/>
+                <Baseline points="262,1370 2208,1392"/>
+                <TextEquiv>
+                    <Unicode>az embereknek, ezt fel sem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kedves barátom! Ha teheted&#xD;
+nézz el hozzám. Azt hiszem,&#xD;
+hogy megfulok, de értem nem&#xD;
+kár. Te aki új gégét raksz&#xD;
+az embereknek, ezt fel sem</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

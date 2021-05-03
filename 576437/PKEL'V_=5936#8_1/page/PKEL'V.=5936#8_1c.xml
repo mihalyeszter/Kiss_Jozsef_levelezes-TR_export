@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2021-01-20T15:29:29.495+01:00</Created>
+        <LastChange>2021-03-03T19:04:01.632+01:00</LastChange>
+        <TranskribusMetadata docId="576437" pageId="23675482" pageNr="3" tsid="53287550" status="IN_PROGRESS" userId="58915" imgUrl="https://files.transkribus.eu/Get?id=DMKKXYKWMSDWNSHSSYKGLKMN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NTWZAMDRRMELJHKCCFQPZPLR" imageId="18184092"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5936#8_1c.tif" imageWidth="4049" imageHeight="5277">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424804531" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1611930803997_582"/>
+                <RegionRefIndexed index="1" regionRef="region_1611930806742_585"/>
+                <RegionRefIndexed index="2" regionRef="region_1611930820686_588"/>
+                <RegionRefIndexed index="3" regionRef="region_1611930833150_591"/>
+                <RegionRefIndexed index="4" regionRef="region_1611930837414_594"/>
+                <RegionRefIndexed index="5" regionRef="region_1611930841813_597"/>
+                <RegionRefIndexed index="6" regionRef="region_1611930847142_600"/>
+                <RegionRefIndexed index="7" regionRef="region_1611930849342_603"/>
+                <RegionRefIndexed index="8" regionRef="region_1611931227095_606"/>
+                <RegionRefIndexed index="9" regionRef="region_1611931266725_613"/>
+                <RegionRefIndexed index="10" regionRef="region_1611931280265_617"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1611930803997_582" custom="readingOrder {index:0;}">
+            <Coords points="453,144 3791,144 3791,424 453,424"/>
+            <TextLine id="line_1611931388674_640" custom="readingOrder {index:0;} textStyle {offset:28; length:2;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="544,182 3725,160 3737,428 556,450"/>
+                <Baseline points="556,409 3737,387"/>
+                <TextEquiv>
+                    <Unicode>Tekintetes Weiszmann testvérek uraknak</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Tekintetes Weiszmann testvérek uraknak</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1611930806742_585" custom="readingOrder {index:1;}">
+            <Coords points="2740,402 3708,402 3711,592 2743,592"/>
+            <TextLine id="line_1611931401093_646" custom="readingOrder {index:0;}">
+                <Coords points="2766,425 3663,368 3696,542 2799,599"/>
+                <Baseline points="2799,578 3696,521"/>
+                <TextEquiv>
+                    <Unicode>Budapesten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Budapesten</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1611930820686_588" custom="readingOrder {index:2;}">
+            <Coords points="3968,517 257,517 257,1910 3968,1910"/>
+            <TextLine id="line_1611931406393_652" custom="readingOrder {index:0;}">
+                <Coords points="402,520 2717,463 2733,463 2769,574 3819,518 3826,674 424,769"/>
+                <Baseline points="424,764 3826,669"/>
+                <TextEquiv>
+                    <Unicode>A kérdéses fordítás 1874-ben jelent meg</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1611931410733_659" custom="readingOrder {index:1;}">
+                <Coords points="388,763 3917,668 3927,867 398,962"/>
+                <Baseline points="398,921 3927,826"/>
+                <TextEquiv>
+                    <Unicode>a Silberstein-féle „Pester Journal” tárcarovatá¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1611931413523_664" custom="readingOrder {index:2;}">
+                <Coords points="355,930 3899,841 3909,1012 365,1101"/>
+                <Baseline points="365,1096 3909,1007"/>
+                <TextEquiv>
+                    <Unicode>ban; azonban nagyrészt csak kivonatosan és az</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1611931416063_669" custom="readingOrder {index:3;}">
+                <Coords points="355,1112 3917,1029 3921,1196 359,1279"/>
+                <Baseline points="359,1253 3921,1170"/>
+                <TextEquiv>
+                    <Unicode>eredetitől eltérő befejezéssel. Egyes részei hasz¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1611931418493_674" custom="readingOrder {index:4;}">
+                <Coords points="311,1279 3914,1166 3927,1349 324,1462"/>
+                <Baseline points="324,1437 3927,1324"/>
+                <TextEquiv>
+                    <Unicode>nálhatók volnának, az egész: nem. Sajnálom, hogy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1611931422463_679" custom="readingOrder {index:5;}">
+                <Coords points="333,1479 3589,1336 3927,1442 3920,1540 3595,1477 344,1620"/>
+                <Baseline points="344,1615 3595,1472 3921,1535"/>
+                <TextEquiv>
+                    <Unicode>a fordítás többé birtokomban nincs, s így nem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1611931425813_684" custom="readingOrder {index:6;}">
+                <Coords points="307,1609 3748,1493 3952,1567 3947,1688 3761,1661 324,1777"/>
+                <Baseline points="324,1772 3761,1656 3948,1683"/>
+                <TextEquiv>
+                    <Unicode>is szolgálhatok vele. A „Múzeumi Könyvtárban”</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1611931429113_689" custom="readingOrder {index:7;}">
+                <Coords points="342,1804 466,1784 2639,1699 2647,1883 353,1904"/>
+                <Baseline points="353,1899 2647,1878"/>
+                <TextEquiv>
+                    <Unicode>mindenesetre megtalálható lesz.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>A kérdéses fordítás 1874-ben jelent meg&#xD;
+a Silberstein-féle „Pester Journal” tárcarovatá¬&#xD;
+ban; azonban nagyrészt csak kivonatosan és az&#xD;
+eredetitől eltérő befejezéssel. Egyes részei hasz¬&#xD;
+nálhatók volnának, az egész: nem. Sajnálom, hogy&#xD;
+a fordítás többé birtokomban nincs, s így nem&#xD;
+is szolgálhatok vele. A „Múzeumi Könyvtárban”&#xD;
+mindenesetre megtalálható lesz.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1611930833150_591" custom="readingOrder {index:3;}">
+            <Coords points="1635,1856 3340,1856 3343,2102 1638,2102"/>
+            <TextLine id="line_1611931445268_695" custom="readingOrder {index:0;}">
+                <Coords points="1671,1901 3081,1854 3321,1970 3323,2020 3083,2029 1672,2076"/>
+                <Baseline points="1672,2071 3083,2024 3323,2015"/>
+                <TextEquiv>
+                    <Unicode>Tisztelettel maradtam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Tisztelettel maradtam</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1611930837414_594" custom="readingOrder {index:4;}">
+            <Coords points="3018,1975 3951,1975 3951,2268 3018,2268"/>
+            <TextLine id="line_1611931448573_701" custom="readingOrder {index:0;}">
+                <Coords points="3055,2022 3922,1991 3932,2216 3065,2247"/>
+                <Baseline points="3061,2218 3928,2187"/>
+                <TextEquiv>
+                    <Unicode>Kiss József</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kiss József</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1611930841813_597" custom="readingOrder {index:5;}">
+            <Coords points="358,2014 2928,2014 2928,2268 358,2268"/>
+            <TextLine id="line_1611931453393_707" custom="readingOrder {index:0;}">
+                <Coords points="398,2064 2912,2033 2909,2231 395,2262"/>
+                <Baseline points="395,2257 2909,2226"/>
+                <TextEquiv>
+                    <Unicode>Temesvárott, 1880, május 26.-án</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Temesvárott, 1880, május 26.-án</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1611930847142_600" custom="readingOrder {index:6;}">
+            <Coords points="365,2275 3806,2275 3806,2484 365,2484"/>
+            <TextLine id="line_1611931460143_713" custom="readingOrder {index:0;}">
+                <Coords points="454,2265 3099,2273 3749,2243 3755,2421 3098,2479 451,2471"/>
+                <Baseline points="451,2466 3098,2474 3755,2416"/>
+                <TextEquiv>
+                    <Unicode>Tekintetes Weismann testvérek Uraknak</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Tekintetes Weismann testvérek Uraknak</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1611930849342_603" custom="readingOrder {index:7;}">
+            <Coords points="2912,2464 3687,2464 3687,2628 2912,2628"/>
+            <TextLine id="line_1611931462737_719" custom="readingOrder {index:0;}">
+                <Coords points="3062,2485 3661,2455 3675,2589 3076,2619"/>
+                <Baseline points="3076,2614 3675,2584"/>
+                <TextEquiv>
+                    <Unicode>Bpesten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Bpesten</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1611931227095_606" custom="readingOrder {index:8;}">
+            <Coords points="4024,2615 215,2615 215,4788 1275,4784 1287,4600 3169,4526 4006,4507"/>
+            <TextLine id="line_1611931468602_725" custom="readingOrder {index:0;}">
+                <Coords points="407,2665 3651,2620 4018,2657 4008,2846 3660,2787 420,2832"/>
+                <Baseline points="420,2827 3660,2782 4009,2841"/>
+                <TextEquiv>
+                    <Unicode>Jelen soraimmal átruházom Önökre „Budapesti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1611931472532_730" custom="readingOrder {index:1;}">
+                <Coords points="370,2850 3819,2778 3841,2933 392,3005"/>
+                <Baseline points="386,2967 3835,2895"/>
+                <TextEquiv>
+                    <Unicode>Rejtelmek, írta Szentesi Rudolf – című első</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1611931478812_735" custom="readingOrder {index:2;}">
+                <Coords points="257,2958 3087,2948 3828,2912 3856,3051 3116,3130 284,3140"/>
+                <Baseline points="284,3135 3116,3125 3855,3046"/>
+                <TextEquiv>
+                    <Unicode>kiadásban Rosenberg testvéreknél megjelent</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1611931484462_740" custom="readingOrder {index:3;}">
+                <Coords points="249,3153 3070,3115 3724,3082 3729,3222 3075,3283 253,3321"/>
+                <Baseline points="253,3316 3075,3278 3729,3217"/>
+                <TextEquiv>
+                    <Unicode>művem tulajdonjogát, úgy, hogy azt tetszés</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1611931492982_745" custom="readingOrder {index:4;}">
+                <Coords points="232,3341 2938,3307 3730,3226 4001,3205 4013,3424 3691,3403 2949,3458 242,3492"/>
+                <Baseline points="242,3487 2949,3453 3691,3398 4013,3419"/>
+                <TextEquiv>
+                    <Unicode>szerinti számban sokszorosíthassa avagy fordí¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1611931500982_750" custom="readingOrder {index:5;}">
+                <Coords points="224,3503 2675,3472 3687,3404 3994,3442 3984,3602 3496,3550 2692,3632 239,3663"/>
+                <Baseline points="239,3658 2692,3627 3496,3545 3985,3597"/>
+                <TextEquiv>
+                    <Unicode>tásban üzletileg értékesíthesse. A teljes tulaj¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1611931507512_755" custom="readingOrder {index:6;}">
+                <Coords points="223,3653 1820,3656 3298,3587 3857,3587 3876,3728 3161,3790 1830,3841 232,3838"/>
+                <Baseline points="232,3833 1830,3836 3161,3785 3876,3723"/>
+                <TextEquiv>
+                    <Unicode>donjog díja fejében 800 nyolcszáz forintban</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1611931922851_760" custom="readingOrder {index:7;}">
+                <Coords points="272,3859 1445,3842 3788,3761 3783,3941 1443,4033 270,4029"/>
+                <Baseline points="270,4024 1443,4007 3777,3915"/>
+                <TextEquiv>
+                    <Unicode>egyezkedtünk meg, mely négy részletben 3</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1611931926139_765" custom="readingOrder {index:8;} textStyle {offset:17; length:3;strikethrough:true; fontSize:0.0; kerning:0;} add {offset:20; length:5;} abbrev {offset:42; length:2;}">
+                <Coords points="249,4054 3941,3924 3958,4091 266,4221"/>
+                <Baseline points="266,4216 3958,4086"/>
+                <TextEquiv>
+                    <Unicode>három havi időközbenökben az első részlet f. év</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1611931928556_770" custom="readingOrder {index:9;}">
+                <Coords points="253,4245 3839,4101 3859,4272 273,4416"/>
+                <Baseline points="273,4411 3859,4267"/>
+                <TextEquiv>
+                    <Unicode>1879 szept. 1én lesz fizetendő. Kijelentem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1611931931346_775" custom="readingOrder {index:10;}">
+                <Coords points="314,4435 3900,4264 3917,4450 331,4621"/>
+                <Baseline points="331,4616 3917,4445"/>
+                <TextEquiv>
+                    <Unicode>egyben, hogy a mű áttekintésére, s javítására</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1611931933816_780" custom="readingOrder {index:11;}">
+                <Coords points="308,4624 1238,4586 1255,4744 325,4782"/>
+                <Baseline points="325,4777 1255,4739"/>
+                <TextEquiv>
+                    <Unicode>vállalkozom.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Jelen soraimmal átruházom Önökre „Budapesti&#xD;
+Rejtelmek, írta Szentesi Rudolf – című első&#xD;
+kiadásban Rosenberg testvéreknél megjelent&#xD;
+művem tulajdonjogát, úgy, hogy azt tetszés&#xD;
+szerinti számban sokszorosíthassa avagy fordí¬&#xD;
+tásban üzletileg értékesíthesse. A teljes tulaj¬&#xD;
+donjog díja fejében 800 nyolcszáz forintban&#xD;
+egyezkedtünk meg, mely négy részletben 3&#xD;
+három havi időközbenökben az első részlet f. év&#xD;
+1879 szept. 1én lesz fizetendő. Kijelentem&#xD;
+egyben, hogy a mű áttekintésére, s javítására&#xD;
+vállalkozom.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1611931266725_613" custom="readingOrder {index:9;}">
+            <Coords points="2603,4602 3586,4530 3989,4532 3990,4889 3656,4928 2603,5086"/>
+            <TextLine id="line_1611931942900_786" custom="readingOrder {index:0;}">
+                <Coords points="2677,4617 3618,4452 3680,4694 2739,4859"/>
+                <Baseline points="2736,4850 3677,4685"/>
+                <TextEquiv>
+                    <Unicode>Kiss József</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1611931944705_791" custom="readingOrder {index:1;}">
+                <Coords points="2661,4861 3916,4636 3982,4865 2727,5090"/>
+                <Baseline points="2709,5034 3964,4809"/>
+                <TextEquiv>
+                    <Unicode>Szentesi Rudolf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kiss József&#xD;
+Szentesi Rudolf</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1611931280265_617" custom="readingOrder {index:10;}">
+            <Coords points="585,4761 1588,4754 2604,4629 2588,4761 2588,5053 585,5053"/>
+            <TextLine id="line_1611931949277_797" custom="readingOrder {index:0;}">
+                <Coords points="585,4767 2501,4689 2525,4951 609,5029"/>
+                <Baseline points="601,4976 2517,4898"/>
+                <TextEquiv>
+                    <Unicode>Budapesten 1879 márc. 27.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Budapesten 1879 márc. 27.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

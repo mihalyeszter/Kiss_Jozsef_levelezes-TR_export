@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-06-09T15:43:58.322+02:00</Created>
+        <LastChange>2020-12-01T09:20:57.163+01:00</LastChange>
+        <TranskribusMetadata docId="406055" pageId="15906469" pageNr="2" tsid="49743364" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=PHHISFYZMKLJQOHMEWGKRLWA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TSZWCXYGWZDPYXZZZNUWVUJB" imageId="11721709"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#119_b.tif" imageWidth="2603" imageHeight="1586">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424175338" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1597415231232_3140"/>
+                <RegionRefIndexed index="1" regionRef="region_1597415233826_3143"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1597415231232_3140" custom="readingOrder {index:0;}">
+            <Coords points="809,665 1727,665 1727,820 809,820"/>
+            <TextLine id="line_1597415238689_3147" custom="readingOrder {index:0;}">
+                <Coords points="871,704 1707,687 1708,791 872,808"/>
+                <Baseline points="917,803 1708,786"/>
+                <TextEquiv>
+                    <Unicode>Fellner Henrik</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Fellner Henrik</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1597415233826_3143" custom="readingOrder {index:1;}">
+            <Coords points="343,806 2501,806 2510,1047 352,1047"/>
+            <TextLine id="line_1597415244138_3153" custom="readingOrder {index:0;}">
+                <Coords points="395,844 2250,835 2435,805 2429,927 2242,981 383,984"/>
+                <Baseline points="383,979 2241,976 2428,922"/>
+                <TextEquiv>
+                    <Unicode>őszinte szerencsekívánatait fejezi ki</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>őszinte szerencsekívánatait fejezi ki</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

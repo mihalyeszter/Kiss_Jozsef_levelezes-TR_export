@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-09-21T14:09:18.960+02:00</Created>
+        <LastChange>2020-11-25T16:21:01.819+01:00</LastChange>
+        <TranskribusMetadata docId="484908" pageId="19998762" pageNr="2" tsid="49621412" status="IN_PROGRESS" userId="58915" imgUrl="https://files.transkribus.eu/Get?id=ELOOAUYHMOTKSHXREDHGCXLP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FKVIQONLBNTLQNZNSAPWAIUQ" imageId="15414213"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=4713#698_b.tif" imageWidth="3729" imageHeight="5789">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424569409" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1603716552695_915"/>
+                <RegionRefIndexed index="1" regionRef="region_1603716688823_958"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1603716552695_915" custom="readingOrder {index:0;}">
+            <Coords points="2761,416 2456,2189 2941,2176 3278,429"/>
+            <TextLine id="line_1603716552710_918" custom="readingOrder {index:0;}">
+                <Coords points="3138,486 2828,2161 2511,2156 2821,481"/>
+                <Baseline points="2904,470 2594,2145"/>
+                <TextEquiv>
+                    <Unicode>Epstein-féle vászongyári raktár</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Epstein-féle vászongyári raktár</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1603716688823_958" custom="readingOrder {index:1;}">
+            <Coords points="2292,1227 2483,1310 2858,727 2696,602"/>
+            <TextLine id="line_1603716694101_962" custom="readingOrder {index:0;}">
+                <Coords points="2344,1177 2704,645 2837,726 2477,1258"/>
+                <Baseline points="2473,1255 2828,735"/>
+                <TextEquiv>
+                    <Unicode>12 Dez 1902</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>12 Dez 1902</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

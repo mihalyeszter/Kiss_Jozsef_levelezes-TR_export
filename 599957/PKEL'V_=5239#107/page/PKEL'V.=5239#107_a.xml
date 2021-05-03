@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2021-02-03T14:06:55.168+01:00</Created>
+        <LastChange>2021-02-11T11:17:48.757+01:00</LastChange>
+        <TranskribusMetadata docId="599957" pageId="23869000" pageNr="1" tsid="52486069" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=NJQMXHETGOIWAZYYJSKHNOLA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AXJVAZAYNCPDOCNNETEBLFVE" imageId="18320674"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#107_a.tif" imageWidth="3473" imageHeight="5522">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424755979" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1612531902229_5"/>
+                <RegionRefIndexed index="1" regionRef="region_1612531906986_13"/>
+                <RegionRefIndexed index="2" regionRef="region_1612531912804_21"/>
+                <RegionRefIndexed index="3" regionRef="region_1612531918043_29"/>
+                <RegionRefIndexed index="4" regionRef="region_1612531952734_47"/>
+                <RegionRefIndexed index="5" regionRef="region_1612532224765_161"/>
+                <RegionRefIndexed index="6" regionRef="TextRegion_1612532006838_55"/>
+                <RegionRefIndexed index="7" regionRef="TextRegion_1612532006838_54"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1612531902229_5" custom="readingOrder {index:0;}">
+            <Coords points="1007,477 1007,572 2883,572 2883,477"/>
+            <TextLine id="line_1612531902275_8" custom="readingOrder {index:0;}">
+                <Coords points="1007,477 2883,486 2883,572 1007,563"/>
+                <Baseline points="1007,558 2883,567"/>
+                <TextEquiv>
+                    <Unicode>Royal Hungarian Sea Navigation</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Royal Hungarian Sea Navigation</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1612531906986_13" custom="readingOrder {index:1;}">
+            <Coords points="1187,606 1184,712 2698,712 2701,606"/>
+            <TextLine id="line_1612531907017_16" custom="readingOrder {index:0;}">
+                <Coords points="1181,614 2695,620 2698,712 1184,706"/>
+                <Baseline points="1184,701 2698,707"/>
+                <TextEquiv>
+                    <Unicode>Company „ADRIA” Limited.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Company „ADRIA” Limited.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1612531912804_21" custom="readingOrder {index:2;}">
+            <Coords points="1375,1030 1372,1275 2983,1275 2986,1030"/>
+            <TextLine id="line_1612531912836_24" custom="readingOrder {index:0;}">
+                <Coords points="1377,1042 2978,1059 2978,1264 1369,1215"/>
+                <Baseline points="1372,1153 2981,1218"/>
+                <TextEquiv>
+                    <Unicode>Genua, 1905. márcz. 11.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Genua, 1905. márcz. 11.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1612531918043_29" custom="readingOrder {index:3;}">
+            <Coords points="629,1557 614,1895 2375,1895 2390,1557"/>
+            <TextLine id="line_1612531918074_32" custom="readingOrder {index:0;}">
+                <Coords points="633,1572 2389,1591 2389,1881 611,1888"/>
+                <Baseline points="620,1718 2380,1743"/>
+                <TextEquiv>
+                    <Unicode>Igen tisztelt Uram!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Igen tisztelt Uram!</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1612531952734_47" custom="readingOrder {index:4;}">
+            <Coords points="47,1935 3341,1935 3341,3675 47,3675"/>
+            <TextLine id="line_1612532046455_68" custom="readingOrder {index:0;} abbrev {offset:0; length:2;}">
+                <Coords points="1284,1999 3182,2038 3172,2199 1274,2160"/>
+                <Baseline points="1274,2137 3172,2176"/>
+                <TextEquiv>
+                    <Unicode>F. hó 10.-éről Mentonéból</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1612532053863_73" custom="readingOrder {index:1;} abbrev {offset:10; length:2;}">
+                <Coords points="165,2132 3183,2239 3172,2388 154,2281"/>
+                <Baseline points="154,2249 3172,2356"/>
+                <TextEquiv>
+                    <Unicode>kelt igen b. sorait vettem, s értesítem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1612532061322_78" custom="readingOrder {index:2;} textStyle {offset:19; length:1;underlined:true; fontSize:0.0; kerning:0; superscript:true;}">
+                <Coords points="172,2303 3230,2376 3223,2534 165,2461"/>
+                <Baseline points="165,2426 3223,2499"/>
+                <TextEquiv>
+                    <Unicode>Nagyságodat, hogy Dr Kovács ur a¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1612532068349_83" custom="readingOrder {index:3;}">
+                <Coords points="62,2488 3276,2538 3265,2691 58,2613"/>
+                <Baseline points="61,2578 3268,2656"/>
+                <TextEquiv>
+                    <Unicode>jánló levelét hétfőn reggel vettem kéz¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1612532076788_88" custom="readingOrder {index:4;}">
+                <Coords points="178,2626 3258,2714 3248,2884 168,2796"/>
+                <Baseline points="168,2743 3248,2831"/>
+                <TextEquiv>
+                    <Unicode>hez, melynek vétele után a „Hotel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1612532082572_93" custom="readingOrder {index:5;}">
+                <Coords points="166,2807 3066,2900 3062,3043 162,2950"/>
+                <Baseline points="165,2909 3065,3002"/>
+                <TextEquiv>
+                    <Unicode>de la Ville” szállóban tiszteletemet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1612532089155_98" custom="readingOrder {index:6;}">
+                <Coords points="158,2970 3168,3054 3164,3212 154,3128"/>
+                <Baseline points="154,3078 3164,3162"/>
+                <TextEquiv>
+                    <Unicode>óhajtottam tenni, a hol azonban,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1612532099390_103" custom="readingOrder {index:7;} sic {offset:32; length:5; continued:true;}">
+                <Coords points="158,3164 3333,3240 3335,3413 160,3337"/>
+                <Baseline points="157,3263 3332,3339"/>
+                <TextEquiv>
+                    <Unicode>sajnálatomra értesítettek, hogy Nagy¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1612532107633_108" custom="readingOrder {index:8;} sic {offset:0; length:5; continued:true;} abbrev {offset:6; length:2;}">
+                <Coords points="164,3324 3219,3413 3200,3580 145,3491"/>
+                <Baseline points="148,3438 3203,3527"/>
+                <TextEquiv>
+                    <Unicode>sájod k. leányával együtt már</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1612532114608_113" custom="readingOrder {index:9;}">
+                <Coords points="142,3487 850,3521 836,3654 128,3620"/>
+                <Baseline points="131,3600 839,3634"/>
+                <TextEquiv>
+                    <Unicode>elutazott.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>F. hó 10.-éről Mentonéból&#xD;
+kelt igen b. sorait vettem, s értesítem&#xD;
+Nagyságodat, hogy Dr Kovács ur a¬&#xD;
+jánló levelét hétfőn reggel vettem kéz¬&#xD;
+hez, melynek vétele után a „Hotel&#xD;
+de la Ville” szállóban tiszteletemet&#xD;
+óhajtottam tenni, a hol azonban,&#xD;
+sajnálatomra értesítettek, hogy Nagy¬&#xD;
+sájod k. leányával együtt már&#xD;
+elutazott.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1612532224765_161" custom="readingOrder {index:5;}">
+            <Coords points="44,3679 3338,3679 3338,4746 44,4746"/>
+            <TextLine id="line_1612532124346_118" custom="readingOrder {index:0;}">
+                <Coords points="1084,3687 3195,3703 3192,3896 1077,3812"/>
+                <Baseline points="1080,3783 3189,3842"/>
+                <TextEquiv>
+                    <Unicode>A Mentone – Genuai hajó¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1612532133206_123" custom="readingOrder {index:1;}">
+                <Coords points="74,3776 3239,3908 3228,4061 70,3957"/>
+                <Baseline points="72,3878 3237,4010"/>
+                <TextEquiv>
+                    <Unicode>jegyre vonatkozólag sajnálatomra nem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1612532141118_128" custom="readingOrder {index:2;}">
+                <Coords points="164,3966 3221,4058 3214,4235 157,4143"/>
+                <Baseline points="160,4075 3217,4167"/>
+                <TextEquiv>
+                    <Unicode>vagyok abban a helyzetben, hogy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1612532150366_133" custom="readingOrder {index:3;} textStyle {offset:27; length:10;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="148,4150 3150,4246 3138,4435 137,4306"/>
+                <Baseline points="143,4257 3144,4386"/>
+                <TextEquiv>
+                    <Unicode>kérését teljesítsem, mivel Mentonéból</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1612532156463_138" custom="readingOrder {index:4;}">
+                <Coords points="180,4313 3035,4448 3006,4645 151,4510"/>
+                <Baseline points="160,4442 3015,4577"/>
+                <TextEquiv>
+                    <Unicode>Genuába egyáltalában semmiféle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1612532165588_143" custom="readingOrder {index:5;}">
+                <Coords points="182,4510 1894,4602 1886,4746 162,4732"/>
+                <Baseline points="171,4642 1883,4734"/>
+                <TextEquiv>
+                    <Unicode>hajóösszeköttetés nincs.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>A Mentone – Genuai hajó¬&#xD;
+jegyre vonatkozólag sajnálatomra nem&#xD;
+vagyok abban a helyzetben, hogy&#xD;
+kérését teljesítsem, mivel Mentonéból&#xD;
+Genuába egyáltalában semmiféle&#xD;
+hajóösszeköttetés nincs.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="TextRegion_1612532006838_55" custom="readingOrder {index:6;}">
+            <Coords points="41,4747 3335,4747 3341,5259 1608,5259 1608,5199 1493,5199 1490,5259 47,5259"/>
+            <TextLine id="line_1612532171590_148" custom="readingOrder {index:0;}">
+                <Coords points="1091,4748 3113,4754 3099,4980 1075,4918"/>
+                <Baseline points="1075,4861 3099,4923"/>
+                <TextEquiv>
+                    <Unicode>Ha azonban Nagyságod</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1612532180231_153" custom="readingOrder {index:1;} sic {offset:0; length:10;} abbrev {offset:21; length:3;}">
+                <Coords points="162,4880 3267,5001 3241,5233 1527,5156 1465,5254 136,5112"/>
+                <Baseline points="154,5012 3259,5133"/>
+                <TextEquiv>
+                    <Unicode>Mentoneból Nizzáig a kb. 25 kilométer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ha azonban Nagyságod&#xD;
+Mentoneból Nizzáig a kb. 25 kilométer</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="TextRegion_1612532006838_54" custom="readingOrder {index:7;}">
+            <Coords points="1493,5199 1608,5199 1608,5304 1490,5304"/>
+            <TextLine id="line_1612532025017_60" custom="readingOrder {index:0;}">
+                <Coords points="1500,5199 1598,5202 1597,5300 1499,5297"/>
+                <Baseline points="1499,5292 1597,5295"/>
+                <TextEquiv>
+                    <Unicode>1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

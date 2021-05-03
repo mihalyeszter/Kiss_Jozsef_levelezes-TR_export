@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>PKEL'V.=5239#131</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: eszter.mihaly@gmail.com</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile xml:id='facs_1'>
+		<surface ulx='0' uly='0' lrx='2548' lry='1675'>
+			<graphic url='PKEL'V.=5239#131_a.tif' width='2548px' height='1675px'/>
+			<zone ulx='676' uly='771' lrx='1857' lry='859' rendition='TextRegion' xml:id='facs_1_region_1607681150439_417'>
+				<zone ulx='676' uly='777' lrx='1857' lry='859' rendition='Line' xml:id='facs_1_line_1607681150470_420'/>
+			</zone>
+			<zone ulx='141' uly='787' lrx='2363' lry='1425' rendition='TextRegion' xml:id='facs_1_TextRegion_1607681226900_433'>
+				<zone ulx='395' uly='793' lrx='2033' lry='991' rendition='Line' xml:id='facs_1_line_1607681296293_456'/>
+				<zone ulx='234' uly='952' lrx='2091' lry='1122' rendition='Line' xml:id='facs_1_line_1607681303816_461'/>
+				<zone ulx='246' uly='984' lrx='2234' lry='1230' rendition='Line' xml:id='facs_1_line_1607681310665_466'/>
+				<zone ulx='225' uly='1164' lrx='2347' lry='1321' rendition='Line' xml:id='facs_1_line_1607681318897_471'/>
+				<zone ulx='166' uly='1292' lrx='2347' lry='1426' rendition='Line' xml:id='facs_1_line_1607681325466_476'/>
+			</zone>
+			<zone ulx='111' uly='1430' lrx='962' lry='1570' rendition='TextRegion' xml:id='facs_1_region_1607681262914_443'>
+				<zone ulx='111' uly='1434' lrx='958' lry='1570' rendition='Line' xml:id='facs_1_line_1607681262952_446'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<pb facs='#facs_1' n='1'/>
+			<p facs='#facs_1_region_1607681150439_417'>
+				<lb facs='#facs_1_line_1607681150470_420' n='N001'/>Gara-Grünbaum-Miksa
+			</p>
+			<p facs='#facs_1_TextRegion_1607681226900_433'>
+				<lb facs='#facs_1_line_1607681296293_456' n='N001'/>nagyrabecsüléssel ama tisztelői közé
+				<lb facs='#facs_1_line_1607681303816_461' n='N002'/>kí<add><gap />v</add>án sorakozni, ki születésnapja al¬
+				<lb facs='#facs_1_line_1607681310665_466' n='N003'/>kalmából legőszintébb gratuláczióját ki¬
+				<lb facs='#facs_1_line_1607681318897_471' n='N004'/>fejezi ama hő kívánsággal, hogy a Minden¬
+				<lb facs='#facs_1_line_1607681325466_476' n='N005'/>ható még sokáig jó egészségben megtartsa. –
+			</p>
+			<p facs='#facs_1_region_1607681262914_443'>
+				<lb facs='#facs_1_line_1607681262952_446' n='N001'/>Budapest 1913 1/XII
+			</p>
+		</body>
+	</text>
+</TEI>

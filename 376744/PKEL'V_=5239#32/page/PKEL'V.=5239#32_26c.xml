@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-28T12:11:38.200+02:00</Created>
+        <LastChange>2020-12-01T18:02:36.548+01:00</LastChange>
+        <TranskribusMetadata docId="376744" pageId="14729779" pageNr="74" tsid="49759042" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=STEDEDWALSOOKVBYVXMDMCVD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BAROFEZWBXWZSLZKISWJMIKN" imageId="10670814"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#32_26c.tif" imageWidth="3407" imageHeight="2645">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619423992241" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1593709116102_922"/>
+                <RegionRefIndexed index="1" regionRef="region_1593709125272_925"/>
+                <RegionRefIndexed index="2" regionRef="region_1593709160890_928"/>
+                <RegionRefIndexed index="3" regionRef="region_1593709170061_931"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1593709116102_922" custom="readingOrder {index:0;}">
+            <Coords points="821,650 2603,650 2603,1025 821,1025"/>
+            <TextLine id="line_1593709191899_936" custom="readingOrder {index:0;}">
+                <Coords points="832,683 2588,658 2595,1019 833,1023"/>
+                <Baseline points="833,932 2589,907"/>
+                <TextEquiv>
+                    <Unicode>Kiss Józsefné asszony</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kiss Józsefné asszony</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1593709125272_925" custom="readingOrder {index:1;}">
+            <Coords points="2676,1298 1265,1298 1265,930 2676,930"/>
+            <TextLine id="line_1593709197684_941" custom="readingOrder {index:0;}">
+                <Coords points="1276,926 2648,938 2657,1270 1285,1258"/>
+                <Baseline points="1282,1133 2654,1145"/>
+                <TextEquiv>
+                    <Unicode>Ő Nagyságának</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ő Nagyságának</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1593709160890_928" custom="readingOrder {index:2;}">
+            <Coords points="1911,1642 2774,1642 2774,1935 1911,1935"/>
+            <TextLine id="line_1593709205398_946" custom="readingOrder {index:0;} textStyle {offset:0; length:10;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="1922,1690 2771,1634 2779,1921 1927,1943"/>
+                <Baseline points="1922,1927 2771,1871"/>
+                <TextEquiv>
+                    <Unicode>Budapesten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Budapesten</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1593709170061_931" custom="readingOrder {index:3;}">
+            <Coords points="1296,1837 3151,1837 3151,2223 1296,2223"/>
+            <TextLine id="line_1593709212380_951" custom="readingOrder {index:0;} textStyle {offset:0; length:5;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="1320,1941 1324,1854 3127,1863 3126,2111 1319,2189"/>
+                <Baseline points="1319,2086 3126,2008"/>
+                <TextEquiv>
+                    <Unicode>A Hét Népszínház u. 22.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>A Hét Népszínház u. 22.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

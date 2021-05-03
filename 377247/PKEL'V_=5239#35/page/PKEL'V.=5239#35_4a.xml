@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-29T11:45:36.188+02:00</Created>
+        <LastChange>2020-07-09T11:34:07.203+02:00</LastChange>
+        <TranskribusMetadata docId="377247" pageId="14771258" pageNr="7" tsid="33907599" status="IN_PROGRESS" userId="56520" imgUrl="https://files.transkribus.eu/Get?id=XEJZUDZTYWICFVVCNYXVYHSU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FXIBSZCBHAJFUZAZLKZTXMEZ" imageId="10711093"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#35_4a.tif" imageWidth="3656" imageHeight="2218">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424015969" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1594061023641_7"/>
+                <RegionRefIndexed index="1" regionRef="region_1594061089843_61"/>
+                <RegionRefIndexed index="2" regionRef="region_1594061032514_15"/>
+                <RegionRefIndexed index="3" regionRef="region_1594061104168_64"/>
+                <RegionRefIndexed index="4" regionRef="region_1594061053571_30"/>
+                <RegionRefIndexed index="5" regionRef="region_1594061062787_38"/>
+                <RegionRefIndexed index="6" regionRef="region_1594061128131_70"/>
+                <RegionRefIndexed index="7" regionRef="region_1594061068817_46"/>
+                <RegionRefIndexed index="8" regionRef="region_1594061118930_67"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1594061023641_7" custom="readingOrder {index:0;}">
+            <Coords points="1171,197 1174,370 2458,370 2455,197"/>
+            <TextLine id="line_1594061023798_10" custom="readingOrder {index:0;}">
+                <Coords points="1174,215 2458,221 2458,370 1174,364"/>
+                <Baseline points="1174,332 2458,338"/>
+                <TextEquiv>
+                    <Unicode>Erinnerung an Ada-Kaleh.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Erinnerung an Ada-Kaleh.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1594061089843_61" custom="readingOrder {index:1;}">
+            <Coords points="2556,222 3422,222 3422,566 2556,566"/>
+            <TextLine id="line_1594061141409_73" custom="readingOrder {index:0;}">
+                <Coords points="2559,238 3401,241 3404,462 2562,459"/>
+                <Baseline points="2565,385 3407,388"/>
+                <TextEquiv>
+                    <Unicode>Itt nincs posta</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1594061154889_78" custom="readingOrder {index:1;} unclear {offset:3; length:6;}">
+                <Coords points="2595,446 3227,446 3230,538 2598,538"/>
+                <Baseline points="2598,533 3230,533"/>
+                <TextEquiv>
+                    <Unicode>se bélyeg</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Itt nincs posta&#xD;
+se bélyeg</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1594061032514_15" custom="readingOrder {index:2;}">
+            <Coords points="401,1453 401,1912 1388,1660 1401,1453"/>
+            <TextLine id="line_1594061032561_18" custom="readingOrder {index:0;}">
+                <Coords points="427,1474 1382,1453 1355,1675 420,1912"/>
+                <Baseline points="418,1907 1399,1494"/>
+                <TextEquiv>
+                    <Unicode>Kiss József</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kiss József</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1594061104168_64" custom="readingOrder {index:3;}">
+            <Coords points="1456,1577 397,1916 409,2129 1471,1984"/>
+            <TextLine id="line_1594061185019_98" custom="readingOrder {index:0;}">
+                <Coords points="436,1914 1472,1647 1474,1990 442,2116"/>
+                <Baseline points="441,2111 1477,1844"/>
+                <TextEquiv>
+                    <Unicode>Kiss Józsefné</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kiss Józsefné</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1594061053571_30" custom="readingOrder {index:4;}">
+            <Coords points="1311,1988 1308,2122 2206,2122 2209,1988"/>
+            <TextLine id="line_1594061053617_33" custom="readingOrder {index:0;}">
+                <Coords points="1308,2000 2206,2000 2206,2119 1308,2119"/>
+                <Baseline points="1308,2117 2206,2117"/>
+                <TextEquiv>
+                    <Unicode>Edith</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Edith</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1594061062787_38" custom="readingOrder {index:5;}">
+            <Coords points="2343,1865 2377,2137 2673,2137 2673,2023"/>
+            <TextLine id="line_1594061062850_41" custom="readingOrder {index:0;}">
+                <Coords points="2352,1877 2662,2023 2673,2072 2388,2137"/>
+                <Baseline points="2387,2132 2672,2067"/>
+                <TextEquiv>
+                    <Unicode>Géza</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Géza</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1594061128131_70" custom="readingOrder {index:6;}">
+            <Coords points="3577,1471 2556,1471 2556,1927 3577,1927"/>
+            <TextLine id="line_1594061162325_83" custom="readingOrder {index:0;}">
+                <Coords points="2565,1655 3566,1470 3583,1624 2572,1847"/>
+                <Baseline points="2571,1818 3582,1595"/>
+                <TextEquiv>
+                    <Unicode>Most megyünk</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1594061169679_88" custom="readingOrder {index:1;}">
+                <Coords points="2566,1818 3586,1626 3607,1791 2577,1951"/>
+                <Baseline points="2571,1933 3591,1741"/>
+                <TextEquiv>
+                    <Unicode>a török templomba.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Most megyünk&#xD;
+a török templomba.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1594061068817_46" custom="readingOrder {index:7;}">
+            <Coords points="2842,1903 2845,2131 3465,2131 3462,1903"/>
+            <TextLine id="line_1594061068864_49" custom="readingOrder {index:0;} unclear {offset:0; length:5;}">
+                <Coords points="2865,1910 3443,1919 3455,2043 2854,2131"/>
+                <Baseline points="2853,2126 3464,2010"/>
+                <TextEquiv>
+                    <Unicode>Erzsi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Erzsi</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1594061118930_67" custom="readingOrder {index:8;}">
+            <Coords points="2444,1927 3173,1927 3173,1999 2444,1999"/>
+            <TextLine id="line_1594061176646_93" custom="readingOrder {index:0;}">
+                <Coords points="2449,1945 3161,1942 3161,1992 2449,1995"/>
+                <Baseline points="2449,1990 3161,1987"/>
+                <TextEquiv>
+                    <Unicode>Hairy Hassan, Ada-Kaleh.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Hairy Hassan, Ada-Kaleh.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

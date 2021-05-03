@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-09-21T14:09:57.791+02:00</Created>
+        <LastChange>2020-11-25T15:23:34.166+01:00</LastChange>
+        <TranskribusMetadata docId="618303" pageId="24483034" pageNr="1" tsid="53057714" status="NEW" userId="73049" imgUrl="https://files.transkribus.eu/Get?id=PMPAZIKARHIIYXPDOEANVVGJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LDHVPGGKWFHYIFETTHLMDLQI" imageId="18853197"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=3823#383_5a.tif" imageWidth="2910" imageHeight="1873">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424926502" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1603271274938_1356"/>
+                <RegionRefIndexed index="1" regionRef="region_1603271277226_1359"/>
+                <RegionRefIndexed index="2" regionRef="region_1603271280091_1362"/>
+                <RegionRefIndexed index="3" regionRef="region_1603271282003_1365"/>
+                <RegionRefIndexed index="4" regionRef="TextRegion_1603271357163_1409"/>
+                <RegionRefIndexed index="5" regionRef="TextRegion_1603272044258_1487"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1603271274938_1356" custom="readingOrder {index:0;}">
+            <Coords points="1072,815 1826,815 1826,919 1072,919"/>
+            <TextLine id="line_1603271289686_1369" custom="readingOrder {index:0;}">
+                <Coords points="1091,835 1782,830 1782,913 1091,918"/>
+                <Baseline points="1091,913 1782,908"/>
+                <TextEquiv>
+                    <Unicode>Kiss József</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kiss József</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1603271277226_1359" custom="readingOrder {index:1;}">
+            <Coords points="994,919 1910,919 1910,1042 994,1042"/>
+            <TextLine id="line_1603271293632_1375" custom="readingOrder {index:0;}">
+                <Coords points="1011,940 1894,934 1888,1002 1005,1008"/>
+                <Baseline points="1005,1003 1888,997"/>
+                <TextEquiv>
+                    <Unicode>A Hét szerkesztője és kiadója</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>A Hét szerkesztője és kiadója</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1603271280091_1362" custom="readingOrder {index:2;}">
+            <Coords points="222,1564 885,1564 885,1685 222,1685"/>
+            <TextLine id="line_1603271298332_1381" custom="readingOrder {index:0;}">
+                <Coords points="241,1578 865,1581 865,1661 241,1658"/>
+                <Baseline points="241,1637 865,1640"/>
+                <TextEquiv>
+                    <Unicode>Telefon József 5–27.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Telefon József 5–27.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1603271282003_1365" custom="readingOrder {index:3;}">
+            <Coords points="1740,1551 2654,1551 2654,1690 1740,1690"/>
+            <TextLine id="line_1603271301853_1387" custom="readingOrder {index:0;}">
+                <Coords points="1756,1568 2645,1562 2645,1642 1756,1648"/>
+                <Baseline points="1756,1643 2645,1637"/>
+                <TextEquiv>
+                    <Unicode>VIII., Népszínház-utca 22, III/8.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>VIII., Népszínház-utca 22, III/8.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="TextRegion_1603271357163_1409" custom="readingOrder {index:4;}">
+            <Coords points="132,125 2804,125 2804,1555 2447,1555 2501,1409 1711,1405 1638,1555 132,1555"/>
+            <TextLine id="line_1603271380203_1415" custom="readingOrder {index:0;}">
+                <Coords points="196,126 2811,184 2796,429 181,371"/>
+                <Baseline points="181,366 2796,424"/>
+                <TextEquiv>
+                    <Unicode>Jánoskám! Te már egészen elfelej¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1603271382658_1420" custom="readingOrder {index:1;}">
+                <Coords points="188,364 2695,436 2684,624 177,552"/>
+                <Baseline points="177,547 2684,619"/>
+                <TextEquiv>
+                    <Unicode>tettél, hálátlan! Én hálásabb és</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1603271384840_1425" custom="readingOrder {index:2;}">
+                <Coords points="191,597 2726,616 2750,789 215,770"/>
+                <Baseline points="215,765 2750,784"/>
+                <TextEquiv>
+                    <Unicode>hűségesebb vagyok. Íme küldök neked</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1603271387680_1430" custom="readingOrder {index:3;}">
+                <Coords points="188,776 2707,819 2700,1012 181,969"/>
+                <Baseline points="181,964 2700,1007"/>
+                <TextEquiv>
+                    <Unicode>egy Múzsát hogy írj mentöl</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1603271395201_1435" custom="readingOrder {index:4;}">
+                <Coords points="207,1018 2764,1026 2792,1207 235,1199"/>
+                <Baseline points="235,1194 2792,1202"/>
+                <TextEquiv>
+                    <Unicode>több olyan szép verseket, mint az</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1603271398432_1440" custom="readingOrder {index:5;}">
+                <Coords points="252,1216 2730,1224 2716,1395 238,1387"/>
+                <Baseline points="238,1382 2671,1395"/>
+                <TextEquiv>
+                    <Unicode>utolsó volt, amit írtál. Öreg</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1603271423920_1449" custom="readingOrder {index:6;}">
+                <Coords points="245,1371 1546,1395 1531,1544 230,1520"/>
+                <Baseline points="230,1515 1531,1539"/>
+                <TextEquiv>
+                    <Unicode>rokkant barátod</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Jánoskám! Te már egészen elfelej¬&#xD;
+tettél, hálátlan! Én hálásabb és&#xD;
+hűségesebb vagyok. Íme küldök neked&#xD;
+egy Múzsát hogy írj mentöl&#xD;
+több olyan szép verseket, mint az&#xD;
+utolsó volt, amit írtál. Öreg&#xD;
+rokkant barátod</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="TextRegion_1603272044258_1487" custom="readingOrder {index:5;}">
+            <Coords points="1711,1405 2511,1410 2477,1539 2538,1540 2467,1689 2409,1691 2300,1768 2202,1765 2194,1689 1627,1677"/>
+            <TextLine id="line_1603272044271_1490" custom="readingOrder {index:0;}">
+                <Coords points="1740,1416 2480,1421 2446,1530 2478,1533 2477,1539 2493,1539 2456,1650 2398,1649 2289,1763 2232,1765 2245,1656 1660,1644"/>
+                <Baseline points="1670,1617 2395,1617"/>
+                <TextEquiv>
+                    <Unicode>Kiss József</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kiss József</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

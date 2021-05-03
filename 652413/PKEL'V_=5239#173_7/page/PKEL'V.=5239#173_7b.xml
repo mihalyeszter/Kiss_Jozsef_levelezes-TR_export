@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2021-04-12T09:17:13.031+02:00</Created>
+        <LastChange>2021-04-12T17:03:47.264+02:00</LastChange>
+        <TranskribusMetadata docId="652413" pageId="25407270" pageNr="2" tsid="56215230" status="IN_PROGRESS" userId="56520" imgUrl="https://files.transkribus.eu/Get?id=NUMWEGCNPSUFYEKWFPUDSSUN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GNCYZIWTELFABERHHYHGYCDX" imageId="19484460"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#173_7b.tif" imageWidth="3696" imageHeight="2513">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424983927" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1618229350099_1212"/>
+                <RegionRefIndexed index="1" regionRef="region_1618229352545_1215"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1618229350099_1212" custom="readingOrder {index:0;}">
+            <Coords points="1524,1419 2205,1419 2205,1498 1524,1498"/>
+            <TextLine id="line_1618229363221_1219" custom="readingOrder {index:0;}">
+                <Coords points="1542,1431 2180,1428 2185,1493 1547,1496"/>
+                <Baseline points="1547,1491 2185,1488"/>
+                <TextEquiv>
+                    <Unicode>Veigelsberg Hugo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Veigelsberg Hugo</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1618229352545_1215" custom="readingOrder {index:1;}">
+            <Coords points="1563,1508 2138,1508 2138,1595 1563,1595"/>
+            <TextLine id="line_1618229373894_1226" custom="readingOrder {index:0;}">
+                <Coords points="1614,1513 2114,1513 2118,1580 1618,1580"/>
+                <Baseline points="1618,1575 2118,1575"/>
+                <TextEquiv>
+                    <Unicode>Báthory utcza 3.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Báthory utcza 3.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

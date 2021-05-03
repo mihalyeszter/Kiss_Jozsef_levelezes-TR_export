@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>PKEL'V.=5705#24</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: eszter.mihaly@gmail.com</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile xml:id='facs_1'>
+		<surface ulx='0' uly='0' lrx='2955' lry='3205'>
+			<graphic url='PKEL'V.=5705#24_a.tif' width='2955px' height='3205px'/>
+			<zone ulx='312' uly='1324' lrx='1094' lry='1651' rendition='TextRegion' xml:id='facs_1_region_1605181679742_6'>
+				<zone ulx='312' uly='1323' lrx='1088' lry='1652' rendition='Line' xml:id='facs_1_line_1605181679811_9'/>
+			</zone>
+			<zone ulx='246' uly='1767' lrx='2449' lry='2163' rendition='TextRegion' xml:id='facs_1_region_1605181685143_14'>
+				<zone ulx='250' uly='1782' lrx='2444' lry='2157' rendition='Line' xml:id='facs_1_line_1605181685189_17'/>
+			</zone>
+			<zone ulx='388' uly='2164' lrx='2213' lry='2453' rendition='TextRegion' xml:id='facs_1_region_1605181692697_22'>
+				<zone ulx='395' uly='2168' lrx='2212' lry='2442' rendition='Line' xml:id='facs_1_line_1605181692734_25'/>
+			</zone>
+			<zone ulx='1076' uly='2376' lrx='2829' lry='2951' rendition='TextRegion' xml:id='facs_1_region_1605181700372_30'>
+				<zone ulx='1081' uly='2373' lrx='2826' lry='2945' rendition='Line' xml:id='facs_1_line_1605181700419_33'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id='facs_2'>
+		<surface ulx='0' uly='0' lrx='2770' lry='1720'>
+			<graphic url='PKEL'V.=5705#24_b.tif' width='2770px' height='1720px'/>
+			<zone ulx='835' uly='772' lrx='1913' lry='922' rendition='TextRegion' xml:id='facs_2_region_1605181925685_70'>
+				<zone ulx='833' uly='780' lrx='1911' lry='922' rendition='Line' xml:id='facs_2_line_1605181925707_73'/>
+			</zone>
+			<zone ulx='236' uly='1493' lrx='422' lry='1543' rendition='TextRegion' xml:id='facs_2_region_1605181933891_78'>
+				<zone ulx='236' uly='1493' lrx='422' lry='1543' rendition='Line' xml:id='facs_2_line_1605181933928_81'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<pb facs='#facs_1' n='1'/>
+			<p facs='#facs_1_region_1605181679742_6'>
+				<lb facs='#facs_1_line_1605181679811_9' n='N001'/><choice><expan></expan><abbr>Nagys.</abbr></choice>
+			</p>
+			<p facs='#facs_1_region_1605181685143_14'>
+				<lb facs='#facs_1_line_1605181685189_17' n='N001'/>Schönfeld Adolf.
+			</p>
+			<p facs='#facs_1_region_1605181692697_22'>
+				<lb facs='#facs_1_line_1605181692734_25' n='N001'/>igazgató urnak
+			</p>
+			<p facs='#facs_1_region_1605181700372_30'>
+				<lb facs='#facs_1_line_1605181700419_33' n='N001'/>Budapest
+			</p>
+			<pb facs='#facs_2' n='2'/>
+			<p facs='#facs_2_region_1605181925685_70'>
+				<lb facs='#facs_2_line_1605181925707_73' n='N001'/>Kiss József és neje
+			</p>
+			<p facs='#facs_2_region_1605181933891_78'>
+				<lb facs='#facs_2_line_1605181933928_81' n='N001'/>p. r.
+			</p>
+		</body>
+	</text>
+</TEI>

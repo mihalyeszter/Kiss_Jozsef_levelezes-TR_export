@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-28T13:02:38.976+02:00</Created>
+        <LastChange>2020-11-13T14:16:27.817+01:00</LastChange>
+        <TranskribusMetadata docId="376795" pageId="14734764" pageNr="74" tsid="48658688" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=JQFNUMDJGREQKBPLVWOZMJEZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RVSVZXVNVKTYLMKBLGZMFTTO" imageId="10675786"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#33_33a.tif" imageWidth="3500" imageHeight="2317">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424143828" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1597316315256_1820"/>
+                <RegionRefIndexed index="1" regionRef="region_1597316288486_1812"/>
+                <RegionRefIndexed index="2" regionRef="region_1597316440421_1843"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1597316315256_1820" custom="readingOrder {index:0;}">
+            <Coords points="2858,1971 3320,1971 3320,176 2858,176"/>
+            <TextLine id="line_1597316323782_1823" custom="readingOrder {index:0;}">
+                <Coords points="2885,1949 2852,619 2978,618 3011,1948"/>
+                <Baseline points="3006,1948 2973,618"/>
+                <TextEquiv>
+                    <Unicode>A hajó a kikötőben áll,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597316326767_1828" custom="readingOrder {index:1;}">
+                <Coords points="3031,1935 3004,474 3126,473 3153,1934"/>
+                <Baseline points="3148,1934 3121,473"/>
+                <TextEquiv>
+                    <Unicode>Egy kisasszony kornyikál.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597316329600_1833" custom="readingOrder {index:2;} sic {offset:4; length:6;}">
+                <Coords points="3173,1921 3133,228 3268,224 3308,1917"/>
+                <Baseline points="3303,1917 3263,224"/>
+                <TextEquiv>
+                    <Unicode>Hát Erzike most mit csinál?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>A hajó a kikötőben áll,&#xD;
+Egy kisasszony kornyikál.&#xD;
+Hát Erzike most mit csinál?</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1597316288486_1812" custom="readingOrder {index:1;}">
+            <Coords points="838,1897 1813,1897 1813,2189 838,2189"/>
+            <TextLine id="line_1597316449618_1846" custom="readingOrder {index:0;}">
+                <Coords points="929,1915 1766,1920 1613,2117 1666,2113 1660,2163 1464,2139 1592,2058 855,2091"/>
+                <Baseline points="862,2077 1604,2047 1469,2138 1661,2158"/>
+                <TextEquiv>
+                    <Unicode>Pálffy Irma</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Pálffy Irma</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1597316440421_1843" custom="readingOrder {index:2;}">
+            <Coords points="2623,1986 3392,1986 3392,2202 2623,2202"/>
+            <TextLine id="line_1597316455556_1851" custom="readingOrder {index:0;}">
+                <Coords points="2627,2018 3236,2008 3369,2095 3383,2143 3248,2183 2632,2194"/>
+                <Baseline points="2630,2193 3247,2178 3382,2138"/>
+                <TextEquiv>
+                    <Unicode>Pálffy Mária</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Pálffy Mária</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-06-03T17:22:40.657+02:00</Created>
+        <LastChange>2020-06-25T10:48:03.510+02:00</LastChange>
+        <TranskribusMetadata docId="401428" pageId="15532072" pageNr="2" tsid="32645431" status="IN_PROGRESS" userId="56520" imgUrl="https://files.transkribus.eu/Get?id=UPEDBLPXRRBOALUIGQUSZORM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JWSIUAGZWCOQARONDBGYZPQF" imageId="11359899"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#67_b.tif" imageWidth="2913" imageHeight="2250">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424486185" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1593023958027_1014"/>
+                <RegionRefIndexed index="1" regionRef="region_1593023966415_1017"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1593023958027_1014" custom="readingOrder {index:0;}">
+            <Coords points="1532,538 1012,538 1012,362 1532,362"/>
+            <TextLine id="line_1593023973547_1020" custom="readingOrder {index:0;}">
+                <Coords points="1015,374 1514,385 1520,524 1021,513"/>
+                <Baseline points="1021,508 1520,519"/>
+                <TextEquiv>
+                    <Unicode>Beck Dénes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Beck Dénes</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1593023966415_1017" custom="readingOrder {index:1;}">
+            <Coords points="1483,658 1049,658 1049,533 1483,533"/>
+            <TextLine id="line_1593023979208_1025" custom="readingOrder {index:0;}">
+                <Coords points="1057,540 1473,549 1476,649 1060,640"/>
+                <Baseline points="1060,635 1476,644"/>
+                <TextEquiv>
+                    <Unicode>VI. Ó u. 11.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>VI. Ó u. 11.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

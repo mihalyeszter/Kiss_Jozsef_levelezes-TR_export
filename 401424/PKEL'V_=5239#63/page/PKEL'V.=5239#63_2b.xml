@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-06-03T17:22:19.933+02:00</Created>
+        <LastChange>2020-11-24T14:53:59.687+01:00</LastChange>
+        <TranskribusMetadata docId="401424" pageId="15532068" pageNr="3" tsid="49525289" status="IN_PROGRESS" userId="56520" imgUrl="https://files.transkribus.eu/Get?id=KONCOBLEPFWKPZAAPEGEMLOK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JZVZQKLRMYXAWCJEOXENBOIL" imageId="11359895"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#63_2b.tif" imageWidth="3978" imageHeight="5153">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424363168" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1593107997054_254"/>
+                <RegionRefIndexed index="1" regionRef="region_1593108003851_257"/>
+                <RegionRefIndexed index="2" regionRef="region_1593108007659_260"/>
+                <RegionRefIndexed index="3" regionRef="region_1593108012832_263"/>
+                <RegionRefIndexed index="4" regionRef="region_1593108016811_266"/>
+                <RegionRefIndexed index="5" regionRef="region_1593108021224_269"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1593107997054_254" custom="readingOrder {index:0;}">
+            <Coords points="1378,976 2528,976 2528,1074 1378,1074"/>
+            <TextLine id="line_1593108037609_272" custom="readingOrder {index:0;}">
+                <Coords points="1407,984 2491,981 2494,1067 1410,1070"/>
+                <Baseline points="1410,1065 2494,1062"/>
+                <TextEquiv>
+                    <Unicode>Budapest Székesfőváros</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Budapest Székesfőváros</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1593108003851_257" custom="readingOrder {index:1;}">
+            <Coords points="2289,1079 1589,1079 1589,1182 2289,1182"/>
+            <TextLine id="line_1593108048033_277" custom="readingOrder {index:0;}">
+                <Coords points="1603,1079 2283,1082 2283,1165 1603,1162"/>
+                <Baseline points="1603,1157 2283,1160"/>
+                <TextEquiv>
+                    <Unicode>Polgármestere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Polgármestere</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1593108007659_260" custom="readingOrder {index:2;}">
+            <Coords points="1508,1774 2534,1774 2534,1953 1508,1953"/>
+            <TextLine id="line_1593108053483_282" custom="readingOrder {index:0;}">
+                <Coords points="1552,1808 2453,1808 2453,1918 1552,1918"/>
+                <Baseline points="1552,1913 2453,1913"/>
+                <TextEquiv>
+                    <Unicode>Kedves Mester!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kedves Mester!</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1593108012832_263" custom="readingOrder {index:3;}">
+            <Coords points="721,2083 3700,2083 3700,4167 721,4167"/>
+            <TextLine id="line_1593108057862_287" custom="readingOrder {index:0;}">
+                <Coords points="1666,2191 3538,2198 3544,2326 1672,2319"/>
+                <Baseline points="1672,2314 3544,2321"/>
+                <TextEquiv>
+                    <Unicode>Fogadja hálás köszönetemet meg¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1593108063379_292" custom="readingOrder {index:1;}">
+                <Coords points="777,2396 3544,2409 3544,2525 777,2512"/>
+                <Baseline points="777,2507 3544,2520"/>
+                <TextEquiv>
+                    <Unicode>tisztelő figyelmességéért, melyet háborus ver¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1593108069413_297" custom="readingOrder {index:2;}">
+                <Coords points="771,2581 3545,2587 3551,2724 777,2718"/>
+                <Baseline points="777,2713 3551,2719"/>
+                <TextEquiv>
+                    <Unicode>seinek megküldésével irántam tanusítani szíves</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1593108074774_302" custom="readingOrder {index:3;}">
+                <Coords points="768,2781 3585,2797 3585,2936 768,2920"/>
+                <Baseline points="768,2915 3585,2931"/>
+                <TextEquiv>
+                    <Unicode>volt. A gyönyörű költemények olvasásában őszin¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1593108088422_307" custom="readingOrder {index:4;}">
+                <Coords points="772,2974 3548,3000 3551,3145 775,3119"/>
+                <Baseline points="775,3114 3551,3140"/>
+                <TextEquiv>
+                    <Unicode>te gyönyörűségem tellett s lelki szükségletem¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1593108095088_312" custom="readingOrder {index:5;}">
+                <Coords points="776,3185 3653,3220 3652,3350 775,3315"/>
+                <Baseline points="775,3310 3652,3345"/>
+                <TextEquiv>
+                    <Unicode>nek éreztem, hogy terjesztésükhöz a magam részé¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1593108109813_324" custom="readingOrder {index:6;}">
+                <Coords points="762,3380 3595,3395 3595,3530 762,3515"/>
+                <Baseline points="762,3510 3595,3525"/>
+                <TextEquiv>
+                    <Unicode>ről is hozzájáruljak. Ezért szíves engedelmével</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1593108121416_336" custom="readingOrder {index:7;}">
+                <Coords points="769,3581 3552,3613 3554,3749 771,3717"/>
+                <Baseline points="771,3712 3554,3744"/>
+                <TextEquiv>
+                    <Unicode>intézkedtem, hogy a fővárosi iskolák részére e</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1593108128044_341" custom="readingOrder {index:8;}">
+                <Coords points="762,3786 3598,3814 3598,3954 762,3926"/>
+                <Baseline points="762,3921 3598,3949"/>
+                <TextEquiv>
+                    <Unicode>mindnyájunknak értékes könyvből ötszáz példányt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1593108133311_346" custom="readingOrder {index:9;}">
+                <Coords points="750,4015 1620,4031 1622,4144 752,4128"/>
+                <Baseline points="752,4123 1622,4139"/>
+                <TextEquiv>
+                    <Unicode>megrendeljünk.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Fogadja hálás köszönetemet meg¬&#xD;
+tisztelő figyelmességéért, melyet háborus ver¬&#xD;
+seinek megküldésével irántam tanusítani szíves&#xD;
+volt. A gyönyörű költemények olvasásában őszin¬&#xD;
+te gyönyörűségem tellett s lelki szükségletem¬&#xD;
+nek éreztem, hogy terjesztésükhöz a magam részé¬&#xD;
+ről is hozzájáruljak. Ezért szíves engedelmével&#xD;
+intézkedtem, hogy a fővárosi iskolák részére e&#xD;
+mindnyájunknak értékes könyvből ötszáz példányt&#xD;
+megrendeljünk.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1593108016811_266" custom="readingOrder {index:4;}">
+            <Coords points="1660,4216 3738,4216 3738,4422 1660,4422"/>
+            <TextLine id="line_1593108138479_351" custom="readingOrder {index:0;}">
+                <Coords points="1670,4230 3715,4246 3715,4362 1670,4346"/>
+                <Baseline points="1670,4341 3715,4357"/>
+                <TextEquiv>
+                    <Unicode>Adja Isten, hogy kedves Mester al¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Adja Isten, hogy kedves Mester al¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1593108021224_269" custom="readingOrder {index:5;}">
+            <Coords points="1899,4823 2072,4823 2072,4975 1899,4975"/>
+            <TextLine id="line_1593108148640_356" custom="readingOrder {index:0;}">
+                <Coords points="1916,4849 2046,4843 2054,4956 1924,4962"/>
+                <Baseline points="1924,4957 2054,4951"/>
+                <TextEquiv>
+                    <Unicode>1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-28T13:02:32.282+02:00</Created>
+        <LastChange>2020-11-19T15:13:05.256+01:00</LastChange>
+        <TranskribusMetadata docId="376795" pageId="14734198" pageNr="9" tsid="49194128" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=IPMARVZQDARTGQEZIGMWOHFI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WYXPCNORBIFVRDSWHAGMIEAV" imageId="10675220"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#33_5a.tif" imageWidth="3525" imageHeight="2370">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424126296" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1597134386561_975"/>
+                <RegionRefIndexed index="1" regionRef="region_1597134392414_978"/>
+                <RegionRefIndexed index="2" regionRef="region_1597134395061_981"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1597134386561_975" custom="readingOrder {index:0;}">
+            <Coords points="2791,225 3361,225 3361,455 2791,455"/>
+            <TextLine id="line_1597134401628_984" custom="readingOrder {index:0;}">
+                <Coords points="2816,246 3339,246 3339,438 2816,438"/>
+                <Baseline points="2816,433 3339,433"/>
+                <TextEquiv>
+                    <Unicode>Zsuzska!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Zsuzska!</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1597134392414_978" custom="readingOrder {index:1;}">
+            <Coords points="2795,463 3409,463 3409,992 2795,992"/>
+            <TextLine id="line_1597134404331_989" custom="readingOrder {index:0;}">
+                <Coords points="2820,456 3376,456 3376,614 2820,614"/>
+                <Baseline points="2820,609 3376,609"/>
+                <TextEquiv>
+                    <Unicode>félek, mege¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597134406492_994" custom="readingOrder {index:1;}">
+                <Coords points="2902,623 3231,612 3233,738 2904,749"/>
+                <Baseline points="2904,744 3233,733"/>
+                <TextEquiv>
+                    <Unicode>lőzöm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597134408208_999" custom="readingOrder {index:2;}">
+                <Coords points="2841,747 3356,733 3361,859 2846,873"/>
+                <Baseline points="2846,868 3361,854"/>
+                <TextEquiv>
+                    <Unicode>e levelező¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597134410498_1004" custom="readingOrder {index:3;}">
+                <Coords points="2847,852 3231,863 3230,973 2846,962"/>
+                <Baseline points="2846,945 3230,956"/>
+                <TextEquiv>
+                    <Unicode>lapot.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>félek, mege¬&#xD;
+lőzöm&#xD;
+e levelező¬&#xD;
+lapot.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1597134395061_981" custom="readingOrder {index:2;}">
+            <Coords points="2988,971 3310,971 3310,1143 2988,1143"/>
+            <TextLine id="line_1597134412299_1009" custom="readingOrder {index:0;}">
+                <Coords points="3037,967 3289,989 3277,1115 3025,1093"/>
+                <Baseline points="3025,1088 3241,1106"/>
+                <TextEquiv>
+                    <Unicode>Pá!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Pá!</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

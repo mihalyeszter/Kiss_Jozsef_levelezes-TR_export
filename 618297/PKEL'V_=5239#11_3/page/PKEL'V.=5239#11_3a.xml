@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2019-11-13T13:19:06.901+01:00</Created>
+        <LastChange>2020-11-25T11:55:18.454+01:00</LastChange>
+        <TranskribusMetadata docId="618297" pageId="24482756" pageNr="1" tsid="53057207" status="NEW" userId="63384" imgUrl="https://files.transkribus.eu/Get?id=BHHDSWUSZHPKHZGVTIARRFKR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CTKOVFLAAETQQUBXACEVOGKO" imageId="18852919"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#11_3a.tif" imageWidth="3529" imageHeight="4226">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424931652" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1574069539677_525"/>
+                <RegionRefIndexed index="1" regionRef="region_1574069543579_528"/>
+                <RegionRefIndexed index="2" regionRef="region_1574069547703_531"/>
+                <RegionRefIndexed index="3" regionRef="region_1574069551425_534"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1574069539677_525" custom="readingOrder {index:0;}">
+            <Coords points="512,2193 1080,2193 1080,2531 512,2531"/>
+            <TextLine id="line_1574069565448_537" custom="readingOrder {index:0;} abbrev {offset:0; length:5;}">
+                <Coords points="560,2214 979,2209 983,2463 564,2468"/>
+                <Baseline points="564,2463 983,2458"/>
+                <TextEquiv>
+                    <Unicode>Nagys.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Nagys.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1574069543579_528" custom="readingOrder {index:1;}">
+            <Coords points="798,2547 2645,2547 2645,3054 798,3054"/>
+            <TextLine id="line_1574069569368_542" custom="readingOrder {index:0;}">
+                <Coords points="805,2564 2580,2544 2597,2935 822,2955"/>
+                <Baseline points="822,2917 2597,2897"/>
+                <TextEquiv>
+                    <Unicode>Kiss Ottó úrnak</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kiss Ottó úrnak</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1574069547703_531" custom="readingOrder {index:2;}">
+            <Coords points="1892,3332 3180,3332 3180,3658 1892,3658"/>
+            <TextLine id="line_1574069573389_547" custom="readingOrder {index:0;} textStyle {offset:0; length:8;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="1971,3299 3162,3299 3176,3705 1985,3705"/>
+                <Baseline points="1985,3614 3176,3614"/>
+                <TextEquiv>
+                    <Unicode>Budapest</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Budapest</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1574069551425_534" custom="readingOrder {index:3;}">
+            <Coords points="1184,3561 3422,3561 3422,4020 1184,4020"/>
+            <TextLine id="line_1574069576239_552" custom="readingOrder {index:0;}">
+                <Coords points="1208,3592 3402,3516 3417,3925 1223,4001"/>
+                <Baseline points="1220,3927 3414,3851"/>
+                <TextEquiv>
+                    <Unicode>„A Hét” Népszínház u 22</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>„A Hét” Népszínház u 22</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

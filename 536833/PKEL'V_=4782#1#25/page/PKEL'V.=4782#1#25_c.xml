@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-11-12T10:17:47.411+01:00</Created>
+        <LastChange>2020-12-08T12:07:54.595+01:00</LastChange>
+        <TranskribusMetadata docId="536833" pageId="22630314" pageNr="3" tsid="50180884" status="IN_PROGRESS" userId="63384" imgUrl="https://files.transkribus.eu/Get?id=WPTNSXTSJSVJGGDFDQYGXKAS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LPOXOFBCJGYNXANENCRVSNLZ" imageId="17617974"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=4782#1#25_c.tif" imageWidth="3309" imageHeight="2245">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424652043" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1605178241962_81"/>
+                <RegionRefIndexed index="1" regionRef="region_1605178249381_89"/>
+                <RegionRefIndexed index="2" regionRef="region_1605178256204_97"/>
+                <RegionRefIndexed index="3" regionRef="region_1605178274713_105"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1605178241962_81" custom="readingOrder {index:0;}">
+            <Coords points="250,262 250,382 771,382 771,262"/>
+            <TextLine id="line_1605178241994_84" custom="readingOrder {index:0;}">
+                <Coords points="250,271 771,266 771,377 250,382"/>
+                <Baseline points="250,377 771,372"/>
+                <TextEquiv>
+                    <Unicode>A Hét</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>A Hét</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1605178249381_89" custom="readingOrder {index:1;}">
+            <Coords points="1968,431 1968,490 2402,490 2402,431"/>
+            <TextLine id="line_1605178249428_92" custom="readingOrder {index:0;}">
+                <Coords points="1968,434 2402,434 2402,490 1968,490"/>
+                <Baseline points="1968,485 2402,485"/>
+                <TextEquiv>
+                    <Unicode>Budapest,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Budapest,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1605178256204_97" custom="readingOrder {index:2;}">
+            <Coords points="1771,510 1771,563 2572,563 2572,510"/>
+            <TextLine id="line_1605178256242_100" custom="readingOrder {index:0;}">
+                <Coords points="1771,510 2572,513 2572,563 1771,560"/>
+                <Baseline points="1771,555 2572,558"/>
+                <TextEquiv>
+                    <Unicode>VIII., Rökk Szilárd-u. 18.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>VIII., Rökk Szilárd-u. 18.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1605178274713_105" custom="readingOrder {index:3;}">
+            <Coords points="3087,690 167,690 167,1979 3087,1979"/>
+            <TextLine id="line_1605178284044_108" custom="readingOrder {index:0;}">
+                <Coords points="310,715 2992,710 2992,881 310,886"/>
+                <Baseline points="310,857 2992,852"/>
+                <TextEquiv>
+                    <Unicode>Kedves Ferikém, Valaki figyelmeztet, hogy én Önt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1605178289748_113" custom="readingOrder {index:1;}">
+                <Coords points="228,894 2973,885 2968,1020 223,1029"/>
+                <Baseline points="223,1003 2968,994"/>
+                <TextEquiv>
+                    <Unicode>megsértettem és hogy Ön ezért többet nem fog</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1605178295377_118" custom="readingOrder {index:2;}">
+                <Coords points="221,1028 3063,1055 3060,1198 218,1171"/>
+                <Baseline points="221,1151 3063,1178"/>
+                <TextEquiv>
+                    <Unicode>írni A Hétnek. Én az ilyen pletykákra nem sokat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1605178302313_123" custom="readingOrder {index:3;}">
+                <Coords points="221,1204 2963,1204 2957,1348 215,1348"/>
+                <Baseline points="215,1313 2957,1313"/>
+                <TextEquiv>
+                    <Unicode>adok, de mégis jól esnék, ha Ön engem meg¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1605178308284_128" custom="readingOrder {index:4;}">
+                <Coords points="218,1341 2952,1349 2946,1501 212,1493"/>
+                <Baseline points="215,1453 2949,1461"/>
+                <TextEquiv>
+                    <Unicode>nyugtatna. Mert ha mindenki elhagy is, Önt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1605178313767_133" custom="readingOrder {index:5;}">
+                <Coords points="210,1513 2823,1495 2823,1612 210,1630"/>
+                <Baseline points="210,1625 2823,1607"/>
+                <TextEquiv>
+                    <Unicode>nem szeretném elveszíteni. Ami a sértést</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1605178320994_138" custom="readingOrder {index:6;}">
+                <Coords points="198,1658 3035,1623 3036,1776 199,1811"/>
+                <Baseline points="199,1776 3036,1741"/>
+                <TextEquiv>
+                    <Unicode>illeti, hát erről csakugyan nem tudok semmit.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1605178327443_143" custom="readingOrder {index:7;}">
+                <Coords points="194,1824 2907,1794 2901,1941 188,1971"/>
+                <Baseline points="188,1930 2901,1900"/>
+                <TextEquiv>
+                    <Unicode>Azt hiszem, Ön se. Senki az Ön irodalmi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kedves Ferikém, Valaki figyelmeztet, hogy én Önt&#xD;
+megsértettem és hogy Ön ezért többet nem fog&#xD;
+írni A Hétnek. Én az ilyen pletykákra nem sokat&#xD;
+adok, de mégis jól esnék, ha Ön engem meg¬&#xD;
+nyugtatna. Mert ha mindenki elhagy is, Önt&#xD;
+nem szeretném elveszíteni. Ami a sértést&#xD;
+illeti, hát erről csakugyan nem tudok semmit.&#xD;
+Azt hiszem, Ön se. Senki az Ön irodalmi</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

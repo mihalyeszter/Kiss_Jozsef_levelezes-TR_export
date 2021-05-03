@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-09-21T14:11:05.309+02:00</Created>
+        <LastChange>2020-10-12T14:35:29.750+02:00</LastChange>
+        <TranskribusMetadata docId="484933" pageId="19998931" pageNr="2" tsid="44330175" status="IN_PROGRESS" userId="56520" imgUrl="https://files.transkribus.eu/Get?id=YLFGOCBWKJKSNNETDJXEKGKL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EYNFCQBNHZXFZTEBVAAAMJUN" imageId="15414382"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=1344_b.tif" imageWidth="3463" imageHeight="4382">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424582187" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1602252101981_2757"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1602252088240_2749"/>
+                <RegionRefIndexed index="2" regionRef="region_1602252077376_2743"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="TextRegion_1602252101981_2757" custom="readingOrder {index:0;}">
+            <Coords points="300,1288 3333,1288 3333,1713 1398,1726 1406,1841 300,1841"/>
+            <TextLine id="line_1602252111893_2764" custom="readingOrder {index:0;}">
+                <Coords points="381,1307 3303,1302 3299,1441 377,1446"/>
+                <Baseline points="377,1441 3299,1436"/>
+                <TextEquiv>
+                    <Unicode>a pinty. Ha agyon etetni vagy agyon itatni akar¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1602252114914_2769" custom="readingOrder {index:1;}">
+                <Coords points="365,1451 3287,1447 3291,1582 369,1586"/>
+                <Baseline points="369,1581 3291,1577"/>
+                <TextEquiv>
+                    <Unicode>tok, vessetek magatokra, én kötélnek nem állok.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1602252117800_2774" custom="readingOrder {index:2;}">
+                <Coords points="373,1594 3202,1581 3202,1709 373,1722"/>
+                <Baseline points="373,1717 3202,1704"/>
+                <TextEquiv>
+                    <Unicode>Ezt a bizalmas közlést sietek hozzád juttatni.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1602252120372_2779" custom="readingOrder {index:3;}">
+                <Coords points="402,1719 1317,1723 1309,1837 394,1833"/>
+                <Baseline points="394,1828 1309,1832"/>
+                <TextEquiv>
+                    <Unicode>Ne add tovább.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>a pinty. Ha agyon etetni vagy agyon itatni akar¬&#xD;
+tok, vessetek magatokra, én kötélnek nem állok.&#xD;
+Ezt a bizalmas közlést sietek hozzád juttatni.&#xD;
+Ne add tovább.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="TextRegion_1602252088240_2749" custom="readingOrder {index:1;}">
+            <Coords points="304,1815 3277,1815 3281,2561 1831,2557 1824,2700 304,2700"/>
+            <TextLine id="line_1602252137664_2788" custom="readingOrder {index:0;}">
+                <Coords points="539,1843 3176,1839 3176,1986 539,1990"/>
+                <Baseline points="539,1985 3176,1981"/>
+                <TextEquiv>
+                    <Unicode>Most pedig, ég veled, jó Tömörkény! Egyszer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1602252141698_2793" custom="readingOrder {index:1;} add {offset:17; length:1;} gap {offset:17; length:0;}">
+                <Coords points="364,2027 3261,2010 3257,2113 360,2130"/>
+                <Baseline points="360,2125 3257,2108"/>
+                <TextEquiv>
+                    <Unicode>láttalak életemben, akkor is be voltál kapva.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1602252144831_2798" custom="readingOrder {index:2;}">
+                <Coords points="347,2144 3252,2140 3248,2254 343,2258"/>
+                <Baseline points="343,2253 3248,2249"/>
+                <TextEquiv>
+                    <Unicode>Ha rám nem ismernél, elárulom, rózsa lesz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1602252147504_2803" custom="readingOrder {index:3;}">
+                <Coords points="369,2278 3147,2266 3155,2403 377,2415"/>
+                <Baseline points="377,2410 3155,2398"/>
+                <TextEquiv>
+                    <Unicode>a gomblyukamba, fehér rózsa, piros rózsa,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1602252150418_2808" custom="readingOrder {index:4;}">
+                <Coords points="377,2433 2742,2404 2742,2518 377,2547"/>
+                <Baseline points="411,2542 2731,2516"/>
+                <TextEquiv>
+                    <Unicode>vagy esetleg csak puszta gomblyuk!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1602252153083_2813" custom="readingOrder {index:5;}">
+                <Coords points="470,2552 1733,2535 1734,2679 471,2696"/>
+                <Baseline points="471,2691 1734,2674"/>
+                <TextEquiv>
+                    <Unicode>Szervusz, Öregem!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Most pedig, ég veled, jó Tömörkény! Egyszer&#xD;
+láttalak életemben, akkor is be voltál kapva.&#xD;
+Ha rám nem ismernél, elárulom, rózsa lesz&#xD;
+a gomblyukamba, fehér rózsa, piros rózsa,&#xD;
+vagy esetleg csak puszta gomblyuk!&#xD;
+Szervusz, Öregem!</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1602252077376_2743" custom="readingOrder {index:2;}">
+            <Coords points="1921,2581 3056,2581 3056,3028 1921,3028"/>
+            <TextLine id="line_1602252164400_2821" custom="readingOrder {index:0;}">
+                <Coords points="1963,2610 3022,2589 3011,2864 1952,2885"/>
+                <Baseline points="1952,2848 3011,2827"/>
+                <TextEquiv>
+                    <Unicode>Kiss József</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kiss József</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

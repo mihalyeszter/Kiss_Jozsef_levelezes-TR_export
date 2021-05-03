@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>PKEL'V.=5239#119</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: eszter.mihaly@gmail.com</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile xml:id='facs_1'>
+		<surface ulx='0' uly='0' lrx='2951' lry='1808'>
+			<graphic url='PKEL'V.=5239#119_a.tif' width='2951px' height='1808px'/>
+			<zone ulx='182' uly='189' lrx='1021' lry='480' rendition='TextRegion' xml:id='facs_1_region_1597415091703_3059'>
+				<zone ulx='228' uly='202' lrx='974' lry='454' rendition='Line' xml:id='facs_1_line_1597415108191_3075'/>
+			</zone>
+			<zone ulx='832' uly='443' lrx='2634' lry='890' rendition='TextRegion' xml:id='facs_1_TextRegion_1597415204618_3124'>
+				<zone ulx='844' uly='475' lrx='2566' lry='838' rendition='Line' xml:id='facs_1_line_1597415189507_3117'/>
+			</zone>
+			<zone ulx='417' uly='850' lrx='1734' lry='1181' rendition='TextRegion' xml:id='facs_1_region_1597415097175_3065'>
+				<zone ulx='435' uly='909' lrx='1711' lry='1146' rendition='Line' xml:id='facs_1_line_1597415115822_3087'/>
+			</zone>
+			<zone ulx='1593' uly='1200' lrx='2604' lry='1460' rendition='TextRegion' xml:id='facs_1_region_1597415102210_3068'>
+				<zone ulx='1703' uly='1205' lrx='2443' lry='1437' rendition='Line' xml:id='facs_1_line_1597415121576_3093'/>
+			</zone>
+			<zone ulx='1155' uly='1404' lrx='2522' lry='1737' rendition='TextRegion' xml:id='facs_1_region_1597415104143_3071'>
+				<zone ulx='1175' uly='1465' lrx='2477' lry='1694' rendition='Line' xml:id='facs_1_line_1597415126508_3099'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id='facs_2'>
+		<surface ulx='0' uly='0' lrx='2603' lry='1586'>
+			<graphic url='PKEL'V.=5239#119_b.tif' width='2603px' height='1586px'/>
+			<zone ulx='809' uly='665' lrx='1727' lry='820' rendition='TextRegion' xml:id='facs_2_region_1597415231232_3140'>
+				<zone ulx='871' uly='687' lrx='1708' lry='808' rendition='Line' xml:id='facs_2_line_1597415238689_3147'/>
+			</zone>
+			<zone ulx='343' uly='806' lrx='2510' lry='1047' rendition='TextRegion' xml:id='facs_2_region_1597415233826_3143'>
+				<zone ulx='383' uly='805' lrx='2435' lry='984' rendition='Line' xml:id='facs_2_line_1597415244138_3153'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<pb facs='#facs_1' n='1'/>
+			<p facs='#facs_1_region_1597415091703_3059'>
+				<lb facs='#facs_1_line_1597415108191_3075' n='N001'/>Nagyságos
+			</p>
+			<p facs='#facs_1_TextRegion_1597415204618_3124'>
+				<lb facs='#facs_1_line_1597415189507_3117' n='N001'/>Kiss József urnak
+			</p>
+			<p facs='#facs_1_region_1597415097175_3065'>
+				<lb facs='#facs_1_line_1597415115822_3087' n='N001'/>„A Hét” szerkesztője
+			</p>
+			<p facs='#facs_1_region_1597415102210_3068'>
+				<lb facs='#facs_1_line_1597415121576_3093' n='N001'/>Budapest
+			</p>
+			<p facs='#facs_1_region_1597415104143_3071'>
+				<lb facs='#facs_1_line_1597415126508_3099' n='N001'/>Népszínház u. 22.
+			</p>
+			<pb facs='#facs_2' n='2'/>
+			<p facs='#facs_2_region_1597415231232_3140'>
+				<lb facs='#facs_2_line_1597415238689_3147' n='N001'/>Fellner Henrik
+			</p>
+			<p facs='#facs_2_region_1597415233826_3143'>
+				<lb facs='#facs_2_line_1597415244138_3153' n='N001'/>őszinte szerencsekívánatait fejezi ki
+			</p>
+		</body>
+	</text>
+</TEI>

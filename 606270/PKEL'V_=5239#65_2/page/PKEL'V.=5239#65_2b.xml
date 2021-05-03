@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2021-02-10T14:07:54.204+01:00</Created>
+        <LastChange>2021-02-19T13:12:07.264+01:00</LastChange>
+        <TranskribusMetadata docId="606270" pageId="24088222" pageNr="2" tsid="52850409" status="IN_PROGRESS" userId="58915" imgUrl="https://files.transkribus.eu/Get?id=OBKZJCYGZRIPZAVJXPYSVSOB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LTECHIWFJIMGQTOUESIJTECH" imageId="18508426"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#65_2b.tif" imageWidth="2965" imageHeight="2381">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424727817" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1613487680172_449"/>
+                <RegionRefIndexed index="1" regionRef="region_1613487684060_452"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1613487680172_449" custom="readingOrder {index:0;}">
+            <Coords points="465,32 2599,32 2442,461 1626,385 1433,538 473,542"/>
+            <TextLine id="line_1613487774432_461" custom="readingOrder {index:0;} abbrev {offset:13; length:6;} unclear {offset:13; length:6;} comment {offset:13; length:6;comment:Oberstleutnant\u0020=\u0020Alezredes\u0020;}">
+                <Coords points="762,134 2534,97 2460,418 1509,392 1342,570 596,567"/>
+                <Baseline points="698,356 2470,319"/>
+                <TextEquiv>
+                    <Unicode>Julius Bauer obstlt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Julius Bauer obstlt</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1613487684060_452" custom="readingOrder {index:1;}">
+            <Coords points="1291,592 1557,385 2248,385 2248,792 1281,792"/>
+            <TextLine id="line_1613487776996_466" custom="readingOrder {index:0;}">
+                <Coords points="1537,385 2354,436 2158,746 1233,746"/>
+                <Baseline points="1313,647 2238,647"/>
+                <TextEquiv>
+                    <Unicode>Semlin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Semlin</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

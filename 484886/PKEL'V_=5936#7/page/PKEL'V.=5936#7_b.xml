@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-09-21T14:08:02.520+02:00</Created>
+        <LastChange>2020-12-08T12:45:11.799+01:00</LastChange>
+        <TranskribusMetadata docId="484886" pageId="19998622" pageNr="2" tsid="50182488" status="IN_PROGRESS" userId="58915" imgUrl="https://files.transkribus.eu/Get?id=DGDJOQMWXHGIKTLDYFXKIGAM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YLBLBIEBTLFFOEDKWDZABYQL" imageId="15414073"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5936#7_b.tif" imageWidth="2786" imageHeight="1823">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424555718" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1603887733916_1269"/>
+                <RegionRefIndexed index="1" regionRef="region_1603887735852_1272"/>
+                <RegionRefIndexed index="2" regionRef="region_1603887738428_1275"/>
+                <RegionRefIndexed index="3" regionRef="region_1603887741930_1278"/>
+                <RegionRefIndexed index="4" regionRef="region_1603887744248_1281"/>
+                <RegionRefIndexed index="5" regionRef="region_1603887951578_1367"/>
+                <RegionRefIndexed index="6" regionRef="region_1603887953396_1370"/>
+                <RegionRefIndexed index="7" regionRef="region_1603887957987_1374"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="region_1603887733916_1269" custom="readingOrder {index:0;}">
+            <Coords points="438,106 2121,106 2121,432 438,432"/>
+            <TextLine id="line_1603887789946_1290" custom="readingOrder {index:0;}">
+                <Coords points="491,184 2096,163 2102,395 485,366"/>
+                <Baseline points="485,356 558,353 631,351 705,351 778,351 852,351 925,353 998,354 1072,357 1145,359 1219,360 1292,363 1365,366 1439,368 1512,369 1586,371 1659,371 1732,371 1806,371 1879,369 1953,366 1946,344 1975,347 2004,348 2032,345 2061,342 2090,335"/>
+                <TextEquiv>
+                    <Unicode>Schwarz Simonnének</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Schwarz Simonnének</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1603887735852_1272" custom="readingOrder {index:1;}">
+            <Coords points="1627,454 2598,454 2598,733 1627,733"/>
+            <TextLine id="region_1603887735852_1272l1" custom="readingOrder {index:0;} textStyle {offset:0; length:11;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="1654,705 2532,721 2532,691 2493,475 1653,468"/>
+                <Baseline points="1691,624 1724,624 1754,634 1788,636 1827,651 1860,651 1898,639 1926,639 1960,639 1994,639 2028,641 2064,641 2098,641 2129,632 2163,643 2197,645 2231,637 2264,640 2339,665 2393,659 2518,697"/>
+                <TextEquiv>
+                    <Unicode>Szombathely</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Szombathely</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1603887738428_1275" custom="readingOrder {index:2;}">
+            <Coords points="744,538 1864,538 1864,877 744,877"/>
+            <TextLine id="region_1603887738428_1275l2" custom="readingOrder {index:0;}">
+                <Coords points="784,842 1696,832 1842,817 1846,642 789,611"/>
+                <Baseline points="811,830 923,827 971,825 1020,824 1068,824 1116,824 1165,824 1213,824 1261,825 1310,826 1358,827 1406,828 1455,828 1503,828 1551,827 1600,827 1648,824 1696,822 1745,818 1793,813 1842,807"/>
+                <TextEquiv>
+                    <Unicode>Kiss József</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kiss József</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1603887741930_1278" custom="readingOrder {index:3;}">
+            <Coords points="454,824 2283,824 2280,1026 451,1026"/>
+            <TextLine id="region_1603887741930_1278l1" custom="readingOrder {index:0;}">
+                <Coords points="504,1021 2211,1027 2211,877 504,871"/>
+                <Baseline points="504,971 589,971 674,971 760,971 845,969 930,969 1016,969 1101,969 1186,969 1272,969 1357,969 1442,969 1528,969 1613,971 1698,971 1784,971 1869,972 1954,974 2040,974 2125,975 2211,977"/>
+                <TextEquiv>
+                    <Unicode>a Ferencz József rend középkeresztese.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>a Ferencz József rend középkeresztese.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1603887744248_1281" custom="readingOrder {index:4;}">
+            <Coords points="798,988 1837,988 1837,1186 798,1186"/>
+            <TextLine id="region_1603887744248_1281l1" custom="readingOrder {index:0;}">
+                <Coords points="809,1166 1826,1154 1826,1004 809,1016"/>
+                <Baseline points="809,1116 859,1113 910,1110 961,1109 1012,1107 1063,1106 1114,1104 1164,1104 1215,1104 1266,1104 1317,1104 1368,1106 1419,1106 1470,1106 1520,1106 1571,1107 1622,1107 1673,1107 1724,1106 1775,1106 1826,1104"/>
+                <TextEquiv>
+                    <Unicode>„A Hét” szerkesztője</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>„A Hét” szerkesztője</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1603887951578_1367" custom="readingOrder {index:5;}">
+            <Coords points="1586,1388 2179,1388 2179,1565 1586,1565"/>
+            <TextLine id="line_1603887962402_1378" custom="readingOrder {index:0;}">
+                <Coords points="1592,1406 2147,1408 2145,1549 1590,1547"/>
+                <Baseline points="1590,1542 2145,1544"/>
+                <TextEquiv>
+                    <Unicode>Budapest,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Budapest,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1603887953396_1370" custom="readingOrder {index:6;}">
+            <Coords points="1181,1540 2579,1540 2579,1712 1181,1712"/>
+            <TextLine id="line_1603887966548_1384" custom="readingOrder {index:0;}">
+                <Coords points="1192,1566 2559,1553 2559,1672 1192,1685"/>
+                <Baseline points="1192,1680 2559,1667"/>
+                <TextEquiv>
+                    <Unicode>VIII. Népszínház-utca 22, III. 8.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>VIII. Népszínház-utca 22, III. 8.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1603887957987_1374" custom="readingOrder {index:7;}">
+            <Coords points="110,1483 984,1483 984,1716 110,1716"/>
+            <TextLine id="line_1603887971782_1390" custom="readingOrder {index:0;}">
+                <Coords points="128,1518 964,1515 957,1660 121,1663"/>
+                <Baseline points="121,1658 957,1655"/>
+                <TextEquiv>
+                    <Unicode>Telefon: József 5-27.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Telefon: József 5-27.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

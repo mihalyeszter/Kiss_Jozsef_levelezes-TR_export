@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-28T13:02:33.622+02:00</Created>
+        <LastChange>2020-11-19T15:23:05.087+01:00</LastChange>
+        <TranskribusMetadata docId="376795" pageId="14734322" pageNr="23" tsid="49196922" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=GRWERQKWLRCRKXUUSBQTOUXS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WIAZZTSQDUIXFMQLNBIOSZIB" imageId="10675344"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#33_11a.tif" imageWidth="2330" imageHeight="3502">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424129906" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1597140604310_1858"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1597140604310_1858" custom="readingOrder {index:0;}">
+            <Coords points="748,3174 1704,3174 1704,3398 748,3398"/>
+            <TextLine id="line_1597140607909_1861" custom="readingOrder {index:0;}">
+                <Coords points="787,3188 1606,3188 1611,3348 792,3348"/>
+                <Baseline points="792,3343 1611,3343"/>
+                <TextEquiv>
+                    <Unicode>Jó reggelt!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Jó reggelt!</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-28T13:02:37.584+02:00</Created>
+        <LastChange>2020-11-13T12:42:15.348+01:00</LastChange>
+        <TranskribusMetadata docId="376795" pageId="14734663" pageNr="58" tsid="48644084" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=GRFBHGVTUJTTCXAIBVILGWPP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UYQKQNIHMGETUCGZFKJYXPNH" imageId="10675685"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#33_25a.tif" imageWidth="3528" imageHeight="2366">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424139256" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1597313238861_768"/>
+                <RegionRefIndexed index="1" regionRef="region_1597313245013_771"/>
+                <RegionRefIndexed index="2" regionRef="region_1597313247732_774"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1597313238861_768" custom="readingOrder {index:0;}">
+            <Coords points="1588,1239 3421,1239 3421,1951 1588,1951"/>
+            <TextLine id="line_1597313253814_777" custom="readingOrder {index:0;}">
+                <Coords points="1676,1245 3373,1245 3370,1359 1673,1359"/>
+                <Baseline points="1673,1354 3370,1354"/>
+                <TextEquiv>
+                    <Unicode>Erzsike, vigyázz az aszta¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597313257833_782" custom="readingOrder {index:1;}">
+                <Coords points="1672,1384 3352,1362 3430,1449 3407,1522 3267,1481 1666,1488"/>
+                <Baseline points="1666,1483 3268,1476 3408,1517"/>
+                <TextEquiv>
+                    <Unicode>lomra, hogy mindig rendetlen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597313260816_787" custom="readingOrder {index:2;}">
+                <Coords points="1638,1500 3298,1495 3401,1644 1634,1643"/>
+                <Baseline points="1638,1633 3401,1639"/>
+                <TextEquiv>
+                    <Unicode>legyen. Ha levelet küldesz,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597313263266_792" custom="readingOrder {index:3;} textStyle {offset:10; length:15;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="1659,1650 3360,1636 3360,1776 1659,1790"/>
+                <Baseline points="1659,1785 3360,1771"/>
+                <TextEquiv>
+                    <Unicode>a czimem: K.J. szerkesztő</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597313266379_797" custom="readingOrder {index:4;} textStyle {offset:0; length:4;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="1614,1792 3141,1786 3129,1916 1602,1922"/>
+                <Baseline points="1602,1917 3129,1911"/>
+                <TextEquiv>
+                    <Unicode>Sulz, Niederösterreich.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Erzsike, vigyázz az aszta¬&#xD;
+lomra, hogy mindig rendetlen&#xD;
+legyen. Ha levelet küldesz,&#xD;
+a czimem: K.J. szerkesztő&#xD;
+Sulz, Niederösterreich.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1597313245013_771" custom="readingOrder {index:1;}">
+            <Coords points="1822,1928 2990,1928 2990,2094 1822,2094"/>
+            <TextLine id="line_1597313269617_802" custom="readingOrder {index:0;}">
+                <Coords points="1856,1946 2968,1942 2966,2068 1854,2072"/>
+                <Baseline points="1870,2067 2966,2063"/>
+                <TextEquiv>
+                    <Unicode>Köszöntöm a mamát.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Köszöntöm a mamát.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1597313247732_774" custom="readingOrder {index:2;}">
+            <Coords points="2936,2050 3265,2050 3265,2260 2936,2260"/>
+            <TextLine id="line_1597313271793_807" custom="readingOrder {index:0;}">
+                <Coords points="2965,2071 3216,2067 3214,2231 2963,2235"/>
+                <Baseline points="2963,2230 3214,2226"/>
+                <TextEquiv>
+                    <Unicode>K.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>K.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

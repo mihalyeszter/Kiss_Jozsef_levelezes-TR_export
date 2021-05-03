@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-28T12:11:30.926+02:00</Created>
+        <LastChange>2020-12-01T16:24:25.670+01:00</LastChange>
+        <TranskribusMetadata docId="376744" pageId="14729485" pageNr="14" tsid="49755785" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=AWBNWZHIXPVBTPGESYKAUXQG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DZFCFZNYVJAVZKZURBKABCXQ" imageId="10670520"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#32_7d.tif" imageWidth="2991" imageHeight="2258">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619423976132" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1591125471629_477"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1591125471629_477" custom="readingOrder {index:0;}">
+            <Coords points="967,786 1954,786 1954,893 967,893"/>
+            <TextLine id="line_1591125485710_480" custom="readingOrder {index:0;}">
+                <Coords points="980,792 1938,808 1937,884 979,868"/>
+                <Baseline points="979,863 1937,879"/>
+                <TextEquiv>
+                    <Unicode>Curanstalten Abbazia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Curanstalten Abbazia</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

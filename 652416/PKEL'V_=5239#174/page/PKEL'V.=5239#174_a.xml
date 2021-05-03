@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2021-04-12T09:17:25.107+02:00</Created>
+        <LastChange>2021-04-14T09:31:20.963+02:00</LastChange>
+        <TranskribusMetadata docId="652416" pageId="25407279" pageNr="1" tsid="56414597" status="IN_PROGRESS" userId="56520" imgUrl="https://files.transkribus.eu/Get?id=ODHOTTUQRRUOKZJHNWSUAAMW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BKMPQUEZWYKBVGLSSHYPWPBP" imageId="19484469"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#174_a.tif" imageWidth="5115" imageHeight="6356">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425063659" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1618222444374_534"/>
+                <RegionRefIndexed index="1" regionRef="region_1618222446881_537"/>
+                <RegionRefIndexed index="2" regionRef="region_1618222454458_541"/>
+                <RegionRefIndexed index="3" regionRef="region_1618222458766_547"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1618222444374_534" custom="readingOrder {index:0;}">
+            <Coords points="1703,506 4942,506 4922,895 1683,895"/>
+            <TextLine id="line_1618222992940_570" custom="readingOrder {index:0;}">
+                <Coords points="1777,537 4900,568 4879,863 1756,832"/>
+                <Baseline points="1756,779 4851,810"/>
+                <TextEquiv>
+                    <Unicode>Budapest, 1907. deczember 15.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Budapest, 1907. deczember 15.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1618222446881_537" custom="readingOrder {index:1;}">
+            <Coords points="821,1500 3921,1500 3921,2174 821,2174"/>
+            <TextLine id="line_1618223018219_579" custom="readingOrder {index:0;}">
+                <Coords points="936,1605 3878,1643 3889,2165 935,2117"/>
+                <Baseline points="955,2014 3810,2062"/>
+                <TextEquiv>
+                    <Unicode>Nagyságos Uram!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Nagyságos Uram!</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1618222454458_541" custom="readingOrder {index:2;}">
+            <Coords points="516,2426 4658,2426 4662,5481 520,5481"/>
+            <TextLine id="line_1618223058725_592" custom="readingOrder {index:0;}">
+                <Coords points="1195,2494 4593,2558 4559,2941 1161,2877"/>
+                <Baseline points="1161,2872 4478,2899"/>
+                <TextEquiv>
+                    <Unicode>Irodalmunk mai ünnep¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618223062219_597" custom="readingOrder {index:1;}">
+                <Coords points="680,2905 4614,2952 4505,3252 571,3205"/>
+                <Baseline points="659,3108 4495,3173"/>
+                <TextEquiv>
+                    <Unicode>napján, mikor egy egész nem¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618223065527_602" custom="readingOrder {index:2;}">
+                <Coords points="567,3204 4534,3269 4527,3536 560,3471"/>
+                <Baseline points="604,3425 4473,3500"/>
+                <TextEquiv>
+                    <Unicode>zet tisztelete és szeretete teszi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618223070120_607" custom="readingOrder {index:3;}">
+                <Coords points="618,3479 4625,3483 4622,3893 585,3841"/>
+                <Baseline points="619,3768 4552,3788 4600,3788"/>
+                <TextEquiv>
+                    <Unicode>Önnek, lángeszű és lángszívű</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618223073412_612" custom="readingOrder {index:4;}">
+                <Coords points="599,3843 4568,3899 4548,4184 579,4128"/>
+                <Baseline points="603,4054 4526,4110"/>
+                <TextEquiv>
+                    <Unicode>költőjének, fejére a koszorút,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618223076434_617" custom="readingOrder {index:5;}">
+                <Coords points="583,4160 4452,4133 4433,4478 565,4431"/>
+                <Baseline points="598,4363 4395,4394"/>
+                <TextEquiv>
+                    <Unicode>hadd fejezzem ki én is Ön</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618223079260_622" custom="readingOrder {index:6;}">
+                <Coords points="590,4456 4526,4491 4497,4798 561,4763"/>
+                <Baseline points="581,4668 4517,4703"/>
+                <TextEquiv>
+                    <Unicode>előtt mélyen érzett nagyra¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618223082565_627" custom="readingOrder {index:7;}">
+                <Coords points="627,4727 4602,4787 4609,5118 634,5058"/>
+                <Baseline points="633,4969 4552,5021"/>
+                <TextEquiv>
+                    <Unicode>becsülésemet és legbensőbb</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618223085985_632" custom="readingOrder {index:8;}">
+                <Coords points="622,5018 4474,5122 4449,5432 597,5328"/>
+                <Baseline points="633,5239 4417,5339"/>
+                <TextEquiv>
+                    <Unicode>jókívánataimat a jövőre.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Irodalmunk mai ünnep¬&#xD;
+napján, mikor egy egész nem¬&#xD;
+zet tisztelete és szeretete teszi&#xD;
+Önnek, lángeszű és lángszívű&#xD;
+költőjének, fejére a koszorút,&#xD;
+hadd fejezzem ki én is Ön&#xD;
+előtt mélyen érzett nagyra¬&#xD;
+becsülésemet és legbensőbb&#xD;
+jókívánataimat a jövőre.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1618222458766_547" custom="readingOrder {index:3;}">
+            <Coords points="2378,5971 2594,5971 2594,6117 2378,6117"/>
+            <TextLine id="line_1618223102604_637" custom="readingOrder {index:0;}">
+                <Coords points="2442,5994 2541,5992 2536,6086 2437,6088"/>
+                <Baseline points="2437,6083 2536,6081"/>
+                <TextEquiv>
+                    <Unicode>1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

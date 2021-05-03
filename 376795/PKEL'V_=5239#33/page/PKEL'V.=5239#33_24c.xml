@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-28T13:02:37.437+02:00</Created>
+        <LastChange>2020-11-13T12:41:39.624+01:00</LastChange>
+        <TranskribusMetadata docId="376795" pageId="14734655" pageNr="57" tsid="48644027" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=GLMTBTRLFNZJOHLDCCZWYDLU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LLSGPQRSQMXIFMKUIGQNJOSG" imageId="10675677"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#33_24c.tif" imageWidth="4003" imageHeight="1871">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424138977" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1597313159075_744"/>
+                <RegionRefIndexed index="1" regionRef="region_1597313160862_747"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1597313159075_744" custom="readingOrder {index:0;}">
+            <Coords points="1602,421 3915,427 3915,825 1602,819"/>
+            <TextLine id="line_1597313164434_750" custom="readingOrder {index:0;}">
+                <Coords points="1670,510 3836,446 3855,715 1689,779"/>
+                <Baseline points="1746,771 3855,710"/>
+                <TextEquiv>
+                    <Unicode>Kiss Erzsike kisasszonynak</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kiss Erzsike kisasszonynak</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1597313160862_747" custom="readingOrder {index:1;}">
+            <Coords points="2843,1093 3695,1093 3695,1466 2843,1466"/>
+            <TextLine id="line_1597313167761_755" custom="readingOrder {index:0;} textStyle {offset:0; length:7;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="2835,1124 3588,1091 3629,1402 2876,1435"/>
+                <Baseline points="2876,1430 3629,1397"/>
+                <TextEquiv>
+                    <Unicode>helyben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>helyben</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

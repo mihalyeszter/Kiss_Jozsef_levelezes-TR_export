@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-09-21T14:09:28.148+02:00</Created>
+        <LastChange>2020-11-24T09:20:50.309+01:00</LastChange>
+        <TranskribusMetadata docId="533178" pageId="22539247" pageNr="6" tsid="49514096" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=BUDLOUJGGZMAKQADFKUFGNIV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GGBVRCINCZOKOLZMFYALMDTS" imageId="17543186"/>
+    </Metadata>
+    <Page imageFilename="PKEL'2016.25.2._3a.tif" imageWidth="2503" imageHeight="1591">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424633167" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1604585694188_667"/>
+                <RegionRefIndexed index="1" regionRef="region_1604585695924_670"/>
+                <RegionRefIndexed index="2" regionRef="region_1604585700317_676"/>
+                <RegionRefIndexed index="3" regionRef="region_1604585698152_673"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="region_1604585694188_667" custom="readingOrder {index:0;}">
+            <Coords points="923,598 1599,598 1599,745 923,745"/>
+            <TextLine id="region_1604585694188_667l1" custom="readingOrder {index:0;}">
+                <Coords points="956,766 986,769 1016,769 1046,772 1077,773 1107,775 1137,775 1168,776 1198,776 1228,776 1259,776 1289,776 1319,776 1349,776 1380,776 1410,775 1440,774 1471,773 1501,772 1531,770 1562,769 1562,619 1531,620 1501,622 1471,623 1440,624 1410,625 1380,626 1349,626 1319,626 1289,626 1259,626 1228,626 1198,626 1168,626 1137,625 1107,625 1077,623 1046,622 1016,619 986,619 956,616"/>
+                <Baseline points="956,716 986,719 1016,719 1046,722 1077,723 1107,725 1137,725 1168,726 1198,726 1228,726 1259,726 1289,726 1319,726 1349,726 1380,726 1410,725 1440,724 1471,723 1501,722 1531,720 1562,719"/>
+                <TextEquiv>
+                    <Unicode>Kiss József</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kiss József</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1604585695924_670" custom="readingOrder {index:1;}">
+            <Coords points="788,708 1712,708 1712,871 788,871"/>
+            <TextLine id="region_1604585695924_670l1" custom="readingOrder {index:0;}">
+                <Coords points="833,866 876,865 919,863 962,863 1005,863 1048,863 1091,863 1134,863 1177,863 1220,863 1263,865 1306,865 1349,866 1392,866 1435,866 1478,868 1521,868 1564,868 1607,868 1650,868 1694,869 1694,719 1650,718 1607,718 1564,718 1521,718 1478,718 1435,716 1392,716 1349,716 1306,715 1263,715 1220,713 1177,713 1134,713 1091,713 1048,713 1005,713 962,713 919,713 876,715 833,716"/>
+                <Baseline points="833,816 876,815 919,813 962,813 1005,813 1048,813 1091,813 1134,813 1177,813 1220,813 1263,815 1306,815 1349,816 1392,816 1435,816 1478,818 1521,818 1564,818 1607,818 1650,818 1694,819"/>
+                <TextEquiv>
+                    <Unicode>A Hét szerkesztője és kiadója</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>A Hét szerkesztője és kiadója</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1604585700317_676" custom="readingOrder {index:2;}">
+            <Coords points="163,1258 637,1258 637,1409 163,1409"/>
+            <TextLine id="region_1604585700317_676l1" custom="readingOrder {index:0;}">
+                <Coords points="177,1405 202,1408 227,1409 252,1411 277,1412 302,1412 327,1414 352,1414 377,1414 402,1414 427,1414 452,1414 477,1415 502,1415 527,1415 552,1416 577,1417 602,1418 627,1418 627,1268 602,1268 577,1267 552,1266 527,1265 502,1265 477,1265 452,1264 427,1264 402,1264 377,1264 352,1264 327,1264 302,1262 277,1262 252,1261 227,1259 202,1258 177,1255"/>
+                <Baseline points="177,1355 202,1358 227,1359 252,1361 277,1362 302,1362 327,1364 352,1364 377,1364 402,1364 427,1364 452,1364 477,1365 502,1365 527,1365 552,1366 577,1367 602,1368 627,1368"/>
+                <TextEquiv>
+                    <Unicode>Telefon 61—38.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Telefon 61—38.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1604585698152_673" custom="readingOrder {index:3;}">
+            <Coords points="1443,1270 2380,1270 2380,1417 1443,1417"/>
+            <TextLine id="line_1604586111388_687" custom="readingOrder {index:0;}">
+                <Coords points="1461,1261 1932,1261 2235,1265 2262,1266 2315,1271 2315,1421 1591,1417 1487,1413 1461,1411"/>
+                <Baseline points="1461,1361 1487,1363 1513,1364 1539,1365 1565,1366 1591,1367 1618,1367 1644,1367 1670,1367 1696,1367 1722,1366 1748,1365 1775,1365 1801,1364 1827,1363 1853,1362 1879,1362 1905,1362 1932,1361 1997,1365 2023,1367 2050,1368 2076,1367 2103,1367 2129,1366 2156,1365 2182,1365 2209,1365 2235,1365 2262,1366 2288,1369 2315,1371"/>
+                <TextEquiv>
+                    <Unicode>VIII., Népszínház-utca 22. III/8.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>VIII., Népszínház-utca 22. III/8.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-29T10:54:41.799+02:00</Created>
+        <LastChange>2020-11-24T10:57:45.638+01:00</LastChange>
+        <TranskribusMetadata docId="377228" pageId="14767953" pageNr="46" tsid="49518740" status="IN_PROGRESS" userId="56520" imgUrl="https://files.transkribus.eu/Get?id=ERSMTOAVLDVSLQCHJXGTMUMG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JPWUUNRXCVPNHCDRSFTJANBV" imageId="10707792"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#34_20b.tif" imageWidth="3272" imageHeight="2194">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424058535" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1594558092588_719"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1594558092588_718"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="TextRegion_1594558092588_719" custom="readingOrder {index:0;}">
+            <Coords points="167,82 3003,82 3003,1814 2997,1814 2797,1812 2719,2113 2717,2119 167,2119"/>
+            <TextLine id="line_1594558115310_727" custom="readingOrder {index:0;}">
+                <Coords points="223,153 2969,81 2973,323 232,538"/>
+                <Baseline points="217,464 2958,249"/>
+                <TextEquiv>
+                    <Unicode>a kollega intézkedéseinek, akivel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1594558120523_732" custom="readingOrder {index:1;}">
+                <Coords points="205,546 2973,364 2970,669 202,851"/>
+                <Baseline points="202,741 2970,559"/>
+                <TextEquiv>
+                    <Unicode>különben megismertetni fogom.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1594558125935_737" custom="readingOrder {index:2;}">
+                <Coords points="215,832 2840,716 2851,1036 226,1152"/>
+                <Baseline points="217,1057 2842,941"/>
+                <TextEquiv>
+                    <Unicode>De én Önt édes jó doktorom,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1594558190172_770" custom="readingOrder {index:3;}">
+                <Coords points="250,1136 1869,1119 2184,1086 2978,1023 2982,1250 2188,1313 1857,1352 235,1369"/>
+                <Baseline points="238,1322 1860,1305 2185,1266 2979,1203"/>
+                <TextEquiv>
+                    <Unicode>amíg élek már nem nélkülöz¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1594558136132_747" custom="readingOrder {index:4;}">
+                <Coords points="196,1433 2692,1315 2692,1575 187,1730"/>
+                <Baseline points="190,1653 2695,1498"/>
+                <TextEquiv>
+                    <Unicode>hetem. Annyi esztendőkig mentünk</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1594558149587_752" custom="readingOrder {index:5;} sic {offset:6; length:7;}">
+                <Coords points="190,1727 1296,1652 1983,1665 2305,1639 2889,1636 2862,1808 2209,1859 1857,1871 1264,1865 184,1937"/>
+                <Baseline points="184,1904 1270,1823 1857,1844 2209,1794 2862,1782"/>
+                <TextEquiv>
+                    <Unicode>jóban-roszban együtt, ne hagyjon</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1594558163209_757" custom="readingOrder {index:6;}">
+                <Coords points="258,1939 1315,1868 1655,1907 1905,1874 2233,1865 2341,1844 2743,1853 2734,2073 2285,2067 2194,2080 1747,2026 1657,2085 1285,2074 265,2113"/>
+                <Baseline points="256,2065 1389,2038 1655,2080 1741,1993 2200,2026 2284,1996 2734,2002"/>
+                <TextEquiv>
+                    <Unicode>el engemet. Szerető híve és barátja</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>a kollega intézkedéseinek, akivel&#xD;
+különben megismertetni fogom.&#xD;
+De én Önt édes jó doktorom,&#xD;
+amíg élek már nem nélkülöz¬&#xD;
+hetem. Annyi esztendőkig mentünk&#xD;
+jóban-roszban együtt, ne hagyjon&#xD;
+el engemet. Szerető híve és barátja</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="TextRegion_1594558092588_718" custom="readingOrder {index:1;}">
+            <Coords points="2797,1812 2997,1814 3057,1814 3057,2119 2717,2119 2719,2113"/>
+            <TextLine id="line_1594558167696_762" custom="readingOrder {index:0;}">
+                <Coords points="2803,1824 3044,1829 3047,2098 2758,2080"/>
+                <Baseline points="2761,1984 3044,2065"/>
+                <TextEquiv>
+                    <Unicode>Kiss</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kiss</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

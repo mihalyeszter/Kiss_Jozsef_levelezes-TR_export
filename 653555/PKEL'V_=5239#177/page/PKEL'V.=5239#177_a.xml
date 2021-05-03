@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2021-04-13T13:14:10.914+02:00</Created>
+        <LastChange>2021-04-14T14:01:15.274+02:00</LastChange>
+        <TranskribusMetadata docId="653555" pageId="25432201" pageNr="1" tsid="56449405" status="IN_PROGRESS" userId="71971" imgUrl="https://files.transkribus.eu/Get?id=EWNLLKLMYSATYEWWMSZQCRJH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NGMRGVOFHBPVZFKWPKGIUJCT" imageId="19502468"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#177_a.tif" imageWidth="2362" imageHeight="1083">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619425026012" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1618401399649_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1618401399649_3" custom="readingOrder {index:0;}">
+            <Coords points="76,72 2276,72 2282,1007 82,1007"/>
+            <TextLine id="line_1618401424499_8" custom="readingOrder {index:0;}">
+                <Coords points="139,111 2264,78 2267,210 110,257"/>
+                <Baseline points="143,240 2262,204"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618401429475_13" custom="readingOrder {index:1;}">
+                <Coords points="96,267 1984,213 2294,273 2288,462 2046,361 96,394"/>
+                <Baseline points="117,380 2048,364 2252,468"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618401452245_21" custom="readingOrder {index:2;}">
+                <Coords points="84,410 1095,367 1703,346 2111,368 2094,466 1798,459 1558,500 1343,470 67,508"/>
+                <Baseline points="91,497 2025,464"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618401459388_26" custom="readingOrder {index:3;}">
+                <Coords points="119,532 1837,467 2108,479 2282,497 2255,597 2061,573 1827,583 109,648"/>
+                <Baseline points="160,643 1827,578 2061,568 2243,575"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618401465725_31" custom="readingOrder {index:4;}">
+                <Coords points="108,659 1906,575 2182,577 2309,595 2222,723 2118,693 1895,697 1567,769 1458,766 1319,769 98,781"/>
+                <Baseline points="98,776 1895,692 2119,688 2223,718"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618401471842_36" custom="readingOrder {index:5;}">
+                <Coords points="111,766 1972,730 2090,701 2276,751 2246,823 2090,814 1927,814 108,892"/>
+                <Baseline points="108,887 1927,809 2090,809 2246,818"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1618401476355_41" custom="readingOrder {index:6;}">
+                <Coords points="113,885 2196,830 2191,958 108,1013"/>
+                <Baseline points="114,987 2197,932"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>&#xD;
+&#xD;
+&#xD;
+&#xD;
+&#xD;
+&#xD;
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

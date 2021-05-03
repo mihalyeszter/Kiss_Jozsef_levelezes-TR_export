@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-06-09T15:43:48.615+02:00</Created>
+        <LastChange>2020-11-20T17:05:55.683+01:00</LastChange>
+        <TranskribusMetadata docId="406049" pageId="15906475" pageNr="4" tsid="49372543" status="IN_PROGRESS" userId="58915" imgUrl="https://files.transkribus.eu/Get?id=PWZSYJRJPITTJVELURHLZARF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZGFBRVYEZCSGLJNPYLVOADJS" imageId="11721715"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#113_2b.tif" imageWidth="3203" imageHeight="2158">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424374137" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1597738972035_867"/>
+                <RegionRefIndexed index="1" regionRef="region_1597329241692_4197"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1597329259226_4204"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1597738972035_867" custom="readingOrder {index:0;}">
+            <Coords points="192,168 918,168 918,636 192,636"/>
+            <TextLine id="line_1597738978951_871" custom="readingOrder {index:0;}">
+                <Coords points="274,243 882,226 889,314 281,331"/>
+                <Baseline points="281,326 889,309"/>
+                <TextEquiv>
+                    <Unicode>Dr Farkas Pál</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597738981587_876" custom="readingOrder {index:1;}">
+                <Coords points="231,338 884,324 889,388 236,402"/>
+                <Baseline points="236,397 889,383"/>
+                <TextEquiv>
+                    <Unicode>országgyűlési képviselő</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597738983448_881" custom="readingOrder {index:2;}">
+                <Coords points="439,416 705,413 706,466 440,469"/>
+                <Baseline points="440,464 706,461"/>
+                <TextEquiv>
+                    <Unicode>Budapest,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597738985184_886" custom="readingOrder {index:3;}">
+                <Coords points="306,473 813,457 816,519 309,535"/>
+                <Baseline points="309,530 816,514"/>
+                <TextEquiv>
+                    <Unicode>VI., Andrássy-ut 16.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Dr Farkas Pál&#xD;
+országgyűlési képviselő&#xD;
+Budapest,&#xD;
+VI., Andrássy-ut 16.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1597329241692_4197" custom="readingOrder {index:1;}">
+            <Coords points="1232,292 2137,292 2137,602 1232,602"/>
+            <TextLine id="line_1597329274154_4212" custom="readingOrder {index:0;}">
+                <Coords points="1278,339 2097,300 2083,528 1264,567"/>
+                <Baseline points="1264,562 2083,523"/>
+                <TextEquiv>
+                    <Unicode>Kedves Józsi bácsi,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kedves Józsi bácsi,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="TextRegion_1597329259226_4204" custom="readingOrder {index:2;}">
+            <Coords points="569,620 3061,620 3053,1985 224,1985 230,953 576,950"/>
+            <TextLine id="line_1597329285341_4220" custom="readingOrder {index:0;}">
+                <Coords points="584,684 2870,647 2888,802 590,912"/>
+                <Baseline points="590,907 2888,797"/>
+                <TextEquiv>
+                    <Unicode>valami félreértés lehet a dologban, a minek nem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597329287797_4225" custom="readingOrder {index:1;}">
+                <Coords points="285,980 2929,841 2927,1044 283,1183"/>
+                <Baseline points="283,1178 2927,1039"/>
+                <TextEquiv>
+                    <Unicode>érdemes utána járni. Sokkal fontosabb, hogy a tegnapi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597329291355_4230" custom="readingOrder {index:2;} sic {offset:7; length:15;}">
+                <Coords points="297,1228 2809,1092 2827,1290 315,1426"/>
+                <Baseline points="315,1421 2827,1285"/>
+                <TextEquiv>
+                    <Unicode>ülésen megállapítottak a jubileum programmját és</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597329293659_4235" custom="readingOrder {index:3;} sic {offset:37; length:10;}">
+                <Coords points="334,1511 2977,1336 2996,1565 353,1740"/>
+                <Baseline points="330,1688 2973,1513"/>
+                <TextEquiv>
+                    <Unicode>a megfelelő hírt ma korán reggel már közetettem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597329296318_4240" custom="readingOrder {index:4;}">
+                <Coords points="319,1730 2988,1527 2991,1714 322,1917"/>
+                <Baseline points="322,1912 2991,1709"/>
+                <TextEquiv>
+                    <Unicode>az esti lapok részére. Fenyő úr naponta eljön hozzám</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>valami félreértés lehet a dologban, a minek nem&#xD;
+érdemes utána járni. Sokkal fontosabb, hogy a tegnapi&#xD;
+ülésen megállapítottak a jubileum programmját és&#xD;
+a megfelelő hírt ma korán reggel már közetettem&#xD;
+az esti lapok részére. Fenyő úr naponta eljön hozzám</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2021-04-08T10:44:42.378+02:00</Created>
+        <LastChange>2021-04-13T08:35:14.771+02:00</LastChange>
+        <TranskribusMetadata docId="649129" pageId="25213420" pageNr="1" tsid="56275508" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=WEDTQMBMTNDOXXOMVCKHYQVP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HIQLPOOBNUVDRHPLLXZGBBAW" imageId="19444341"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#173_12a.tif" imageWidth="2528" imageHeight="1619">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424918646" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1617961225009_735"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1617961225009_735" custom="readingOrder {index:0;}">
+            <Coords points="209,700 1709,700 1709,1099 209,1099"/>
+            <TextLine id="line_1617961230299_738" custom="readingOrder {index:0;} gap {offset:0; length:0;}">
+                <Coords points="266,725 1634,728 1634,1057 266,1054"/>
+                <Baseline points="275,898 1643,901"/>
+                <TextEquiv>
+                    <Unicode>József urnak</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>József urnak</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA76_249_0mod90.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-09-21T14:09:57.042+02:00</Created>
+        <LastChange>2020-10-22T12:54:50.229+02:00</LastChange>
+        <TranskribusMetadata docId="618302" pageId="24483032" pageNr="1" tsid="53057702" status="NEW" userId="73049" imgUrl="https://files.transkribus.eu/Get?id=JIJYCWFVVPJUJAFHLBCNRSGI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SMYCVUPPFCQBPEGRLSTJBPGE" imageId="18853195"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=3823#383_4a.tif" imageWidth="2628" imageHeight="1223">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424933438" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1603270879883_1158"/>
+                <RegionRefIndexed index="1" regionRef="region_1603270881812_1161"/>
+                <RegionRefIndexed index="2" regionRef="region_1603270883847_1164"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="region_1603270879883_1158" custom="readingOrder {index:0;}">
+            <Coords points="951,429 1759,429 1757,579 949,579"/>
+            <TextLine id="line_1603270969117_1249" custom="readingOrder {index:0;}">
+                <Coords points="993,476 1738,481 1734,571 989,566"/>
+                <Baseline points="989,561 1734,566"/>
+                <TextEquiv>
+                    <Unicode>Kiss József</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kiss József</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1603270881812_1161" custom="readingOrder {index:1;}">
+            <Coords points="722,573 1963,573 1963,696 722,696"/>
+            <TextLine id="line_1603270972815_1255" custom="readingOrder {index:0;}">
+                <Coords points="775,596 1935,600 1935,666 775,662"/>
+                <Baseline points="775,657 1935,661"/>
+                <TextEquiv>
+                    <Unicode>„A Hét” szerkesztője és kiadója.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>„A Hét” szerkesztője és kiadója.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1603270883847_1164" custom="readingOrder {index:2;}">
+            <Coords points="1706,1005 2445,1005 2445,1121 1706,1121"/>
+            <TextLine id="line_1603270978251_1261" custom="readingOrder {index:0;}">
+                <Coords points="1752,1047 2437,1051 2437,1115 1752,1111"/>
+                <Baseline points="1752,1106 2437,1110"/>
+                <TextEquiv>
+                    <Unicode>VIII., Rökk Szilárd-u. 18.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>VIII., Rökk Szilárd-u. 18.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

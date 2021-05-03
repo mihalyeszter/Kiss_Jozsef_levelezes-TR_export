@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-06-03T13:27:14.254+02:00</Created>
+        <LastChange>2020-11-24T12:47:28.370+01:00</LastChange>
+        <TranskribusMetadata docId="401199" pageId="15522787" pageNr="4" tsid="49522296" status="IN_PROGRESS" userId="56520" imgUrl="https://files.transkribus.eu/Get?id=ZJFDDKPOMCPEIJMYFPCIXSWK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KENIZBYWPPUZCABMUTGWSZLU" imageId="11350700"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#52_d.tif" imageWidth="3442" imageHeight="2249">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424292237" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1592558753073_724"/>
+                <RegionRefIndexed index="1" regionRef="region_1592558763432_727"/>
+                <RegionRefIndexed index="2" regionRef="region_1592558771955_730"/>
+                <RegionRefIndexed index="3" regionRef="region_1592558781096_733"/>
+                <RegionRefIndexed index="4" regionRef="region_1592558789347_736"/>
+                <RegionRefIndexed index="5" regionRef="region_1592558795920_739"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1592558753073_724" custom="readingOrder {index:0;}">
+            <Coords points="1961,78 190,78 190,282 1961,282"/>
+            <TextLine id="line_1592558826882_746" custom="readingOrder {index:0;}">
+                <Coords points="206,127 1961,83 1961,255 204,281"/>
+                <Baseline points="204,258 1959,214"/>
+                <TextEquiv>
+                    <Unicode>Üdvözlet a „Monarch” toronyágyújárol.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Üdvözlet a „Monarch” toronyágyújárol.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1592558763432_727" custom="readingOrder {index:1;}">
+            <Coords points="171,386 459,386 459,258 171,258"/>
+            <TextLine id="line_1592558832393_751" custom="readingOrder {index:0;}">
+                <Coords points="186,271 453,263 457,361 190,369"/>
+                <Baseline points="190,364 457,356"/>
+                <TextEquiv>
+                    <Unicode>Hívük.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Hívük.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1592558771955_730" custom="readingOrder {index:2;}">
+            <Coords points="465,291 1180,291 1180,576 465,576"/>
+            <TextLine id="line_1592558837570_756" custom="readingOrder {index:0;}">
+                <Coords points="468,328 1162,292 1164,530 470,566"/>
+                <Baseline points="470,514 1164,478"/>
+                <TextEquiv>
+                    <Unicode>Balla Ignác</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Balla Ignác</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1592558781096_733" custom="readingOrder {index:3;}">
+            <Coords points="84,693 789,693 789,568 84,568"/>
+            <TextLine id="line_1592558844822_761" custom="readingOrder {index:0;} abbrev {offset:12; length:3;}">
+                <Coords points="92,579 770,579 770,691 92,691"/>
+                <Baseline points="92,674 770,674"/>
+                <TextEquiv>
+                    <Unicode>Teodó 1902, aug. 9.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Teodó 1902, aug. 9.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1592558789347_736" custom="readingOrder {index:4;}">
+            <Coords points="2995,84 2062,84 2062,821 2995,821"/>
+            <TextLine id="line_1592558856881_766" custom="readingOrder {index:0;}">
+                <Coords points="2281,106 2972,90 2979,263 2288,279"/>
+                <Baseline points="2285,214 2976,198"/>
+                <TextEquiv>
+                    <Unicode>Ez itt a gyerek.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ez itt a gyerek.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1592558795920_739" custom="readingOrder {index:5;}">
+            <Coords points="127,1858 258,1858 258,2100 127,2100"/>
+            <TextLine id="line_1592558863530_771" custom="readingOrder {index:0;}">
+                <Coords points="139,2085 142,1879 228,1880 225,2086"/>
+                <Baseline points="220,2086 223,1880"/>
+                <TextEquiv>
+                    <Unicode>239.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>239.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2019-11-19T14:31:14.642+01:00</Created>
+        <LastChange>2020-11-23T11:30:46.933+01:00</LastChange>
+        <TranskribusMetadata docId="255212" pageId="11135147" pageNr="1" tsid="49479072" status="IN_PROGRESS" userId="56520" imgUrl="https://files.transkribus.eu/Get?id=SCOBFGWSAWKZUOFXUXMWRZXX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZTEMJSUWBXLXWKCFEEQZVHNJ" imageId="7599871"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#15_a.tif" imageWidth="3974" imageHeight="5274">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619423872806" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1574170417962_34"/>
+                <RegionRefIndexed index="1" regionRef="region_1574170433426_37"/>
+                <RegionRefIndexed index="2" regionRef="region_1574170438322_40"/>
+                <RegionRefIndexed index="3" regionRef="region_1574170441602_43"/>
+                <RegionRefIndexed index="4" regionRef="region_1574170453418_47"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1574170417962_34" custom="readingOrder {index:0;}">
+            <Coords points="734,773 2479,773 2479,1187 734,1187"/>
+            <TextLine id="line_1574170550340_84" custom="readingOrder {index:0;}">
+                <Coords points="731,822 2424,788 2425,1132 732,1166"/>
+                <Baseline points="764,1116 2374,1086"/>
+                <TextEquiv>
+                    <Unicode>Kedves Miklós Andor!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kedves Miklós Andor!</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1574170433426_37" custom="readingOrder {index:1;}">
+            <Coords points="514,1154 3585,1154 3582,2018 511,2018"/>
+            <TextLine id="line_1574170554820_89" custom="readingOrder {index:0;}">
+                <Coords points="648,1157 3302,1191 3293,1510 639,1476"/>
+                <Baseline points="645,1430 3299,1464"/>
+                <TextEquiv>
+                    <Unicode>Ajánlom különös figyelmébe ezt a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1574170560884_94" custom="readingOrder {index:1;}">
+                <Coords points="569,1438 3571,1521 3546,1862 544,1779"/>
+                <Baseline points="550,1697 3552,1780"/>
+                <TextEquiv>
+                    <Unicode>kis verset. Szebbet nem írtam sem én,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1574170565252_99" custom="readingOrder {index:2;}">
+                <Coords points="623,1708 1949,1728 1926,2030 600,2010"/>
+                <Baseline points="606,1944 1932,1964"/>
+                <TextEquiv>
+                    <Unicode>sem az óriások.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ajánlom különös figyelmébe ezt a&#xD;
+kis verset. Szebbet nem írtam sem én,&#xD;
+sem az óriások.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1574170438322_40" custom="readingOrder {index:2;}">
+            <Coords points="2057,1865 2568,1865 2565,2216 2054,2216"/>
+            <TextLine id="line_1574170568029_104" custom="readingOrder {index:0;}">
+                <Coords points="2122,1877 2486,1886 2485,2192 2121,2183"/>
+                <Baseline points="2121,2133 2485,2142"/>
+                <TextEquiv>
+                    <Unicode>Öleli</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Öleli</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1574170441602_43" custom="readingOrder {index:3;}">
+            <Coords points="2469,2037 3487,2037 3490,2531 2472,2531"/>
+            <TextLine id="line_1574170571181_109" custom="readingOrder {index:0;}">
+                <Coords points="2484,2101 3454,2093 3460,2446 2490,2454"/>
+                <Baseline points="2493,2403 3463,2395"/>
+                <TextEquiv>
+                    <Unicode>Kiss József</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kiss József</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1574170453418_47" custom="readingOrder {index:4;}">
+            <Coords points="350,2134 1991,2134 1994,3075 353,3075"/>
+            <TextLine id="line_1574170613316_115" custom="readingOrder {index:0;} textStyle {offset:0; length:14;underlined:true; strikethrough:true; fontSize:0.0; kerning:0;} comment {offset:2; length:6;comment:Kiss\u0020József\u0020unokája.;}">
+                <Coords points="565,2403 1805,2301 1842,2686 602,2788"/>
+                <Baseline points="602,2681 1842,2579"/>
+                <TextEquiv>
+                    <Unicode>A Sárika orra.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>A Sárika orra.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

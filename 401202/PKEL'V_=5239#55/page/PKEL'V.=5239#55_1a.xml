@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-06-03T13:27:10.264+02:00</Created>
+        <LastChange>2020-11-25T15:39:54.409+01:00</LastChange>
+        <TranskribusMetadata docId="401202" pageId="15522733" pageNr="1" tsid="49617560" status="IN_PROGRESS" userId="56520" imgUrl="https://files.transkribus.eu/Get?id=GFRZQCBTGKVSNDTHWGGHNGAL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UUOKOSYAAULQBBGIOIOFSBUZ" imageId="11350646"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#55_1a.tif" imageWidth="4312" imageHeight="5469">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424301583" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1592936450984_553"/>
+                <RegionRefIndexed index="1" regionRef="region_1592936455895_556"/>
+                <RegionRefIndexed index="2" regionRef="region_1592936466457_559"/>
+                <RegionRefIndexed index="3" regionRef="region_1592936512060_562"/>
+                <RegionRefIndexed index="4" regionRef="region_1592936517971_565"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1592936450984_553" custom="readingOrder {index:0;}">
+            <Coords points="695,428 3509,428 3509,521 695,521"/>
+            <TextLine id="line_1592936582918_568" custom="readingOrder {index:0;}">
+                <Coords points="716,435 3496,442 3496,522 716,515"/>
+                <Baseline points="716,510 3496,517"/>
+                <TextEquiv>
+                    <Unicode>Borsod Miskolczi Közművelődési és Muzeum Egyesület</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Borsod Miskolczi Közművelődési és Muzeum Egyesület</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1592936455895_556" custom="readingOrder {index:1;}">
+            <Coords points="1155,558 3067,558 3067,723 1155,723"/>
+            <TextLine id="line_1592936590563_573" custom="readingOrder {index:0;}">
+                <Coords points="1168,566 3060,566 3060,707 1168,707"/>
+                <Baseline points="1168,702 3060,702"/>
+                <TextEquiv>
+                    <Unicode>Közművelődési Osztálya.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Közművelődési Osztálya.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1592936466457_559" custom="readingOrder {index:2;}">
+            <Coords points="541,963 2988,963 2988,1453 541,1453"/>
+            <TextLine id="line_1592936596479_578" custom="readingOrder {index:0;}">
+                <Coords points="551,991 2971,985 2977,1443 557,1449"/>
+                <Baseline points="551,1281 2971,1275"/>
+                <TextEquiv>
+                    <Unicode>Igen tisztelt Mester,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Igen tisztelt Mester,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1592936512060_562" custom="readingOrder {index:3;}">
+            <Coords points="374,1459 4194,1459 4194,5059 374,5059"/>
+            <TextLine id="line_1592936639690_583" custom="readingOrder {index:0;}">
+                <Coords points="406,1468 4054,1464 4021,1842 384,1821"/>
+                <Baseline points="387,1706 4024,1727"/>
+                <TextEquiv>
+                    <Unicode>midőn legutóbb szerencsénk volt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1592936646073_588" custom="readingOrder {index:1;}">
+                <Coords points="386,1820 4133,1861 4130,2222 383,2181"/>
+                <Baseline points="383,2073 4130,2114"/>
+                <TextEquiv>
+                    <Unicode>kölcsönösen ígéretet tettünk egy¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1592936653204_593" custom="readingOrder {index:2;}">
+                <Coords points="407,2165 4095,2196 4069,2570 381,2539"/>
+                <Baseline points="387,2447 4075,2478"/>
+                <TextEquiv>
+                    <Unicode>másnak egy őszi előadására. Mi </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1592936664713_598" custom="readingOrder {index:3;}">
+                <Coords points="403,2558 4009,2589 3991,3013 385,2982"/>
+                <Baseline points="394,2841 4000,2872"/>
+                <TextEquiv>
+                    <Unicode>részünkről álljuk az ígéretet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1592936681281_603" custom="readingOrder {index:4;} unclear {offset:2; length:6;}">
+                <Coords points="495,2909 4262,2971 4266,3362 499,3300"/>
+                <Baseline points="424,3212 4191,3274"/>
+                <TextEquiv>
+                    <Unicode>s nagyon örvendenénk, ha a deczem¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1592936689466_608" custom="readingOrder {index:5;}">
+                <Coords points="410,3321 4171,3342 4171,3673 410,3652"/>
+                <Baseline points="410,3647 4171,3668"/>
+                <TextEquiv>
+                    <Unicode>ber közepén tartandó hangver¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1592936694897_613" custom="readingOrder {index:6;}">
+                <Coords points="454,3755 4139,3841 4133,4206 441,4161"/>
+                <Baseline points="441,4041 4126,4127"/>
+                <TextEquiv>
+                    <Unicode>senyünkön szerencsénk lehetne.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1592936712237_618" custom="readingOrder {index:7;}">
+                <Coords points="467,4218 4152,4235 4131,4658 446,4641"/>
+                <Baseline points="458,4518 4143,4535"/>
+                <TextEquiv>
+                    <Unicode>Úgy gondoljuk, hogy e hangver¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1592936719756_623" custom="readingOrder {index:8;}">
+                <Coords points="524,4665 4075,4685 4054,5044 503,5024"/>
+                <Baseline points="506,4909 4057,4929"/>
+                <TextEquiv>
+                    <Unicode>senyünkön igen tisztelt Mester</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>midőn legutóbb szerencsénk volt,&#xD;
+kölcsönösen ígéretet tettünk egy¬&#xD;
+másnak egy őszi előadására. Mi &#xD;
+részünkről álljuk az ígéretet&#xD;
+s nagyon örvendenénk, ha a deczem¬&#xD;
+ber közepén tartandó hangver¬&#xD;
+senyünkön szerencsénk lehetne.&#xD;
+Úgy gondoljuk, hogy e hangver¬&#xD;
+senyünkön igen tisztelt Mester</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1592936517971_565" custom="readingOrder {index:4;}">
+            <Coords points="2042,5105 2203,5105 2203,5278 2042,5278"/>
+            <TextLine id="line_1592936726792_628" custom="readingOrder {index:0;}">
+                <Coords points="2057,5128 2170,5128 2176,5263 2063,5263"/>
+                <Baseline points="2063,5258 2176,5258"/>
+                <TextEquiv>
+                    <Unicode>1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-28T13:02:35.084+02:00</Created>
+        <LastChange>2020-11-19T15:44:30.410+01:00</LastChange>
+        <TranskribusMetadata docId="376795" pageId="14734444" pageNr="39" tsid="49205011" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=FMEOPWGHIFVSOYTQBKHLMDCB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UAXASBQDZAFRYOUMFMNACTIB" imageId="10675466"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#33_17a.tif" imageWidth="5142" imageHeight="5120">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424134141" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1597319060525_397"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1597319072318_407"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1597408463703_929"/>
+                <RegionRefIndexed index="3" regionRef="TextRegion_1597408484022_964"/>
+                <RegionRefIndexed index="4" regionRef="TextRegion_1597408470298_941"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="TextRegion_1597319060525_397" custom="readingOrder {index:0;}">
+            <Coords points="1977,511 3293,511 3293,821 2559,799 1977,722"/>
+            <TextLine id="line_1597228933332_699" custom="readingOrder {index:0;}">
+                <Coords points="2048,551 3258,630 3230,805 2020,726"/>
+                <Baseline points="2020,721 3230,800"/>
+                <TextEquiv>
+                    <Unicode>bauer gyulanee</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>bauer gyulanee</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="TextRegion_1597319072318_407" custom="readingOrder {index:1;}">
+            <Coords points="1928,715 2559,799 3418,825 3418,1071 1928,1071"/>
+            <TextLine id="line_1597228935404_704" custom="readingOrder {index:0;}">
+                <Coords points="1968,793 3391,853 3369,1058 1946,998"/>
+                <Baseline points="1946,993 3369,1053"/>
+                <TextEquiv>
+                    <Unicode>oernagynee szolnok</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>oernagynee szolnok</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="TextRegion_1597408463703_929" custom="readingOrder {index:2;}">
+            <Coords points="311,2332 4680,2332 4680,2641 4570,2642 3382,2647 311,2522"/>
+            <TextLine id="line_1597408463707_932" custom="readingOrder {index:0;}">
+                <Coords points="406,2346 3177,2430 3152,2637 384,2525"/>
+                <Baseline points="2887,2626 3152,2635"/>
+                <TextEquiv>
+                    <Unicode>budapest 42+   7475  14 9 5 40 s =</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>budapest 42+   7475  14 9 5 40 s =</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="TextRegion_1597408484022_964" custom="readingOrder {index:3;}">
+            <Coords points="757,2540 3382,2647 4441,2642 4441,2869 757,2869"/>
+            <TextLine id="line_1597408463708_933" custom="readingOrder {index:0;}">
+                <Coords points="543,2631 2989,2631 3382,2647 4356,2642 4345,2858 531,2861"/>
+                <Baseline points="826,2861 4345,2853"/>
+                <TextEquiv>
+                    <Unicode>=      az oe aranyos         zsokajanak sok  sok  csokot</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>=      az oe aranyos         zsokajanak sok  sok  csokot</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="TextRegion_1597408470298_941" custom="readingOrder {index:4;}">
+            <Coords points="2924,2869 4427,2869 4427,3218 2924,3218"/>
+            <TextLine id="line_1597408454957_925" custom="readingOrder {index:0;}">
+                <Coords points="3017,2869 4344,2869 4353,3085 3026,3098"/>
+                <Baseline points="3102,3097 4353,3080"/>
+                <TextEquiv>
+                    <Unicode>                                                            kueld a papaja +</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>                                                            kueld a papaja +</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

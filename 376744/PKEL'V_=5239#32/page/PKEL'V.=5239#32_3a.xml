@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-28T12:11:29.630+02:00</Created>
+        <LastChange>2020-12-01T11:25:52.492+01:00</LastChange>
+        <TranskribusMetadata docId="376744" pageId="14729466" pageNr="5" tsid="49748541" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=FCYQVSQGYZXPVOBLYBAUHLBW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RGIWZOLVIHWNNMCVOVYBYLXM" imageId="10670501"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#32_3a.tif" imageWidth="6591" imageHeight="5343">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619423973660" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1590572979523_1125"/>
+                <RegionRefIndexed index="1" regionRef="region_1590572984265_1128"/>
+                <RegionRefIndexed index="2" regionRef="region_1590572997343_1131"/>
+                <RegionRefIndexed index="3" regionRef="region_1590573001749_1134"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1590572979523_1125" custom="readingOrder {index:0;}">
+            <Coords points="4779,321 6267,321 6267,670 4779,670"/>
+            <TextLine id="line_1590573054495_1148" custom="readingOrder {index:0;} textStyle {offset:0; length:9;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="4804,356 6235,367 6244,654 4813,643"/>
+                <Baseline points="4813,580 6244,591"/>
+                <TextEquiv>
+                    <Unicode>Rév-Fülöp. 1886 jul. 27.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Rév-Fülöp. 1886 jul. 27.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1590572984265_1128" custom="readingOrder {index:1;}">
+            <Coords points="3973,743 4694,743 4694,986 3973,986"/>
+            <TextLine id="line_1590573060767_1153" custom="readingOrder {index:0;}">
+                <Coords points="4009,773 4640,762 4638,963 4007,974"/>
+                <Baseline points="4007,969 4638,958"/>
+                <TextEquiv>
+                    <Unicode>Kedvesem!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kedvesem!</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1590572997343_1131" custom="readingOrder {index:2;}">
+            <Coords points="3545,980 6470,980 6470,4942 3545,4942"/>
+            <TextLine id="line_1590573065558_1158" custom="readingOrder {index:0;}">
+                <Coords points="3744,1002 6117,1024 6123,1257 3750,1235"/>
+                <Baseline points="3759,1206 6132,1228"/>
+                <TextEquiv>
+                    <Unicode>Tegnap este átköltöztem Boglárról</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1590573070624_1163" custom="readingOrder {index:1;} add {offset:2; length:1;} gap {offset:2; length:0;}">
+                <Coords points="3595,1227 6216,1232 6216,1452 3595,1447"/>
+                <Baseline points="3595,1409 6216,1414"/>
+                <TextEquiv>
+                    <Unicode>Révfülöpre. Ez nem falu, hanem szőlős</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1590573075280_1168" custom="readingOrder {index:2;}">
+                <Coords points="3577,1456 6312,1466 6318,1680 3595,1641"/>
+                <Baseline points="3595,1606 6318,1645"/>
+                <TextEquiv>
+                    <Unicode>kertek complexuma. Alpár János bog¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1590573080364_1173" custom="readingOrder {index:3;}">
+                <Coords points="3581,1641 6343,1669 6340,1870 3578,1842"/>
+                <Baseline points="3578,1837 6340,1865"/>
+                <TextEquiv>
+                    <Unicode>lári földbirtokos egy kis vinczellér házat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1590573091929_1178" custom="readingOrder {index:4;}">
+                <Coords points="3587,1884 4224,1878 4221,2033 3584,2039"/>
+                <Baseline points="3584,2034 4221,2028"/>
+                <TextEquiv>
+                    <Unicode>bocsátott</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1590573097001_1183" custom="readingOrder {index:5;} add {offset:0; length:3;}">
+                <Coords points="4238,1843 4362,1843 4362,1938 4238,1938"/>
+                <Baseline points="4238,1933 4362,1933"/>
+                <TextEquiv>
+                    <Unicode>itt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1590573103649_1188" custom="readingOrder {index:6;}">
+                <Coords points="4315,1928 6068,1892 6086,2056 4260,2033"/>
+                <Baseline points="4260,2028 6086,2051"/>
+                <TextEquiv>
+                    <Unicode>rendelkezésemre. Alacsony</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1590573109328_1193" custom="readingOrder {index:7;}">
+                <Coords points="3584,2079 6256,2090 6260,2302 3596,2289"/>
+                <Baseline points="3578,2254 6250,2265"/>
+                <TextEquiv>
+                    <Unicode>kis viskó szép sárgára mázolt talajjal,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1590573115264_1198" custom="readingOrder {index:8;}">
+                <Coords points="3599,2290 6259,2329 6261,2501 3596,2494"/>
+                <Baseline points="3601,2457 6261,2496"/>
+                <TextEquiv>
+                    <Unicode>apró ablakokkal és egy nagy diófával</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1590573120345_1203" custom="readingOrder {index:9;}">
+                <Coords points="3606,2509 6384,2515 6393,2717 3615,2711"/>
+                <Baseline points="3618,2682 6396,2688"/>
+                <TextEquiv>
+                    <Unicode>a házikó mögött. Kevés ágyneműm köz¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1590573125756_1208" custom="readingOrder {index:10;}">
+                <Coords points="3601,2721 6306,2743 6312,2928 3607,2906"/>
+                <Baseline points="3607,2874 6312,2896"/>
+                <TextEquiv>
+                    <Unicode>adakozás utján került össze. A tulsó</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1590573131960_1213" custom="readingOrder {index:11;}">
+                <Coords points="3607,2922 6346,2939 6331,3167 3592,3150"/>
+                <Baseline points="3607,3094 6346,3111"/>
+                <TextEquiv>
+                    <Unicode>partról egy pesti fürdővendég, a tatai</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1590573137050_1218" custom="readingOrder {index:12;} sic {offset:15; length:5;}">
+                <Coords points="3595,3144 6272,3172 6272,3388 3595,3360"/>
+                <Baseline points="3595,3319 6272,3347"/>
+                <TextEquiv>
+                    <Unicode>Raditzné huga, feher piquet-paplant</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1590573143013_1223" custom="readingOrder {index:13;}">
+                <Coords points="3615,3363 6404,3357 6413,3555 3618,3533"/>
+                <Baseline points="3618,3528 6413,3550"/>
+                <TextEquiv>
+                    <Unicode>adott; szomszédom: Sipos egy vánkost,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1590573149702_1228" custom="readingOrder {index:14;}">
+                <Coords points="3605,3556 6389,3601 6391,3819 3607,3774"/>
+                <Baseline points="3607,3736 6391,3781"/>
+                <TextEquiv>
+                    <Unicode>lepedőt és olyan életet folytatok itt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1590573155734_1233" custom="readingOrder {index:15;}">
+                <Coords points="3581,3766 6393,3783 6396,3967 3584,3950"/>
+                <Baseline points="3584,3945 6396,3962"/>
+                <TextEquiv>
+                    <Unicode>mint valami modern Robinson.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1590573160820_1238" custom="readingOrder {index:16;}">
+                <Coords points="3570,3953 6332,3981 6326,4202 3561,4190"/>
+                <Baseline points="3567,4142 6329,4170"/>
+                <TextEquiv>
+                    <Unicode>A fürdő rendkivűl használ. Azt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1590573167446_1243" custom="readingOrder {index:17;}">
+                <Coords points="3564,4187 6354,4204 6363,4407 3573,4390"/>
+                <Baseline points="3573,4367 6363,4384"/>
+                <TextEquiv>
+                    <Unicode>hiszem neked is jót tenne. Jövőre,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1590573172857_1248" custom="readingOrder {index:18;}">
+                <Coords points="3556,4378 6442,4395 6442,4631 3556,4614"/>
+                <Baseline points="3556,4582 6442,4599"/>
+                <TextEquiv>
+                    <Unicode>ha élünk, mindnyájan idejöttök</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1590573182674_1253" custom="readingOrder {index:19;}">
+                <Coords points="3590,4584 6436,4606 6445,4914 3598,4869"/>
+                <Baseline points="3595,4790 6442,4835"/>
+                <TextEquiv>
+                    <Unicode>Egy pár székesfehérvári tanárnál</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Tegnap este átköltöztem Boglárról&#xD;
+Révfülöpre. Ez nem falu, hanem szőlős&#xD;
+kertek complexuma. Alpár János bog¬&#xD;
+lári földbirtokos egy kis vinczellér házat&#xD;
+bocsátott&#xD;
+itt&#xD;
+rendelkezésemre. Alacsony&#xD;
+kis viskó szép sárgára mázolt talajjal,&#xD;
+apró ablakokkal és egy nagy diófával&#xD;
+a házikó mögött. Kevés ágyneműm köz¬&#xD;
+adakozás utján került össze. A tulsó&#xD;
+partról egy pesti fürdővendég, a tatai&#xD;
+Raditzné huga, feher piquet-paplant&#xD;
+adott; szomszédom: Sipos egy vánkost,&#xD;
+lepedőt és olyan életet folytatok itt,&#xD;
+mint valami modern Robinson.&#xD;
+A fürdő rendkivűl használ. Azt&#xD;
+hiszem neked is jót tenne. Jövőre,&#xD;
+ha élünk, mindnyájan idejöttök&#xD;
+Egy pár székesfehérvári tanárnál</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1590573001749_1134" custom="readingOrder {index:3;}">
+            <Coords points="4666,5004 4875,5004 4875,5179 4666,5179"/>
+            <TextLine id="line_1590573189970_1258" custom="readingOrder {index:0;}">
+                <Coords points="4691,5017 4832,5017 4841,5150 4700,5150"/>
+                <Baseline points="4700,5145 4841,5145"/>
+                <TextEquiv>
+                    <Unicode>1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

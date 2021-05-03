@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2021-02-08T17:03:56.257+01:00</Created>
+        <LastChange>2021-02-23T13:56:22.450+01:00</LastChange>
+        <TranskribusMetadata docId="604173" pageId="23952645" pageNr="1" tsid="52964605" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=JJFNXGIXYZNMLXCARQHPXHWN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HTCVNWQRJDWFYIRAVDGCAKPT" imageId="18388058"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#129_3a.tif" imageWidth="3431" imageHeight="2346">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424785106" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1613484653833_21"/>
+                <RegionRefIndexed index="1" regionRef="region_1613484656704_24"/>
+                <RegionRefIndexed index="2" regionRef="region_1613484664373_27"/>
+                <RegionRefIndexed index="3" regionRef="region_1613484666807_30"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1613484653833_21" custom="readingOrder {index:0;}">
+            <Coords points="188,144 1417,144 1417,663 188,663"/>
+            <TextLine id="line_1613484680251_33" custom="readingOrder {index:0;}">
+                <Coords points="466,335 770,335 790,576 486,576"/>
+                <Baseline points="486,571 790,571"/>
+                <TextEquiv>
+                    <Unicode>À</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>À</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1613484656704_24" custom="readingOrder {index:1;}">
+            <Coords points="193,648 3118,648 3118,1141 193,1141"/>
+            <TextLine id="line_1613484684109_38" custom="readingOrder {index:0;}">
+                <Coords points="469,742 3098,737 2933,1117 304,1122"/>
+                <Baseline points="384,997 2938,987"/>
+                <TextEquiv>
+                    <Unicode>Monsiéur Joseph Kiss</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Monsiéur Joseph Kiss</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1613484664373_27" custom="readingOrder {index:2;}">
+            <Coords points="1263,1311 3185,1311 3185,1856 1263,1856"/>
+            <TextLine id="line_1613484687826_43" custom="readingOrder {index:0;} textStyle {offset:0; length:8;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="1412,1417 3148,1438 3032,1853 1296,1832"/>
+                <Baseline points="1370,1727 3051,1748"/>
+                <TextEquiv>
+                    <Unicode>San-Remo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>San-Remo</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1613484666807_30" custom="readingOrder {index:3;}">
+            <Coords points="671,1845 2985,1845 2985,2221 671,2221"/>
+            <TextLine id="line_1613484692702_48" custom="readingOrder {index:0;}">
+                <Coords points="793,1873 2854,1863 2799,2128 738,2138"/>
+                <Baseline points="738,2133 2799,2123"/>
+                <TextEquiv>
+                    <Unicode>Poste-Restante</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Poste-Restante</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

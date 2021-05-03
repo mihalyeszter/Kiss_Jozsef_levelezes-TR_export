@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-09-21T14:08:36.350+02:00</Created>
+        <LastChange>2020-12-01T18:07:08.229+01:00</LastChange>
+        <TranskribusMetadata docId="484899" pageId="19998676" pageNr="1" tsid="49759174" status="IN_PROGRESS" userId="58915" imgUrl="https://files.transkribus.eu/Get?id=RFWIYOHSLCZTQNYOEDMZGVHV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WLEKNVMQLDLWAHYBJFCZNIMR" imageId="15414127"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5705#21_a.tif" imageWidth="2279" imageHeight="3468">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424585005" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1603883035128_276"/>
+                <RegionRefIndexed index="1" regionRef="region_1603801644245_462"/>
+                <RegionRefIndexed index="2" regionRef="region_1603801646024_465"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="TextRegion_1603883035128_276" custom="readingOrder {index:0;}">
+            <Coords points="803,2728 817,2698 2182,2718 2182,3265 160,3265 160,2862 277,2837 801,2840"/>
+            <TextLine id="line_1603883005644_260" custom="readingOrder {index:0;}">
+                <Coords points="841,2715 1780,2730 2097,2737 2096,2855 1718,2851 832,2833"/>
+                <Baseline points="832,2828 1718,2846 1779,2843 2096,2850"/>
+                <TextEquiv>
+                    <Unicode>Kedves Mamuska. Jobb</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1603801668438_477l1" custom="readingOrder {index:1;} textStyle {offset:13; length:1;strikethrough:true; fontSize:0.0; kerning:0;} add {offset:14; length:1;}">
+                <Coords points="222,2985 2070,2994 2062,2872 214,2863"/>
+                <Baseline points="222,2954 314,2957 406,2960 499,2963 591,2964 684,2966 776,2967 868,2969 961,2969 1053,2969 1146,2969 1238,2969 1330,2969 1423,2967 1515,2967 1608,2966 1700,2966 1792,2964 1885,2964 1977,2963 2070,2963"/>
+                <TextEquiv>
+                    <Unicode>lett volna a skalapskatulyát</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1603801668438_477l2" custom="readingOrder {index:2;} supplied {offset:28; length:1;}">
+                <Coords points="231,3156 2162,3125 2174,2990 243,3021"/>
+                <Baseline points="231,3126 327,3124 424,3122 520,3120 617,3119 713,3117 810,3116 906,3114 1003,3113 1099,3111 1196,3110 1293,3108 1389,3107 1486,3105 1582,3104 1679,3102 1775,3102 1872,3101 1968,3098 2065,3097 2162,3095"/>
+                <TextEquiv>
+                    <Unicode>magaddal vinni. Sok alkalmat¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="TextRegion_1603801668438_477l3" custom="readingOrder {index:3;}">
+                <Coords points="248,3293 2115,3255 2127,3111 260,3149"/>
+                <Baseline points="248,3263 341,3257 434,3252 528,3249 621,3245 714,3242 808,3240 901,3237 994,3236 1088,3234 1181,3233 1274,3232 1368,3231 1461,3230 1554,3230 1648,3229 1741,3228 1834,3228 1928,3227 2021,3225 2115,3225"/>
+                <TextEquiv>
+                    <Unicode>lanság a postán. Jól vagyok</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kedves Mamuska. Jobb&#xD;
+lett volna a skalapskatulyát&#xD;
+magaddal vinni. Sok alkalmat¬&#xD;
+lanság a postán. Jól vagyok</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1603801644245_462" custom="readingOrder {index:1;}">
+            <Coords points="277,3254 964,3254 964,3382 277,3382"/>
+            <TextLine id="line_1603801782472_524" custom="readingOrder {index:0;}">
+                <Coords points="299,3286 890,3268 889,3318 945,3319 946,3353 300,3372"/>
+                <Baseline points="300,3367 926,3356"/>
+                <TextEquiv>
+                    <Unicode>Csókollak.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Csókollak.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1603801646024_465" custom="readingOrder {index:2;}">
+            <Coords points="1462,3231 1779,3231 1779,3359 1462,3359"/>
+            <TextLine id="line_1603801790349_531" custom="readingOrder {index:0;}">
+                <Coords points="1487,3251 1747,3244 1752,3346 1492,3353"/>
+                <Baseline points="1492,3348 1752,3341"/>
+                <TextEquiv>
+                    <Unicode>K. J.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>K. J.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

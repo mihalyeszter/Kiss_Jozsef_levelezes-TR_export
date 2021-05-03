@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2021-01-11T16:27:15.487+01:00</Created>
+        <LastChange>2021-01-26T09:08:31.028+01:00</LastChange>
+        <TranskribusMetadata docId="569252" pageId="23180270" pageNr="2" tsid="51660496" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=MBYXWQILQOZIWFMIRFVKAJCA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XTTVNYTBJOAZJREHMDAAUVTT" imageId="18091239"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#144_4b.tif" imageWidth="2859" imageHeight="1762">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619423916373" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1610988012939_706"/>
+                <RegionRefIndexed index="1" regionRef="region_1610988016331_709"/>
+                <RegionRefIndexed index="2" regionRef="region_1610988018644_712"/>
+                <RegionRefIndexed index="3" regionRef="region_1610988020164_715"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="region_1610988012939_706" custom="readingOrder {index:0;}">
+            <Coords points="73,90 2784,90 2781,861 2353,660 735,678 687,836 73,849"/>
+            <TextLine id="region_1610988012939_706l1" custom="readingOrder {index:0;}">
+                <Coords points="111,325 2664,226 2668,94 1851,80 123,129"/>
+                <Baseline points="111,294 238,277 366,262 493,248 621,237 749,228 876,219 1004,212 1132,206 1259,201 1387,198 1515,195 1642,194 1770,192 1898,192 2025,192 2153,192 2281,192 2408,194 2536,194 2664,195"/>
+                <TextEquiv>
+                    <Unicode>ra gondolok másként nem látom, csak így, ahogy a virágzápor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1610988012939_706l2" custom="readingOrder {index:1;}">
+                <Coords points="122,477 2412,312 2400,205 2106,219 1940,250 1814,203 1250,242 119,309"/>
+                <Baseline points="122,446 231,429 340,415 449,404 558,394 667,386 776,378 885,372 994,366 1103,362 1212,357 1321,354 1430,350 1539,345 1648,340 1757,334 1866,328 1975,320 2084,311 2193,299 2389,312"/>
+                <TextEquiv>
+                    <Unicode>közt áll ott a fényes teremben. A jó Isten éltesse sokáig,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1610988348324_739" custom="readingOrder {index:2;}">
+                <Coords points="144,439 2160,355 2664,301 2669,507 2195,593 2078,525 1578,539 919,548 144,594"/>
+                <Baseline points="144,563 244,554 345,545 446,537 547,530 648,524 748,517 849,512 950,506 1051,501 1152,497 1252,492 1353,489 1454,486 1555,483 1656,482 1756,480 1857,479 1958,479 2059,479 2160,479 2195,512 2221,513 2247,513 2274,513 2300,511 2326,509 2353,506 2379,503 2405,498 2432,494 2458,489 2484,486 2511,482 2537,479 2563,477 2590,474 2616,474 2642,475 2669,476"/>
+                <TextEquiv>
+                    <Unicode>szeretettel köszönti, öleli, csókolja régesrégi tisztelője, Gyalui Farkas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1610988012939_706l5" custom="readingOrder {index:3;} gap {offset:0; length:0;} unclear {offset:11; length:7;} sic {offset:35; length:6;} gap {offset:42; length:0;}">
+                <Coords points="94,733 2037,646 2037,497 94,584"/>
+                <Baseline points="125,724 263,695 356,686 450,678 543,670 636,663 730,658 823,652 916,647 1010,642 1103,638 1196,635 1290,630 1383,628 1476,626 1570,623 1663,621 1756,620 1850,618 1943,617 2037,617"/>
+                <TextEquiv>
+                    <Unicode> Nagyságos Asszony kezét csokolom, küldom </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="region_1610988012939_706l6" custom="readingOrder {index:4;} sic {offset:0; length:10;}">
+                <Coords points="171,853 479,840 687,797 687,709 479,702 171,715"/>
+                <Baseline points="171,824 196,822 222,822 248,822 273,821 299,821 325,819 350,819 376,818 402,816 427,815 453,813 479,811 504,807 530,804 556,799 581,795 607,789 633,783 659,776"/>
+                <TextEquiv>
+                    <Unicode>üdvozletet.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ra gondolok másként nem látom, csak így, ahogy a virágzápor&#xD;
+közt áll ott a fényes teremben. A jó Isten éltesse sokáig,&#xD;
+szeretettel köszönti, öleli, csókolja régesrégi tisztelője, Gyalui Farkas&#xD;
+ Nagyságos Asszony kezét csokolom, küldom &#xD;
+üdvozletet.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1610988016331_709" custom="readingOrder {index:1;}">
+            <Coords points="963,723 1830,723 1830,841 963,841"/>
+            <TextLine id="region_1610988016331_709l1" custom="readingOrder {index:0;}">
+                <Coords points="1038,881 1794,886 1794,736 1038,731"/>
+                <Baseline points="1038,831 1075,833 1113,834 1151,836 1189,836 1227,836 1264,837 1302,836 1340,836 1378,836 1416,836 1453,834 1491,834 1529,834 1567,833 1605,833 1642,833 1680,833 1718,833 1756,834 1794,836"/>
+                <TextEquiv>
+                    <Unicode>Dr. Gyalui Farkas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Dr. Gyalui Farkas</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1610988018644_712" custom="readingOrder {index:2;}">
+            <Coords points="692,832 2134,832 2134,963 692,963"/>
+            <TextLine id="region_1610988018644_712l1" custom="readingOrder {index:0;}">
+                <Coords points="719,962 2096,955 2096,805 719,812"/>
+                <Baseline points="719,912 787,912 856,911 925,911 994,911 1063,911 1132,911 1200,911 1269,911 1338,911 1407,911 1476,911 1545,911 1614,911 1682,911 1751,910 1820,909 1889,909 1958,908 2027,906 2096,905"/>
+                <TextEquiv>
+                    <Unicode>egyetemi magántanár, egyetemi könyvtárigazgató</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>egyetemi magántanár, egyetemi könyvtárigazgató</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1610988020164_715" custom="readingOrder {index:3;}">
+            <Coords points="2067,1382 2645,1382 2645,1552 2067,1552"/>
+            <TextLine id="region_1610988020164_715l1" custom="readingOrder {index:0;}">
+                <Coords points="2123,1538 2495,1541 2495,1391 2123,1388"/>
+                <Baseline points="2123,1488 2149,1489 2176,1490 2202,1491 2229,1491 2255,1491 2282,1491 2309,1491 2335,1490 2362,1490 2388,1490 2415,1490 2441,1490 2468,1490 2495,1491"/>
+                <TextEquiv>
+                    <Unicode>Kolozsvár</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kolozsvár</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2019-11-20T11:55:44.293+01:00</Created>
+        <LastChange>2020-11-23T11:37:29.548+01:00</LastChange>
+        <TranskribusMetadata docId="257016" pageId="11151858" pageNr="1" tsid="49479381" status="IN_PROGRESS" userId="56520" imgUrl="https://files.transkribus.eu/Get?id=OOMEAUSHSTKNLRXFRPJKKZAV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RNSOMBZALDDJLTPYCRBAELCC" imageId="7609989"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#17_a.tif" imageWidth="5259" imageHeight="5384">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619423896299" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1574247666561_68"/>
+                <RegionRefIndexed index="1" regionRef="region_1574247671296_71"/>
+                <RegionRefIndexed index="2" regionRef="region_1574247693540_74"/>
+                <RegionRefIndexed index="3" regionRef="region_1574247699041_77"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1574247666561_68" custom="readingOrder {index:0;}">
+            <Coords points="1378,1114 3985,1114 3985,1563 1378,1563"/>
+            <TextLine id="line_1574247722300_83" custom="readingOrder {index:0;} sic {offset:13; length:14;}">
+                <Coords points="1425,1115 3952,1136 3943,1498 1416,1477"/>
+                <Baseline points="1416,1408 3943,1429"/>
+                <TextEquiv>
+                    <Unicode>Pester Lloyd szerkesztősege</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Pester Lloyd szerkesztősege</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1574247671296_71" custom="readingOrder {index:1;}">
+            <Coords points="3980,1361 4768,1361 4768,1739 3980,1739"/>
+            <TextLine id="line_1574247725520_88" custom="readingOrder {index:0;} textStyle {offset:0; length:7;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="3987,1353 4747,1378 4745,1752 3985,1727"/>
+                <Baseline points="3985,1614 4680,1639"/>
+                <TextEquiv>
+                    <Unicode>helyben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>helyben</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1574247693540_74" custom="readingOrder {index:2;}">
+            <Coords points="976,1470 4508,1470 4508,2857 976,2857"/>
+            <TextLine id="line_1574247730502_93" custom="readingOrder {index:0;}">
+                <Coords points="1039,1416 4136,1546 4117,1989 1020,1859"/>
+                <Baseline points="1022,1723 4119,1853"/>
+                <TextEquiv>
+                    <Unicode>Adják át kérem meleg üdvözletemet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1574247735145_98" custom="readingOrder {index:1;} comment {offset:0; length:12;comment:Lorsy\u0020Ernő\u003a\u0020https\u003a//hu.wikipedia.org/wiki/Lorsy_Ern%C5%91;} comment {offset:19; length:14;comment:https\u003a//hu.wikipedia.org/wiki/Stephani_Elza;} textStyle {offset:21; length:1;strikethrough:true; fontSize:0.0; kerning:0;} add {offset:22; length:1;}">
+                <Coords points="1079,1711 4515,1963 4468,2302 1032,2050"/>
+                <Baseline points="1026,1982 4462,2234"/>
+                <TextEquiv>
+                    <Unicode>Lorschi Ernőnek és Elsza Stefániának.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1574247739313_103" custom="readingOrder {index:2;}">
+                <Coords points="1028,1988 4327,2219 4277,2557 978,2326"/>
+                <Baseline points="1055,2255 4290,2477"/>
+                <TextEquiv>
+                    <Unicode>Kívánok nekik minden elképzelhető</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1574247748211_108" custom="readingOrder {index:3;} textStyle {offset:0; length:14;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="1054,2219 4504,2544 4464,2868 1014,2543"/>
+                <Baseline points="1051,2502 4441,2821"/>
+                <TextEquiv>
+                    <Unicode>boldogságot és örömet, zavartalan tartós</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1574247753171_113" custom="readingOrder {index:4;}">
+                <Coords points="1076,2477 1972,2612 1908,2941 1012,2806"/>
+                <Baseline points="1064,2724 1860,2825"/>
+                <TextEquiv>
+                    <Unicode>boldogságot</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Adják át kérem meleg üdvözletemet&#xD;
+Lorschi Ernőnek és Elsza Stefániának.&#xD;
+Kívánok nekik minden elképzelhető&#xD;
+boldogságot és örömet, zavartalan tartós&#xD;
+boldogságot</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1574247699041_77" custom="readingOrder {index:3;}">
+            <Coords points="2568,2711 4450,2711 4450,3197 2568,3197"/>
+            <TextLine id="line_1574247757731_118" custom="readingOrder {index:0;}">
+                <Coords points="2597,2586 4453,2778 4370,3212 2514,3020"/>
+                <Baseline points="2618,2904 4345,3043"/>
+                <TextEquiv>
+                    <Unicode>A beteg Kiss József</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>A beteg Kiss József</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

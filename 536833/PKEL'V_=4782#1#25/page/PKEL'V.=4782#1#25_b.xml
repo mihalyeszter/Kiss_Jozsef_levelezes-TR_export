@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-11-12T10:17:47.371+01:00</Created>
+        <LastChange>2020-11-13T08:57:11.121+01:00</LastChange>
+        <TranskribusMetadata docId="536833" pageId="22630312" pageNr="2" tsid="48624874" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=YTFKSOTCGZMXZACECWLRAIPW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SVNXVQXYLRLJYVEGWSNENOJW" imageId="17617972"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=4782#1#25_b.tif" imageWidth="3377" imageHeight="2343">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424651805" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1605178063169_44"/>
+                <RegionRefIndexed index="1" regionRef="region_1605178073055_47"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1605178063169_44" custom="readingOrder {index:0;}">
+            <Coords points="523,266 2577,266 2577,1116 523,1116"/>
+            <TextLine id="line_1605178080811_55" custom="readingOrder {index:0;}">
+                <Coords points="557,293 2539,360 2528,787 546,720"/>
+                <Baseline points="552,647 2534,714"/>
+                <TextEquiv>
+                    <Unicode>– küldje 12 évig a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1605178086153_60" custom="readingOrder {index:1;}">
+                <Coords points="832,681 1587,716 1499,1103 744,1094"/>
+                <Baseline points="781,941 1536,976"/>
+                <TextEquiv>
+                    <Unicode>lapját!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>– küldje 12 évig a&#xD;
+lapját!</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1605178073055_47" custom="readingOrder {index:1;}">
+            <Coords points="1251,1128 1251,1202 2146,1202 2146,1128"/>
+            <TextLine id="line_1605178073102_50" custom="readingOrder {index:0;}">
+                <Coords points="1251,1134 2146,1140 2146,1202 1251,1196"/>
+                <Baseline points="1251,1191 2146,1197"/>
+                <TextEquiv>
+                    <Unicode>VIII. Rökk Szilárd-utcza 18.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>VIII. Rökk Szilárd-utcza 18.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

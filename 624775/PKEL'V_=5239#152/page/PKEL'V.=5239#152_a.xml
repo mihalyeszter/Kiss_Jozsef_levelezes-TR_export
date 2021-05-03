@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2021-03-08T10:16:14.035+01:00</Created>
+        <LastChange>2021-03-10T14:35:47.683+01:00</LastChange>
+        <TranskribusMetadata docId="624775" pageId="24629123" pageNr="1" tsid="53520728" status="IN_PROGRESS" userId="56520" imgUrl="https://files.transkribus.eu/Get?id=HMOEDYIQGITEAZANUKQTEMFY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VRDGTEKHBPUUMCNPHNJYTMGT" imageId="18973506"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#152_a.tif" imageWidth="3380" imageHeight="2342">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424950095" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1615370001950_10"/>
+                <RegionRefIndexed index="1" regionRef="region_1615370011794_18"/>
+                <RegionRefIndexed index="2" regionRef="region_1615370028303_26"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1615370001950_10" custom="readingOrder {index:0;}">
+            <Coords points="2185,361 2184,448 2917,448 2918,361"/>
+            <TextLine id="line_1615370002066_13" custom="readingOrder {index:0;}">
+                <Coords points="2184,367 2917,367 2917,448 2184,448"/>
+                <Baseline points="2184,443 2917,443"/>
+                <TextEquiv>
+                    <Unicode>V., Nádor-utca 3.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>V., Nádor-utca 3.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1615370011794_18" custom="readingOrder {index:1;}">
+            <Coords points="275,590 269,965 3129,965 3135,590"/>
+            <TextLine id="line_1615370011825_21" custom="readingOrder {index:0;}">
+                <Coords points="279,615 3133,605 3127,945 276,954"/>
+                <Baseline points="276,883 3135,811"/>
+                <TextEquiv>
+                    <Unicode>Mélyen tisztelt Uram,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Mélyen tisztelt Uram,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1615370028303_26" custom="readingOrder {index:2;}">
+            <Coords points="150,980 3237,980 3237,2200 150,2200"/>
+            <TextLine id="line_1615370039596_29" custom="readingOrder {index:0;}">
+                <Coords points="292,991 3057,1004 3228,1203 3211,1294 2816,1272 280,1339"/>
+                <Baseline points="292,1233 2829,1166 3213,1289"/>
+                <TextEquiv>
+                    <Unicode>Megelőzött engem, éppen </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615370046081_34" custom="readingOrder {index:1;}">
+                <Coords points="203,1341 3207,1325 3207,1505 203,1521"/>
+                <Baseline points="206,1507 3210,1491"/>
+                <TextEquiv>
+                    <Unicode>szándékomban volt el¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615370054001_39" custom="readingOrder {index:2;}">
+                <Coords points="238,1566 2812,1517 3111,1598 3075,1764 2807,1725 239,1756"/>
+                <Baseline points="239,1730 2807,1681 3076,1741"/>
+                <TextEquiv>
+                    <Unicode>küldeni a képeit és</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615370060918_44" custom="readingOrder {index:3;}">
+                <Coords points="164,1794 2942,1770 2939,1971 161,1995"/>
+                <Baseline points="161,1947 2939,1923"/>
+                <TextEquiv>
+                    <Unicode>megköszönni kedves</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1615370067010_49" custom="readingOrder {index:4;}">
+                <Coords points="262,2030 3059,1971 3057,2144 260,2203"/>
+                <Baseline points="263,2168 3060,2109"/>
+                <TextEquiv>
+                    <Unicode>sorait, melyekkel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Megelőzött engem, éppen &#xD;
+szándékomban volt el¬&#xD;
+küldeni a képeit és&#xD;
+megköszönni kedves&#xD;
+sorait, melyekkel</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

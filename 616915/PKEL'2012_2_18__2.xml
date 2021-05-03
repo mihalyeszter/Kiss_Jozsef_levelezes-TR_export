@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>PKEL'2012.2.18._2</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: szucs.kata.agnes@gmail.com</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile xml:id='facs_1'>
+		<surface ulx='0' uly='0' lrx='3193' lry='2442'>
+			<graphic url='PKEL'2012.2.18._2a.tif' width='3193px' height='2442px'/>
+			<zone ulx='720' uly='274' lrx='1804' lry='584' rendition='TextRegion' xml:id='facs_1_region_1602158320366_617'>
+				<zone ulx='772' uly='319' lrx='1776' lry='562' rendition='Line' xml:id='facs_1_line_1602158372805_655'/>
+			</zone>
+			<zone ulx='463' uly='548' lrx='2944' lry='1174' rendition='TextRegion' xml:id='facs_1_TextRegion_1602158355555_644'>
+				<zone ulx='708' uly='566' lrx='2884' lry='747' rendition='Line' xml:id='facs_1_line_1602158377255_661'/>
+				<zone ulx='527' uly='731' lrx='2835' lry='872' rendition='Line' xml:id='facs_1_line_1602158379310_666'/>
+				<zone ulx='519' uly='853' lrx='2934' lry='1019' rendition='Line' xml:id='facs_1_line_1602158382165_671'/>
+				<zone ulx='527' uly='1010' lrx='1185' lry='1152' rendition='Line' xml:id='facs_1_line_1602158384285_676'/>
+			</zone>
+			<zone ulx='1917' uly='1018' lrx='2884' lry='1260' rendition='TextRegion' xml:id='facs_1_region_1602158330995_623'>
+				<zone ulx='1928' uly='1027' lrx='2873' lry='1264' rendition='Line' xml:id='facs_1_line_1602158389652_682'/>
+			</zone>
+			<zone ulx='2038' uly='1241' lrx='2891' lry='1604' rendition='TextRegion' xml:id='facs_1_region_1602158334435_626'>
+				<zone ulx='2094' uly='1243' lrx='2884' lry='1524' rendition='Line' xml:id='facs_1_line_1602158396183_689'/>
+			</zone>
+			<zone ulx='535' uly='1249' lrx='1101' lry='1581' rendition='TextRegion' xml:id='facs_1_region_1602158336205_629'>
+				<zone ulx='583' uly='1293' lrx='1059' lry='1535' rendition='Line' xml:id='facs_1_line_1602158400051_695'/>
+			</zone>
+			<zone ulx='2208' uly='1976' lrx='2915' lry='2090' rendition='TextRegion' xml:id='facs_1_region_1602158485321_714'>
+				<zone ulx='2239' uly='1994' lrx='2877' lry='2080' rendition='Line' xml:id='facs_1_line_1602158515513_721'/>
+			</zone>
+			<zone ulx='2239' uly='2109' lrx='2922' lry='2192' rendition='TextRegion' xml:id='facs_1_region_1602158487311_717'>
+				<zone ulx='2250' uly='2096' lrx='2888' lry='2170' rendition='Line' xml:id='facs_1_line_1602158522225_727'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<pb facs='#facs_1' n='1'/>
+			<p facs='#facs_1_region_1602158320366_617'>
+				<lb facs='#facs_1_line_1602158372805_655' n='N001'/>Kedves Csáth Géza!
+			</p>
+			<p facs='#facs_1_TextRegion_1602158355555_644'>
+				<lb facs='#facs_1_line_1602158377255_661' n='N001'/>Nagyon szívesen látnám Önt egy findzsa
+				<lb facs='#facs_1_line_1602158379310_666' n='N002'/>fekete kávéra, ha lehet, holnap, vagy amikor
+				<lb facs='#facs_1_line_1602158382165_671' n='N003'/>akarja. Irodalmi dologról szeretnék beszél¬
+				<lb facs='#facs_1_line_1602158384285_676' n='N004'/>getni Önnel.
+			</p>
+			<p facs='#facs_1_region_1602158330995_623'>
+				<lb facs='#facs_1_line_1602158389652_682' n='N001'/>Régi igaz híve
+			</p>
+			<p facs='#facs_1_region_1602158334435_626'>
+				<lb facs='#facs_1_line_1602158396183_689' n='N001'/>Kiss József
+			</p>
+			<p facs='#facs_1_region_1602158336205_629'>
+				<lb facs='#facs_1_line_1602158400051_695' n='N001'/>Jan. 26.
+			</p>
+			<p facs='#facs_1_region_1602158485321_714'>
+				<lb facs='#facs_1_line_1602158515513_721' n='N001'/>VIII., Népszínház-u. 22.
+			</p>
+			<p facs='#facs_1_region_1602158487311_717'>
+				<lb facs='#facs_1_line_1602158522225_727' n='N001'/>Telefon József 5-27.
+			</p>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-28T13:02:32.626+02:00</Created>
+        <LastChange>2020-11-19T15:14:20.482+01:00</LastChange>
+        <TranskribusMetadata docId="376795" pageId="14734230" pageNr="13" tsid="49194523" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=CWCLQAJQKDVPWNJMTYGNBWHN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VVCLCYIQNYYANUGBRZDVAODY" imageId="10675252"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#33_7a.tif" imageWidth="3532" imageHeight="2382">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424127275" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1597135104926_1124"/>
+                <RegionRefIndexed index="1" regionRef="region_1597135118047_1127"/>
+                <RegionRefIndexed index="2" regionRef="region_1597135120948_1130"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1597135104926_1124" custom="readingOrder {index:0;}">
+            <Coords points="2034,579 2681,579 2681,749 2034,749"/>
+            <TextLine id="line_1597135126964_1133" custom="readingOrder {index:0;}">
+                <Coords points="2056,588 2646,599 2645,743 2055,732"/>
+                <Baseline points="2055,727 2645,738"/>
+                <TextEquiv>
+                    <Unicode>szerda</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>szerda</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1597135118047_1127" custom="readingOrder {index:1;}">
+            <Coords points="1650,774 3279,774 3279,1407 1650,1407"/>
+            <TextLine id="line_1597135136731_1145" custom="readingOrder {index:0;}">
+                <Coords points="1748,803 3245,805 3246,1011 1737,996"/>
+                <Baseline points="1737,991 3246,1006"/>
+                <TextEquiv>
+                    <Unicode>Rátótról jövök a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597135139947_1150" custom="readingOrder {index:1;}">
+                <Coords points="1687,1004 3269,1022 3261,1188 1679,1170"/>
+                <Baseline points="1679,1165 3261,1183"/>
+                <TextEquiv>
+                    <Unicode>miniszterelnöktől és</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597135142425_1155" custom="readingOrder {index:2;}">
+                <Coords points="1721,1191 2952,1184 2941,1374 1710,1381"/>
+                <Baseline points="1711,1364 2942,1357"/>
+                <TextEquiv>
+                    <Unicode>gondolok rátok.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Rátótról jövök a&#xD;
+miniszterelnöktől és&#xD;
+gondolok rátok.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1597135120948_1130" custom="readingOrder {index:2;}">
+            <Coords points="2142,1371 3014,1371 3014,1654 2142,1654"/>
+            <TextLine id="line_1597135144994_1160" custom="readingOrder {index:0;}">
+                <Coords points="2152,1398 2993,1410 2989,1628 2146,1599"/>
+                <Baseline points="2146,1552 2989,1581"/>
+                <TextEquiv>
+                    <Unicode>A te papád.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>A te papád.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-11-17T23:53:53.747+01:00</Created>
+        <LastChange>2020-11-20T15:34:12.713+01:00</LastChange>
+        <TranskribusMetadata docId="540687" pageId="22770109" pageNr="28" tsid="49362153" status="IN_PROGRESS" userId="56520" imgUrl="https://files.transkribus.eu/Get?id=HSWTHLBWAGFUWUUXLZXUPKYE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WCRZLMNFGPGINQDTUGDLESFT" imageId="17750456"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5936#6_10a.tif" imageWidth="2798" imageHeight="1799">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424851405" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1605783840720_830"/>
+                <RegionRefIndexed index="1" regionRef="region_1605783850820_833"/>
+                <RegionRefIndexed index="2" regionRef="region_1605783854165_836"/>
+                <RegionRefIndexed index="3" regionRef="region_1605783856460_839"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1605783840720_830" custom="readingOrder {index:0;}">
+            <Coords points="295,229 1421,229 1421,567 295,567"/>
+            <TextLine id="line_1605783892210_843" custom="readingOrder {index:0;}">
+                <Coords points="378,250 1290,281 1305,548 1093,556 1048,600 1008,545 732,534 670,567 643,525 393,517"/>
+                <Baseline points="393,475 1305,506"/>
+                <TextEquiv>
+                    <Unicode>Drága Nipi!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Drága Nipi!</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1605783850820_833" custom="readingOrder {index:1;}">
+            <Coords points="237,544 2666,544 2666,1036 237,1036"/>
+            <TextLine id="line_1605783896290_849" custom="readingOrder {index:0;}">
+                <Coords points="298,565 2600,605 2593,792 291,752"/>
+                <Baseline points="291,747 2593,787"/>
+                <TextEquiv>
+                    <Unicode>Csókollak. Ne busulj miattam. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1605783899570_856" custom="readingOrder {index:1;}">
+                <Coords points="252,759 1953,799 1950,976 249,936"/>
+                <Baseline points="249,931 1950,971"/>
+                <TextEquiv>
+                    <Unicode>Vigyázzatok Susukára.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Csókollak. Ne busulj miattam. &#xD;
+Vigyázzatok Susukára.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1605783854165_836" custom="readingOrder {index:2;}">
+            <Coords points="320,1094 1875,1099 1875,1492 320,1487"/>
+            <TextLine id="line_1605783901910_862" custom="readingOrder {index:0;}">
+                <Coords points="361,1120 1863,1165 1870,1372 1346,1357 1240,1428 1093,1352 719,1323 603,1421 570,1321 346,1320"/>
+                <Baseline points="365,1300 1799,1347 1839,1345 1872,1351"/>
+                <TextEquiv>
+                    <Unicode>Május 15, reggeli 6 óra.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Május 15, reggeli 6 óra.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1605783856460_839" custom="readingOrder {index:3;}">
+            <Coords points="1877,1147 2408,1147 2408,1492 1877,1492"/>
+            <TextLine id="line_1605783905080_868" custom="readingOrder {index:0;} textStyle {offset:0; length:6;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="1898,1164 2356,1173 2348,1441 1890,1432"/>
+                <Baseline points="1890,1427 2348,1436"/>
+                <TextEquiv>
+                    <Unicode>Józsi.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Józsi.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

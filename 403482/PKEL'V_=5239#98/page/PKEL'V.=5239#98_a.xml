@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-06-05T12:43:26.529+02:00</Created>
+        <LastChange>2020-11-25T10:34:40.987+01:00</LastChange>
+        <TranskribusMetadata docId="403482" pageId="15584667" pageNr="1" tsid="49594589" status="IN_PROGRESS" userId="58915" imgUrl="https://files.transkribus.eu/Get?id=DEZFBLRXNZIQVYQTKTIJQVDX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LGAVOKZCWSBUGHZVYLWIZWZP" imageId="11409291"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#98_a.tif" imageWidth="4180" imageHeight="5183">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424516742" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1595178603083_675"/>
+                <RegionRefIndexed index="1" regionRef="region_1595178610587_678"/>
+                <RegionRefIndexed index="2" regionRef="region_1595178630441_681"/>
+                <RegionRefIndexed index="3" regionRef="region_1595178640047_684"/>
+                <RegionRefIndexed index="4" regionRef="region_1595178674535_687"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1595178603083_675" custom="readingOrder {index:0;}">
+            <Coords points="2661,196 3987,196 3987,594 2661,594"/>
+            <TextLine id="line_1595178694921_692" custom="readingOrder {index:0;}">
+                <Coords points="2674,208 3973,215 3970,577 2671,570"/>
+                <Baseline points="2671,409 3970,416"/>
+                <TextEquiv>
+                    <Unicode>Budapest 1905 XI/11.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Budapest 1905 XI/11.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1595178610587_678" custom="readingOrder {index:1;}">
+            <Coords points="850,956 3179,956 3179,1265 850,1265"/>
+            <TextLine id="line_1595178701540_697" custom="readingOrder {index:0;}">
+                <Coords points="893,1003 3146,993 3143,1250 890,1260"/>
+                <Baseline points="890,1167 3143,1157"/>
+                <TextEquiv>
+                    <Unicode>Mélyen tisztelt Szerkesztő Ur!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Mélyen tisztelt Szerkesztő Ur!</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1595178630441_681" custom="readingOrder {index:2;}">
+            <Coords points="669,1342 4058,1342 4058,3319 669,3319"/>
+            <TextLine id="line_1595178707840_702" custom="readingOrder {index:0;}">
+                <Coords points="1014,1378 3948,1368 3972,1590 1038,1600"/>
+                <Baseline points="1020,1549 3954,1539"/>
+                <TextEquiv>
+                    <Unicode>Tudom, hogy nagy szerénytelenséget</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1595178715339_707" custom="readingOrder {index:1;} sic {offset:34; length:9;}">
+                <Coords points="671,1608 4044,1592 4047,1770 674,1786"/>
+                <Baseline points="674,1751 4047,1735"/>
+                <TextEquiv>
+                    <Unicode>követek el, mikor íly terjedelmes keziratot át¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1595178721675_712" custom="readingOrder {index:2;}">
+                <Coords points="696,1803 3969,1766 3979,1948 706,1985"/>
+                <Baseline points="697,1941 3970,1904"/>
+                <TextEquiv>
+                    <Unicode>olvasás végett beküldök. Mégis, könyörgöm, ne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1595178732297_717" custom="readingOrder {index:3;}">
+                <Coords points="721,1988 1911,1932 4002,1959 4007,2163 1923,2145 720,2182"/>
+                <Baseline points="714,2117 1917,2080 4007,2107"/>
+                <TextEquiv>
+                    <Unicode>tessék félretenni. Sokan bátorítottak erre a vakme¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1595178740871_722" custom="readingOrder {index:4;}">
+                <Coords points="714,2188 3977,2171 3977,2322 714,2339"/>
+                <Baseline points="714,2310 3977,2293"/>
+                <TextEquiv>
+                    <Unicode>rőségre kik művemet figyelemre méltónak talál¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1595178747222_727" custom="readingOrder {index:5;}">
+                <Coords points="704,2356 3874,2346 3877,2495 707,2505"/>
+                <Baseline points="707,2476 3877,2466"/>
+                <TextEquiv>
+                    <Unicode>ták és ösztökélt főleg az az olthatatlan vágy,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1595178752866_732" custom="readingOrder {index:6;} add {offset:40; length:1;}">
+                <Coords points="694,2514 3951,2521 3954,2681 697,2674"/>
+                <Baseline points="697,2642 3954,2649"/>
+                <TextEquiv>
+                    <Unicode>hogy róla végre mérvadó véleményt is halljak.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1595178759013_737" custom="readingOrder {index:7;}">
+                <Coords points="704,2686 3993,2706 3990,2862 701,2842"/>
+                <Baseline points="704,2825 3993,2845"/>
+                <TextEquiv>
+                    <Unicode>Előre is őszinte hálás köszönetet mondok mélyen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1595178765413_742" custom="readingOrder {index:8;}">
+                <Coords points="710,2880 3940,2890 3937,3042 707,3032"/>
+                <Baseline points="707,2994 3937,3004"/>
+                <TextEquiv>
+                    <Unicode>tisztelt Szerkesztő Urnak a fáradságáért és</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1595178772269_747" custom="readingOrder {index:9;}">
+                <Coords points="707,3046 2528,3043 2531,3297 710,3300"/>
+                <Baseline points="707,3180 2528,3177"/>
+                <TextEquiv>
+                    <Unicode>maradok mély tisztelője</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Tudom, hogy nagy szerénytelenséget&#xD;
+követek el, mikor íly terjedelmes keziratot át¬&#xD;
+olvasás végett beküldök. Mégis, könyörgöm, ne&#xD;
+tessék félretenni. Sokan bátorítottak erre a vakme¬&#xD;
+rőségre kik művemet figyelemre méltónak talál¬&#xD;
+ták és ösztökélt főleg az az olthatatlan vágy,&#xD;
+hogy róla végre mérvadó véleményt is halljak.&#xD;
+Előre is őszinte hálás köszönetet mondok mélyen&#xD;
+tisztelt Szerkesztő Urnak a fáradságáért és&#xD;
+maradok mély tisztelője</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1595178640047_684" custom="readingOrder {index:3;}">
+            <Coords points="3696,3325 2447,3325 2447,3661 3696,3661"/>
+            <TextLine id="line_1595178777463_752" custom="readingOrder {index:0;}">
+                <Coords points="2461,3346 3677,3326 3678,3650 2465,3645"/>
+                <Baseline points="2465,3582 3681,3562"/>
+                <TextEquiv>
+                    <Unicode>Dorka Győző</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Dorka Győző</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1595178674535_687" custom="readingOrder {index:4;}">
+            <Coords points="697,3658 4050,3658 4050,4389 697,4389"/>
+            <TextLine id="line_1595178782468_757" custom="readingOrder {index:0;}">
+                <Coords points="860,3691 3897,3684 3900,3859 863,3866"/>
+                <Baseline points="860,3822 3897,3815"/>
+                <TextEquiv>
+                    <Unicode>Nagyon kérem még, hogy a kéziratot, mely</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1595178789566_762" custom="readingOrder {index:1;}">
+                <Coords points="707,3867 4049,3880 4047,4049 701,4019"/>
+                <Baseline points="701,3981 4043,3994"/>
+                <TextEquiv>
+                    <Unicode>terjedelménél fogva jelentékeny munkát képvisel,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1595178794700_767" custom="readingOrder {index:2;} textStyle {offset:18; length:2;strikethrough:true; fontSize:0.0; kerning:0;}">
+                <Coords points="717,4015 3953,4035 3947,4195 714,4157"/>
+                <Baseline points="714,4131 3950,4151"/>
+                <TextEquiv>
+                    <Unicode>ezért kivételesen ki megőrizni kegyeskedjék,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1595178799811_772" custom="readingOrder {index:3;}">
+                <Coords points="707,4171 2764,4188 2767,4364 704,4371"/>
+                <Baseline points="701,4297 2764,4290"/>
+                <TextEquiv>
+                    <Unicode>hogy aztán érte küldhessek. -</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Nagyon kérem még, hogy a kéziratot, mely&#xD;
+terjedelménél fogva jelentékeny munkát képvisel,&#xD;
+ezért kivételesen ki megőrizni kegyeskedjék,&#xD;
+hogy aztán érte küldhessek. -</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

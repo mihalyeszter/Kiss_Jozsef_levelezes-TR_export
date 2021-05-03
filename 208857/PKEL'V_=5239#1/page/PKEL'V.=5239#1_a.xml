@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.4.2
+TRP</Creator>
+        <Created>2019-09-11T11:56:33.960+02:00</Created>
+        <LastChange>2020-11-30T12:31:55.077+01:00</LastChange>
+        <TranskribusMetadata docId="208857" pageId="8946208" pageNr="1" tsid="49712431" status="IN_PROGRESS" userId="40624" imgUrl="https://files.transkribus.eu/Get?id=HWBLWMZURIAJEMJINKQBXWID&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZLIFCDAFSTROHKLBWEOJDESC" imageId="5787692"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#1_a.tif" imageWidth="3072" imageHeight="1518">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619423859133" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1568196489418_24"/>
+                <RegionRefIndexed index="1" regionRef="region_1568196540985_38"/>
+                <RegionRefIndexed index="2" regionRef="region_1568196552190_46"/>
+                <RegionRefIndexed index="3" regionRef="region_1568196584151_54"/>
+                <RegionRefIndexed index="4" regionRef="region_1568196756374_114"/>
+                <RegionRefIndexed index="5" regionRef="region_1568196761436_122"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1568196489418_24" custom="readingOrder {index:0;}">
+            <Coords points="962,76 951,286 2342,284 2353,74"/>
+            <TextLine id="line_1568196489478_27" custom="readingOrder {index:0;}">
+                <Coords points="944,68 2373,74 2371,284 942,278"/>
+                <Baseline points="1071,191 2256,189"/>
+                <TextEquiv>
+                    <Unicode>Bánóczi Józsefhez</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Bánóczi Józsefhez</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1568196540985_38" custom="readingOrder {index:1;}">
+            <Coords points="2457,112 2459,291 2853,289 2851,110"/>
+            <TextLine id="line_1568196541025_41" custom="readingOrder {index:0;}">
+                <Coords points="2457,105 2872,108 2866,304 2451,301"/>
+                <Baseline points="2470,237 2829,240"/>
+                <TextEquiv>
+                    <Unicode>Hétfő</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Hétfő</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1568196552190_46" custom="readingOrder {index:2;}">
+            <Coords points="338,243 338,392 1488,389 1488,240"/>
+            <TextLine id="line_1568196552230_49" custom="readingOrder {index:0;}">
+                <Coords points="341,245 1475,247 1468,419 334,417"/>
+                <Baseline points="338,385 1432,387"/>
+                <TextEquiv>
+                    <Unicode>Kedves barátom!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kedves barátom!</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1568196584151_54" custom="readingOrder {index:3;}">
+            <Coords points="157,404 129,1305 2900,1299 2935,317"/>
+            <TextLine id="line_1568196683244_71" custom="readingOrder {index:0;}">
+                <Coords points="439,363 2915,341 2907,569 431,591"/>
+                <Baseline points="436,555 2912,533"/>
+                <TextEquiv>
+                    <Unicode>Kármán Mór arcképéhez kellene egy kis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1568197564679_255" custom="readingOrder {index:1;}">
+                <Coords points="220,560 2893,501 2910,659 217,718"/>
+                <Baseline points="237,713 2910,654"/>
+                <TextEquiv>
+                    <Unicode>meleg méltatás. A te fiad is odajár az</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1568197574560_260" custom="readingOrder {index:2;}">
+                <Coords points="240,716 2865,629 2870,782 245,869"/>
+                <Baseline points="245,864 2870,777"/>
+                <TextEquiv>
+                    <Unicode>ő intézetébe, talán nem vonakodnál</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1568197582829_265" custom="readingOrder {index:3;}">
+                <Coords points="250,849 2885,770 2880,914 242,1035"/>
+                <Baseline points="245,988 2880,909"/>
+                <TextEquiv>
+                    <Unicode>megírni azt a 150 sort? Légy kegyes és</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1568197590379_270" custom="readingOrder {index:4;}">
+                <Coords points="215,1008 2821,917 2832,1078 226,1169"/>
+                <Baseline points="239,1141 2826,1052"/>
+                <TextEquiv>
+                    <Unicode>üzenj, vagy állíts rabszolgát magad</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1568197597220_275" custom="readingOrder {index:5;}">
+                <Coords points="226,1127 1798,1075 1808,1276 235,1300"/>
+                <Baseline points="235,1277 1808,1253"/>
+                <TextEquiv>
+                    <Unicode>helyett. Kit ajánlanál?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kármán Mór arcképéhez kellene egy kis
+meleg méltatás. A te fiad is odajár az
+ő intézetébe, talán nem vonakodnál
+megírni azt a 150 sort? Légy kegyes és
+üzenj, vagy állíts rabszolgát magad
+helyett. Kit ajánlanál?</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1568196756374_114" custom="readingOrder {index:4;}">
+            <Coords points="1450,1217 1448,1406 2698,1406 2700,1217"/>
+            <TextLine id="line_1568196756434_117" custom="readingOrder {index:0;}">
+                <Coords points="1444,1205 2699,1238 2705,1421 1450,1388"/>
+                <Baseline points="1450,1344 2699,1377"/>
+                <TextEquiv>
+                    <Unicode>Ölel híved Kiss</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ölel híved Kiss</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1568196761436_122" custom="readingOrder {index:5;}">
+            <Coords points="231,1277 229,1433 764,1433 766,1277"/>
+            <TextLine id="line_1568196761486_125" custom="readingOrder {index:0;}">
+                <Coords points="233,1295 747,1284 744,1433 230,1444"/>
+                <Baseline points="230,1428 724,1417"/>
+                <TextEquiv>
+                    <Unicode>A Hét</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>A Hét</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

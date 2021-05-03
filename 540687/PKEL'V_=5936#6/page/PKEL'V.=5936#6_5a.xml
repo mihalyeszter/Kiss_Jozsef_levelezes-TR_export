@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-11-17T23:53:51.071+01:00</Created>
+        <LastChange>2020-11-23T16:40:49.696+01:00</LastChange>
+        <TranskribusMetadata docId="540687" pageId="22770092" pageNr="11" tsid="49499787" status="IN_PROGRESS" userId="56520" imgUrl="https://files.transkribus.eu/Get?id=NSXLIOELOHDBYQYPUJQWZTRC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YPUSZVQROBATRMAPLZGXEQGK" imageId="17750439"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5936#6_5a.tif" imageWidth="3661" imageHeight="2961">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424845614" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1605713445869_1293"/>
+                <RegionRefIndexed index="1" regionRef="region_1605713450521_1296"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1605713586408_1333"/>
+                <RegionRefIndexed index="3" regionRef="region_1605713455419_1302"/>
+                <RegionRefIndexed index="4" regionRef="region_1605713460635_1305"/>
+                <RegionRefIndexed index="5" regionRef="region_1605713468499_1311"/>
+                <RegionRefIndexed index="6" regionRef="region_1605713466039_1308"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="region_1605713445869_1293" custom="readingOrder {index:0;}">
+            <Coords points="2418,184 3086,185 3126,231 3182,293 3228,372 3252,389 3269,402 3290,463 3287,528 3338,593 3335,586 2418,586"/>
+            <TextLine id="region_1605713445869_1293l1" custom="readingOrder {index:0;} textStyle {offset:0; length:6;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="2514,539 3249,571 3175,308 3164,266 3118,239 2498,208"/>
+                <Baseline points="2510,399 2546,399 2583,399 2620,399 2657,398 2693,398 2730,399 2767,399 2804,399 2840,400 2877,401 2914,402 2951,404 2987,405 3024,407 3061,410 3098,414 3134,417 3171,421 3208,425 3245,431"/>
+                <TextEquiv>
+                    <Unicode>Ungarn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ungarn</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1605713450521_1296" custom="readingOrder {index:1;}">
+            <Coords points="1727,684 2722,684 2722,1171 1727,1171"/>
+            <TextLine id="region_1605713450521_1296l1" custom="readingOrder {index:0;}">
+                <Coords points="1769,1051 2142,1053 1981,1202 2054,1208 2309,1061 2696,1033 2696,708 1769,726"/>
+                <Baseline points="1769,1001 1807,1002 1846,1004 1885,1005 1924,1005 1963,1005 2002,1005 2041,1004 2080,1004 2119,1002 2158,1001 2196,999 2235,998 2274,998 2313,995 2352,993 2391,993 2430,991 2469,989 2508,989 2547,987 2625,988 2682,988"/>
+                <TextEquiv>
+                    <Unicode>Nagyságos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Nagyságos</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="TextRegion_1605713586408_1333" custom="readingOrder {index:2;}">
+            <Coords points="782,1037 1630,1037 1628,1207 2132,1231 2568,1155 2976,1165 2976,1590 782,1590"/>
+            <TextLine id="region_1605713452899_1299l1" custom="readingOrder {index:0;}">
+                <Coords points="879,1583 2772,1505 2860,1424 2915,1327 2847,1168 2583,1163 2111,1252 1563,1257 1532,1163 1380,1048 1041,1168 879,1433"/>
+                <Baseline points="879,1533 973,1527 1068,1520 1162,1515 1257,1508 1352,1502 1446,1497 1541,1493 1636,1488 1730,1484 1825,1479 1920,1475 2014,1472 2109,1468 2204,1465 2298,1463 2393,1460 2488,1458 2582,1457 2677,1455 2772,1455"/>
+                <TextEquiv>
+                    <Unicode>Kiss Józsefné</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kiss Józsefné</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1605713455419_1302" custom="readingOrder {index:3;}">
+            <Coords points="1572,1495 3392,1495 3392,1915 1572,1915"/>
+            <TextLine id="region_1605713455419_1302l1" custom="readingOrder {index:0;}">
+                <Coords points="1668,1813 2951,1796 2945,1591 2380,1601 2305,1700 2281,1694 2303,1604 1662,1608"/>
+                <Baseline points="1668,1763 1732,1759 1796,1755 1860,1752 1924,1750 1988,1748 2052,1745 2117,1744 2181,1743 2245,1742 2309,1742 2373,1740 2437,1740 2501,1740 2566,1742 2630,1742 2694,1742 2758,1743 2822,1745 2886,1745 2951,1746"/>
+                <TextEquiv>
+                    <Unicode>asszonynak</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>asszonynak</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1605713460635_1305" custom="readingOrder {index:4;}">
+            <Coords points="1773,1876 3487,1876 3487,2511 1773,2511"/>
+            <TextLine id="region_1605713460635_1305l1" custom="readingOrder {index:0;} textStyle {offset:0; length:8;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="1839,2497 2448,2504 3461,2444 3467,2158 3390,2025 2748,1974 2306,1967 2206,1931 2083,1956 1972,2034 1804,2038"/>
+                <Baseline points="2024,2394 2085,2379 2147,2365 2208,2352 2270,2342 2331,2333 2393,2325 2454,2318 2516,2312 2577,2308 2639,2303 2701,2298 2762,2295 2824,2291 2885,2288 2947,2284 3008,2280 3070,2276 3131,2271 3193,2265 3255,2258"/>
+                <TextEquiv>
+                    <Unicode>Budapest</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Budapest</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1605713468499_1311" custom="readingOrder {index:5;}">
+            <Coords points="2260,2479 3261,2479 3261,2817 2260,2817"/>
+            <TextLine id="region_1605713468499_1311l1" custom="readingOrder {index:0;}">
+                <Coords points="2274,2772 3195,2753 3199,2492 2278,2511"/>
+                <Baseline points="2284,2720 2333,2735 2458,2737 2588,2705 2640,2696 2667,2699 2695,2702 2723,2705 2751,2706 2778,2708 2806,2709 2834,2711 2862,2711 2889,2711 2917,2711 2945,2711 2973,2711 3000,2711 3028,2709 3056,2709 3084,2708 3111,2706 3139,2705 3167,2704 3195,2703"/>
+                <TextEquiv>
+                    <Unicode>A Hét</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>A Hét</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="region_1605713466039_1308" custom="readingOrder {index:6;}">
+            <Coords points="321,2232 1935,2232 1935,2772 321,2772"/>
+            <TextLine id="region_1605713466039_1308l1" custom="readingOrder {index:0;}">
+                <Coords points="351,2660 1373,2654 1718,2660 1718,2687 1788,2726 1875,2693 1928,2668 1934,2611 1932,2523 1910,2489 1887,2489 1808,2519 1759,2517 1754,2276 352,2257"/>
+                <Baseline points="441,2618 512,2619 584,2621 656,2621 727,2621 799,2618 871,2616 942,2615 1014,2612 1086,2610 1158,2607 1229,2606 1301,2605 1373,2604 1444,2606 1516,2609 1588,2612 1659,2616 1731,2624 1803,2632 1875,2643"/>
+                <TextEquiv>
+                    <Unicode>Rökk-Szilárd u 18</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Rökk-Szilárd u 18</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

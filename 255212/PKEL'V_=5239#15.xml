@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>PKEL'V.=5239#15</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: eszter.mihaly@gmail.com</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile xml:id='facs_1'>
+		<surface ulx='0' uly='0' lrx='3974' lry='5274'>
+			<graphic url='PKEL'V.=5239#15_a.tif' width='3974px' height='5274px'/>
+			<zone ulx='734' uly='773' lrx='2479' lry='1187' rendition='TextRegion' xml:id='facs_1_region_1574170417962_34'>
+				<zone ulx='731' uly='788' lrx='2425' lry='1166' rendition='Line' xml:id='facs_1_line_1574170550340_84'/>
+			</zone>
+			<zone ulx='511' uly='1154' lrx='3585' lry='2018' rendition='TextRegion' xml:id='facs_1_region_1574170433426_37'>
+				<zone ulx='639' uly='1157' lrx='3302' lry='1510' rendition='Line' xml:id='facs_1_line_1574170554820_89'/>
+				<zone ulx='544' uly='1438' lrx='3571' lry='1862' rendition='Line' xml:id='facs_1_line_1574170560884_94'/>
+				<zone ulx='600' uly='1708' lrx='1949' lry='2030' rendition='Line' xml:id='facs_1_line_1574170565252_99'/>
+			</zone>
+			<zone ulx='2054' uly='1865' lrx='2568' lry='2216' rendition='TextRegion' xml:id='facs_1_region_1574170438322_40'>
+				<zone ulx='2121' uly='1877' lrx='2486' lry='2192' rendition='Line' xml:id='facs_1_line_1574170568029_104'/>
+			</zone>
+			<zone ulx='2469' uly='2037' lrx='3490' lry='2531' rendition='TextRegion' xml:id='facs_1_region_1574170441602_43'>
+				<zone ulx='2484' uly='2093' lrx='3460' lry='2454' rendition='Line' xml:id='facs_1_line_1574170571181_109'/>
+			</zone>
+			<zone ulx='350' uly='2134' lrx='1994' lry='3075' rendition='TextRegion' xml:id='facs_1_region_1574170453418_47'>
+				<zone ulx='565' uly='2301' lrx='1842' lry='2788' rendition='Line' xml:id='facs_1_line_1574170613316_115'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id='facs_2'>
+		<surface ulx='0' uly='0' lrx='3977' lry='5277'>
+			<graphic url='PKEL'V.=5239#15_b.tif' width='3977px' height='5277px'/>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<pb facs='#facs_1' n='1'/>
+			<p facs='#facs_1_region_1574170417962_34'>
+				<lb facs='#facs_1_line_1574170550340_84' n='N001'/>Kedves Miklós Andor!
+			</p>
+			<p facs='#facs_1_region_1574170433426_37'>
+				<lb facs='#facs_1_line_1574170554820_89' n='N001'/>Ajánlom különös figyelmébe ezt a
+				<lb facs='#facs_1_line_1574170560884_94' n='N002'/>kis verset. Szebbet nem írtam sem én,
+				<lb facs='#facs_1_line_1574170565252_99' n='N003'/>sem az óriások.
+			</p>
+			<p facs='#facs_1_region_1574170438322_40'>
+				<lb facs='#facs_1_line_1574170568029_104' n='N001'/>Öleli
+			</p>
+			<p facs='#facs_1_region_1574170441602_43'>
+				<lb facs='#facs_1_line_1574170571181_109' n='N001'/>Kiss József
+			</p>
+			<p facs='#facs_1_region_1574170453418_47'>
+				<lb facs='#facs_1_line_1574170613316_115' n='N001'/><hi rend='underlined:true; strikethrough:true; fontSize:0.0; kerning:0;'>A Sárika<note>Kiss József unokája.</note> orra.</hi>
+			</p>
+			<pb facs='#facs_2' n='2'/>
+		</body>
+	</text>
+</TEI>

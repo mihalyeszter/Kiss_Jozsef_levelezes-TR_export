@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2021-03-17T11:15:16.288+01:00</Created>
+        <LastChange>2021-03-30T10:40:41.598+02:00</LastChange>
+        <TranskribusMetadata docId="632940" pageId="24791617" pageNr="2" tsid="54742734" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=BYAIEAAHSZBJIIMZRXKEUNDX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YUUETUAGUJHLTWQBZGBTMZXX" imageId="19120233"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#169_b.tif" imageWidth="5898" imageHeight="4605">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424998022" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1616668146242_417"/>
+                <RegionRefIndexed index="1" regionRef="region_1616668149338_420"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1616668146242_417" custom="readingOrder {index:0;}">
+            <Coords points="1500,1606 4494,1606 4494,3613 1500,3613"/>
+            <TextLine id="line_1616668156522_424" custom="readingOrder {index:0;} textStyle {offset:8; length:1;strikethrough:true; fontSize:0.0; kerning:0;} add {offset:9; length:1;}">
+                <Coords points="1561,1664 4455,1651 4455,1852 1561,1865"/>
+                <Baseline points="1561,1860 4455,1847"/>
+                <TextEquiv>
+                    <Unicode>Az „Ivrija” budapesti cionis¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1616668159786_429" custom="readingOrder {index:1;}">
+                <Coords points="1561,1895 4477,1868 4468,2045 1552,2072"/>
+                <Baseline points="1521,2048 4437,2021"/>
+                <TextEquiv>
+                    <Unicode>ta diákszövetség mai ülésén</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1616668175721_434" custom="readingOrder {index:2;}">
+                <Coords points="1546,2072 4474,2044 4450,2220 1522,2248"/>
+                <Baseline points="1522,2243 4450,2215"/>
+                <TextEquiv>
+                    <Unicode>lelkesedéssel elhatározta, hogy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1616668178752_439" custom="readingOrder {index:3;}">
+                <Coords points="1552,2243 4363,2243 4342,2426 1531,2426"/>
+                <Baseline points="1531,2421 4342,2421"/>
+                <TextEquiv>
+                    <Unicode>az „Új Achasvér” Szerzőjét</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1616668181529_444" custom="readingOrder {index:4;}">
+                <Coords points="1567,2463 4382,2431 4356,2633 1541,2665"/>
+                <Baseline points="1541,2660 4356,2628"/>
+                <TextEquiv>
+                    <Unicode>mint a zsidósággal érző</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1616668184594_449" custom="readingOrder {index:5;}">
+                <Coords points="1554,2658 4327,2630 4309,2811 1536,2839"/>
+                <Baseline points="1536,2834 4309,2806"/>
+                <TextEquiv>
+                    <Unicode>nagy költőjét 40 éves írói</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1616668190681_454" custom="readingOrder {index:6;}">
+                <Coords points="1555,2850 4408,2821 4411,3007 1558,3036"/>
+                <Baseline points="1558,3031 4411,3002"/>
+                <TextEquiv>
+                    <Unicode>működésének alkalmából üd¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1616668194377_459" custom="readingOrder {index:7;}">
+                <Coords points="1576,3047 4428,3019 4425,3209 1573,3237"/>
+                <Baseline points="1573,3232 4425,3204"/>
+                <TextEquiv>
+                    <Unicode>vözli és tisztelete jeléül ezen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1616668197160_464" custom="readingOrder {index:8;}">
+                <Coords points="1551,3277 4474,3234 4481,3403 1558,3446"/>
+                <Baseline points="1558,3441 4418,3398"/>
+                <TextEquiv>
+                    <Unicode>nemzeti alap javára szolgáló</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1616668200226_469" custom="readingOrder {index:9;}">
+                <Coords points="1521,3437 4244,3401 4269,3610 2804,3633 2746,3731 2564,3728 2564,3647 2216,3641 2113,3717 1795,3714 1546,3646"/>
+                <Baseline points="1537,3606 4260,3570"/>
+                <TextEquiv>
+                    <Unicode>sürgönyben fejezi ki érzelmeit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Az „Ivrija” budapesti cionis¬&#xD;
+ta diákszövetség mai ülésén&#xD;
+lelkesedéssel elhatározta, hogy&#xD;
+az „Új Achasvér” Szerzőjét&#xD;
+mint a zsidósággal érző&#xD;
+nagy költőjét 40 éves írói&#xD;
+működésének alkalmából üd¬&#xD;
+vözli és tisztelete jeléül ezen&#xD;
+nemzeti alap javára szolgáló&#xD;
+sürgönyben fejezi ki érzelmeit</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1616668149338_420" custom="readingOrder {index:1;}">
+            <Coords points="3261,3573 4476,3573 4476,3840 3261,3840"/>
+            <TextLine id="line_1616668205722_475" custom="readingOrder {index:0;}">
+                <Coords points="3276,3595 4462,3581 4461,3829 3275,3843"/>
+                <Baseline points="3275,3807 4461,3793"/>
+                <TextEquiv>
+                    <Unicode>Az Elnökség</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Az Elnökség</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

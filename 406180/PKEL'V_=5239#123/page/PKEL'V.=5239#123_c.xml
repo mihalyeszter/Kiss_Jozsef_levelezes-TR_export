@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-06-09T18:36:20.638+02:00</Created>
+        <LastChange>2020-11-23T11:06:03.644+01:00</LastChange>
+        <TranskribusMetadata docId="406180" pageId="15980859" pageNr="3" tsid="49477497" status="IN_PROGRESS" userId="56520" imgUrl="https://files.transkribus.eu/Get?id=NRPGHUKXQQVFCFSRFHUMXYYP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XFEGQKCYXIRLWGYTKZIKAXKP" imageId="11795726"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#123_c.tif" imageWidth="2614" imageHeight="1571">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424388914" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1597663518854_871"/>
+                <RegionRefIndexed index="1" regionRef="region_1597663521972_874"/>
+                <RegionRefIndexed index="2" regionRef="region_1597663525142_877"/>
+                <RegionRefIndexed index="3" regionRef="region_1597663527898_880"/>
+                <RegionRefIndexed index="4" regionRef="region_1597663532723_883"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1597663518854_871" custom="readingOrder {index:0;}">
+            <Coords points="75,85 2525,85 2525,781 75,781"/>
+            <TextLine id="line_1597663540370_887" custom="readingOrder {index:0;}">
+                <Coords points="154,100 1216,135 2512,100 2493,320 1224,377 147,288"/>
+                <Baseline points="140,283 1204,346 2439,316"/>
+                <TextEquiv>
+                    <Unicode>Tisztelt mester, Fogadja habár</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597663544038_892" custom="readingOrder {index:1;}">
+                <Coords points="160,305 1395,391 2474,376 2476,570 1386,593 129,492"/>
+                <Baseline points="129,487 1386,588 2476,565"/>
+                <TextEquiv>
+                    <Unicode>elkésve őszinte szerencse kí¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1597663546339_897" custom="readingOrder {index:2;}">
+                <Coords points="136,492 992,581 954,771 98,682"/>
+                <Baseline points="99,677 955,766"/>
+                <TextEquiv>
+                    <Unicode>vánataimat.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Tisztelt mester, Fogadja habár&#xD;
+elkésve őszinte szerencse kí¬&#xD;
+vánataimat.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1597663521972_874" custom="readingOrder {index:1;}">
+            <Coords points="341,796 2450,796 2450,1083 341,1083"/>
+            <TextLine id="line_1597663553801_903" custom="readingOrder {index:0;}">
+                <Coords points="394,788 992,844 2378,829 2374,1069 969,1043 370,987"/>
+                <Baseline points="370,982 969,1038 2283,1068"/>
+                <TextEquiv>
+                    <Unicode>Kitűnő tisztelettel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kitűnő tisztelettel</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1597663525142_877" custom="readingOrder {index:2;}">
+            <Coords points="560,1068 1695,1068 1695,1246 560,1246"/>
+            <TextLine id="line_1597663558457_909" custom="readingOrder {index:0;}">
+                <Coords points="614,1081 1637,1093 1632,1233 609,1221"/>
+                <Baseline points="609,1216 1632,1228"/>
+                <TextEquiv>
+                    <Unicode>igaz híve</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>igaz híve</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1597663527898_880" custom="readingOrder {index:3;}">
+            <Coords points="627,1246 2008,1246 2008,1492 627,1492"/>
+            <TextLine id="line_1597663564624_915" custom="readingOrder {index:0;}">
+                <Coords points="648,1272 1994,1264 1982,1441 636,1449"/>
+                <Baseline points="657,1443 1982,1436"/>
+                <TextEquiv>
+                    <Unicode>Fischl Géza</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Fischl Géza</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1597663532723_883" custom="readingOrder {index:4;}">
+            <Coords points="76,1071 534,1071 538,1492 80,1492"/>
+            <TextLine id="line_1597663605185_934" custom="readingOrder {index:0;} textStyle {offset:3; length:3;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="196,1079 317,1156 240,1300 530,1263 515,1464 106,1462 183,1315 99,1262"/>
+                <Baseline points="102,1258 188,1314 110,1459 515,1459"/>
+                <TextEquiv>
+                    <Unicode>16/XII 907</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>16/XII 907</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

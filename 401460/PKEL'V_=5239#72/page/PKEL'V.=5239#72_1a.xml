@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-06-03T17:41:41.406+02:00</Created>
+        <LastChange>2020-11-24T15:38:11.501+01:00</LastChange>
+        <TranskribusMetadata docId="401460" pageId="15532410" pageNr="1" tsid="49526558" status="IN_PROGRESS" userId="56520" imgUrl="https://files.transkribus.eu/Get?id=ILAFFAXDGRWBFUEXFTHIKZDB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AOPBQKZNCHRFHGXHFOIPZLLX" imageId="11360229"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#72_1a.tif" imageWidth="3282" imageHeight="2814">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424314314" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1593544929265_499"/>
+                <RegionRefIndexed index="1" regionRef="region_1593544921180_496"/>
+                <RegionRefIndexed index="2" regionRef="region_1593544935223_502"/>
+                <RegionRefIndexed index="3" regionRef="region_1593544944243_505"/>
+                <RegionRefIndexed index="4" regionRef="region_1593544953722_508"/>
+                <RegionRefIndexed index="5" regionRef="region_1593544966057_511"/>
+                <RegionRefIndexed index="6" regionRef="region_1593544976715_514"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1593544929265_499" custom="readingOrder {index:0;}">
+            <Coords points="2409,336 3165,336 3165,576 2409,576"/>
+            <TextLine id="line_1593545040308_527" custom="readingOrder {index:0;} sic {offset:7; length:6;}">
+                <Coords points="2422,347 3156,336 3155,553 2414,526"/>
+                <Baseline points="2414,521 3152,482"/>
+                <TextEquiv>
+                    <Unicode>Beregi Oszkar</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Beregi Oszkar</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1593544921180_496" custom="readingOrder {index:1;}">
+            <Coords points="854,453 2391,453 2391,584 854,584"/>
+            <TextLine id="line_1593545048628_532" custom="readingOrder {index:0;}">
+                <Coords points="875,502 2383,502 2383,552 875,552"/>
+                <Baseline points="875,547 2383,547"/>
+                <TextEquiv>
+                    <Unicode>Nemzeti Színház.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Nemzeti Színház.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1593544935223_502" custom="readingOrder {index:2;}">
+            <Coords points="536,636 1498,636 1498,999 536,999"/>
+            <TextLine id="line_1593545054374_537" custom="readingOrder {index:0;}">
+                <Coords points="555,637 1416,652 1429,999 568,984"/>
+                <Baseline points="562,913 1423,928"/>
+                <TextEquiv>
+                    <Unicode>Nagyságos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Nagyságos</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1593544944243_505" custom="readingOrder {index:3;}">
+            <Coords points="507,1074 2717,1074 2717,1526 507,1526"/>
+            <TextLine id="line_1593545061777_542" custom="readingOrder {index:0;}">
+                <Coords points="518,1119 2704,1127 2706,1521 520,1513"/>
+                <Baseline points="520,1455 2706,1463"/>
+                <TextEquiv>
+                    <Unicode>Kiss József urnak,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kiss József urnak,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1593544953722_508" custom="readingOrder {index:4;}">
+            <Coords points="538,1531 2766,1531 2766,1920 538,1920"/>
+            <TextLine id="line_1593545070254_547" custom="readingOrder {index:0;}">
+                <Coords points="580,1535 2740,1538 2748,1910 588,1907"/>
+                <Baseline points="588,1807 2748,1810"/>
+                <TextEquiv>
+                    <Unicode>a „Hét” főszerkesztője</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>a „Hét” főszerkesztője</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1593544966057_511" custom="readingOrder {index:5;}">
+            <Coords points="2711,2348 1104,2348 1104,1886 2711,1886"/>
+            <TextLine id="line_1593545079474_552" custom="readingOrder {index:0;} abbrev {offset:0; length:5;} textStyle {offset:0; length:5;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="1126,1908 2694,1887 2698,2312 1130,2333"/>
+                <Baseline points="1133,2183 2701,2162"/>
+                <TextEquiv>
+                    <Unicode>Bpest</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Bpest</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1593544976715_514" custom="readingOrder {index:6;}">
+            <Coords points="238,2003 2591,2003 2591,2681 238,2681"/>
+            <TextLine id="line_1593545089204_557" custom="readingOrder {index:0;}">
+                <Coords points="428,2018 2558,2186 2573,2648 259,2664"/>
+                <Baseline points="259,2619 2573,2603"/>
+                <TextEquiv>
+                    <Unicode>Rökk Szilárd – utcza</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Rökk Szilárd – utcza</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-28T13:02:36.337+02:00</Created>
+        <LastChange>2020-11-19T16:18:51.147+01:00</LastChange>
+        <TranskribusMetadata docId="376795" pageId="14734561" pageNr="48" tsid="49217701" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=BRNICTDRBQCVAUUIWLSBAJQB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YGRENVAXZKGULLXZUXFQXJDV" imageId="10675583"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#33_20c.tif" imageWidth="3529" imageHeight="2422">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424136397" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1597233521357_2160"/>
+                <RegionRefIndexed index="1" regionRef="TextRegion_1597319249108_580"/>
+                <RegionRefIndexed index="2" regionRef="TextRegion_1597319243501_571"/>
+                <RegionRefIndexed index="3" regionRef="region_1597233525345_2163"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1597233521357_2160" custom="readingOrder {index:0;}">
+            <Coords points="706,691 2663,691 2663,1065 706,1065"/>
+            <TextLine id="line_1597233531309_2169" custom="readingOrder {index:0;}">
+                <Coords points="815,761 2642,714 2648,926 821,973"/>
+                <Baseline points="876,963 2648,921"/>
+                <TextEquiv>
+                    <Unicode>Kiss Erzsike kisasszonynak</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kiss Erzsike kisasszonynak</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="TextRegion_1597319249108_580" custom="readingOrder {index:1;}">
+            <Coords points="1972,1424 3327,1414 3327,1707 1972,1717"/>
+            <TextLine id="line_1597319264501_601" custom="readingOrder {index:0;} textStyle {offset:0; length:13;underlined:true; fontSize:0.0; kerning:0;} sic {offset:0; length:13;}">
+                <Coords points="2027,1467 3247,1439 3238,1676 2018,1704"/>
+                <Baseline points="2018,1699 3238,1671"/>
+                <TextEquiv>
+                    <Unicode>Balaton füred</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Balaton füred</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="TextRegion_1597319243501_571" custom="readingOrder {index:2;}">
+            <Coords points="2246,1717 2865,1717 2865,1983 2246,1983"/>
+            <TextLine id="line_1597319266862_606" custom="readingOrder {index:0;} unclear {offset:0; length:2;}">
+                <Coords points="2261,1755 2850,1744 2851,1894 2262,1905"/>
+                <Baseline points="2283,1903 2851,1889"/>
+                <TextEquiv>
+                    <Unicode>Réz villa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Réz villa</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1597233525345_2163" custom="readingOrder {index:3;}">
+            <Coords points="1122,1809 290,1809 290,1341 1122,1341"/>
+            <TextLine id="line_1597233533200_2174" custom="readingOrder {index:0;}">
+                <Coords points="615,1330 1030,1621 820,1776 405,1485"/>
+                <Baseline points="408,1481 823,1772"/>
+                <TextEquiv>
+                    <Unicode>Ungarn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ungarn</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

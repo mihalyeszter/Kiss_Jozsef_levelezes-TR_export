@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-06-05T11:05:11.148+02:00</Created>
+        <LastChange>2020-12-01T13:43:25.317+01:00</LastChange>
+        <TranskribusMetadata docId="403337" pageId="15583887" pageNr="2" tsid="49751979" status="IN_PROGRESS" userId="58915" imgUrl="https://files.transkribus.eu/Get?id=JXWWBZHUBZFOOPAVZOWGYTSP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XVOOTPWROLYUOVEUIBSWIORI" imageId="11408528"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#84_b.tif" imageWidth="3048" imageHeight="2469">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424382244" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1595177127169_350"/>
+                <RegionRefIndexed index="1" regionRef="region_1595177132045_358"/>
+                <RegionRefIndexed index="2" regionRef="region_1595177136340_366"/>
+                <RegionRefIndexed index="3" regionRef="region_1595177142538_374"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1595177127169_350" custom="readingOrder {index:0;}">
+            <Coords points="498,197 498,348 2406,279 2398,133"/>
+            <TextLine id="line_1595177127216_353" custom="readingOrder {index:0;} abbrev {offset:23; length:3;}">
+                <Coords points="505,207 2396,142 2401,265 495,343"/>
+                <Baseline points="500,343 2401,242"/>
+                <TextEquiv>
+                    <Unicode>Franz Courtens 124 rue Ste¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Franz Courtens 124 rue Ste¬</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1595177132045_358" custom="readingOrder {index:1;}">
+            <Coords points="1787,320 1787,470 2512,470 2518,268"/>
+            <TextLine id="line_1595177132083_361" custom="readingOrder {index:0;}">
+                <Coords points="1793,322 2514,258 2512,406 1791,470"/>
+                <Baseline points="1791,465 2512,401"/>
+                <TextEquiv>
+                    <Unicode>Cathérine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Cathérine</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1595177136340_366" custom="readingOrder {index:2;}">
+            <Coords points="1762,490 1753,787 2372,787 2381,490"/>
+            <TextLine id="line_1595177136378_369" custom="readingOrder {index:0;} textStyle {offset:0; length:6;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="1767,500 2368,503 2369,695 1757,775"/>
+                <Baseline points="1762,684 2374,604"/>
+                <TextEquiv>
+                    <Unicode>Bruges</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Bruges</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1595177142538_374" custom="readingOrder {index:3;}">
+            <Coords points="2609,2039 2609,2282 2741,2285 2741,2042"/>
+            <TextLine id="line_1595177142592_377" custom="readingOrder {index:0;}">
+                <Coords points="2728,2049 2736,2284 2609,2278 2633,2039"/>
+                <Baseline points="2638,2039 2614,2278"/>
+                <TextEquiv>
+                    <Unicode>228</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>228</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

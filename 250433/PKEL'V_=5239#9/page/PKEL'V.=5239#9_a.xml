@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2019-11-11T15:03:18.748+01:00</Created>
+        <LastChange>2020-11-24T18:52:55.919+01:00</LastChange>
+        <TranskribusMetadata docId="250433" pageId="10995664" pageNr="1" tsid="49537384" status="IN_PROGRESS" userId="58915" imgUrl="https://files.transkribus.eu/Get?id=PFWBBHUYQUFQIJFUXSJMWNBJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YANYJNJJTKCFHWOMOEZQJLOJ" imageId="7485657"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#9_a.tif" imageWidth="5132" imageHeight="5139">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619423862981" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1573481498902_911"/>
+                <RegionRefIndexed index="1" regionRef="region_1573481522190_916"/>
+                <RegionRefIndexed index="2" regionRef="region_1573481526134_919"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1573481498902_911" custom="readingOrder {index:0;}">
+            <Coords points="1735,715 3689,715 3689,1071 1735,1071"/>
+            <TextLine id="line_1573481688250_935" custom="readingOrder {index:0;}">
+                <Coords points="1754,705 3645,708 3647,1015 1756,1012"/>
+                <Baseline points="1756,1007 3647,1010"/>
+                <TextEquiv>
+                    <Unicode>Hellner Armand</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Hellner Armand</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1573481522190_916" custom="readingOrder {index:1;}">
+            <Coords points="413,2674 4924,2671 4924,3970 413,3973"/>
+            <TextLine id="line_1573481697055_941" custom="readingOrder {index:0;} sic {offset:25; length:5;}">
+                <Coords points="644,2642 4467,2655 4469,3047 646,3034"/>
+                <Baseline points="656,2919 4479,2932"/>
+                <TextEquiv>
+                    <Unicode>Lehetséges hogy családom megis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1573481701656_946" custom="readingOrder {index:1;} textStyle {offset:19; length:1;strikethrough:true; fontSize:0.0; kerning:0;} add {offset:20; length:1;}">
+                <Coords points="609,3018 4755,3033 4737,3395 591,3380"/>
+                <Baseline points="601,3276 4747,3291"/>
+                <TextEquiv>
+                    <Unicode>oda megy talán ma méeg is érkezik</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1573481706680_951" custom="readingOrder {index:2;}">
+                <Coords points="504,3377 4081,3374 4068,3724 491,3727"/>
+                <Baseline points="496,3642 4073,3639"/>
+                <TextEquiv>
+                    <Unicode>ezesetben megtartom a lakást</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1573481710184_956" custom="readingOrder {index:3;}">
+                <Coords points="530,3721 1735,3700 1720,4030 515,4051"/>
+                <Baseline points="515,3986 1720,3965"/>
+                <TextEquiv>
+                    <Unicode>üdvözöl:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Lehetséges hogy családom megis&#xD;
+oda megy talán ma méeg is érkezik&#xD;
+ezesetben megtartom a lakást&#xD;
+üdvözöl:</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1573481526134_919" custom="readingOrder {index:2;}">
+            <Coords points="2002,3852 3598,3852 3598,4234 2002,4234"/>
+            <TextLine id="line_1573481717153_962" custom="readingOrder {index:0;} sic {offset:5; length:6;}">
+                <Coords points="2037,3823 3501,3847 3507,4235 2043,4211"/>
+                <Baseline points="2048,4152 3512,4176"/>
+                <TextEquiv>
+                    <Unicode>Kiss Jozsef</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kiss Jozsef</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

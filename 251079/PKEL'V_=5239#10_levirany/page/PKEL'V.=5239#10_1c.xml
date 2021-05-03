@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2019-11-12T13:28:58.263+01:00</Created>
+        <LastChange>2020-11-19T11:55:58.997+01:00</LastChange>
+        <TranskribusMetadata docId="251079" pageId="11012677" pageNr="3" tsid="49140021" status="IN_PROGRESS" userId="59312" imgUrl="https://files.transkribus.eu/Get?id=XJFXGRTJEWUBUFNYIVBOGVQG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GRTZITIPZSJEVLDLZMCZXPLK" imageId="7500417"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5239#10_1c.tif" imageWidth="3341" imageHeight="4225">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619423867798" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1573573665819_556"/>
+                <RegionRefIndexed index="1" regionRef="region_1573573678623_559"/>
+                <RegionRefIndexed index="2" regionRef="region_1573573683032_562"/>
+                <RegionRefIndexed index="3" regionRef="region_1573573694267_566"/>
+                <RegionRefIndexed index="4" regionRef="region_1573573706674_569"/>
+                <RegionRefIndexed index="6" regionRef="region_1573573997978_646"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1573573665819_556" custom="readingOrder {index:0;}">
+            <Coords points="341,445 2736,445 2736,694 341,694"/>
+            <TextLine id="line_1573573735126_576" custom="readingOrder {index:0;}">
+                <Coords points="348,435 2623,415 2634,699 359,719"/>
+                <Baseline points="362,667 2637,647"/>
+                <TextEquiv>
+                    <Unicode>Máig is nagy szeretettel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Máig is nagy szeretettel</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1573573678623_559" custom="readingOrder {index:1;}">
+            <Coords points="866,700 2837,700 2837,955 866,955"/>
+            <TextLine id="line_1573573746923_581" custom="readingOrder {index:0;}">
+                <Coords points="918,694 2733,666 2729,937 914,965"/>
+                <Baseline points="970,917 2729,885"/>
+                <TextEquiv>
+                    <Unicode>rokkant öreg tanítód</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>rokkant öreg tanítód</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1573573683032_562" custom="readingOrder {index:2;}">
+            <Coords points="1402,958 2759,958 2759,1288 1402,1288"/>
+            <TextLine id="line_1573573750920_586" custom="readingOrder {index:0;}">
+                <Coords points="1399,960 2594,946 2606,1282 1411,1296"/>
+                <Baseline points="1450,1218 2600,1209"/>
+                <TextEquiv>
+                    <Unicode>Kiss József</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kiss József</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1573573694267_566" custom="readingOrder {index:3;}">
+            <Coords points="317,1378 2907,1378 2907,1699 317,1699"/>
+            <TextLine id="line_1573573755688_591" custom="readingOrder {index:0;}">
+                <Coords points="324,1379 2876,1321 2892,1647 340,1705"/>
+                <Baseline points="337,1663 2889,1605"/>
+                <TextEquiv>
+                    <Unicode>Budapest 1920. május 21.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Budapest 1920. május 21.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1573573706674_569" custom="readingOrder {index:4;}">
+            <Coords points="319,1785 3159,1785 3159,2405 319,2405"/>
+            <TextLine id="line_1573573764282_597" custom="readingOrder {index:0;}">
+                <Coords points="334,1802 3079,1699 3087,2002 342,2105"/>
+                <Baseline points="342,2065 3087,1962"/>
+                <TextEquiv>
+                    <Unicode>Másolat: Levél egy elutazott</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1573573767608_602" custom="readingOrder {index:1;}">
+                <Coords points="1179,1996 3106,1936 3127,2186 1200,2246"/>
+                <Baseline points="1277,2208 3127,2148"/>
+                <TextEquiv>
+                    <Unicode>barátom után, Keszler</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1573573771010_607" custom="readingOrder {index:2;}">
+                <Coords points="1232,2169 2035,2164 2035,2428 1232,2433"/>
+                <Baseline points="1302,2363 2040,2358"/>
+                <TextEquiv>
+                    <Unicode>Gyulához.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Másolat: Levél egy elutazott&#xD;
+barátom után, Keszler&#xD;
+Gyulához.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <LineDrawingRegion id="LineDrawing_1573573721078_572" custom="readingOrder {index:5;}">
+            <Coords points="337,2396 3208,2396 3208,2651 337,2651"/>
+        </LineDrawingRegion>
+        <TextRegion id="region_1573573997978_646" custom="readingOrder {index:6;}">
+            <Coords points="1598,3917 1732,3917 1732,4063 1598,4063"/>
+            <TextLine id="line_1573574012279_649" custom="readingOrder {index:0;}">
+                <Coords points="1592,3902 1730,3905 1732,4063 1594,4060"/>
+                <Baseline points="1612,4034 1732,4037"/>
+                <TextEquiv>
+                    <Unicode>2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>2</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

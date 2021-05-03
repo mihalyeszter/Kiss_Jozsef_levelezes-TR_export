@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-11-17T23:53:52.645+01:00</Created>
+        <LastChange>2020-12-02T16:30:42.915+01:00</LastChange>
+        <TranskribusMetadata docId="540687" pageId="22770102" pageNr="21" tsid="49900467" status="IN_PROGRESS" userId="58915" imgUrl="https://files.transkribus.eu/Get?id=QCUBWCQGWSQTFIATRGLZYDTO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FGKTGQCLASDOMLBWCWQYJFSR" imageId="17750449"/>
+    </Metadata>
+    <Page imageFilename="PKEL'V.=5936#6_7d.tif" imageWidth="3274" imageHeight="4279">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619424849357" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="TextRegion_1605778877786_437"/>
+                <RegionRefIndexed index="1" regionRef="region_1605778866056_429"/>
+                <RegionRefIndexed index="2" regionRef="region_1605778867797_432"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="TextRegion_1605778877786_437" custom="readingOrder {index:0;}">
+            <Coords points="334,306 3173,306 3173,1692 1620,1692 1609,2042 334,2040"/>
+            <TextLine id="line_1605778901927_444" custom="readingOrder {index:0;} textStyle {offset:16; length:5;underlined:true; fontSize:0.0; kerning:0;}">
+                <Coords points="435,390 3077,323 3068,701 3067,760 2942,762 2643,749 2406,741 426,768"/>
+                <Baseline points="445,746 3068,696"/>
+                <TextEquiv>
+                    <Unicode>tam senkire. Az írást</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1605778907426_449" custom="readingOrder {index:1;}">
+                <Coords points="461,751 2379,740 2536,760 2884,781 3166,800 3167,980 2067,984 2033,1067 1968,1080 1963,989 464,999"/>
+                <Baseline points="464,994 3138,975"/>
+                <TextEquiv>
+                    <Unicode>ne keresd. A Ligeti Man¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1605778910596_454" custom="readingOrder {index:2;}">
+                <Coords points="513,1017 1934,1003 1958,1086 2043,1076 2090,998 3121,983 3124,1215 2994,1323 2942,1309 2978,1212 516,1249"/>
+                <Baseline points="516,1244 3124,1210"/>
+                <TextEquiv>
+                    <Unicode>czika számára vásárolj</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1605778914111_459" custom="readingOrder {index:3;}">
+                <Coords points="532,1264 2960,1242 2931,1333 3002,1323 3084,1226 3079,1465 1089,1507 1037,1606 977,1611 972,1507 875,1486 831,1539 737,1593 667,1559 623,1505 527,1503"/>
+                <Baseline points="527,1498 3079,1460"/>
+                <TextEquiv>
+                    <Unicode>egy franczia babát. Itt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1605778922551_464" custom="readingOrder {index:4;} sic {offset:13; length:8; continued:true;}">
+                <Coords points="575,1540 634,1533 744,1601 871,1515 948,1528 973,1632 1057,1609 1111,1515 1584,1515 1664,1485 3130,1488 3127,1678 1673,1674 1588,1719 1339,1729 1265,1888 1188,1889 1229,1737 568,1745"/>
+                <Baseline points="568,1740 1587,1714 1672,1669 3127,1673"/>
+                <TextEquiv>
+                    <Unicode>nem kapok. A Viszont¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1605778925601_469" custom="readingOrder {index:5;} sic {offset:0; length:7; continued:true;}">
+                <Coords points="568,1773 1169,1752 1231,1747 1190,1901 1231,1903 1330,1742 1600,1747 1606,1947 1217,1991 553,2017"/>
+                <Baseline points="553,2012 1217,1986 1605,1942"/>
+                <TextEquiv>
+                    <Unicode>latásra! </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>tam senkire. Az írást&#xD;
+ne keresd. A Ligeti Man¬&#xD;
+czika számára vásárolj&#xD;
+egy franczia babát. Itt&#xD;
+nem kapok. A Viszont¬&#xD;
+latásra! </Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1605778866056_429" custom="readingOrder {index:1;}">
+            <Coords points="1642,1701 2988,1701 2988,2031 1642,2031"/>
+            <TextLine id="line_1605778931706_475" custom="readingOrder {index:0;}">
+                <Coords points="1660,1735 2952,1705 2944,1935 1652,1965"/>
+                <Baseline points="1706,1960 2944,1930"/>
+                <TextEquiv>
+                    <Unicode>Csókollak.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Csókollak.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1605778867797_432" custom="readingOrder {index:2;}">
+            <Coords points="2070,1975 2923,1975 2929,2374 2076,2374"/>
+            <TextLine id="line_1605778934226_481" custom="readingOrder {index:0;}">
+                <Coords points="2157,2023 2887,1988 2891,2232 2161,2267"/>
+                <Baseline points="2161,2262 2821,2233"/>
+                <TextEquiv>
+                    <Unicode>Józsi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Józsi</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
